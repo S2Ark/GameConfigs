@@ -1,0 +1,68 @@
+{
+    "It takes 30 seconds to open the door": {
+        "chi": "即将步入禁地,门栏打开需要等待30秒"
+    },
+    "** A player has picked up Heal**": {
+        "chi": "** 一位玩家找到了[圣域]**"
+    },
+    "Turn on in 30 seconds left": {
+        "chi": "30秒后开启传送"
+    },
+    "The door lock is damaged, and it will rise after 20 seconds to release the blocking": {
+        "chi": "门锁的封印被破坏,20秒后解锁"
+    },
+    "The defector's phantom is defeated. Open the portal in 20 seconds": {
+        "chi": "叛逃者的幻影被击退,20秒后开启传送"
+    },
+    "The mechanism will be released soon. Open the door in 20 seconds": {
+        "chi": "石板已复原,20秒后开启大门"
+    },
+    "** A player has picked up Ice Wind**": {
+        "chi": "** 一位玩家找到了[狂风]**"
+    },
+    "The mechanism starts and the axle will rise in 30 seconds": {
+        "chi": "4块石板已复原,桥将在30秒后合并"
+    },
+    "The power of crystal disappears. Transfer it after 30 seconds": {
+        "chi": "封印水晶的力量已消散,30秒后将开启传送"
+    },
+    "--------  60s --------": {
+        "chi": "--------  净化-60秒 --------"
+    },
+    "The right access door will open in 20 seconds": {
+        "chi": "右侧大门将在20秒后打开"
+    },
+    "The left access door will open in 20 seconds": {
+        "chi": "左侧大门将在20秒后打开"
+    },
+    "Crystal has been picked up! Turn on the transfer after 30 seconds": {
+        "chi": "水晶被拾取,30秒后开启传送门"
+    },
+    "After 30 seconds, the iron door will open": {
+        "chi": "拉杆拉下,等待30秒后开门"
+    },
+    "Wait 30 seconds and turn on the transfer": {
+        "chi": "已触发传送区,30秒后开启传送门"
+    },
+    "Wait for the seal crystal to be released, 20 seconds": {
+        "chi": "已将水晶对接到遗迹中,20秒后净化该区域"
+    },
+    "Looking for white crystals to pick up!": {
+        "chi": "特殊任务:找到白色水晶去捏碎它"
+    },
+    "The crystal is destroyed! After 30 seconds, the axle will rise": {
+        "chi": "白色水晶已摧毁,桥梁30秒后升起,坚持住!"
+    },
+    "The portal will open in 30 seconds. Defend": {
+        "chi": "该死的封印,守住30秒最后一道封印,即将进入[泰弗里斯大厅]"
+    },
+    "The barrier disappears after 30 seconds": {
+        "chi": "屏障将在30秒后消失"
+    },
+    "After 30 seconds, the stone gate opens": {
+        "chi": "石门将在30秒后开启"
+    },
+    "After 10 seconds, the stone gate opens": {
+        "chi": "10秒后打开最后一道石门,准备击败[叛逃者]"
+    }
+}

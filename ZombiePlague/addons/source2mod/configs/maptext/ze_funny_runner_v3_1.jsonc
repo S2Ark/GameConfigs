@@ -1,0 +1,62 @@
+{
+    ">>> map by =LIROY= <<<": {
+        "chi": ">>> map by =LIROY= <<<"
+    },
+    ">>> WELL DONE ! NEED 2 MORE BUTTONS ! <<<": {
+        "chi": ">>> 干得好！还需要2个按钮！ <<<"
+    },
+    ">>> PLAYER HAS PICKED UP PUSH <<<": {
+        "chi": ">>> 玩家已获得推力 <<<"
+    },
+    ">>> ZOMBIE HAS PICKED UP SPIDER <<<": {
+        "chi": ">>> 僵尸捡到了蜘蛛 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
+        "chi": ">>> 玩家已获得重力 <<<"
+    },
+    ">>> ZOMBIE HAS PICKED UP DRAGON <<<": {
+        "chi": ">>> 僵尸捡到了龙 <<<"
+    },
+    ">>> PLAYER USED PUSH <<<": {
+        "chi": ">>> 玩家使用的推力 <<<"
+    },
+    ">>> PLAYER USED GRAVITY <<<": {
+        "chi": ">>> 玩家使用重力 <<<"
+    },
+    ">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<": {
+        "chi": ">>> 干得好！还需要1个按钮 ! <<<"
+    },
+    ">>> PLAYER HAS PICKED UP HEAL <<<": {
+        "chi": ">>> 玩家已获得治疗 <<<"
+    },
+    ">>> PLAYER USED HEAL<<<": {
+        "chi": ">>> 玩家使用治疗<<<"
+    },
+    ">>> PLAYER HAS PICKED UP FIRE <<<": {
+        "chi": ">>> 玩家已获得火焰 <<<"
+    },
+    ">>> CORONAVIRUS USE VIRUS !!! <<<": {
+        "chi": ">>> 冠状病毒使用病毒 !!! <<<"
+    },
+    "<<< IT'S ZOMBIE LASERS TIME ! >>>": {
+        "chi": "<<< 僵尸激光时间到了 ! >>>"
+    },
+    ">>> PLAYER USED FIRE <<<": {
+        "chi": ">>> 玩家使用了火 <<<"
+    },
+    ">>> CORONAVIRUS USE PUSH FORWARD !!!<<<": {
+        "chi": ">>> 冠状病毒使用推进 !!!<<<"
+    },
+    ">>> CORONAVIRUS USE RAIN !!!<<<": {
+        "chi": ">>> 冠状病毒使用雨水 !!!<<<"
+    },
+    ">>> CORONAVIRUS USE PUSH BACKWARD  !!! <<<": {
+        "chi": ">>> 冠状病毒使用倒退  !!! <<<"
+    },
+    ">>> CORONAVIRUS USE LASER WALL !!!<<<": {
+        "chi": ">>> 冠状病毒使用激光墙 !!!<<<"
+    },
+    ">>> CORONAVIRUS USE LASERS !!! <<<": {
+        "chi": ">>> 冠状病毒使用激光 !!! <<<"
+    }
+}

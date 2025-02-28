@@ -1,0 +1,44 @@
+{
+    "<< Hold zombies for 30 seconds ! >>": {
+        "chi": "<< 防守30秒! >>"
+    },
+    "<< Survive for 70 seconds ! >>": {
+        "chi": "<< 生存70秒 ! >>"
+    },
+    "<< Hold zombies for 40 seconds ! >>": {
+        "chi": "<< 防守40秒 ! >>"
+    },
+    "<<< PLAYER HAS PICKED HEAL  ! >>>": {
+        "chi": "<<< 治疗 已拾取 ! >>>"
+    },
+    "<<< PLAYER HAS PICKED ICE  ! >>>": {
+        "chi": "<<< 冰 已拾取  ! >>>"
+    },
+    "<<< PLAYER HAS PICKED CHRISTMAS TREE  ! >>>": {
+        "chi": "<<< 圣诞树(黑洞/引力) 已拾取  ! >>>"
+    },
+    "<< Hold zombies for 20 seconds ! >>": {
+        "chi": "<< 防守20秒! >>"
+    },
+    "<<< PLAYER HAS PICKED WIND  ! >>>": {
+        "chi": "<<< 跟随风 已拾取  ! >>>"
+    },
+    "<<< PLAYER HAS PICKED UP ICE WALL ! >>>": {
+        "chi": "<<< 冰墙 已拾取 ! >>>"
+    },
+    "<<< ZOMBIE HAS PICKED UP FREEZE BOX ! >>>": {
+        "chi": "<<< 僵尸拾取了 冰冻礼物盒 ! >>>"
+    },
+    "<<< ZOMBIE HAS PICKED UP DISARM BOX ! >>>": {
+        "chi": "<<< 僵尸拾取了 缴械礼物盒 ! >>>"
+    },
+    "<<< ZOMBIE HAS PICKED UP POISON BOX ! >>>": {
+        "chi": "<<< 僵尸拾取了 致盲礼物盒 ! >>>"
+    },
+    "<<< ZOMBIE HAS PICKED UP FIRE BOX ! >>>": {
+        "chi": "<<< 僵尸拾取了 zm火 ! >>>"
+    },
+    "ZOMBIE Teleport in 20s": {
+        "chi": "20秒后僵尸传送"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "The force field will be hacked in 30 seconds": {
+        "chi": "力场将在30秒内解除"
+    },
+    "Spawn Teleport 1 7 activated": {
+        "chi": "Spawn Teleport 1 7 activated"
+    },
+    "Force field successfully hacked": {
+        "chi": "力场已成功入侵"
+    },
+    "Kleiner teleport will be activated after 30 seconds": {
+        "chi": "Kleiner的传送器将在30秒后激活"
+    },
+    "Spawn Teleport 2 7 activated": {
+        "chi": "Spawn Teleport 2 7 activated"
+    },
+    "Teleport will be activated after 30 seconds": {
+        "chi": "30秒后传送"
+    },
+    "Spawn Teleport 3 7 activated": {
+        "chi": "Spawn Teleport 3 7 activated"
+    },
+    "The path will be cleared after 45 seconds": {
+        "chi": "45秒后打开通路"
+    },
+    "Spawn Teleport 4 7 activated": {
+        "chi": "Spawn Teleport 4 7 activated"
+    },
+    "Break the concrete door": {
+        "chi": "摧毁混凝土门"
+    },
+    "The door will open after 20 seconds.": {
+        "chi": "20秒后门将打开."
+    },
+    "Break the metal door": {
+        "chi": "摧毁金属门"
+    },
+    "Spawn Teleport 5 7 activated": {
+        "chi": "Spawn Teleport 5 7 activated"
+    },
+    "The force field will be turned off after 30 seconds": {
+        "chi": "力场将在30秒后关闭"
+    },
+    "Spawn Teleport 6 7 activated": {
+        "chi": "Spawn Teleport 6 7 activated"
+    },
+    "Final train will leave in 63 seconds": {
+        "chi": "最后一班火车将在63秒后发车"
+    },
+    "Spawn Teleport 7 7 activated": {
+        "chi": "Spawn Teleport 7 7 activated"
+    },
+    "Final train will leave in 10 seconds": {
+        "chi": "火车将在10秒内离开"
+    },
+    "Final train awaiting passengers": {
+        "chi": "最终列车等待乘客"
+    }
+}

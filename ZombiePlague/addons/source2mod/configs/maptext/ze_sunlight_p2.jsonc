@@ -1,0 +1,113 @@
+{
+    "*** STAGE I ***": {
+        "chi": "*** 关卡1翻译：白云我真的白 ***"
+    },
+    "*** Defend for 30 seconds! ***": {
+        "chi": "*** 防守30秒 ***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 还有5秒打开铁门 ***"
+    },
+    "*** Sacrificial Orb has been acquired ***": {
+        "chi": "*** 燃烧吧！中二之魂！ ***"
+    },
+    "*** Eye of the Storm has been acquired ***": {
+        "chi": "*** 暴风之眼！ ***"
+    },
+    "*** Orange Launcher has been acquired ***": {
+        "chi": "*** 烂橘子又要摆烂啦！ ***"
+    },
+    "*** Lift is leaving in 30 seconds ***": {
+        "chi": "*** 电梯30秒后上升 ***"
+    },
+    "*** Defend for 20 seconds! ***": {
+        "chi": "*** 防守此处20秒 ***"
+    },
+    "*** Melon Launcher has been acquired ***": {
+        "chi": "*** 好大好绿色的大西瓜！ ***"
+    },
+    "*** Nuke in 1 minute ***": {
+        "chi": "*** 核爆将于一分钟后降临！***"
+    },
+    "*** Final door is opening in 10 seconds ***": {
+        "chi": "*** 最终门将于10秒后打开 ***"
+    },
+    "*** Nuke in 10 seconds ***": {
+        "chi": "*** 核爆10秒后降临！注意烂分！***"
+    },
+    "*** Stage completed! ***": {
+        "chi": "*** 恭喜你！逃出了甘雨的秘密花园！ ***"
+    },
+    "*** STAGE II ***": {
+        "chi": "*** 关卡2 ***"
+    },
+    "*** Defend for 25 seconds! ***": {
+        "chi": "*** 防守25秒 ***"
+    },
+    "*** Defend for 35 seconds! ***": {
+        "chi": "*** 防守35秒 ***"
+    },
+    "*** Defend while one person calls the lift! ***": {
+        "chi": "*** 听从指挥！让一个人去触发！ ***"
+    },
+    "*** Lift is leaving in 10 seconds ***": {
+        "chi": "*** 电梯10秒后上升！继续防守!***"
+    },
+    "*** STAGE III ***": {
+        "chi": "*** 关卡3 ***"
+    },
+    "*** Defend for 45 seconds! ***": {
+        "chi": "*** 防守45秒 ***"
+    },
+    "*** Water is rising in 10 seconds ***": {
+        "chi": "*** 水面10秒后上升继续防守 ***"
+    },
+    "*** Nuke in 2 minutes ***": {
+        "chi": "*** 我方核打击将于两分钟后到达 ***"
+    },
+    "*** Zombies have been teleported. Prepare to charge! ***": {
+        "chi": "*** 僵尸已经传送！无畏者们！向尸笼冲锋！***"
+    },
+    "*** Stage failed! ***": {
+        "chi": "*** 防守失败！僵尸突破了防线***"
+    },
+    "*** STAGE IV ***": {
+        "chi": "*** 关卡4 ***"
+    },
+    "*** Top door is breaking in 20 seconds ***": {
+        "chi": "*** 顶部大门20秒后打开！爽刷***"
+    },
+    "*** Bottom door is breaking in 10 seconds ***": {
+        "chi": "*** 底部大门10秒后打开 ***"
+    },
+    "*** Defend for 60 seconds! ***": {
+        "chi": "*** 坚守60秒！***"
+    },
+    "*** The dragon has been defeated. Keep defending the bridge! ***": {
+        "chi": "*** 巨龙被打败了，防守大桥！最后的冠军！***"
+    },
+    "*** STAGE V ***": {
+        "chi": "*** 关卡ZM，按y输入RTV ***"
+    },
+    "*** Teleporting humans in 10 seconds ***": {
+        "chi": "*** 10秒后传送人类***"
+    },
+    "*** Defend all 3 statues. Do not let zombies near! ***": {
+        "chi": "*** 3分钟，桥头楼顶平均去人！别让僵尸靠近雕像！ ***"
+    },
+    "*** Teleporting zombies in 10 seconds ***": {
+        "chi": "*** 10秒后僵尸到达 ***"
+    },
+    "*** 3 minutes left ***": {
+        "chi": "*** 剩余三分钟 ***"
+    },
+    "*** 2 minutes left ***": {
+        "chi": "*** 剩余两分钟 ***"
+    },
+    "*** 1 minute left ***": {
+        "chi": "*** 剩余一分钟 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 最后10秒！快RTV!!!!!***"
+    }
+}

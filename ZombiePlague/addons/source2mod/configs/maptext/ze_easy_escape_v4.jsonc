@@ -1,0 +1,92 @@
+{
+    "** The door will open in 15 sec **": {
+        "chi": "门还有15秒打开"
+    },
+    "** FALL BACK **": {
+        "chi": "退后"
+    },
+    "** The teleport will enable in 30 sec **": {
+        "chi": "传送阵还需要30秒开启"
+    },
+    "** Make sure that you're on the block **": {
+        "chi": "确保你在黑色传送阵上"
+    },
+    "** The door will open in 30 sec **": {
+        "chi": "门还有30秒打开"
+    },
+    "** Get in side the second room **": {
+        "chi": "进入第二个房间"
+    },
+    "** Teleport will enable in 20 sec **": {
+        "chi": "传送阵还需要20秒开启"
+    },
+    "** The zombies are coming **": {
+        "chi": "僵尸来了"
+    },
+    "** The gate will open in 30 sec **": {
+        "chi": "大门还需要30秒打开"
+    },
+    "** The gate will open in 40 sec **": {
+        "chi": "大门还需要40秒打开"
+    },
+    "** PRESS SPACE **": {
+        "chi": "推力走廊"
+    },
+    "** SHOOT THE GLASS **": {
+        "chi": "打碎玻璃"
+    },
+    "** The gate will break in 15 sec": {
+        "chi": "大门还要15秒破碎"
+    },
+    "** The doors will open in 25 sec **": {
+        "chi": "门将在25秒后开启"
+    },
+    "** The door will close in 15": {
+        "chi": "门将在15秒后开启"
+    },
+    "** If surf is not completed in 60 sec the zombies will be released **": {
+        "chi": "如果在60秒后没有完成滑翔僵尸将被释放"
+    },
+    "** The zombies will be released in 30 sec **": {
+        "chi": "僵尸将在30秒后释放"
+    },
+    "** Teleporting humans **": {
+        "chi": "传送人类"
+    },
+    "** Teleporting zombies **": {
+        "chi": "传送僵尸"
+    },
+    "** Defend for 30 second **": {
+        "chi": "守住30秒"
+    },
+    "** THANKS TO EVERYONE WHO HELPED ME MAKE THIS **": {
+        "chi": "感谢所有帮助制作这个图的人"
+    },
+    "** NUKE IN 5 **": {
+        "chi": "5秒后核爆"
+    },
+    "** 4 **": {
+        "chi": "** 4 **"
+    },
+    "** 3 **": {
+        "chi": "** 3 **"
+    },
+    "** 2 **": {
+        "chi": "** 2 **"
+    },
+    "** 1 **": {
+        "chi": "** 1 **"
+    },
+    "** SURF PLAYERS YOU FAIL ME **": {
+        "chi": "滑翔玩家你让我失望"
+    },
+    "** BHOP/KZ PLAYERS YOU FAIL ME **": {
+        "chi": "BHOP/KZ玩家你让我失望"
+    },
+    "** Map made by li-ion **": {
+        "chi": "制作 li-ion 汉化 幽魂谷@GO社区服"
+    },
+    "** My first map hope you like it, enjoy **": {
+        "chi": "第一张地图希望大家喜欢，享受"
+    }
+}

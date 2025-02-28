@@ -1,0 +1,80 @@
+{
+    "Side Path will be open in 15 seconds .": {
+        "chi": "道将在15秒后打开."
+    },
+    "SIDE PATH WILL BE OPEN IN 5 SECONDS .": {
+        "chi": "还剩5秒 ."
+    },
+    "Paths will be open in 15 seconds .": {
+        "chi": "道路将在15秒后打开 ."
+    },
+    "PATHS WILL BE OPEN IN 5 SECONDS .": {
+        "chi": "还剩5秒."
+    },
+    "Side Doors open in 20 seconds .": {
+        "chi": "侧门20秒后打开."
+    },
+    "Ladder for zombies will be open in 5 seconds .": {
+        "chi": "僵尸梯子5秒后开放 ."
+    },
+    "SIDE DOORS OPEN IN 5 SECONDS .": {
+        "chi": "侧门还剩5秒."
+    },
+    "DOOR CLOSES IN 5 SECONDS .": {
+        "chi": "大门5秒后关闭."
+    },
+    "Paths will be open in 10 seconds .": {
+        "chi": "道路10秒后开放 ."
+    },
+    "Paths will be open in 20 seconds .": {
+        "chi": "道路20秒开放 ."
+    },
+    "Paths will be open in 25 seconds .": {
+        "chi": "道路25秒后开放 ."
+    },
+    "Door opens in 40 seconds .": {
+        "chi": "大门40秒后打开"
+    },
+    "DOOR OPENS IN 5 SECONDS .": {
+        "chi": "大门5秒后打开."
+    },
+    "Door opens in 20 seconds .": {
+        "chi": "大门20秒后打开."
+    },
+    "Fire Orb is activated !": {
+        "chi": "火焰已被触发 !"
+    },
+    "Lightning Orb is activated !": {
+        "chi": "刀光已被触发 !"
+    },
+    "Wind Orb is activated !": {
+        "chi": "风已被触发 !"
+    },
+    "Purple Orb is activated !": {
+        "chi": "紫球已被触发 !"
+    },
+    "Door opens in 15 seconds .": {
+        "chi": "大门15秒后打开."
+    },
+    "Door opens in 25 seconds .": {
+        "chi": "大门25秒后打开 ."
+    },
+    "DOOR CLOSES IN 15 SECONDS .": {
+        "chi": "大门15秒后关闭 ."
+    },
+    "This is last hold , keep resisting !": {
+        "chi": "我们没有退路了 !"
+    },
+    "DOOR OPENS IN 7 SECONDS .": {
+        "chi": "大门7秒后打开."
+    },
+    "Door opens in 30 seconds .": {
+        "chi": "大门30秒后打开."
+    },
+    "15 seconds left before the portal closes.": {
+        "chi": "传送阵15秒后关闭."
+    },
+    "5 seconds left before the portal closes.": {
+        "chi": "传送阵5秒后关闭."
+    }
+}

@@ -1,0 +1,116 @@
+{
+    ">> Chapter 1 <<": {
+        "chi": ">>第一章 <<"
+    },
+    ">> Defend for 30 seconds <<": {
+        "chi": ">> 防守30秒 <<"
+    },
+    ">> 5 SECONDS LEFT <<": {
+        "chi": ">> 剩余5秒 <<"
+    },
+    ">> Defend for 15 seconds <<": {
+        "chi": ">> 防守15秒 <<"
+    },
+    ">> Zombie TP in 15 seconds <<": {
+        "chi": ">> 僵尸将在15秒后传送<<"
+    },
+    ">> Defend for 20 seconds <<": {
+        "chi": ">>  防守20秒<<"
+    },
+    ">> Defend for 5 seconds <<": {
+        "chi": ">>  再防守5秒<<"
+    },
+    ">> Timeleft : 60 <<": {
+        "chi": ">> 时间剩余：60秒<<"
+    },
+    ">> Zombies have reached the wall <<": {
+        "chi": ">> 僵尸已经到达墙处<<"
+    },
+    ">> Failed <<": {
+        "chi": ">> 失败<<"
+    },
+    ">> Timeleft : 30 <<": {
+        "chi": ">>  时间剩余：30秒<<"
+    },
+    ">> Timeleft : 10 <<": {
+        "chi": ">> 时间剩余：10秒<<"
+    },
+    ">> Timeleft : 5 <<": {
+        "chi": ">> 时间剩余：5秒<<"
+    },
+    ">> Zombie TP in 10 seconds <<": {
+        "chi": ">>僵尸将在10秒后传送 <<"
+    },
+    ">> Timer stopped <<": {
+        "chi": ">>时间停止 <<"
+    },
+    ">> 10 more seconds <<": {
+        "chi": ">> 还有10秒 <<"
+    },
+    ">> Watch out for Zombies <<": {
+        "chi": ">> 小心僵尸<<"
+    },
+    ">> Last defend for 20 seconds <<": {
+        "chi": ">>最后防守20秒 <<"
+    },
+    ">> Zombie TP in 5 seconds <<": {
+        "chi": ">> 僵尸将在5秒后传送 <<"
+    },
+    ">> 5 <<": {
+        "chi": ">> 5 <<"
+    },
+    ">> 4 <<": {
+        "chi": ">> 4 <<"
+    },
+    ">> 3 <<": {
+        "chi": ">> 3 <<"
+    },
+    ">> 2 <<": {
+        "chi": ">> 2 <<"
+    },
+    ">> 1 <<": {
+        "chi": ">> 1 <<"
+    },
+    ">> Chapter 1 Completed <<": {
+        "chi": ">> 第一章完成 <<"
+    },
+    ">> Chapter 2 <<": {
+        "chi": ">> 第二章 <<"
+    },
+    ">> Defend for 35 seconds <<": {
+        "chi": ">> 防守35秒 <<"
+    },
+    ">> Defend for 25 seconds <<": {
+        "chi": ">> 防守25秒 <<"
+    },
+    ">> Watch your step <<": {
+        "chi": ">> 注意脚下 <<"
+    },
+    ">> Defend for 40 seconds <<": {
+        "chi": ">> 防守40秒 <<"
+    },
+    ">> 100 seconds <<": {
+        "chi": ">> 100秒 <<"
+    },
+    ">> 80 seconds <<": {
+        "chi": ">> 80秒 <<"
+    },
+    ">> 60 seconds <<": {
+        "chi": ">> 60秒<<"
+    },
+    ">> 40 seconds <<": {
+        "chi": ">> 40秒<<"
+    },
+    ">> 20 seconds <<": {
+        "chi": ">> 20秒<<"
+    },
+    ">> 5 seconds <<": {
+        "chi": ">> 5秒<<"
+    },
+    ">> look down <<": {
+        "chi": ">>看下方<<"
+    },
+    ">> platform appeared <<": {
+        "chi": ">> 平台出现<<"
+    }
+}

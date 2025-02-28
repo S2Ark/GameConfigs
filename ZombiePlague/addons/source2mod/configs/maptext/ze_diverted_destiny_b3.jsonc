@@ -1,0 +1,59 @@
+{
+    "25": {
+        "chi": "倒计时 25 秒！"
+    },
+    "20": {
+        "chi": "倒计时 20 秒！"
+    },
+    "Flamethrower Item is ready": {
+        "chi": "喷火器准备好了！"
+    },
+    "Heal is ready": {
+        "chi": "治愈准备好了！"
+    },
+    "30": {
+        "chi": "倒计时 30 秒后大门打开"
+    },
+    "75": {
+        "chi": "倒计时 75 秒"
+    },
+    "15": {
+        "chi": "坚守 15 秒后道路清空！"
+    },
+    "PHASE ONE has been beaten": {
+        "chi": "第一阶段已经结束！"
+    },
+    "No humans on the platform detected!": {
+        "chi": "平台上没有发现人类!"
+    },
+    "No one is on the platform!": {
+        "chi": "站台上没人!"
+    },
+    "Auto kill prevented": {
+        "chi": "阻止自动自杀！"
+    },
+    "You failed to kill it in time": {
+        "chi": "你没能及时杀死它"
+    },
+    "PHASE THREE has been beaten, an auto kill has been prevented": {
+        "chi": "第三阶段结束"
+    },
+    "PHASE TWO has been beaten": {
+        "chi": "第二阶段结束"
+    },
+    "Platform will rise in 15s": {
+        "chi": "平台将在 15 秒后上升"
+    },
+    "40": {
+        "chi": "倒计时 40 秒"
+    },
+    "Lift will rise in 30": {
+        "chi": "电梯将在 30 秒后升起"
+    },
+    "Zombies TP in 10": {
+        "chi": "僵尸将在 10 秒后传送"
+    },
+    "Solar Flare used": {
+        "chi": "太阳耀斑使用"
+    }
+}

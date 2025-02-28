@@ -1,0 +1,320 @@
+{
+    "***Welcome to ze_surf_dark_fantasy***": {
+        "chi": "***欢迎来到黑暗幻想 翻译20230513版本***"
+    },
+    "***The order | 1-Bow 2-Spear 3-Shield 4-Sword***": {
+        "chi": "***The order | 1-弓 2-矛 3-盾 4-剑***"
+    },
+    "***Map by DarkerZ [RUS]***": {
+        "chi": "***作者 DarkerZ 汉化:萌爱&苏妲（感谢白衣的帮助）特效已于20230510修复***"
+    },
+    "***Special Thanks to Moltard and Headsh***": {
+        "chi": "***特别感谢 Moltard 与 Headsh 如有其他问题请联系Top游廊管理员***"
+    },
+    "***Thanks to NiceShot for help port CSGO***": {
+        "chi": "***感谢 NiceShot 的修复 祝您游玩愉快***"
+    },
+    "***Humans will be teleported after 10 seconds***": {
+        "chi": "***人类10秒后传送***"
+    },
+    "***Zombies will be teleported after 15 seconds***": {
+        "chi": "***僵尸15秒后传送***"
+    },
+    "***Hold for 75 seconds***": {
+        "chi": "***生存75秒***"
+    },
+    "***Afk will be teleported after 5 seconds***": {
+        "chi": "***Afk玩家5秒后传送***"
+    },
+    "***HOLD FOR 30 SECONDS***": {
+        "chi": "***再坚持防守 30 秒***"
+    },
+    "***Humans picked up Wind***": {
+        "chi": "***人类拾取风**"
+    },
+    "***10 SECONDS LEFT***": {
+        "chi": "***还剩10秒***"
+    },
+    "***Hold the First Sector for 25 seconds***": {
+        "chi": "***在第一区域 防守25秒***"
+    },
+    "***5 SECONDS LEFT***": {
+        "chi": "***还剩5秒***"
+    },
+    "***Hold the Second Sector for 20 seconds***": {
+        "chi": "***在第二区域防守20秒***"
+    },
+    "***Hold the Third Sector for 15 seconds***": {
+        "chi": "***在第三区域防守15秒***"
+    },
+    "***Hold the Fourth Sector for 10 seconds***": {
+        "chi": "***在第四区域防守10秒***"
+    },
+    "***Hold the Final Sector for 5 seconds***": {
+        "chi": "***最后防守5秒***"
+    },
+    "***Zombies will be teleported after 20 seconds***": {
+        "chi": "***僵尸20秒后传送***"
+    },
+    "***Hold for 60 seconds***": {
+        "chi": "***防守60秒***"
+    },
+    "***Afk will be teleported after 10 seconds***": {
+        "chi": "***挂机玩家10秒后传送***"
+    },
+    "***Doors will open in 30 seconds***": {
+        "chi": "***大门30秒后打开***"
+    },
+    "***Doors will close in 10 seconds***": {
+        "chi": "***大门10秒后关闭***"
+    },
+    "***Fight***": {
+        "chi": "***战斗开始***"
+    },
+    "***CreeperGirl is using Push Attack***": {
+        "chi": "***苦力怕娘使用推力***"
+    },
+    "***CreeperGirl is using Fire Attack***": {
+        "chi": "***苦力怕娘使用火焰***"
+    },
+    "***CreeperGirl is using TNT Attack***": {
+        "chi": "***苦力怕娘丢出了炸弹***"
+    },
+    "***Doors will open in 20 seconds***": {
+        "chi": "***大门20秒后打开***"
+    },
+    "***You have 60 seconds to kill CreeperGirl***": {
+        "chi": "***你们还有60秒可以消灭BOSS***"
+    },
+    "***You killed the final boss. Teleportation after 10 seconds***": {
+        "chi": "***你们打败了它  传送将在10秒后开启***"
+    },
+    "***CreeperGirl is healed for 110 HP***": {
+        "chi": "***苦力怕娘吃了一口火药【+110HP】***"
+    },
+    "***Humans picked up Gravity***": {
+        "chi": "***人类拾取黑洞***"
+    },
+    "***Humans picked up Heal***": {
+        "chi": "***人类拾取治疗***"
+    },
+    "***Random path will open in 30 seconds***": {
+        "chi": "***道路30秒后随机打开***"
+    },
+    "***Zombies picked up Heal***": {
+        "chi": "***僵尸拾取奶***"
+    },
+    "***Zombies picked up Fire***": {
+        "chi": "***僵尸拾取火***"
+    },
+    "***Big Doors will open in 40 seconds***": {
+        "chi": "***巨门40秒后打开***"
+    },
+    "***Doors will open in 10 seconds***": {
+        "chi": "***大门10秒后打开***"
+    },
+    "***Doors will open in 15 seconds***": {
+        "chi": "***大门15秒后开启***"
+    },
+    "***Doors will open in 5 seconds***": {
+        "chi": "***大门5秒后开启***"
+    },
+    "***Humans picked up Electro***": {
+        "chi": "***人类拾取电***"
+    },
+    "***Elevator will leave in 20 seconds***": {
+        "chi": "***电梯20秒后离开***"
+    },
+    "***Hatch will collapse in 5 seconds***": {
+        "chi": "***暗室门5秒后倒塌***"
+    },
+    "***Wall will collapse in 10 seconds***": {
+        "chi": "***墙壁10秒后倒塌***"
+    },
+    "***Gate will open in 5 seconds***": {
+        "chi": "***大门5秒后打开***"
+    },
+    "***Bridge will appear in 20 seconds***": {
+        "chi": "***桥梁20秒后出现***"
+    },
+    "***Hold this position for 20 seconds***": {
+        "chi": "***守住20秒***"
+    },
+    "***Gate will open in 10 seconds***": {
+        "chi": "***大门10秒后开启***"
+    },
+    "***Gate will open in 20 seconds***": {
+        "chi": "***大门20秒后开启***"
+    },
+    "***Gate will open in 15 seconds***": {
+        "chi": "***大门15秒后开启***"
+    },
+    "***Afk will be teleported after 20 seconds***": {
+        "chi": "***Afk玩家20秒后传送***"
+    },
+    "***You ended up in the dungeon of demons***": {
+        "chi": "***你们进入了死神的地牢***"
+    },
+    "***This dungeon contains 4 levels of difficulty***": {
+        "chi": "***死神的地牢有四个级别的挑战***"
+    },
+    "***To exit the dungeon you need to complete all tasks***": {
+        "chi": "***要离开他的地牢，你们需要完成所有挑战***"
+    },
+    "***On the first level it is necessary to destroy the bloodstone***": {
+        "chi": "***第一层:摧毁血石***"
+    },
+    "***On the second level you need to defeat all the demons***": {
+        "chi": "***第二层:打败所有恶魔***"
+    },
+    "***At the third level you need to knock out the seal***": {
+        "chi": "***第三层:解开石雕封印***"
+    },
+    "***This Taros had NO Seal***": {
+        "chi": "***它的身上没有符咒***"
+    },
+    "***You Found a Seal***": {
+        "chi": "***你找到了封印符咒***"
+    },
+    "***On the fourth level you have to defeat Charon***": {
+        "chi": "***第四关:打败 死亡之神***"
+    },
+    "***BuyZone activated for 8 seconds***": {
+        "chi": "***区域8秒后开放***"
+    },
+    "***Charon used Air Attack***": {
+        "chi": "***死神使用 黑幻气旋（快按住蹲） ***"
+    },
+    "***Charon used Scythe***": {
+        "chi": "***死神使用 噩梦地刺（远离脚底特效）***"
+    },
+    "***Charon can be Cured by 300 HP***": {
+        "chi": "***死神喝了一大口鲜血（+300HP）***"
+    },
+    "***Charon used The Fire of Death***": {
+        "chi": "***死神使用 献祭队友（注意队友或者自己身上的腐蚀痕迹！）***"
+    },
+    "***Charon used The Call of Death***": {
+        "chi": "***死神使用 终极（快去中间柱子）***"
+    },
+    "***Charon used Gravity***": {
+        "chi": "***死神使用 恐怖黑洞（远离死神）***"
+    },
+    "***Zombies will be teleported after 10 seconds***": {
+        "chi": "***僵尸10秒后传送***"
+    },
+    "***To go further you must solve the riddle***": {
+        "chi": "***要走得更远，你必须解开这个谜题***"
+    },
+    "***The order | 1-Bow 2-Sword 3-Shield 4-Spear***": {
+        "chi": "顺序 | 1-弓 2-剑 3-盾 4-矛"
+    },
+    "***Wrong Combination***": {
+        "chi": "***组合错误***"
+    },
+    "***Respawn Items***": {
+        "chi": "***物品重置***"
+    },
+    "***The order | 1-Sword 2-Shield 3-Bow 4-Spear***": {
+        "chi": "***顺序 | 1-剑 2-盾 3-弓 4-矛***"
+    },
+    "***The order | 1-Spear 2-Sword 3-Shield 4-Bow***": {
+        "chi": "***顺序 | 1-矛 2-剑 3-盾 4-弓***"
+    },
+    "***Item Accepted***": {
+        "chi": "***投放正确***"
+    },
+    "***Door will open in 15 sec***": {
+        "chi": "***门将在 15 内开放***"
+    },
+    "***Gate will open in 30 seconds***": {
+        "chi": "***大门将在 30 秒内开放***"
+    },
+    "***[Boss] Queen Boss appeared***": {
+        "chi": "***[Boss] 皇女亲临***"
+    },
+    "***Queen Calls Uganda***": {
+        "chi": "***皇女的侍从从内冲出***"
+    },
+    "***Queen Calls Reverse Uganda***": {
+        "chi": "***皇女召唤了她的卫士***"
+    },
+    "***Queen Calls Rain from Uganda***": {
+        "chi": "***皇女的卫士从天而降***"
+    },
+    "***Queen Throws Lasers***": {
+        "chi": "***皇女召唤了刀光***"
+    },
+    "***You killed the Queen Boss***": {
+        "chi": "***你，杀死了皇女殿下***"
+    },
+    "***[Boss] Stage 1 completed***": {
+        "chi": "***[Boss] 完成阶段一***"
+    },
+    "***[Boss] ErrorGirl Boss appeared***": {
+        "chi": "***[Boss] 皇女的眷属——狐妖是也***"
+    },
+    "***You killed the ErrorGirl Boss***": {
+        "chi": "***你，胜一筹***"
+    },
+    "***[Boss] Stage 2 completed***": {
+        "chi": "***[Boss] 第二阶段完成***"
+    },
+    "***[Boss] CatGirl Boss appeared***": {
+        "chi": "***[Boss] 皇女的亲眷——猫娘***"
+    },
+    "***CatGirl is using Laser***": {
+        "chi": "***猫娘召唤了刀光（四周来刀）***"
+    },
+    "***CatGirl is using Drop Weapon Attack***": {
+        "chi": "***猫娘从你身上夺走了武器***"
+    },
+    "***CatGirl is using Crystal***": {
+        "chi": "***猫娘召唤了她的渴血水晶（注意外圈）***"
+    },
+    "***CatGirl is using Electro***": {
+        "chi": "***猫娘使用了电***"
+    },
+    "***CatGirl can be Cured by 180 HP***": {
+        "chi": "***猫娘奶了自己一口【+180HP】***"
+    },
+    "***CatGirl is using Pressure***": {
+        "chi": "***猫娘使用了猫蹲（快蹲下，很痛！）***"
+    },
+    "***You killed the CatGirl Boss***": {
+        "chi": "***你，杀死了猫娘***"
+    },
+    "***[Boss] Stage 3 completed***": {
+        "chi": "***[Boss] 第三阶段完成***"
+    },
+    "***Human will be teleported after 5 seconds***": {
+        "chi": "***人类将在 5 秒后传送***"
+    },
+    "***Zombie will be teleported after 10 seconds***": {
+        "chi": "***僵尸在 10 后传送***"
+    },
+    "***Afk will be teleported after 15 seconds***": {
+        "chi": "***挂机玩家将在 15 秒后传送***"
+    },
+    "***150 seconds left***": {
+        "chi": "***在 150 秒内你要到达那个地方***"
+    },
+    "***120 seconds left***": {
+        "chi": "***还剩下 120 秒***"
+    },
+    "***90 seconds left***": {
+        "chi": "***还剩下 90 秒***"
+    },
+    "***60 seconds left***": {
+        "chi": "***还剩下 60 秒，快！抓紧！***"
+    },
+    "***30 SECONDS LEFT***": {
+        "chi": "***还剩下 30 秒***"
+    },
+    "***15 seconds left***": {
+        "chi": "***还剩下 15 秒***"
+    },
+    "***The order | 1-Bow 2-Sword 3-Spear 4-Shield***": {
+        "chi": "***顺序| 1-弓 2-剑 3-矛 4-盾***"
+    }
+}

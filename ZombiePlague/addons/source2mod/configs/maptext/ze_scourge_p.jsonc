@@ -1,0 +1,80 @@
+{
+    "**CAVE ENTRANCE OPENS IN 25 SECONDS**": {
+        "chi": "洞穴入口在25秒打开"
+    },
+    "*** ZOMBIE DETECTED ***": {
+        "chi": "检测到僵尸"
+    },
+    "*** SUCCESSFUL ESCAPE ***": {
+        "chi": "*** 成功逃离 ***"
+    },
+    "**DOORS OPENS IN 20 SECONDS**": {
+        "chi": "**大门20秒后打开**"
+    },
+    "*** PUSH THE WHEEL TOGETHER TO MOVE THE BRIDGE ***": {
+        "chi": "把轮子推到一起移动大桥"
+    },
+    "**DOOR OPENS IN 20 SECONDS**": {
+        "chi": "大门20秒后打开"
+    },
+    "*** ELEVATOR MOVING IN 30 SECONDS ***": {
+        "chi": "电梯30秒后出发"
+    },
+    "**DOOR OPENS IN 25 SECONDS**": {
+        "chi": "大门25秒后打开"
+    },
+    "***DOOR OPENING SOON..***": {
+        "chi": "***大门很快就会打开..***"
+    },
+    "*** A SHIP IS WAITING FOR YOU ***": {
+        "chi": "一艘船在等你"
+    },
+    "*** SHIP LEAVING IN 60 SECONDS ***": {
+        "chi": "船60秒后出发"
+    },
+    "*** 30 SECONDS LEFT ***": {
+        "chi": "剩余30秒"
+    },
+    "*** 10 SECONDS LEFT ***": {
+        "chi": "剩余10秒"
+    },
+    "**DOOR OPENS IN 10 SECONDS**": {
+        "chi": "大门10秒后打开"
+    },
+    "**STRONGHOLD ENTRANCE OPENS IN 20 SECONDS**": {
+        "chi": "据点入口在20秒后打开"
+    },
+    "**DOORS OPENS IN 15 SECONDS**": {
+        "chi": "大门15秒后打开"
+    },
+    "**ELEVATOR MOVING..**": {
+        "chi": "电梯正在出发"
+    },
+    "***PLAYER PICKED UP BOW ***": {
+        "chi": "***玩家拾取弓***"
+    },
+    "*** PLAYER PICKED UP BARREL***": {
+        "chi": "玩家拾取桶"
+    },
+    "***PLAYER PICKED UP HEAL POTION***": {
+        "chi": "***玩家拾取祸乱疫苗***"
+    },
+    "***PLAYER PICKED UP SPEED POTION***": {
+        "chi": "玩家拾取速度药水"
+    },
+    "***PLAYER PICKED UP AMMO POTION***": {
+        "chi": "***玩家拾取补给药水***"
+    },
+    "***PLAYER PICKED UP EXPLOSIVE BOW ***": {
+        "chi": "玩家拾取爆炸弓"
+    },
+    "***PLAYER PICKED UP FLAMETHROWER***": {
+        "chi": "玩家拾取喷火器"
+    },
+    "*** PLAYER PICKED UP SHOTGUN ***": {
+        "chi": "玩家拾取猎枪"
+    },
+    "*** DOOR OPENING SOON..***": {
+        "chi": "大门正在打开"
+    }
+}

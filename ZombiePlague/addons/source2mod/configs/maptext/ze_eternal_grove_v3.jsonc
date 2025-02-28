@@ -1,0 +1,83 @@
+{
+    "***GROVE ENTRANCE OPENING IN 40 SECONDS***": {
+        "chi": "***通往永恒之森的道路将在40后开启***"
+    },
+    "***GROVE ENTRANCE OPENING IN 20 SECONDS***": {
+        "chi": "***通往永恒之森的道路将在20后开启***"
+    },
+    "***GROVE ENTRANCE OPENING IN 5 SECONDS***": {
+        "chi": "***通往永恒之森的道路将在5后开启***"
+    },
+    "***GROVE ENTRANCE IS OPENING***": {
+        "chi": "***通往永恒之森的道路已经开启***"
+    },
+    "***WOODEN DOOR WILL OPEN IN 30 SECONDS***": {
+        "chi": "***木门将在30秒后开启***"
+    },
+    "***WOODEN DOOR IS OPENING***": {
+        "chi": "***木门已经开了***"
+    },
+    "***WOODEN DOOR WILL OPEN IN 40 SECONDS***": {
+        "chi": "***木门将在40秒后开启***"
+    },
+    "***WOODEN VINES WILL BREAK IN 30 SECONDS***": {
+        "chi": "***藤蔓将在30秒后破碎***"
+    },
+    "***WOODEN VINES WILL BREAK IN 10 SECONDS***": {
+        "chi": "***距离藤蔓破碎还有10秒***"
+    },
+    "***WOODEN VINES ARE BROKEN***": {
+        "chi": "***藤蔓已经破碎***"
+    },
+    "***TEMPLE ENTRANCE OPENING IN 50 SECONDS***": {
+        "chi": "***进入神秘寺庙的入口将在50秒后开启***"
+    },
+    "***TEMPLE ENTRANCE IS OPENING***": {
+        "chi": "***进入神秘寺庙的入口已经开启***"
+    },
+    "***DOOR OPENING IN 20 SECONDS***": {
+        "chi": "***大门将在20后开启***"
+    },
+    "***DOOR OPENING IN 10 SECONDS***": {
+        "chi": "***大门将在10秒后开启***"
+    },
+    "***DOOR IS OPEN***": {
+        "chi": "***大门已经开启***"
+    },
+    "***DOOR OPENING IN 5 SECONDS***": {
+        "chi": "***大门将在5秒后开启***"
+    },
+    "***WATCH OUT FOR THE TRAPSE***": {
+        "chi": "***当心陷阱！！！！！***"
+    },
+    "***DOOR OPENING IN 30 SECONDS***": {
+        "chi": "***大门将在30秒后开启***"
+    },
+    "***WOODEN DOOR WILL OPEN IN 20 SECONDS***": {
+        "chi": "***木门将在20秒后开启***"
+    },
+    "***WOODEN DOOR WILL OPEN IN 10 SECONDS***": {
+        "chi": "***木门将在10秒后开启***"
+    },
+    "***WOODEN DOOR WILL OPEN IN 5 SECONDS***": {
+        "chi": "***木门将在5秒后开启***"
+    },
+    "***TOWER LIFT LEAVING IN 50 SECONDS***": {
+        "chi": "***通往最后的电梯将在50秒后上升***"
+    },
+    "***TOWER LIFT LEAVING IN 30 SECONDS***": {
+        "chi": "***通往最后的电梯将在30秒后上升***"
+    },
+    "***TOWER LIFT LEAVING IN 20 SECONDS***": {
+        "chi": "***通往最后的电梯将在20秒后上升***"
+    },
+    "***TOWER LIFT LEAVING IN 10 SECONDS***": {
+        "chi": "***通往最后的电梯还剩10秒就要上升了***"
+    },
+    "***TOWER LIFT LEAVING IN 5 SECONDS***": {
+        "chi": "***最后5秒！！！！！！！！！！***"
+    },
+    "***TOWER LIFT IS LEAVING***": {
+        "chi": "***通往最后的电梯正在上升***"
+    }
+}

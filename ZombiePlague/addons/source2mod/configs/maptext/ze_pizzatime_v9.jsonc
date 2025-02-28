@@ -1,0 +1,356 @@
+{
+    "***THE PIZZA IS AGGRESSIVE***": {
+        "chi": "披萨很美味，但是有毒"
+    },
+    "***GOOD BOYS WILL SURVIVE***": {
+        "chi": "好孩子会好好活着的"
+    },
+    "***THE LAVA IS RISING***": {
+        "chi": "熔岩正在上升"
+    },
+    "***VOLCANO IS GOING BOOBLY***": {
+        "chi": "火山正在喷发"
+    },
+    "***THE LAVA WILL RISE IN 10 SECONDS***": {
+        "chi": "熔岩将在10秒后上升"
+    },
+    "***YOU NEED TO KILL THEM BEFORE THE VOLCANO GOES BOOBLY***": {
+        "chi": "你需要在火山爆炸之前杀死僵尸"
+    },
+    "***IF ZOMBIES ARE STILL ALIVE, FIGHT IT OUT***": {
+        "chi": "如果僵尸还活着，拿枪消灭他们"
+    },
+    "***DADDY IS PROUD OF YOU PIZZA BOYS***": {
+        "chi": "爸爸为你们热爱披萨的孩子感到骄傲"
+    },
+    "***THANK YOU FOR PLAYING A THING***": {
+        "chi": "感谢你们"
+    },
+    "***PIZZA PARTY!!!***": {
+        "chi": "享受披萨派对吧"
+    },
+    "***PIZZA PARTY IN 5 SECONDS***": {
+        "chi": "披萨派对5秒后开始"
+    },
+    "***PIZZA PARTY IN 10 SECONDS***": {
+        "chi": "披萨派对10秒后开始"
+    },
+    "***PIZZA PARTY IN 25 SECONDS***": {
+        "chi": "披萨派对25秒后开始"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 30 SECONDS***": {
+        "chi": "菠萝30秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 20 SECONDS***": {
+        "chi": "菠萝20秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 10 SECONDS***": {
+        "chi": "菠萝10秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 5 SECONDS***": {
+        "chi": "菠萝5秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 4 SECONDS***": {
+        "chi": "菠萝4秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 3 SECONDS***": {
+        "chi": "菠萝3秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 2 SECONDS***": {
+        "chi": "菠萝2秒后移动"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 1 SECONDS***": {
+        "chi": "菠萝1秒后移动"
+    },
+    "***FINAL PINEAPPLE IS LEAVING***": {
+        "chi": "菠萝正在离开"
+    },
+    "***GOOD BYE MY GREAT PIZZA BOYS***": {
+        "chi": "再见，我伟大的披萨男孩*"
+    },
+    "***I WILL CHEW FOR YOUR SAKE***": {
+        "chi": "我会为你祈祷*"
+    },
+    "***I WILL NEVER LOVE YOU***": {
+        "chi": "我会永远爱你"
+    },
+    "***FINAL PINEAPPLE LEAVES IN 60 SECONDS***": {
+        "chi": "菠萝60秒后离开"
+    },
+    "***DEFEND WITH ALL YOUR MIGHT***": {
+        "chi": "为你的生命而战"
+    },
+    "***HASSAN CHOP***": {
+        "chi": "***HASSAN CHOP***"
+    },
+    "***PIZZA ROLL***": {
+        "chi": "披萨卷"
+    },
+    "***A PIZZA POLE HAS BEEN PISSED ON***": {
+        "chi": "一根披萨杆被激活了？"
+    },
+    "***ALL PIZZA POLES ARE PISSED***": {
+        "chi": "所有的披萨杆都被激活了"
+    },
+    "***PREPARE FOR SOMETHING SPECIAL***": {
+        "chi": "准备面对里世界吧"
+    },
+    "***PIZZA SURF IS OPEN***": {
+        "chi": "滑翔已开放"
+    },
+    "***PIZZA SURF OPENING IN 15 SECONDS***": {
+        "chi": "滑翔15秒后开放"
+    },
+    "***PICKED UP - ROCK PIZZA STAFF***": {
+        "chi": "墙已被拾取"
+    },
+    "***ITEM FAILED - ROCK PIZZA***": {
+        "chi": "不好意思，这是假神器"
+    },
+    "***ITEM USED - ROCK PIZZA***": {
+        "chi": "墙已被使用"
+    },
+    "***PICKED UP - HOT PIZZA STAFF***": {
+        "chi": "火焰已被拾取"
+    },
+    "***ITEM FAILED - HOT PIZZA***": {
+        "chi": "不好意思，这是假神器"
+    },
+    "***ITEM USED - HOT PIZZA***": {
+        "chi": "火已被使用"
+    },
+    "***PICKED UP - FAST PIZZA STAFF***": {
+        "chi": "加速已被拾取"
+    },
+    "***ITEM FAILED - FAST PIZZA***": {
+        "chi": "不好意思，这是假神器"
+    },
+    "***ITEM USED - FAST PIZZA***": {
+        "chi": "加速已被使用"
+    },
+    "***PICKED UP - DEATH PIZZA STAFF***": {
+        "chi": "死神已被拾取"
+    },
+    "***ITEM USED - DEATH PIZZA***": {
+        "chi": "不好意思，这是假神器"
+    },
+    "***ITEM FAILED - DEATH PIZZA***": {
+        "chi": "死神已被使用"
+    },
+    "***JUMP OFF OR DIE***": {
+        "chi": "你选择跳下去还是变僵尸？"
+    },
+    "***FRENCH SNAKEMAN WILL SURRENDER IN A WHILE***": {
+        "chi": "它们很快就会投降"
+    },
+    "***PIZZA ROLLER IS ROLLING ONCE AGAIN***": {
+        "chi": "披萨卷再次滚动"
+    },
+    "***PIZZA ROLLER NEEDS TO TAKE A REST***": {
+        "chi": "披萨滚筒需要休息一下"
+    },
+    "***DEFEND FOR A WHILE***": {
+        "chi": "防守一会儿"
+    },
+    "***WE SHALL HEAD FOR PIZZA VOLCANO SOON***": {
+        "chi": "我们的目的地是披萨火山"
+    },
+    "***SOME THINGS MIGHT LEAVE SOONER OR LATER***": {
+        "chi": "某些事情正在发生"
+    },
+    "***IT'S A WORLD FILLED WITH EXCITEMENT, BABY***": {
+        "chi": "这是一个充满荷尔蒙的世界，宝贝"
+    },
+    "***THE FRENCH HELICOPTERS ARE SUICIDAL***": {
+        "chi": "披萨直升机即将坠落"
+    },
+    "***THEY MIGHT BE FASTER THOUGH***": {
+        "chi": "奥利给 干了兄弟们"
+    },
+    "***THE FATE OF THE FOUR CHILDREN IS DEATH***": {
+        "chi": "第四个命运是死亡"
+    },
+    "***YOUR THIRD REICH FATE IS OFFENSIVE***": {
+        "chi": "你的第三次命运是令人厌恶的"
+    },
+    "***THE SECOND FATE HAS BEEN SHOWN TO THE WORLD***": {
+        "chi": "第二种命运已经展现在世人面前"
+    },
+    "***THE FIRST FATE HAS BEEN FACED***": {
+        "chi": "第一个命运已经降临"
+    },
+    "***THE FATED FIFTH CHILD WILL ENJOY HERSELF***": {
+        "chi": "命中注定的第五个孩子会玩得很开心"
+    },
+    "***ALL CHILDREN HAVE BEEN RELEASED***": {
+        "chi": "所有孩子都已被释放"
+    },
+    "***YOU CAN BECOME AN ADULT BY DOING NOTHING***": {
+        "chi": "你什么都不做就能成长"
+    },
+    "***CLIMB YOUR WAY TO CHAOS, FIND YOUR TRUE SELF***": {
+        "chi": "爬上混乱的道路，找到真正的自己"
+    },
+    "***THE FATES OF THE FACE PATHS SHALL OPEN THEMSELVES***": {
+        "chi": "命运的路径将自动打开"
+    },
+    "***YOUR RIGHT HAND IS SLOWER***": {
+        "chi": "你的右手比较慢"
+    },
+    "***YOUR LEFT HAND IS LONGER***": {
+        "chi": "你的左手太慢了"
+    },
+    "***TAKE YOUR FATE IN YOUR FACE***": {
+        "chi": "面对你的命运"
+    },
+    "***MAKE SURE THAT YOUR DECISION PAYS OFF***": {
+        "chi": "你的决定将得到回报"
+    },
+    "***GOOD LUCK, I LOVE YOU***": {
+        "chi": "祝你们好运"
+    },
+    "***OH BABY THE DYNAMITE IS GOING TO BLOW***": {
+        "chi": "哦，炸药要爆炸了"
+    },
+    "***WATCH OUT FOR TOWERS IN YOUR VICINITY***": {
+        "chi": "当心附近的塔楼"
+    },
+    "***PIZZA ROLLER NEEDS TO TAKE A REST FOR 20 SECONDS***": {
+        "chi": "披萨需要休息20秒*"
+    },
+    "***WELCOME TO PIZZA PALACE***": {
+        "chi": "欢迎来到披萨世界"
+    },
+    "***DOORS WILL OPEN ONCE THE PIZZA ROLLER ARRIVES***": {
+        "chi": "披萨一到，门就会打开"
+    },
+    "***SAY ADIOS TO PISS PALACE SOON***": {
+        "chi": "*说再见，马上滚"
+    },
+    "***IT IS OGRE NOW BITCHES***": {
+        "chi": "现在是食人魔了"
+    },
+    "***ARE YOU 18 YEARS OLD?  MMHHHHMM YUMMY***": {
+        "chi": "下面是R18的内容，小孩子不要看"
+    },
+    "***WE ARE ALMOST THERE, I CAN SMELL THE BURNT PIZZA CRUST***": {
+        "chi": "我们快到了，我能闻到烧焦的披萨饼皮"
+    },
+    "***GATE TO VOLCANIC PIZZA ISLAND IS OPENING***": {
+        "chi": "通往火山披萨岛的大门正在打开"
+    },
+    "***OH NO IT'S AN EVIL PIZZA BABY***": {
+        "chi": "这是一个邪恶的披萨宝宝"
+    },
+    "***DODGE THE PIZZA SPINNERS***": {
+        "chi": "躲开披萨绞肉机"
+    },
+    "***IF YOU DIE NOW YOU WILL BE DEAD***": {
+        "chi": "你会死的"
+    },
+    "***YOU ARE HERO GOOD JOB***": {
+        "chi": "干得漂亮，你们是英雄"
+    },
+    "***BABY IS DEAD PEACE IS HERE***": {
+        "chi": "这里就是和平的终点"
+    },
+    "***DEFEND FOR SECONDS***": {
+        "chi": "再防守一会儿"
+    },
+    "***ADIOS EL GRANDE PIZZA PALACE***": {
+        "chi": "再见了，披萨世界"
+    },
+    "father": {
+        "chi": "爸爸"
+    },
+    "dick me": {
+        "chi": "快来超市我"
+    },
+    "***WELCOME TO THE PALACE ELEVATOR***": {
+        "chi": "欢迎来到披萨电梯"
+    },
+    "***I AM FRANCE AND WILL AWAIT YOUR COMMAND***": {
+        "chi": "我是船长，我听不见"
+    },
+    "***WE SHALL LEAVE MOMENTARILY***": {
+        "chi": "我们马上就走"
+    },
+    "***DO NOT GET COMFY***": {
+        "chi": "不要感到舒适"
+    },
+    "***PIZZA SPACE LIFTOFF IN 30 SECONDS***": {
+        "chi": "披萨30秒后出发"
+    },
+    "***PIZZA SPACE LIFTOFF IN 20 SECONDS***": {
+        "chi": "披萨20秒后出发"
+    },
+    "***PIZZA SPACE LIFTOFF IN 10 SECONDS***": {
+        "chi": "披萨10秒后出发"
+    },
+    "***PIZZA SPACE LIFTOFF IN 5 SECONDS***": {
+        "chi": "披萨5秒后出发"
+    },
+    "***PIZZA SPACE LIFTOFF BABY***": {
+        "chi": "披萨正在升天"
+    },
+    "***ABORT MISSION***": {
+        "chi": "有内鬼，任务终止"
+    },
+    "***EXPLOSION IMMINENT***": {
+        "chi": "即将发生爆炸"
+    },
+    "***PALACE ELEVATOR IS LEAVING IN A FEW SECONDS***": {
+        "chi": "电梯几秒钟后就要离开了"
+    },
+    "***PALACE ELEVATOR IS LEAVING***": {
+        "chi": "电梯正在离开"
+    },
+    "***OPENING LOWER DOOR***": {
+        "chi": "下层门打开"
+    },
+    "***SHREK WELCOMES YOU***": {
+        "chi": "史莱克欢迎你们"
+    },
+    "***OPENING UPPER DOOR***": {
+        "chi": "上层门打开"
+    },
+    "***OPENING BACK DOOR (sexy mama)***": {
+        "chi": "门已破损"
+    },
+    "***RESPECT THE TRAFFIC RULES***": {
+        "chi": "遵守交通规则"
+    },
+    "***OR GET IMPALED BY CARS***": {
+        "chi": "或者被创死"
+    },
+    "***ACTION CAR DELUXE***": {
+        "chi": "是豪华跑车"
+    },
+    "***FRENCH MAN ELEVATOR UPPENING UP SOON OR SOMETHING***": {
+        "chi": "电梯很快就会起飞"
+    },
+    "***THE FRENCH ARE COMING***": {
+        "chi": "它来了"
+    },
+    "***PIZZA ROLLER LEAVING IN 15 SECONDS***": {
+        "chi": "披萨15秒后离开"
+    },
+    "***PIZZA ROLLER LEAVING IN 5 SECONDS***": {
+        "chi": "披萨5秒后离开"
+    },
+    "***PISS CART LEAVING IN 20 SECONDS***": {
+        "chi": "小车车20秒后离开"
+    },
+    "***PISS CART LEAVING IN 5 SECONDS***": {
+        "chi": "小车5秒后离开"
+    },
+    "***WELCOME TO PIZZA LAND***": {
+        "chi": "欢迎来到披萨世界"
+    },
+    "***IT IS PIZZATIME FOLKS***": {
+        "chi": "现在是披萨时间"
+    },
+    "===[ MAP MADE BY LUFFAREN ]===": {
+        "chi": "===[ 作者 LUFFAREN 汉化 萌爱]==="
+    }
+}

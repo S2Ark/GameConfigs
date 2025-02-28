@@ -1,0 +1,89 @@
+{
+    "*** Player has picked up Heal ***": {
+        "chi": "*** 玩家拾取了治疗 ***"
+    },
+    "*** ENTRANCE OPENS IN 25 SECONDS ***": {
+        "chi": "*** 入口25秒后打开***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 5 SECONDS LEFT ***"
+    },
+    "*** GRATE OPENS IN 15 SECONDS ***": {
+        "chi": "*** 炉排15秒后打开 ***"
+    },
+    "*** PLAYER HAS PICKED UP AMMO ***": {
+        "chi": "*** 玩家拿起了弹药 ***"
+    },
+    "*** PLAYER HAS PICKED UP TORNADO ***": {
+        "chi": "*** 玩家捡起了龙卷风 ***"
+    },
+    "*** PLAYER HAS PICKED UP PYRAMID ***": {
+        "chi": "*** 玩家捡起了金字塔 ***"
+    },
+    "*** LIFT MOVING IN 20 SECONDS ***": {
+        "chi": "*** 电梯将在20秒移动 ***"
+    },
+    "*** 15 seconds left ***": {
+        "chi": "*** 15 SECONDS LEFT ***"
+    },
+    "*** 20 seconds left ***": {
+        "chi": "*** 20 SECONDS LEFT ***"
+    },
+    "*** GRATE OPENS IN 30 SECONDS ***": {
+        "chi": "*** 格栅30秒后打开 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 10 SECONDS LEFT ***"
+    },
+    "*** OBELISK ENTRANCE OPENS IN 25 SECONDS  ***": {
+        "chi": "*** 方尖碑入口25秒后打开  ***"
+    },
+    "*** NOT BAD ***": {
+        "chi": "*** 淦的不错 ***"
+    },
+    "*** DEFEND UNTIL SOMETHING HAPPEN ***": {
+        "chi": "*** 守住 你先别急 ***"
+    },
+    "*** JUMP NOW ***": {
+        "chi": "*** 现在跳 ***"
+    },
+    "*** SURVIVE FOR 60 SECONDS ***": {
+        "chi": "*** 存活60秒 ***"
+    },
+    "*** 30 seconds left ***": {
+        "chi": "*** 30 SECONDS LEFT ***"
+    },
+    "*** HEAL MODIFIED ***": {
+        "chi": "*** 修复完成 ***"
+    },
+    "*** STACK ***": {
+        "chi": "*** STACK ***"
+    },
+    "*** JUMP DOWN NOW AND ESCAPE THE OBELISK ***": {
+        "chi": "*** 现在跳下来逃离方尖碑 ***"
+    },
+    "*** KILL HIM NOW ***": {
+        "chi": "*** 淦死他 就是现在***"
+    },
+    "*** YOU GOT HIM ***": {
+        "chi": "*** 你们淦死了BOSS***"
+    },
+    "地图修复22-10-18": {
+        "chi": "地图修复22-10-18"
+    },
+    "1：削减BOSS技能以避免实体溢出": {
+        "chi": "1：削减BOSS技能以避免实体溢出"
+    },
+    "法老王墓之旅 地图作者 m4dara 汉化及配置文件编写 OBJ大王": {
+        "chi": "法老王墓之旅 地图作者 m4dara 汉化及配置文件编写 OBJ大王"
+    },
+    "感谢koen提供的stripper": {
+        "chi": "感谢koen提供的stripper"
+    },
+    "感谢健忘症晚期提供的stripper": {
+        "chi": "感谢健忘症晚期提供的stripper"
+    },
+    "*** PLAYER HAS PICKED UP SAND ***": {
+        "chi": "*** PLAYER HAS PICKED UP SAND ***"
+    }
+}

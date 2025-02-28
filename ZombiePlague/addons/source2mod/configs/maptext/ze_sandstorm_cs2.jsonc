@@ -1,0 +1,164 @@
+{
+    ">>*** MAP BY STK ***<<": {
+        "chi": ">>*** 作者 STK 汉化:萌爱***<<"
+    },
+    "** A player has picked up Heal Staff **": {
+        "chi": "** 一位玩家拾取治愈 **"
+    },
+    ">> STAGE 1 <<": {
+        "chi": ">> 第 1 关 <<"
+    },
+    "** A player has picked up Tornado Staff **": {
+        "chi": "** 一位玩家拾取龙卷风 **"
+    },
+    "** A player has picked up Quicksand Staff **": {
+        "chi": "** 一位玩家拾取流沙 **"
+    },
+    "** A player has picked up Fire Staff **": {
+        "chi": "** 一位玩家拾取火焰 **"
+    },
+    "** The doors will open in 20 seconds **": {
+        "chi": "** 大门20秒后打开 **"
+    },
+    "** A player has picked up Earth Staff **": {
+        "chi": "** 一位玩家拾取大地 **"
+    },
+    "** 5 seconds left **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** FALL BACK **": {
+        "chi": "** 溜了溜了 **"
+    },
+    "** The doors will open in 25 seconds **": {
+        "chi": "** 大门25秒后打开 **"
+    },
+    "** The door will open in 30 seconds **": {
+        "chi": "** 大门30秒后打开 **"
+    },
+    "** The doors will open in 15 seconds **": {
+        "chi": "** 大门15秒后打开 **"
+    },
+    "** Bomb explodes in 20 seconds **": {
+        "chi": "** 炸弹20秒后爆炸 **"
+    },
+    "** Hold zombies for 15 seconds **": {
+        "chi": "** 防守15秒 **"
+    },
+    "*** YOU WON STAGE 1 ***": {
+        "chi": "*** 你通过了第 1关 ***"
+    },
+    ">> STAGE 2 <<": {
+        "chi": ">> 第 2 关 <<"
+    },
+    "** A player has picked up SandStorm Staff **": {
+        "chi": "** 一位玩家拾取沙暴 **"
+    },
+    "** Teleport will open in 20 seconds **": {
+        "chi": "** 传送20秒后激活 **"
+    },
+    "** 5 seconds left. **": {
+        "chi": "** 还剩5秒. **"
+    },
+    "** Kill him or he kills you!!! **": {
+        "chi": "** 不是他死就是我们亡!!! **"
+    },
+    "*** Grenades do more damage. ***": {
+        "chi": "*** 手雷可以造成伤害. ***"
+    },
+    "*** He's dead. Run. ***": {
+        "chi": "*** 它被击败了.快溜！ ***"
+    },
+    "** The doors will open on 15 seconds **": {
+        "chi": "** 大门15秒后打开 **"
+    },
+    "** Press on the 4 obelisks to open the door **": {
+        "chi": "** 触发4座石碑打开大门 **"
+    },
+    "** The doors will open in 10 seconds **": {
+        "chi": "** 大门10秒后打开 **"
+    },
+    "** Elevator leaves in 20 seconds **": {
+        "chi": "** 电梯20秒后离开 **"
+    },
+    "** YOU WON STAGE 2 **": {
+        "chi": "** 你通过了第 2 关**"
+    },
+    ">> STAGE 3 <<": {
+        "chi": ">> STAGE 3 <<"
+    },
+    "** Hold for 20 seconds. **": {
+        "chi": "** 防守20秒. **"
+    },
+    "** Teleport will open in 15 seconds **": {
+        "chi": "** 传送15秒后激活 **"
+    },
+    "** Hold Zombies for 10 seconds **": {
+        "chi": "** 防守10秒 **"
+    },
+    "** YOU WON STAGE 3 **": {
+        "chi": "** 你通过了第 3 关**"
+    },
+    ">> STAGE 4 <<": {
+        "chi": ">> 第4 关<<"
+    },
+    "** Meteorite arrives in 17 seconds. **": {
+        "chi": "** 陨石17秒后降临. **"
+    },
+    "*** Grenades do more damage. (8 SECONDS)***": {
+        "chi": "*** 手雷能造成更高的伤害. (剩余8秒)***"
+    },
+    "*** YOU WON STAGE 4 ***": {
+        "chi": "*** 你通过了第 4 关 ***"
+    },
+    "** Run into the center and break the crystal!!! **": {
+        "chi": "** 打碎水晶l!!! **"
+    },
+    ">> STAGE 5 <<": {
+        "chi": ">> 第 5 关 <<"
+    },
+    "** 10 seconds left **": {
+        "chi": "** 防守10秒 **"
+    },
+    "** Teleport will open in 20 seconds. **": {
+        "chi": "** 传送20秒后开启. **"
+    },
+    "** Teleport will open on 10 seconds **": {
+        "chi": "** 传送10秒后开启 **"
+    },
+    "** Hold for 15 seconds. **": {
+        "chi": "** 防守15秒. **"
+    },
+    "*** Grenades do more damage (4 SECONDS). ***": {
+        "chi": "*** 手雷可以造成更高伤害 (还有4秒). ***"
+    },
+    "** Do not come to the edge of the platform! **": {
+        "chi": "** 不要靠近平台边缘! **"
+    },
+    "** AND NOW YOU WILL DIE! **": {
+        "chi": "** 准备接受你的命运! **"
+    },
+    "** Hold for 10 seconds. **": {
+        "chi": "** 防守10秒. **"
+    },
+    "*** YOU WON STAGE 5 ***": {
+        "chi": "*** 你通过了第 5 关***"
+    },
+    "** Humans have become immortal!!! **": {
+        "chi": "** 人类无敌l!!! **"
+    },
+    "** Zombies have 1 HP! **": {
+        "chi": "** 拿出你的刀捅爆僵尸的屁股!!! **"
+    },
+    "** Victory in 230 seconds. **": {
+        "chi": "** 生存230秒后胜利. **"
+    },
+    ">> ZM ROUND <<": {
+        "chi": ">> ZM 模式 <<"
+    },
+    "** Victory in 200 seconds. **": {
+        "chi": "** 200  **"
+    },
+    "** Victory in 150 seconds. **": {
+        "chi": "** 150 **"
+    }
+}

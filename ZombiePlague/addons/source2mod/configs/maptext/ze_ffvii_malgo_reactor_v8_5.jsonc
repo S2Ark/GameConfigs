@@ -1,0 +1,302 @@
+{
+    "< ULTIMA Materia has been found >": {
+        "chi": "究极元素已被拾取"
+    },
+    "< A player has picked up TATICAL NUKE >": {
+        "chi": "玩家拾取秒杀"
+    },
+    "** BIO Materia has been found. **": {
+        "chi": "毒已被拾取译"
+    },
+    "** BARRIER Materia has been found. **": {
+        "chi": "屏障已被拾取"
+    },
+    "** WIND Materia has been found. **": {
+        "chi": "风已被拾取"
+    },
+    "** HEAL Materia has been found. **": {
+        "chi": "奶已被拾取"
+    },
+    "** ICE Materia has been found. **": {
+        "chi": "冰已被拾取"
+    },
+    "** AQUA Materia has been found. **": {
+        "chi": "水已被拾取"
+    },
+    "** FIRE Materia has been found. **": {
+        "chi": "火已被拾取"
+    },
+    "** ELECTRO Materia has been found. **": {
+        "chi": "电已被拾取"
+    },
+    "** EARTH Materia has been found. **": {
+        "chi": "大地元素已被拾取"
+    },
+    "** GRAVITY Materia has been found. **": {
+        "chi": "黑洞已被拾取"
+    },
+    "** Round failed! Zombies have reached the objective! **": {
+        "chi": "回合失败，僵尸已贴门"
+    },
+    "** MIMIC Materia has been found. **": {
+        "chi": "复制已被拾取"
+    },
+    "< You have 35 seconds to complete run! >": {
+        "chi": "防守35秒"
+    },
+    "< You have beaten INSANE VI (BONUS GGEASY VERSION)!! Congratulations !! >": {
+        "chi": "<您通过了了INSANE VI（奖励关）！！恭喜！！>"
+    },
+    "< So smug but for how long >": {
+        "chi": "不要得意"
+    },
+    "< Ifrit is defeated >": {
+        "chi": "伊芙利特已被击败"
+    },
+    "< You are too slow >": {
+        "chi": "低端了兄弟们"
+    },
+    "< The gates will open in 30 seconds >": {
+        "chi": "大门30秒后打开"
+    },
+    "< Wait 5 more seconds >": {
+        "chi": "剩余5秒"
+    },
+    "< The gates will open in 15 seconds >": {
+        "chi": "大门15秒后打开"
+    },
+    "< You have beaten INSANE (COSMO VERSION)!! Congratulations !! >": {
+        "chi": "<你通过了INSANE（COSMO版本）！！恭喜！！>"
+    },
+    "**You have failed**": {
+        "chi": "你们失败了"
+    },
+    "** An administrator has set [ZED VERSION] for next round! **": {
+        "chi": "管理员调关[ZED VERSION]"
+    },
+    "** An administrator has set [HELLZ VERSION] for next round! **": {
+        "chi": "管理员调关[HELLZ VERSION] "
+    },
+    "** An administrator has set [RMZS VERSION] for next round! **": {
+        "chi": "管理员调关[RMZS VERSION]"
+    },
+    "** An administrator has set [COSMO VERSION] for next round! **": {
+        "chi": "管理员调关[COSMO VERSION]"
+    },
+    "< INSANE II (RMZS VERSION) was beaten. Unlocking INSANE IV (COSMO VERSION) >": {
+        "chi": "<INSANE II（RMZS）已通过。解锁INSANE IV（COSMO）>"
+    },
+    "< Zombies detected! You lose! >": {
+        "chi": "检测到僵尸，你们输了"
+    },
+    "< INSANE IV (ZEDDY VERSION) was beaten. Unlocking INSANE IV (COSMO VERSION) >": {
+        "chi": "<INSANE IV（ZEDDY版本）已通过。解锁INSANE IV（COSMO版本）>"
+    },
+    "< Security system has been disabled >": {
+        "chi": "安全系统已禁用"
+    },
+    "< Now you can trigger next gate! >": {
+        "chi": "<现在你可以触发下一扇门了！>"
+    },
+    "< The door will open in 15 seconds >": {
+        "chi": "大门15秒后开启"
+    },
+    "< Cover here for 18 seconds before we clear this obstacle >": {
+        "chi": "障碍物18秒后清除"
+    },
+    "< The way will open in 25 seconds >": {
+        "chi": "道路25秒后开放"
+    },
+    "< The Gate are blocked >": {
+        "chi": "大门已被封锁"
+    },
+    "< Wait until something happens >": {
+        "chi": "等一会儿"
+    },
+    "< INSANE II (HELLZ VERSION) was beaten. Unlocking INSANE III (RMZS VERSION) >": {
+        "chi": "<INSANE II（HELLZ VERSION）已通过。解锁INSANE III（RMZS版本）>"
+    },
+    "< Way will open in 10 seconds >": {
+        "chi": "道路10秒后开放"
+    },
+    "< The door will open in 20 seconds >": {
+        "chi": "大门20秒后开启"
+    },
+    "< The Gate will open in 15 seconds >": {
+        "chi": "大门15秒后开启"
+    },
+    "< Way will open in 15 seconds >": {
+        "chi": "道路15秒后开放"
+    },
+    "< Cargo lift starts in 25 seconds >": {
+        "chi": "<升降机在25秒内启动>"
+    },
+    "< INSANE II (ZOMBIEDEN VERSION) was beaten. Unlocking INSANE II (HELLZ VERSION) >": {
+        "chi": "<INSANE II（ZOMBIEDEN）已通过。解锁INSANE II（HELLZ版本）>"
+    },
+    "ze_ffvii_malgo_reactor": {
+        "chi": "ze_ffvii_malgo_reactor"
+    },
+    "Map made by Ma/l/go": {
+        "chi": "作者 麻辣狗 汉化 萌爱"
+    },
+    "< Thanks Meringer*#eZ, Lerrdy and DEVIL for help >": {
+        "chi": "< 感谢 Meringer*#eZ, Lerrdy and DEVIL 的帮助 >"
+    },
+    "< Too late for laments! >": {
+        "chi": "太晚了"
+    },
+    "< I'll see you again. >": {
+        "chi": "I'll see you again"
+    },
+    "< Say goodbye! >": {
+        "chi": "再见"
+    },
+    "< Impressive! >": {
+        "chi": "希望你记住"
+    },
+    "< Dodge this! >": {
+        "chi": "我要出招了"
+    },
+    "< Ugh... Defeated... >": {
+        "chi": "恩..失败了"
+    },
+    "< I've been... Defeated? >": {
+        "chi": "我...失败了？"
+    },
+    "< Solitude isn't heroism. >": {
+        "chi": "孤独不是英雄主义"
+    },
+    "< Seems I do not have to hold back. >": {
+        "chi": "不要退缩"
+    },
+    "< Only the chosen may survive! >": {
+        "chi": "适者生存"
+    },
+    "< Hmm... I was expecting more... >": {
+        "chi": "我期待下一次"
+    },
+    "< I understand that you've been looking for me. >": {
+        "chi": "我知道你一直在找我"
+    },
+    "< Any last words? >": {
+        "chi": "留下你的遗言"
+    },
+    "< Final door opens in 30 seconds >": {
+        "chi": "最后的大门30秒后打开"
+    },
+    "< What's the... it's a teleport! >": {
+        "chi": "等一下..这是一个传送"
+    },
+    "< Run to the teleport! >": {
+        "chi": "进入传送"
+    },
+    "**All materias are disabled!!**": {
+        "chi": "神器已禁用"
+    },
+    "< Double Doors will open in 20 seconds >": {
+        "chi": "双门20秒后打开"
+    },
+    "< Way will open in 20 seconds >": {
+        "chi": "道路20秒后开放"
+    },
+    "< Lift will start in 20 seconds >": {
+        "chi": "电梯20秒后开放"
+    },
+    "< Blast Doors will open for 35 seconds >": {
+        "chi": "防爆门35秒后打开"
+    },
+    "< BAHAMUT CASTED FIRE >": {
+        "chi": "火焰"
+    },
+    "< BAHAMUT CASTED ICE >": {
+        "chi": "冰冻"
+    },
+    "< BAHAMUT CASTED ELECTRO >": {
+        "chi": "电流"
+    },
+    "< BAHAMUT CASTED WIND >": {
+        "chi": "狂风"
+    },
+    "< BAHAMUT CASTED EARTH >": {
+        "chi": "大地"
+    },
+    "< BAHAMUT CASTED GRAVITY >": {
+        "chi": "黑洞"
+    },
+    "< BAHAMUT CASTED BIO >": {
+        "chi": "毒药"
+    },
+    "< BAHAMUT CASTED BARRIER >": {
+        "chi": "屏障"
+    },
+    "< BAHAMUT CASTED AQUA >": {
+        "chi": "水流"
+    },
+    "< BAHAMUT CASTED HEAL >": {
+        "chi": "治疗"
+    },
+    "< BAHAMUT CASTED ULTIMA >": {
+        "chi": "终极"
+    },
+    "< BAHAMUT MIMICS FIRE >": {
+        "chi": "复制火"
+    },
+    "< BAHAMUT MIMICS ICE >": {
+        "chi": "复制冰"
+    },
+    "< BAHAMUT MIMICS ELECTRO >": {
+        "chi": "复制电"
+    },
+    "< BAHAMUT MIMICS WIND >": {
+        "chi": "复制风"
+    },
+    "< BAHAMUT MIMICS EARTH >": {
+        "chi": "复制土"
+    },
+    "< BAHAMUT MIMICS GRAVITY >": {
+        "chi": "复制黑"
+    },
+    "< BAHAMUT MIMICS BIO >": {
+        "chi": "复制毒"
+    },
+    "< BAHAMUT MIMICS BARRIER >": {
+        "chi": "复制盾 "
+    },
+    "< BAHAMUT MIMICS AQUA >": {
+        "chi": "复制水"
+    },
+    "< BAHAMUT MIMICS ULTIMA >": {
+        "chi": "复制终极"
+    },
+    "< BAHAMUT MIMICS HEAL >": {
+        "chi": "复制奶"
+    },
+    "< BAHAMUT MIMICS FAILS >": {
+        "chi": "复制失败"
+    },
+    "< The Gate will open in 10 seconds >": {
+        "chi": "大门10秒后打开"
+    },
+    "< INSANE III (RMZS VERSION) >": {
+        "chi": "< 难度INSANE III (RMZS 版本) >"
+    },
+    "< WARMUP >": {
+        "chi": "热身时间"
+    },
+    "< INSANE II (ZOMBIEDEN VERSION) >": {
+        "chi": "< 难度INSANE II (ZOMBIEDEN 版本) >"
+    },
+    "< INSANE II (HELLZ VERSION) >": {
+        "chi": "< 难度INSANE II (HELLZ 版本) >"
+    },
+    "< INSANE IV (ZEDDYS VERSION) >": {
+        "chi": "< 难度 INSANE IV (ZEDDYS 版本) >"
+    },
+    "< INSANE V (COSMO VERSION) >": {
+        "chi": "< 难度 INSANE V (COSMO 版本) >"
+    },
+    "< INSANE VI (BONUS GGEASY VERSION) >": {
+        "chi": "< 难度 INSANE VI (BONUS GGEASY 版本) >"
+    }
+}

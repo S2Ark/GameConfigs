@@ -1,0 +1,50 @@
+{
+    "**The door will open in 25 seconds**": {
+        "chi": "**大门25秒后开启**"
+    },
+    "**The map was left unfinished because of something**": {
+        "chi": "**这张地图处于未完成状态**"
+    },
+    "**This is not a successful map**": {
+        "chi": "**这不是一个成功的地图**"
+    },
+    "**The door will be open in 25 seconds**": {
+        "chi": "**大门25秒后开启**"
+    },
+    "**And this is my first map**": {
+        "chi": "**这是我的第一张地图**"
+    },
+    "**So it have many bugs**": {
+        "chi": "**所以它有很多bug**"
+    },
+    "**And I will make better map in future**": {
+        "chi": "**我会在以后制作更好的地图**"
+    },
+    "**The door will open in 30 seconds**": {
+        "chi": "**大门30秒后打开**"
+    },
+    "**The door will open in 15 seconds**": {
+        "chi": "**大门15秒后打开**"
+    },
+    "**The door will open in 45s**": {
+        "chi": "**大门45秒后打开**"
+    },
+    "**After 20s start fight**": {
+        "chi": "**20秒后开始战斗**"
+    },
+    "**left after 8s**": {
+        "chi": "**电梯8秒后下降**"
+    },
+    "**The door will open in 25s**": {
+        "chi": "**大门25秒后打开**"
+    },
+    "**Kill it**": {
+        "chi": "**杀了它**"
+    },
+    "**The door will open in 15s**": {
+        "chi": "**大门15秒后打开**"
+    },
+    "**The door will close in 20s**": {
+        "chi": "**大门20秒后关闭**"
+    }
+}

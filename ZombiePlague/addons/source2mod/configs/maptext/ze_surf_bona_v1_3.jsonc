@@ -1,0 +1,92 @@
+{
+    "<< Timelimit : 60 >>": {
+        "chi": "<< 剩余时间: 60 >>"
+    },
+    "<< Teleport Activate >>": {
+        "chi": "<< 传送已激活 >>"
+    },
+    "<< Open Path at 5 sec >>": {
+        "chi": "<< 道路 5 秒后开放 >>"
+    },
+    "<< Laser fix : Lishang >>": {
+        "chi": "<< 跳刀修复: Lishang >>"
+    },
+    "<< Test server : Possesion Server >>": {
+        "chi": "<< 测试 : Possesion Server >>"
+    },
+    "<< map create by : kulu >>": {
+        "chi": "<< 作者 : kulu 汉化 萌爱>>"
+    },
+    "<< ze_surf_bona >>": {
+        "chi": "<< 漂移滑翔 >>"
+    },
+    "<< Need Stripper >>": {
+        "chi": "<< 需要STP >>"
+    },
+    "<< This map can play PSE and ZED only >>": {
+        "chi": "<< ..... >>"
+    },
+    "<< Other server or local , sorry >>": {
+        "chi": "<< ... >>"
+    },
+    "<< Dead >>": {
+        "chi": "<< 它被消灭了 >>"
+    },
+    "<< Last Surf open at 20 sec >>": {
+        "chi": "<< 最后的滑翔20秒后开放 >>"
+    },
+    "<< Open >>": {
+        "chi": "<< 准备好 >>"
+    },
+    "<< Watch out Lasers >>": {
+        "chi": "迎接最后的刀"
+    },
+    "<< Shoooooooot !!!! >>": {
+        "chi": " 开枪 !!!! "
+    },
+    "<< Nuke Enable >>": {
+        "chi": "<< 核爆降临  >>"
+    },
+    "<< Zombie jail break : 10 >>": {
+        "chi": "<< 尸笼 10 秒后开放 >>"
+    },
+    "<< Survive for 110 seconds !!! >>": {
+        "chi": "<< 生存110秒 !!! >>"
+    },
+    "<< Mimyu help pressed >>": {
+        "chi": "<< Mimyu 帮你按下按钮 >>"
+    },
+    "<< Safe Zone open >>": {
+        "chi": "<< 安全区已开启 >>"
+    },
+    "<< Time Limit : 40 >>": {
+        "chi": "<< 剩余时间 : 40 >>"
+    },
+    "<< Oh No !! Stage Fail !!! >>": {
+        "chi": "<< 你们失败了 !!! >>"
+    },
+    "<< Good >>": {
+        "chi": "<< 非常好 >>"
+    },
+    "<< Survive for 65 seconds !!! >>": {
+        "chi": "<< 生存65秒 !!! >>"
+    },
+    "<< D8 >>": {
+        "chi": "<< D8 >>"
+    },
+    "<< ZERO >>": {
+        "chi": "<< ZERO >>"
+    },
+    "++ Zspeedup ready : OK ++": {
+        "chi": "++僵尸加速已就绪++"
+    },
+    "++ Zgravity ready : OK ++": {
+        "chi": "++ 僵尸黑洞已就绪 ++"
+    },
+    "<< Pick Music ... >>": {
+        "chi": "<< 选择音乐 ... >>"
+    },
+    "<< Defend for 30 sec >>": {
+        "chi": "<< 生存30秒 >>"
+    }
+}

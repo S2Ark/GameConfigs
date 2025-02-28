@@ -1,0 +1,161 @@
+{
+    "tip:You can't pass on the chessboard You must pass on the chess piece": {
+        "chi": ">>> 警告: 人类上棋盘扣血，僵尸上棋盘传送，所有路在棋子 <<<"
+    },
+    "you need hold 30s": {
+        "chi": "*** 展开阵型, 准备30秒防御战 ***"
+    },
+    "you need hold 25s": {
+        "chi": "*** 展开阵型, 准备25秒防御战 ***"
+    },
+    "you need hold 20s": {
+        "chi": "*** 展开阵型, 准备20秒防御战 ***"
+    },
+    "you need hold 10s": {
+        "chi": "*** 展开阵型, 准备10秒防御战 ***"
+    },
+    "Zombies will be teleported in 3 seconds ": {
+        "chi": "*** 僵尸将在3秒后传送 ***"
+    },
+    "Zombie teleportation will teleport in 5 seconds ": {
+        "chi": "*** 僵尸将在5秒后传送 ***"
+    },
+    "The cave is blocked, damn it ": {
+        "chi": "!!! 洞穴被堵死了, CNM !!!"
+    },
+    "It looks like you've found the board. Give me some time and I'll get him": {
+        "chi": ">>> 看来你已经找到了木板, 给我点时间我将修好它 <<<"
+    },
+    "you need hold 15s": {
+        "chi": "*** 展开阵型, 准备15秒防御战 ***"
+    },
+    "Zombie checkerboard teleport": {
+        "chi": "*** 僵尸棋盘传送 ***"
+    },
+    "Something strange will happen": {
+        "chi": ">>> 警告: 似乎有不祥征兆 <<<"
+    },
+    "Zombie transfer has started": {
+        "chi": "*** 僵尸传送已经开始 ***"
+    },
+    "Wooden boat leaves after 7S": {
+        "chi": "*** 木船将在7秒后离开 ***"
+    },
+    "This is the last defensive point. It??s life or death. Look at this last 90s.": {
+        "chi": "*** 最终之战来临, 生与死的90秒 ***"
+    },
+    "you need hold 40s": {
+        "chi": "*** 展开阵型, 准备40秒防御战 ***"
+    },
+    "you need hold 22s": {
+        "chi": "*** 展开阵型, 准备22秒防御战 ***"
+    },
+    "Warning: zombies open near the road": {
+        "chi": "【警告】: 僵尸在道路附近打开"
+    },
+    "Warning: Zombie launches near the road": {
+        "chi": "【警告】: 僵尸已经着陆"
+    },
+    "Warning: trap is activated": {
+        "chi": "【警告】: 陷阱已经被激活"
+    },
+    "you need hold 45s": {
+        "chi": "*** 保持警惕, 火力覆盖45秒 ***"
+    },
+    "Zombies approaching the road": {
+        "chi": "*** 尸潮即将着陆 ***"
+    },
+    "Congratulations on your victory, EX mode is waiting for you.": {
+        "chi": "*** 恭喜你获得了胜利, 第三关 等待你来挑战 ***"
+    },
+    "zombie coming watch you back": {
+        "chi": "*** 尸潮来袭, 小心身后 ***"
+    },
+    "Something seems to have disappeared": {
+        "chi": "*** 有些东西似乎消失了 ***"
+    },
+    "you need hold 18s": {
+        "chi": "*** 需要坚守18秒 ***"
+    },
+    "Zombies are still transmitted after 5S": {
+        "chi": "*** 僵尸5秒后传送 ***"
+    },
+    "hold 20s": {
+        "chi": "*** 展开阵型, 准备20秒防御战 ***"
+    },
+    "Zombie transmission also has 13S": {
+        "chi": "*** 僵尸传送剩余13秒 ***"
+    },
+    "we need hold 40s": {
+        "chi": "*** 展开阵型, 准备40秒防御战 ***"
+    },
+    "You need to defend for 23 seconds.": {
+        "chi": "*** 阵地防御23秒 ***"
+    },
+    "Wait a minute, I seem to have seen this sword before ": {
+        "chi": "在这等一下, 这把剑似曾相识..."
+    },
+    "I'll inject strength into this sword": {
+        "chi": "队仗千万，统领神兵，开旗急招，不得稽停，急急如律令！"
+    },
+    "you need hold 14s": {
+        "chi": "*** 展开阵型, 准备14秒防御战 ***"
+    },
+    "There seems to be no road above": {
+        "chi": "上面好像已经没有路了"
+    },
+    "I am optimistic about the road under your feet. How come back? Do you understand?": {
+        "chi": "留意你脚下的路, 至于如何回来? 你就自己慢慢品吧"
+    },
+    "Zombies are still transmitted after 7S": {
+        "chi": "*** 僵尸将在7秒后传送 ***"
+    },
+    "Zombie shortcut open": {
+        "chi": "僵尸的捷径已经被打开"
+    },
+    "I remember here, here is my back mountain": {
+        "chi": "我记得这里, 这是我的后山"
+    },
+    "From here you can reach my house directly": {
+        "chi": "你可以沿着这里到达我的故乡"
+    },
+    "Zombie teleport will turn on in 30 seconds": {
+        "chi": "僵尸将在 30 秒后传送"
+    },
+    "I feel the earth shaking": {
+        "chi": "我感觉好像地震了"
+    },
+    "No, the mountain is shaking": {
+        "chi": "不，这座山在抖！"
+    },
+    "Be prepared as if something is rising": {
+        "chi": "准备好，好像有什么东西要出来了"
+    },
+    "I saw the hilt. I found a chance to get ready for the sword": {
+        "chi": "我看到了那个剑柄，感觉我们有机会"
+    },
+    "Please hold here for 18 seconds": {
+        "chi": "在这里守住 18 秒"
+    },
+    "The first door on the left will open in 20 seconds": {
+        "chi": "左边的第一道门将在 20 秒后打开"
+    },
+    "The second door on the left will open in 20 seconds": {
+        "chi": "左边的第二道门将在 20 秒后打开"
+    },
+    "The first door on the right will open in 20 seconds": {
+        "chi": "右边的第一道门将在 20 秒后打开"
+    },
+    "Gather on the left and wait for the meeting": {
+        "chi": "为了顺利会师，守住左侧的道路！"
+    },
+    "After the right road meets, wait for the left team mate": {
+        "chi": "右路相遇后，等待左路队友"
+    },
+    "The second door on the right will open in 20 seconds": {
+        "chi": "右边的第二道门将在 20 秒后打开"
+    },
+    "you need hold 60s": {
+        "chi": "守住 60秒"
+    }
+}

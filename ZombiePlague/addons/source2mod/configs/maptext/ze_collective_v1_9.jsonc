@@ -1,0 +1,1022 @@
+{
+    "Now entering: 'Square Pyramid' by 'TF2 Pencil' [#1662582193]": {
+        "chi": "Now entering: 'Square Pyramid' by 'TF2 Pencil' [#1662582193]"
+    },
+    "[ITEM] human picked up StormBlade": {
+        "chi": "[ITEM] human picked up 风暴之刃"
+    },
+    "[ITEM] human picked up HealOrb": {
+        "chi": "[ITEM] human picked up 奶"
+    },
+    "[ITEM] zombie picked up PizzaBaker": {
+        "chi": "[ITEM] zombie picked up 披萨"
+    },
+    "[ITEM] zombie picked up Fling": {
+        "chi": "[ITEM] zombie picked up 飞行"
+    },
+    "[ITEM] zombie picked up RiftZ": {
+        "chi": "[ITEM] zombie picked up 狮子"
+    },
+    "***END FOUND - GENERATING NEXT MAP IN 5 SECONDS***": {
+        "chi": "***已到达终点 - 下张图5秒后选择***"
+    },
+    "***GENERATING NEXT MAP***": {
+        "chi": "***正在选择下张地图***"
+    },
+    "Now entering: 'SNES Rainbow Road' by 'TF2 Pencil' [#1662050164]": {
+        "chi": "Now entering: 'SNES Rainbow Road' by 'TF2 Pencil' [#1662050164]"
+    },
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 5 SECONDS***": {
+        "chi": "***已按下所有开关 - 下张图5秒后选择***"
+    },
+    "Now entering: 'Booster go weee' by 'Kitty Cat' [#1651498539]": {
+        "chi": "Now entering: 'Booster go weee' by 'Kitty Cat' [#1651498539]"
+    },
+    "[ITEM] human picked up FireCrystal": {
+        "chi": "[ITEM] human picked up 火"
+    },
+    "Now entering: 'Water Landing' by 'MoistNoodlez' [#1660526488]": {
+        "chi": "Now entering: 'Water Landing' by 'MoistNoodlez' [#1660526488]"
+    },
+    "[ITEM] human picked up EarthCrystal": {
+        "chi": "[ITEM] human picked up 土"
+    },
+    "***HOLD OPENS IN 2 SECONDS***": {
+        "chi": "***等待2秒***"
+    },
+    "***OPENING HOLD***": {
+        "chi": "***道路开放***"
+    },
+    "Now entering: 'Flyover' by 'sivi' [#1662377968]": {
+        "chi": "Now entering: 'Flyover' by 'sivi' [#1662377968]"
+    },
+    "[ITEM] human picked up PeanutButter": {
+        "chi": "[ITEM] human picked up 果酱"
+    },
+    "[ENDING] NO ZOMBIES - YOU WON BY DEFAULT": {
+        "chi": "[ENDING] 未检测到僵尸 - 我们胜利了"
+    },
+    "[BRIDGE ENDING]": {
+        "chi": "[守桥结局 ]"
+    },
+    "[STAGE] you completed stage 1 (generic) - moving on to stage 2 (temple) (SID:#cee3e770#)": {
+        "chi": "[STAGE] you completed stage 1 (generic) - moving on to stage 2 (temple) (SID:#cee3e770#)"
+    },
+    "[BRIDGE ENDING] HOLD THE BRIDGE FOR 45s": {
+        "chi": "[BRIDGE ENDING] 防守45秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 30s": {
+        "chi": "[BRIDGE ENDING] 防守30秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 10s": {
+        "chi": "[BRIDGE ENDING] 防守10秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 5s": {
+        "chi": "[BRIDGE ENDING] 防守5秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 4s": {
+        "chi": "[BRIDGE ENDING] 防守4秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 3s": {
+        "chi": "[BRIDGE ENDING] 防守3秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 2s": {
+        "chi": "[BRIDGE ENDING] 防守2秒"
+    },
+    "[BRIDGE ENDING] BRIDGE CRUMBLING IN 1s": {
+        "chi": "[BRIDGE ENDING] 最后1秒"
+    },
+    "[BRIDGE ENDING] THE BRIDGE IS STARTING TO CRUMBLE": {
+        "chi": "[BRIDGE ENDING] 大桥已经开始崩塌"
+    },
+    "[BRIDGE ENDING] RESPAWN IS DISABLED": {
+        "chi": "[BRIDGE ENDING] 复活已禁用"
+    },
+    "[BRIDGE ENDING] DEFEND!": {
+        "chi": "[BRIDGE ENDING] 快防守僵尸!"
+    },
+    "[BRIDGE ENDING] KILL ALL ZOMBIES WITHIN 20s TO WIN": {
+        "chi": "[BRIDGE ENDING] 20秒内杀死全部僵尸"
+    },
+    "Now entering: 'ay Race' by 'tilgep' [#1650741966]": {
+        "chi": "Now entering: 'ay Race' by 'tilgep' [#1650741966]"
+    },
+    "[ITEM] zombie picked up Squid": {
+        "chi": "[ITEM] zombie picked up 鱿鱼"
+    },
+    "[ITEM] zombie picked up Poise": {
+        "chi": "[ITEM] zombie picked up Poise"
+    },
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 8 SECONDS***": {
+        "chi": "***所有按钮已按下 - 下张地图8秒后选择***"
+    },
+    "Now entering: 'Lavavaa' by 'tilgep' [#1656779854]": {
+        "chi": "Now entering: 'Lavavaa' by 'tilgep' [#1656779854]"
+    },
+    "[ITEM] human picked up WindCrystal": {
+        "chi": "[ITEM] human picked up 风"
+    },
+    "Something is happening above us...": {
+        "chi": "某些事情正在发生..."
+    },
+    "[ITEM] zombie picked up Puller": {
+        "chi": "[ITEM] zombie picked up 鞭子"
+    },
+    "Look out for the grid of beams above": {
+        "chi": "小心网格"
+    },
+    "heal-orb spawned due to not existing": {
+        "chi": "heal-orb spawned due to not existing"
+    },
+    "Now entering: 'Crowded Rooms 12' by 'TF2 Pencil' [#1662966518]": {
+        "chi": "Now entering: 'Crowded Rooms 12' by 'TF2 Pencil' [#1662966518]"
+    },
+    "[ITEM] human picked up BillNye": {
+        "chi": "[ITEM] human picked up BillNye"
+    },
+    "[ITEM] zombie picked up Roar": {
+        "chi": "[ITEM] zombie picked up Roar"
+    },
+    "Now entering: 'santa' by 'FLaN KS' [#1650745147]": {
+        "chi": "Now entering: 'santa' by 'FLaN KS' [#1650745147]"
+    },
+    "Now entering: 'Going Down 1' by 'TF2 Pencil' [#1662177407]": {
+        "chi": "Now entering: 'Going Down 1' by 'TF2 Pencil' [#1662177407]"
+    },
+    "[ITEM] human picked up Claymore": {
+        "chi": "[ITEM] human picked up Claymore"
+    },
+    "[ITEM] zombie picked up Flight": {
+        "chi": "[ITEM] zombie picked up Flight"
+    },
+    "棒鸡死妈 used heal orb": {
+        "chi": "棒鸡死妈 used heal orb"
+    },
+    "Now entering: 'iknowyouwantit' by 'iProbie' [#1650813907]": {
+        "chi": "Now entering: 'iknowyouwantit' by 'iProbie' [#1650813907]"
+    },
+    "[ITEM] human picked up Rift": {
+        "chi": "[ITEM] human picked up Rift"
+    },
+    "橘小猪 used Rift (entry)": {
+        "chi": "橘小猪 used Rift (entry)"
+    },
+    "Now entering: 'NoName5' by 'fantasy' [#1658246393]": {
+        "chi": "Now entering: 'NoName5' by 'fantasy' [#1658246393]"
+    },
+    "橘小猪 used Rift (exit)": {
+        "chi": "橘小猪 used Rift (exit)"
+    },
+    "[ITEM] zombie picked up DestructoHammer": {
+        "chi": "[ITEM] zombie picked up DestructoHammer"
+    },
+    "All the 'WALL' tiles are disappearing!": {
+        "chi": "All the 'WALL' tiles are disappearing!"
+    },
+    "FKyouyu used heal orb": {
+        "chi": "FKyouyu used heal orb"
+    },
+    "ID_DEATHS|1658246393_8|1650813907_8|1662177407_8|1650745147_16|1662966518_3|": {
+        "chi": "ID_DEATHS|1658246393_8|1650813907_8|1662177407_8|1650745147_16|1662966518_3|"
+    },
+    "Now entering: 'Subdivide' by 'ZpLit' [#1672351365]": {
+        "chi": "Now entering: 'Subdivide' by 'ZpLit' [#1672351365]"
+    },
+    "Beware item-mimics! (FKyouyu fell for it)": {
+        "chi": "Beware item-mimics! (FKyouyu fell for it)"
+    },
+    "[ITEM] zombie picked up BombChuck": {
+        "chi": "[ITEM] zombie picked up BombChuck"
+    },
+    "Now entering: 'Castle Flick' by 'MoistNoodlez' [#1660969789]": {
+        "chi": "Now entering: 'Castle Flick' by 'MoistNoodlez' [#1660969789]"
+    },
+    "橘小猪 used heal orb": {
+        "chi": "橘小猪 used heal orb"
+    },
+    "Now entering: 'kz gy agitation lvl1' by 'chinny' [#1664981660]": {
+        "chi": "Now entering: 'kz gy agitation lvl1' by 'chinny' [#1664981660]"
+    },
+    "DestructoHammer destructed 1x_peanut": {
+        "chi": "DestructoHammer destructed 1x_peanut"
+    },
+    "DestructoHammer destructed PeanutButter (held by 圣丶嘉然)": {
+        "chi": "DestructoHammer destructed PeanutButter (held by 圣丶嘉然)"
+    },
+    "DestructoHammer destructed 1x_item": {
+        "chi": "DestructoHammer destructed 1x_item"
+    },
+    "ID_DEATHS|1664981660_14|1660969789_27|1672351365_2|": {
+        "chi": "ID_DEATHS|1664981660_14|1660969789_27|1672351365_2|"
+    },
+    "Now entering: 'Liquid Tunnels' by 'MoistNoodlez' [#1660101542]": {
+        "chi": "Now entering: 'Liquid Tunnels' by 'MoistNoodlez' [#1660101542]"
+    },
+    "Now entering: 'Lips' by 'MoistNoodlez' [#1659480489]": {
+        "chi": "Now entering: 'Lips' by 'MoistNoodlez' [#1659480489]"
+    },
+    "Now entering: 'Dont miss' by 'tilgep' [#1665782894]": {
+        "chi": "Now entering: 'Dont miss' by 'tilgep' [#1665782894]"
+    },
+    "Weapons jammed - RELOAD!": {
+        "chi": "Weapons jammed - RELOAD!"
+    },
+    "Now entering: 'NoName19' by 'fantasy' [#1658249081]": {
+        "chi": "Now entering: 'NoName19' by 'fantasy' [#1658249081]"
+    },
+    "FKyouyu used EarthCrystal": {
+        "chi": "FKyouyu used EarthCrystal"
+    },
+    "Now entering: 'Need Two Floors 6' by 'TF2 Pencil' [#1662786979]": {
+        "chi": "Now entering: 'Need Two Floors 6' by 'TF2 Pencil' [#1662786979]"
+    },
+    "海绵宝宝 used heal orb": {
+        "chi": "海绵宝宝 used heal orb"
+    },
+    "ID_DEATHS|1662786979_13|1658249081_23|1665782894_5|1659480489_0|1660101542_3|": {
+        "chi": "ID_DEATHS|1662786979_13|1658249081_23|1665782894_5|1659480489_0|1660101542_3|"
+    },
+    "Now entering: 'Great Heathen Army' by 'ZpLit' [#1660609132]": {
+        "chi": "Now entering: 'Great Heathen Army' by 'ZpLit' [#1660609132]"
+    },
+    "[ITEM] zombie picked up Impostor": {
+        "chi": "[ITEM] zombie picked up Impostor"
+    },
+    "Now entering: 'CVpaste 6' by 'ZpLit' [#1663043857]": {
+        "chi": "Now entering: 'CVpaste 6' by 'ZpLit' [#1663043857]"
+    },
+    "[ITEM] human picked up WaterCrystal": {
+        "chi": "[ITEM] human picked up WaterCrystal"
+    },
+    "an impostor is among us...": {
+        "chi": "an impostor is among us..."
+    },
+    "find and kill him before it's too late!": {
+        "chi": "find and kill him before it's too late!"
+    },
+    "风吹裙起丁丁露 was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "风吹裙起丁丁露 was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "Now entering: 'Leap and catch' by 'Luffaren' [#1652704443]": {
+        "chi": "Now entering: 'Leap and catch' by 'Luffaren' [#1652704443]"
+    },
+    "Now entering: 'Secret Pool' by 'MoistNoodlez' [#1660949561]": {
+        "chi": "Now entering: 'Secret Pool' by 'MoistNoodlez' [#1660949561]"
+    },
+    "爱摸鱼 was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "爱摸鱼 was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "Now entering: 'infinite impermanent' by 'lv 100 crobat' [#1667932114]": {
+        "chi": "Now entering: 'infinite impermanent' by 'lv 100 crobat' [#1667932114]"
+    },
+    "[ITEM] zombie picked up Gust": {
+        "chi": "[ITEM] zombie picked up Gust"
+    },
+    "[ASCEND ENDING]": {
+        "chi": "[ASCEND ENDING]"
+    },
+    "[ASCEND ENDING] YOU WILL SOON ASCEND TO THE HEAVENS": {
+        "chi": "[ASCEND ENDING] YOU WILL SOON ASCEND TO THE HEAVENS"
+    },
+    "[ASCEND ENDING] SURVIVE FOR 60s": {
+        "chi": "[ASCEND ENDING] SURVIVE FOR 60s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 60s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 60s"
+    },
+    "[ASCEND ENDING] 2 Z-moonboost + 8 Z-flight items spawned": {
+        "chi": "[ASCEND ENDING] 2 Z-moonboost + 8 Z-flight items spawned"
+    },
+    "[ASCEND ENDING] ASCENSION IN 30s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 30s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 10s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 10s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 5s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 5s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 4s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 4s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 3s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 3s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 2s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 2s"
+    },
+    "[ASCEND ENDING] ASCENSION IN 1s": {
+        "chi": "[ASCEND ENDING] ASCENSION IN 1s"
+    },
+    "[ASCEND ENDING] THE ASCENSION HAS BEGUN!": {
+        "chi": "[ASCEND ENDING] THE ASCENSION HAS BEGUN!"
+    },
+    "[ASCEND ENDING] 38 HUMANS ASCENDED - YOU WIN!": {
+        "chi": "[ASCEND ENDING] 38 HUMANS ASCENDED - YOU WIN!"
+    },
+    "[STAGE] you completed stage 1 (silenthill) - moving on to stage 2 (castle) (SID:#19237af3#)": {
+        "chi": "[STAGE] you completed stage 1 (silenthill) - moving on to stage 2 (castle) (SID:#19237af3#)"
+    },
+    "ID_DEATHS|1660527778_0|1667932114_9|1660949561_1|1652704443_0|1663043857_1|1660609132_1|": {
+        "chi": "ID_DEATHS|1660527778_0|1667932114_9|1660949561_1|1652704443_0|1663043857_1|1660609132_1|"
+    },
+    "Now entering: 'MouseEscape' by 'MoistNoodlez' [#1658531368]": {
+        "chi": "Now entering: 'MouseEscape' by 'MoistNoodlez' [#1658531368]"
+    },
+    "Now entering: 'Mirrored In' by 'Mini' [#1666363929]": {
+        "chi": "Now entering: 'Mirrored In' by 'Mini' [#1666363929]"
+    },
+    "[ITEM] human picked up Piggyback": {
+        "chi": "[ITEM] human picked up Piggyback"
+    },
+    "***END FOUND - GENERATING NEXT MAP IN 8 SECONDS***": {
+        "chi": "***END FOUND - GENERATING NEXT MAP IN 8 SECONDS***"
+    },
+    "电脑玩家丁真 got caught in a beartrap": {
+        "chi": "电脑玩家丁真 got caught in a beartrap"
+    },
+    "Now entering: 'digger' by 'iProbie' [#1662175591]": {
+        "chi": "Now entering: 'digger' by 'iProbie' [#1662175591]"
+    },
+    "[ITEM] zombie picked up Stone": {
+        "chi": "[ITEM] zombie picked up Stone"
+    },
+    "[ITEM] zombie picked up GreasyFingers": {
+        "chi": "[ITEM] zombie picked up GreasyFingers"
+    },
+    "Now entering: 'Stupid 7' by 'TF2 Pencil' [#1663392657]": {
+        "chi": "Now entering: 'Stupid 7' by 'TF2 Pencil' [#1663392657]"
+    },
+    "Now entering: 'Treading around' by 'Luffaren' [#1676980124]": {
+        "chi": "Now entering: 'Treading around' by 'Luffaren' [#1676980124]"
+    },
+    "weather report used heal orb": {
+        "chi": "weather report used heal orb"
+    },
+    "Our human eyes are tripping out...": {
+        "chi": "Our human eyes are tripping out..."
+    },
+    "Now entering: 'Pools' by 'tilgep' [#1651606730]": {
+        "chi": "Now entering: 'Pools' by 'tilgep' [#1651606730]"
+    },
+    "Golly, 两芝士夹面包 got greased!": {
+        "chi": "Golly, 两芝士夹面包 got greased!"
+    },
+    "Our human eyes are back to normal": {
+        "chi": "Our human eyes are back to normal"
+    },
+    "[HUNT ENDING]": {
+        "chi": "[HUNT ENDING]"
+    },
+    "[HUNT ENDING] zombies have low HP - kill them all!": {
+        "chi": "[HUNT ENDING] zombies have low HP - kill them all!"
+    },
+    "[HUNT ENDING] the human stage-end TP brings you back to the stage-start (with 5s infect-immunity)": {
+        "chi": "[HUNT ENDING] the human stage-end TP brings you back to the stage-start (with 5s infect-immunity)"
+    },
+    "[HUNT ENDING] YOU HAVE 60s TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 60s TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 60s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 60s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] IF THE TIME RUNS OUT YOU LOSE": {
+        "chi": "[HUNT ENDING] IF THE TIME RUNS OUT YOU LOSE"
+    },
+    "[HUNT ENDING] RESPAWN IS DISABLED": {
+        "chi": "[HUNT ENDING] RESPAWN IS DISABLED"
+    },
+    "***THE PIZZA IS AGGRESSIVE***": {
+        "chi": "***THE PIZZA IS AGGRESSIVE***"
+    },
+    "[HUNT ENDING] YOU HAVE 30s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 30s LEFT TO KILL THE ZOMBIES"
+    },
+    "呆呆鸟（不会沙鹰） used heal orb": {
+        "chi": "呆呆鸟（不会沙鹰） used heal orb"
+    },
+    "yric391172 got caught in a beartrap": {
+        "chi": "yric391172 got caught in a beartrap"
+    },
+    "[HUNT ENDING] YOU HAVE 10s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 10s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 5s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 5s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 4s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 4s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 3s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 3s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 2s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 2s LEFT TO KILL THE ZOMBIES"
+    },
+    "[HUNT ENDING] YOU HAVE 1s LEFT TO KILL THE ZOMBIES": {
+        "chi": "[HUNT ENDING] YOU HAVE 1s LEFT TO KILL THE ZOMBIES"
+    },
+    "ID_DEATHS|1662077988_0|1651606730_2|1676980124_26|1663392657_3|1662175591_3|1666363929_5|1658531368_0|": {
+        "chi": "ID_DEATHS|1662077988_0|1651606730_2|1676980124_26|1663392657_3|1662175591_3|1666363929_5|1658531368_0|"
+    },
+    "[HUNT ENDING] YOU WON!": {
+        "chi": "[HUNT ENDING] YOU WON!"
+    },
+    "[STAGE] you completed stage 2 (castle) - moving on to stage 3 (frost) (SID:#19237af3#)": {
+        "chi": "[STAGE] you completed stage 2 (castle) - moving on to stage 3 (frost) (SID:#19237af3#)"
+    },
+    "Now entering: 'Original Rock Climb' by 'MoistNoodlez' [#1663897554]": {
+        "chi": "Now entering: 'Original Rock Climb' by 'MoistNoodlez' [#1663897554]"
+    },
+    "***HOLD OPENS IN 4 SECONDS***": {
+        "chi": "***HOLD OPENS IN 4 SECONDS***"
+    },
+    "***END FOUND - GENERATING NEXT MAP IN 10 SECONDS***": {
+        "chi": "***END FOUND - GENERATING NEXT MAP IN 10 SECONDS***"
+    },
+    "Now entering: 'Frogger' by 'Luffaren' [#1665992990]": {
+        "chi": "Now entering: 'Frogger' by 'Luffaren' [#1665992990]"
+    },
+    "weather report triggered a bomb": {
+        "chi": "weather report triggered a bomb"
+    },
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 10 SECONDS***": {
+        "chi": "***END BUTTON PRESSED - GENERATING NEXT MAP IN 10 SECONDS***"
+    },
+    "WARNING: HARSH INSTAKILLING HAZPLANE": {
+        "chi": "WARNING: HARSH INSTAKILLING HAZPLANE"
+    },
+    "Now entering: 'oh nonono' by 'alli' [#1674111650]": {
+        "chi": "Now entering: 'oh nonono' by 'alli' [#1674111650]"
+    },
+    "***HOLD OPENS IN 6 SECONDS***": {
+        "chi": "***HOLD OPENS IN 6 SECONDS***"
+    },
+    "Beware button-mimics! (裁缝姥爷 fell for it)": {
+        "chi": "Beware button-mimics! (裁缝姥爷 fell for it)"
+    },
+    "[ITEM] human picked up Baguette": {
+        "chi": "[ITEM] human picked up Baguette"
+    },
+    "阿曦 used heal orb": {
+        "chi": "阿曦 used heal orb"
+    },
+    "Now entering: 'Defend The Bottom' by 'ZpLit' [#1673998555]": {
+        "chi": "Now entering: 'Defend The Bottom' by 'ZpLit' [#1673998555]"
+    },
+    "林^ triggered a flinger": {
+        "chi": "林^ triggered a flinger"
+    },
+    "Beware button-mimics! (我的宝? fell for it)": {
+        "chi": "Beware button-mimics! (我的宝? fell for it)"
+    },
+    "***THE PIZZA IS AGGRESSIVE*** (towards 林^)": {
+        "chi": "***THE PIZZA IS AGGRESSIVE*** (towards 林^)"
+    },
+    "Now entering: 'Penile Penetration' by 'MoistNoodlez' [#1660173837]": {
+        "chi": "Now entering: 'Penile Penetration' by 'MoistNoodlez' [#1660173837]"
+    },
+    "Golly, OATH got greased!": {
+        "chi": "Golly, OATH got greased!"
+    },
+    "Golly, 请勿打扰 got greased!": {
+        "chi": "Golly, 请勿打扰 got greased!"
+    },
+    "Golly, 骑驴闯天下 got greased!": {
+        "chi": "Golly, 骑驴闯天下 got greased!"
+    },
+    "Golly, 海绵宝宝 got greased!": {
+        "chi": "Golly, 海绵宝宝 got greased!"
+    },
+    "Golly, 路北玄 got greased!": {
+        "chi": "Golly, 路北玄 got greased!"
+    },
+    "Golly, 意乱情迷 got greased!": {
+        "chi": "Golly, 意乱情迷 got greased!"
+    },
+    "Golly, yric391172 got greased!": {
+        "chi": "Golly, yric391172 got greased!"
+    },
+    "Golly, weather report got greased!": {
+        "chi": "Golly, weather report got greased!"
+    },
+    "Golly, 阿曦 got greased!": {
+        "chi": "Golly, 阿曦 got greased!"
+    },
+    "Golly, 发条橙 got greased!": {
+        "chi": "Golly, 发条橙 got greased!"
+    },
+    "Golly, 半岛铁铁铁盒 got greased!": {
+        "chi": "Golly, 半岛铁铁铁盒 got greased!"
+    },
+    "Golly, 老默 got greased!": {
+        "chi": "Golly, 老默 got greased!"
+    },
+    "Golly, 2ykang got greased!": {
+        "chi": "Golly, 2ykang got greased!"
+    },
+    "Golly, 我是布洛芬缓释胶囊你也可以叫我止疼片 got greased!": {
+        "chi": "Golly, 我是布洛芬缓释胶囊你也可以叫我止疼片 got greased!"
+    },
+    "Golly, 炫光舞法朵蜜天女变身 got greased!": {
+        "chi": "Golly, 炫光舞法朵蜜天女变身 got greased!"
+    },
+    "Golly, 五星上将麦克阿杜 got greased!": {
+        "chi": "Golly, 五星上将麦克阿杜 got greased!"
+    },
+    "Golly, bb前照照镜子 got greased!": {
+        "chi": "Golly, bb前照照镜子 got greased!"
+    },
+    "Our human ears are falling deaf...": {
+        "chi": "Our human ears are falling deaf..."
+    },
+    "Now entering: 'zepokemononix' by 'Jussy' [#1650677682]": {
+        "chi": "Now entering: 'zepokemononix' by 'Jussy' [#1650677682]"
+    },
+    "Oh no the baguette broke!": {
+        "chi": "Oh no the baguette broke!"
+    },
+    "Our human ears are starting to work again!": {
+        "chi": "Our human ears are starting to work again!"
+    },
+    "Now entering: 'Leap of Faith' by 'Mini' [#1673638934]": {
+        "chi": "Now entering: 'Leap of Faith' by 'Mini' [#1673638934]"
+    },
+    "请勿打扰 used Rift (entry)": {
+        "chi": "请勿打扰 used Rift (entry)"
+    },
+    "阿曦 used EarthCrystal": {
+        "chi": "阿曦 used EarthCrystal"
+    },
+    "ID_DEATHS|1672268238_0|1673638934_21|1650677682_0|1660173837_9|1673998555_3|1674111650_11|1665992990_3|1663897554_4|": {
+        "chi": "ID_DEATHS|1672268238_0|1673638934_21|1650677682_0|1660173837_9|1673998555_3|1674111650_11|1665992990_3|1663897554_4|"
+    },
+    "[BRIDGE ENDING] YOU LOST!": {
+        "chi": "[BRIDGE ENDING] YOU LOST!"
+    },
+    "Now entering: 'PropHouse' by 'MoistNoodlez' [#1659569960]": {
+        "chi": "Now entering: 'PropHouse' by 'MoistNoodlez' [#1659569960]"
+    },
+    "Now entering: '34outh45987g543bgtry' by 'TF2 Pencil' [#1662412259]": {
+        "chi": "Now entering: '34outh45987g543bgtry' by 'TF2 Pencil' [#1662412259]"
+    },
+    "Now entering: 'Should You Press It' by 'ZpLit' [#1670721474]": {
+        "chi": "Now entering: 'Should You Press It' by 'ZpLit' [#1670721474]"
+    },
+    "请勿打扰 used heal orb": {
+        "chi": "请勿打扰 used heal orb"
+    },
+    "Now entering: 'Backfire' by 'ZpLit' [#1666768750]": {
+        "chi": "Now entering: 'Backfire' by 'ZpLit' [#1666768750]"
+    },
+    "爱摸鱼 triggered a guster": {
+        "chi": "爱摸鱼 triggered a guster"
+    },
+    "Beware item-mimics! (爱摸鱼 fell for it)": {
+        "chi": "Beware item-mimics! (爱摸鱼 fell for it)"
+    },
+    "告诉老默，我想吃鱼了 used heal orb": {
+        "chi": "告诉老默，我想吃鱼了 used heal orb"
+    },
+    "Our grenades are big and strong!": {
+        "chi": "Our grenades are big and strong!"
+    },
+    "Maybe too powerful.. beware knockback!": {
+        "chi": "Maybe too powerful.. beware knockback!"
+    },
+    "Now entering: 'That One' by 'tilgep' [#1657224830]": {
+        "chi": "Now entering: 'That One' by 'tilgep' [#1657224830]"
+    },
+    "路北玄 was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "路北玄 was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "Kevin❤ used heal orb": {
+        "chi": "Kevin❤ used heal orb"
+    },
+    "Our grenades are back to normal now...": {
+        "chi": "Our grenades are back to normal now..."
+    },
+    "[ITEM] human picked up Hackerman": {
+        "chi": "[ITEM] human picked up Hackerman"
+    },
+    "Now entering: 'Let The Items Go Man' by 'ZpLit' [#1670383363]": {
+        "chi": "Now entering: 'Let The Items Go Man' by 'ZpLit' [#1670383363]"
+    },
+    "哑巴6 used Rift (entry)": {
+        "chi": "哑巴6 used Rift (entry)"
+    },
+    "哑巴6 used Rift (exit)": {
+        "chi": "哑巴6 used Rift (exit)"
+    },
+    "ID_DEATHS|1669676177_0|1670383363_7|1660949561_0|1657224830_0|1666768750_3|1670721474_4|1662412259_1|1659569960_1|": {
+        "chi": "ID_DEATHS|1669676177_0|1670383363_7|1660949561_0|1657224830_0|1666768750_3|1670721474_4|1662412259_1|1659569960_1|"
+    },
+    "[BRIDGE ENDING] YOU WON!": {
+        "chi": "[BRIDGE ENDING] YOU WON!"
+    },
+    "[STAGE] you completed stage 3 (frost) - moving on to stage 4 (hell) (SID:#19237af3#)": {
+        "chi": "[STAGE] you completed stage 3 (frost) - moving on to stage 4 (hell) (SID:#19237af3#)"
+    },
+    "Now entering: 'OK Dude' by 'ZpLit' [#1670873631]": {
+        "chi": "Now entering: 'OK Dude' by 'ZpLit' [#1670873631]"
+    },
+    "[ITEM] 我卖你的，不信看demo was not allowed to pick up Z-item 'Roar' due to suspected inflating": {
+        "chi": "[ITEM] 我卖你的，不信看demo was not allowed to pick up Z-item 'Roar' due to suspected inflating"
+    },
+    "[DELAY] you are taking too long": {
+        "chi": "[DELAY] you are taking too long"
+    },
+    "[DELAY] zombies are now invincible": {
+        "chi": "[DELAY] zombies are now invincible"
+    },
+    "[DELAY] (until progression is made)": {
+        "chi": "[DELAY] (until progression is made)"
+    },
+    "ID_DEATHS|1670873631_52|": {
+        "chi": "ID_DEATHS|1670873631_52|"
+    },
+    "[DELAY] you are taking too long - slaying": {
+        "chi": "[DELAY] you are taking too long - slaying"
+    },
+    "Now entering: 'Ikea Factory' by 'sivi' [#1669411822]": {
+        "chi": "Now entering: 'Ikea Factory' by 'sivi' [#1669411822]"
+    },
+    "***END FOUND - GENERATING NEXT MAP IN 15 SECONDS***": {
+        "chi": "***END FOUND - GENERATING NEXT MAP IN 15 SECONDS***"
+    },
+    "Now entering: 'Creepy Crawly' by 'ZpLit' [#1662907677]": {
+        "chi": "Now entering: 'Creepy Crawly' by 'ZpLit' [#1662907677]"
+    },
+    "Watch out for falling debris!": {
+        "chi": "Watch out for falling debris!"
+    },
+    "Now entering: 'defend tp and think' by 'blasian' [#1652493928]": {
+        "chi": "Now entering: 'defend tp and think' by 'blasian' [#1652493928]"
+    },
+    "The debris seems to have stopped falling...": {
+        "chi": "The debris seems to have stopped falling..."
+    },
+    "ID_DEATHS|1652493928_31|1662907677_0|1669411822_28|": {
+        "chi": "ID_DEATHS|1652493928_31|1662907677_0|1669411822_28|"
+    },
+    "Now entering: 'Mountain hike' by 'Luffaren' [#1662905447]": {
+        "chi": "Now entering: 'Mountain hike' by 'Luffaren' [#1662905447]"
+    },
+    "[ITEM] 我卖你的，不信看demo was not allowed to pick up Z-item 'Flight' due to suspected inflating": {
+        "chi": "[ITEM] 我卖你的，不信看demo was not allowed to pick up Z-item 'Flight' due to suspected inflating"
+    },
+    "Now entering: 'CVpaste 4' by 'ZpLit' [#1663041169]": {
+        "chi": "Now entering: 'CVpaste 4' by 'ZpLit' [#1663041169]"
+    },
+    "你渴了去喝水，你别掰我腿啊 used heal orb": {
+        "chi": "你渴了去喝水，你别掰我腿啊 used heal orb"
+    },
+    "海绵宝宝 revealed himself as an impostor, kill him before he kills you!": {
+        "chi": "海绵宝宝 revealed himself as an impostor, kill him before he kills you!"
+    },
+    "Now entering: 'Ramp It Up' by 'Niikos' [#1658189812]": {
+        "chi": "Now entering: 'Ramp It Up' by 'Niikos' [#1658189812]"
+    },
+    "海绵宝宝 (the impostor) is now dead - good job!": {
+        "chi": "海绵宝宝 (the impostor) is now dead - good job!"
+    },
+    "Now entering: 'Telebounce' by 'Luffaren' [#1660316792]": {
+        "chi": "Now entering: 'Telebounce' by 'Luffaren' [#1660316792]"
+    },
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 15 SECONDS***": {
+        "chi": "***END BUTTON PRESSED - GENERATING NEXT MAP IN 15 SECONDS***"
+    },
+    "Now entering: 'Spelunking' by 'sivi' [#1669816938]": {
+        "chi": "Now entering: 'Spelunking' by 'sivi' [#1669816938]"
+    },
+    "***HOLD OPENS IN 8 SECONDS***": {
+        "chi": "***HOLD OPENS IN 8 SECONDS***"
+    },
+    "Beware button-mimics! (weather report fell for it)": {
+        "chi": "Beware button-mimics! (weather report fell for it)"
+    },
+    "拾鸭 used EarthCrystal": {
+        "chi": "拾鸭 used EarthCrystal"
+    },
+    "2405773764 got stoned to death!": {
+        "chi": "2405773764 got stoned to death!"
+    },
+    "请勿打扰 got stoned to death!": {
+        "chi": "请勿打扰 got stoned to death!"
+    },
+    "老默 got stoned to death!": {
+        "chi": "老默 got stoned to death!"
+    },
+    "The fog is turning thick...": {
+        "chi": "The fog is turning thick..."
+    },
+    "Now entering: 'SAM' by 'ZpLit' [#1668076080]": {
+        "chi": "Now entering: 'SAM' by 'ZpLit' [#1668076080]"
+    },
+    "We must find our way through the limited visibility": {
+        "chi": "We must find our way through the limited visibility"
+    },
+    "五星上将麦克阿杜 got stoned to death!": {
+        "chi": "五星上将麦克阿杜 got stoned to death!"
+    },
+    "ID_DEATHS|1668076080_5|1669816938_32|1660316792_1|1658189812_4|1663041169_0|1662905447_7|": {
+        "chi": "ID_DEATHS|1668076080_5|1669816938_32|1660316792_1|1658189812_4|1663041169_0|1662905447_7|"
+    },
+    "Now entering: 'Jump n Strafe' by 'fantasy' [#1655487696]": {
+        "chi": "Now entering: 'Jump n Strafe' by 'fantasy' [#1655487696]"
+    },
+    "[ITEM] 五星上将麦克阿杜 was not allowed to pick up Z-item 'DestructoHammer' due to suspected inflating": {
+        "chi": "[ITEM] 五星上将麦克阿杜 was not allowed to pick up Z-item 'DestructoHammer' due to suspected inflating"
+    },
+    "[ITEM] OATH was not allowed to pick up Z-item 'DestructoHammer' due to suspected inflating": {
+        "chi": "[ITEM] OATH was not allowed to pick up Z-item 'DestructoHammer' due to suspected inflating"
+    },
+    "[ITEM] 拾鸭 was not allowed to pick up Z-item 'Fling' due to suspected inflating": {
+        "chi": "[ITEM] 拾鸭 was not allowed to pick up Z-item 'Fling' due to suspected inflating"
+    },
+    "Now entering: 'Uphills' by 'TF2 Pencil' [#1662050224]": {
+        "chi": "Now entering: 'Uphills' by 'TF2 Pencil' [#1662050224]"
+    },
+    "Now entering: 'Ominous' by 'Block' [#1668314779]": {
+        "chi": "Now entering: 'Ominous' by 'Block' [#1668314779]"
+    },
+    "[ITEM] human picked up BhopSteroids": {
+        "chi": "[ITEM] human picked up BhopSteroids"
+    },
+    "Now entering: 'half pipe' by 'swarm' [#1664472648]": {
+        "chi": "Now entering: 'half pipe' by 'swarm' [#1664472648]"
+    },
+    "XANTARES used heal orb": {
+        "chi": "XANTARES used heal orb"
+    },
+    "Now entering: 'Judgement' by 'Mini' [#1673272535]": {
+        "chi": "Now entering: 'Judgement' by 'Mini' [#1673272535]"
+    },
+    "[ITEM] human picked up DragonSlayer": {
+        "chi": "[ITEM] human picked up DragonSlayer"
+    },
+    "小六六 revealed himself as an impostor, kill him before he kills you!": {
+        "chi": "小六六 revealed himself as an impostor, kill him before he kills you!"
+    },
+    "小六六 (the impostor) is now dead - good job!": {
+        "chi": "小六六 (the impostor) is now dead - good job!"
+    },
+    "Now entering: 'Death Valley' by 'shel1bert' [#1658333712]": {
+        "chi": "Now entering: 'Death Valley' by 'shel1bert' [#1658333712]"
+    },
+    "Now entering: 'Prop Room 4' by 'TF2 Pencil' [#1666470822]": {
+        "chi": "Now entering: 'Prop Room 4' by 'TF2 Pencil' [#1666470822]"
+    },
+    "橘小猪 was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "橘小猪 was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "XANTARES used Rift (entry)": {
+        "chi": "XANTARES used Rift (entry)"
+    },
+    "DestructoHammer destructed DragonSlayer (held by 你渴了去喝水，你别掰我腿啊)": {
+        "chi": "DestructoHammer destructed DragonSlayer (held by 你渴了去喝水，你别掰我腿啊)"
+    },
+    "Now entering: 'Dont Touch TP' by 'TF2 Pencil' [#1666427762]": {
+        "chi": "Now entering: 'Dont Touch TP' by 'TF2 Pencil' [#1666427762]"
+    },
+    "[CLIMB ENDING] WE MUST CLIMB THE TOWER": {
+        "chi": "[CLIMB ENDING] WE MUST CLIMB THE TOWER"
+    },
+    "[CLIMB ENDING] ONLY THE VERY TOP WILL BE SAFE": {
+        "chi": "[CLIMB ENDING] ONLY THE VERY TOP WILL BE SAFE"
+    },
+    "[CLIMB ENDING] NOW GO!": {
+        "chi": "[CLIMB ENDING] NOW GO!"
+    },
+    "[CLIMB ENDING] SURVIVE FOR 100s": {
+        "chi": "[CLIMB ENDING] SURVIVE FOR 100s"
+    },
+    "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 80s": {
+        "chi": "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 80s"
+    },
+    "ID_DEATHS|1658835714_0|1666427762_19|1666470822_1|1658333712_2|1673272535_7|1664472648_2|1668314779_1|1662050224_3|1655487696_20|": {
+        "chi": "ID_DEATHS|1658835714_0|1666427762_19|1666470822_1|1658333712_2|1673272535_7|1664472648_2|1668314779_1|1662050224_3|1655487696_20|"
+    },
+    "[CLIMB ENDING] YOU LOST!": {
+        "chi": "[CLIMB ENDING] YOU LOST!"
+    },
+    "Now entering: 'Tower bridge' by 'Luffaren' [#1661441593]": {
+        "chi": "Now entering: 'Tower bridge' by 'Luffaren' [#1661441593]"
+    },
+    "爱摸鱼 used heal orb": {
+        "chi": "爱摸鱼 used heal orb"
+    },
+    "Now entering: 'Kz Towers' by 'EverReaper' [#1673162308]": {
+        "chi": "Now entering: 'Kz Towers' by 'EverReaper' [#1673162308]"
+    },
+    "Now entering: 'can u guys defense' by 'alli' [#1663828053]": {
+        "chi": "Now entering: 'can u guys defense' by 'alli' [#1663828053]"
+    },
+    "ID_DEATHS|1663828053_26|1673162308_9|1661441593_10|": {
+        "chi": "ID_DEATHS|1663828053_26|1673162308_9|1661441593_10|"
+    },
+    "Now entering: '24' by 'fantasy' [#1659991005]": {
+        "chi": "Now entering: '24' by 'fantasy' [#1659991005]"
+    },
+    "Now entering: 'Hot dynamite' by 'Bomberman' [#1650723504]": {
+        "chi": "Now entering: 'Hot dynamite' by 'Bomberman' [#1650723504]"
+    },
+    "Now entering: 'BACK TO THE KEEP' by 'fara' [#1660853459]": {
+        "chi": "Now entering: 'BACK TO THE KEEP' by 'fara' [#1660853459]"
+    },
+    "Now entering: 'Foxy Boxy' by 'Midran Kidran' [#1650751615]": {
+        "chi": "Now entering: 'Foxy Boxy' by 'Midran Kidran' [#1650751615]"
+    },
+    "意乱情迷 revealed himself as an impostor, kill him before he kills you!": {
+        "chi": "意乱情迷 revealed himself as an impostor, kill him before he kills you!"
+    },
+    "意乱情迷 (the impostor) is now dead - good job!": {
+        "chi": "意乱情迷 (the impostor) is now dead - good job!"
+    },
+    "趁热拿铁cafe used heal orb": {
+        "chi": "趁热拿铁cafe used heal orb"
+    },
+    "ღ゜Dominic✦✧C was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "ღ゜Dominic✦✧C was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "Now entering: 'rampescape' by 'king buzzo' [#1659955220]": {
+        "chi": "Now entering: 'rampescape' by 'king buzzo' [#1659955220]"
+    },
+    "Now entering: 'gradual curve up' by 'chinny' [#1669067938]": {
+        "chi": "Now entering: 'gradual curve up' by 'chinny' [#1669067938]"
+    },
+    "稽巴 revealed himself as an impostor, kill him before he kills you!": {
+        "chi": "稽巴 revealed himself as an impostor, kill him before he kills you!"
+    },
+    "Now entering: 'Cave Mines' by 'TF2 Pencil' [#1662408445]": {
+        "chi": "Now entering: 'Cave Mines' by 'TF2 Pencil' [#1662408445]"
+    },
+    "Now entering: 'Ladder Defense' by 'MoistNoodlez' [#1661024292]": {
+        "chi": "Now entering: 'Ladder Defense' by 'MoistNoodlez' [#1661024292]"
+    },
+    "稽巴 (the impostor) is now dead - good job!": {
+        "chi": "稽巴 (the impostor) is now dead - good job!"
+    },
+    "我的宝? used EarthCrystal": {
+        "chi": "我的宝? used EarthCrystal"
+    },
+    "一根呆头鹅 used Rift (entry)": {
+        "chi": "一根呆头鹅 used Rift (entry)"
+    },
+    "ID_DEATHS|1661872546_0|1661024292_38|1662408445_1|1669067938_0|1659955220_1|1650751615_2|1660853459_0|1650723504_1|1659991005_2|": {
+        "chi": "ID_DEATHS|1661872546_0|1661024292_38|1662408445_1|1669067938_0|1659955220_1|1650751615_2|1660853459_0|1650723504_1|1659991005_2|"
+    },
+    "Now entering: 'EpicCrouchDefense' by 'Niikos' [#1661436399]": {
+        "chi": "Now entering: 'EpicCrouchDefense' by 'Niikos' [#1661436399]"
+    },
+    "G2 Hooxi used heal orb": {
+        "chi": "G2 Hooxi used heal orb"
+    },
+    "Now entering: 'Noobs go ladder' by 'fantasy' [#1658192925]": {
+        "chi": "Now entering: 'Noobs go ladder' by 'fantasy' [#1658192925]"
+    },
+    "你渴了去喝水，你别掰我腿啊 used Rift (entry)": {
+        "chi": "你渴了去喝水，你别掰我腿啊 used Rift (entry)"
+    },
+    "你渴了去喝水，你别掰我腿啊 used Rift (exit)": {
+        "chi": "你渴了去喝水，你别掰我腿啊 used Rift (exit)"
+    },
+    "Now entering: 'Pi' by 'TF2 Pencil' [#1662179039]": {
+        "chi": "Now entering: 'Pi' by 'TF2 Pencil' [#1662179039]"
+    },
+    "Now entering: 'Correct Path' by 'FL00D' [#1668502993]": {
+        "chi": "Now entering: 'Correct Path' by 'FL00D' [#1668502993]"
+    },
+    "小六六 used heal orb": {
+        "chi": "小六六 used heal orb"
+    },
+    "阿曦 was the impostor - good job finding and killing him before he managed to act!": {
+        "chi": "阿曦 was the impostor - good job finding and killing him before he managed to act!"
+    },
+    "Now entering: 'Grab and Out' by 'FL00D' [#1668415366]": {
+        "chi": "Now entering: 'Grab and Out' by 'FL00D' [#1668415366]"
+    },
+    "Now entering: '16' by 'fantasy' [#1659990824]": {
+        "chi": "Now entering: '16' by 'fantasy' [#1659990824]"
+    },
+    "[CLIMB ENDING] 1 angel is approaching": {
+        "chi": "[CLIMB ENDING] 1 angel is approaching"
+    },
+    "[CLIMB ENDING] 2 angels are approaching": {
+        "chi": "[CLIMB ENDING] 2 angels are approaching"
+    },
+    "[CLIMB ENDING] 3 angels are approaching": {
+        "chi": "[CLIMB ENDING] 3 angels are approaching"
+    },
+    "[CLIMB ENDING] 4 angels are approaching": {
+        "chi": "[CLIMB ENDING] 4 angels are approaching"
+    },
+    "[CLIMB ENDING] 5 angels are approaching": {
+        "chi": "[CLIMB ENDING] 5 angels are approaching"
+    },
+    "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 60s": {
+        "chi": "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 60s"
+    },
+    "[CLIMB ENDING] 6 angels are approaching": {
+        "chi": "[CLIMB ENDING] 6 angels are approaching"
+    },
+    "[CLIMB ENDING] 7 angels are approaching": {
+        "chi": "[CLIMB ENDING] 7 angels are approaching"
+    },
+    "[CLIMB ENDING] 8 angels are approaching": {
+        "chi": "[CLIMB ENDING] 8 angels are approaching"
+    },
+    "[CLIMB ENDING] 9 angels are approaching": {
+        "chi": "[CLIMB ENDING] 9 angels are approaching"
+    },
+    "[CLIMB ENDING] 10 angels are approaching": {
+        "chi": "[CLIMB ENDING] 10 angels are approaching"
+    },
+    "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 30s": {
+        "chi": "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 30s"
+    },
+    "ID_DEATHS|1661016405_0|1659990824_27|1668415366_0|1668502993_2|1662179039_1|1658192925_2|1650745147_1|1662050224_0|1661436399_18|": {
+        "chi": "ID_DEATHS|1661016405_0|1659990824_27|1668415366_0|1668502993_2|1662179039_1|1658192925_2|1650745147_1|1662050224_0|1661436399_18|"
+    },
+    "Now entering: 'OverClownfidence' by 'ZpLit' [#1669676177]": {
+        "chi": "Now entering: 'OverClownfidence' by 'ZpLit' [#1669676177]"
+    },
+    "在沙漠里等雨 triggered a flinger": {
+        "chi": "在沙漠里等雨 triggered a flinger"
+    },
+    "开心超人一开心就超人 triggered a flinger": {
+        "chi": "开心超人一开心就超人 triggered a flinger"
+    },
+    "会打枪的喷火龙 triggered a bomb": {
+        "chi": "会打枪的喷火龙 triggered a bomb"
+    },
+    "SCULTURA triggered a flinger": {
+        "chi": "SCULTURA triggered a flinger"
+    },
+    "ID_DEATHS|1667984110_0|1668324130_0|1661449892_2|": {
+        "chi": "ID_DEATHS|1667984110_0|1668324130_0|1661449892_2|"
+    },
+    "Now entering: 'leftandright' by 'MoistNoodlez' [#1658070670]": {
+        "chi": "Now entering: 'leftandright' by 'MoistNoodlez' [#1658070670]"
+    },
+    "Now entering: 'Stupid 1' by 'TF2 Pencil' [#1666341464]": {
+        "chi": "Now entering: 'Stupid 1' by 'TF2 Pencil' [#1666341464]"
+    },
+    "Now entering: 'marathon' by 'chinny' [#1666221574]": {
+        "chi": "Now entering: 'marathon' by 'chinny' [#1666221574]"
+    },
+    "蟑螂恶霸 revealed himself as an impostor, kill him before he kills you!": {
+        "chi": "蟑螂恶霸 revealed himself as an impostor, kill him before he kills you!"
+    },
+    "未央 did not state the pledge": {
+        "chi": "未央 did not state the pledge"
+    },
+    "逢一沐 did not state the pledge": {
+        "chi": "逢一沐 did not state the pledge"
+    },
+    "空枪小子 did not state the pledge": {
+        "chi": "空枪小子 did not state the pledge"
+    },
+    "Jörmungandr did not state the pledge": {
+        "chi": "Jörmungandr did not state the pledge"
+    },
+    "Now entering: 'rotate' by 'issic' [#1650744761]": {
+        "chi": "Now entering: 'rotate' by 'issic' [#1650744761]"
+    },
+    "乐 did not state the pledge": {
+        "chi": "乐 did not state the pledge"
+    },
+    "雎乾 did not state the pledge": {
+        "chi": "雎乾 did not state the pledge"
+    },
+    "找不到春娇的志明无Fuck说 did not state the pledge": {
+        "chi": "找不到春娇的志明无Fuck说 did not state the pledge"
+    },
+    "ID_DEATHS|1650744761_26|1666221574_12|1669816938_5|1666341464_11|": {
+        "chi": "ID_DEATHS|1650744761_26|1666221574_12|1669816938_5|1666341464_11|"
+    },
+    "Now entering: 'Surround' by 'tilgep' [#1653072639]": {
+        "chi": "Now entering: 'Surround' by 'tilgep' [#1653072639]"
+    },
+    "Now entering: 'Ranger' by 'IV' [#1683660487]": {
+        "chi": "Now entering: 'Ranger' by 'IV' [#1683660487]"
+    },
+    "我不是鲸鱼丷 used heal orb": {
+        "chi": "我不是鲸鱼丷 used heal orb"
+    },
+    "Now entering: 'RockClimbing V2' by 'MoistNoodlez' [#1661209503]": {
+        "chi": "Now entering: 'RockClimbing V2' by 'MoistNoodlez' [#1661209503]"
+    },
+    "Now entering: 'Hallways of peril' by 'Luffaren' [#1660316891]": {
+        "chi": "Now entering: 'Hallways of peril' by 'Luffaren' [#1660316891]"
+    },
+    "Now entering: 'Slide' by 'Jando' [#1652828974]": {
+        "chi": "Now entering: 'Slide' by 'Jando' [#1652828974]"
+    },
+    "Chen used heal orb": {
+        "chi": "Chen used heal orb"
+    },
+    "[STAGE] you completed stage 1 (factory) - moving on to stage 2 (hell) (SID:#49313a0e#)": {
+        "chi": "[STAGE] you completed stage 1 (factory) - moving on to stage 2 (hell) (SID:#49313a0e#)"
+    }
+}

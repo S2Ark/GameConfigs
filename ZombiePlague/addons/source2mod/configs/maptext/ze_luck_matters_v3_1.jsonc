@@ -1,0 +1,173 @@
+{
+    "***Round Failed: Zombie Reached The Top***": {
+        "chi": "***僵尸登上了顶部 我们失败了***"
+    },
+    "***60s left to trigger towers***": {
+        "chi": "***60秒后塔楼将会被触发***"
+    },
+    "***5s left to trigger towers***": {
+        "chi": "***5秒后我们将登上塔顶 展开最后一战！***"
+    },
+    "***Map made by W...***": {
+        "chi": "***地图由w制作 翻译：小奏鱼***"
+    },
+    "***Congrats!!!***": {
+        "chi": "***恭喜你 征服了本关卡！！***"
+    },
+    "***Dodge The Lasers***": {
+        "chi": "***现在 迎接跳刀！***"
+    },
+    "***Defend10s***": {
+        "chi": "***坚守10秒***"
+    },
+    "***Path opens in 20s***": {
+        "chi": "***20秒后才会出现路***"
+    },
+    "***Hold for 25s***": {
+        "chi": "***守住25秒***"
+    },
+    "***Hold for 5s***": {
+        "chi": "***还有5秒***"
+    },
+    "***Paths open in 25s***": {
+        "chi": "***路将在25秒后出现***"
+    },
+    "***Path opens in 15s***": {
+        "chi": "***路将会在15秒后出现***"
+    },
+    "***Wall Item Picked Up***": {
+        "chi": "***有人捡到了墙***"
+    },
+    "***Defend Both Sides***": {
+        "chi": "***防守两边***"
+    },
+    "***Paths are Open***": {
+        "chi": "***路开了***"
+    },
+    "***Paths Open in 5s***": {
+        "chi": "***还有5秒开门***"
+    },
+    "***Go Left and Right***": {
+        "chi": "***左右都需要去人***"
+    },
+    "***Defend Sides Until TP***": {
+        "chi": "***防守两边 直到僵尸传送***"
+    },
+    "***Few Go Down Middle For Trigger***": {
+        "chi": "***一些人从中间下去触发***"
+    },
+    "***Dont Trust The White Lasers***": {
+        "chi": "***白色的跳刀与正常的跳刀是相反的***"
+    },
+    "***Tower 1 Triggered***": {
+        "chi": "***第一个能量塔已被激活***"
+    },
+    "***Run To The Diamond In The Middle***": {
+        "chi": "***快去中间的位置***"
+    },
+    "***Teleport Activates in 30s***": {
+        "chi": "***传送将会在30秒后激活***"
+    },
+    "***Teleport Activates in 10s***": {
+        "chi": "***还有10秒 激活传送***"
+    },
+    "***Teleport Activates in 5s***": {
+        "chi": "***还有最后五秒***"
+    },
+    "***Push Item Picked Up***": {
+        "chi": "***风已被拾取***"
+    },
+    "***Freeze Item Picked Up***": {
+        "chi": "***冰已被拾取***"
+    },
+    "***Teleport in 15s***": {
+        "chi": "***15秒后激活传送***"
+    },
+    "***Tower 2 Triggered***": {
+        "chi": "***第二座能量塔也已被触发***"
+    },
+    "***Teleport In 15s***": {
+        "chi": "***15秒后激活传送***"
+    },
+    "***Teleport Active***": {
+        "chi": "***时空之门已被打开 进入传送***"
+    },
+    "***Hold For 20s***": {
+        "chi": "***坚守20秒***"
+    },
+    "***Teleport Active In 25s***": {
+        "chi": "***传送之门25秒后打开***"
+    },
+    "***Trigger Left & Right Platforms***": {
+        "chi": "***触发左右两边的机关***"
+    },
+    "***Then Trigger Middle Platform***": {
+        "chi": "***现在 前往中间触发***"
+    },
+    "***Survive 25s more***": {
+        "chi": "***再存活25秒***"
+    },
+    "***Doors Open In 35s***": {
+        "chi": "***坚守35秒***"
+    },
+    "***Doors Open In 5s***": {
+        "chi": "***还有5秒开门***"
+    },
+    "***Fall Back***": {
+        "chi": "***撤退！***"
+    },
+    "***AFK Teleport in 10s***": {
+        "chi": "***挂机玩家将会在10秒后传送***"
+    },
+    "***AFK Teleport in 5s***": {
+        "chi": "***挂机玩家5秒后传送***"
+    },
+    "***Survive***": {
+        "chi": "***存活***"
+    },
+    "***5s left*** ": {
+        "chi": "***还有5秒*** "
+    },
+    "***Hold For 35s*** ": {
+        "chi": "***坚守35秒*** "
+    },
+    "***Fall Back*** ": {
+        "chi": "***撤退*** "
+    },
+    "***25s Left Before Teleport***": {
+        "chi": "***还有25秒传送***"
+    },
+    "***5s Left Before Teleport***": {
+        "chi": "***最后5秒***"
+    },
+    "***Survive!!!***": {
+        "chi": "***存活***"
+    },
+    "***Teleport Activates in 25s***": {
+        "chi": "***25秒后激活传送***"
+    },
+    "--- zombie can go in 7 seconds ---": {
+        "chi": "***守住***"
+    },
+    "***Door Is Open***": {
+        "chi": "***门开了***"
+    },
+    "***Door Opens In 5s***": {
+        "chi": "***门在5秒后打开***"
+    },
+    "***Platform Will Rise in 30s***": {
+        "chi": "***平台在30秒后上升***"
+    },
+    "***Platform is Rising***": {
+        "chi": "***平台开始上升了***"
+    },
+    "***Platform Will Rise in 5s***": {
+        "chi": "***平台在5秒后上升***"
+    },
+    "***Platform Will Rise in10s***": {
+        "chi": "***平台在10秒后上升***"
+    },
+    "***5s Left***": {
+        "chi": "***还有5秒***"
+    }
+}

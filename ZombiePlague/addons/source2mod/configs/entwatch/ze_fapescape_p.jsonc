@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Ultimate Weapon",
+        "shortname": "Ultima",
+        "hammerid": "108",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "darkblue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "105"
+            },
+            {
+                "hammerid": "62",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 150,
+                "maxuses": 0,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Oreo Heal",
+        "shortname": "Heal",
+        "hammerid": "752",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "darkblue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "753",
+                "event": "OnPlayerUse",
+                "mode": 3,
+                "cooldown": 5,
+                "maxuses": 1,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Ammo Box",
+        "shortname": "Ammo",
+        "hammerid": "2142",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "orange",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "2157"
+            },
+            {
+                "hammerid": "2159",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 60,
+                "maxuses": 0,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Flamethrower",
+        "shortname": "Flame",
+        "hammerid": "810",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "804"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "809",
+                "mode": 5,
+                "offset": [0, -1980],
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Push Gun",
+        "shortname": "Push",
+        "hammerid": "755",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "blue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "756"
+            },
+            {
+                "hammerid": "1144",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 45,
+                "maxuses": 0,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Explosive Mines",
+        "shortname": "Mines",
+        "hammerid": "744",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "yellow",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "742"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "746",
+                "mode": 3,
+                "cooldown": 2,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Lego Maker",
+        "shortname": "Lego",
+        "hammerid": "783",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "green",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "781"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "784",
+                "mode": 3,
+                "cooldown": 3,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Hand Cannon",
+        "shortname": "Cannon",
+        "hammerid": "2186",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red2",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "2184"
+            }
+        ]
+    },
+    {
+        "name": "Grenade Maker",
+        "shortname": "Grenades",
+        "hammerid": "736",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "olive",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "737"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "2031",
+                "mode": 3,
+                "cooldown": 5,
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Kim",
+        "shortname": "Kim",
+        "hammerid": "1256",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red"
+    },
+    {
+        "name": "Pass",
+        "shortname": "Pass",
+        "hammerid": "1268",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red"
+    },
+    {
+        "name": "Banana",
+        "shortname": "Banana",
+        "hammerid": "2541",
+        "message": true,
+        "ui": false,
+        "transfer": true,
+        "color": "yellow",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "2542"
+            }
+        ]
+    }
+]

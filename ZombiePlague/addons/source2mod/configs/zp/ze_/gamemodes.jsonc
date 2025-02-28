@@ -1,0 +1,38 @@
+{
+    "table": [
+        {
+            "name": "zombie escape",
+            "displayname": "僵尸逃跑",
+            "chance": 0,
+            "min": 0,
+            "ratio": 0.175,
+            "health_zombie": 1500,
+            "health_human": 0,
+            "start": "",
+            "end_human": "topgaming.zp.round.human_win",
+            "end_zombie": "topgaming.zp.round.zombie_win",
+            "end_draw": "topgaming.zp.round.human_win",
+            "ambient": "topgaming.zp.ambience",
+            "infect": true,
+            "respawn": true,
+            "humanclass": "human",
+            "zombieclass": "zombie",
+            "overlay_human": "",
+            "overlay_zombie": "",
+            "overlay_draw": "",
+            "deathmatch": 2,
+            "amount": 9999,
+            "delay": 5.0,
+            "last": 1,
+            "suicide": false,
+            "escape": false,
+            "blast": true,
+            "xray": false,
+            "regen": true,
+            "skill": true,
+            "leapjump": false,
+            "weapon": true,
+            "extraitem": true
+        }
+    ]
+}

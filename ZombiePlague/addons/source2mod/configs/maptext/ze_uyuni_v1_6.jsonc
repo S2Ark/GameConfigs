@@ -1,0 +1,146 @@
+{
+    "< ze_Uyuni >": {
+        "chi": "< Uyuni 地图作者Pohmian/Mochi >"
+    },
+    "< Map by Pohmian/Mochi >": {
+        "chi": "<  c1M 翻译 | 如有错误请及时联系修改  >"
+    },
+    "< It is recommended to set Shader Detail to HIGH or higher >": {
+        "chi": "< 作者建议设置高光影效果 >"
+    },
+    "<Defend 25 seconds>": {
+        "chi": "<防守25秒>"
+    },
+    "< A zombie picked up Mortal Light  >": {
+        "chi": "< 僵尸捡起了ZM秒杀  >"
+    },
+    "< A zombie picked up Abyss Light  >": {
+        "chi": "< 僵尸捡起了ZM黑洞  >"
+    },
+    "< A zombie picked up Fallen Light  >": {
+        "chi": "< 僵尸捡起了ZM加速 >"
+    },
+    "<Keep Defending 20 seconds>": {
+        "chi": "<继续防守20秒>"
+    },
+    "< A player picked up Gale Light  >": {
+        "chi": "< 玩家捡起了风  >"
+    },
+    "<Defend 30 seconds>": {
+        "chi": "<防守30秒>"
+    },
+    "< A player picked up Holy Light  >": {
+        "chi": "< 玩家捡起了圣女救赎 >"
+    },
+    "<Hold 30 seconds>": {
+        "chi": "<防守30秒>"
+    },
+    "<The Gate open in 20 seconds>": {
+        "chi": "<门20秒后打开>"
+    },
+    "< ZM Items are disabled >": {
+        "chi": "< ZM神器已禁用 >"
+    },
+    "***Shooting Star***": {
+        "chi": "***流星雨 躲避流星!***"
+    },
+    "***Snow Prism***": {
+        "chi": "***雪棱镜  蹲下躲避伤害***"
+    },
+    "***ZM***": {
+        "chi": "***僵尸来袭***"
+    },
+    "***Suction Mist***": {
+        "chi": "***薄雾 按S抵抗吸力!***"
+    },
+    "***Super Snow Storm***": {
+        "chi": "***雪风暴 躲避蓝色光线!***"
+    },
+    "<20 seconds>": {
+        "chi": "<坚守20秒>"
+    },
+    "<You won Normal Mode>": {
+        "chi": "<你战胜了Normal难度>"
+    },
+    "< A player picked up Warm Light  >": {
+        "chi": "< 玩家捡起了烈火 >"
+    },
+    "<Defend 20 seconds>": {
+        "chi": "<防守20秒>"
+    },
+    "< A player picked up Cool Light >": {
+        "chi": "< 玩家捡起了冰 >"
+    },
+    "<Hold 25 seconds>": {
+        "chi": "<防守25秒>"
+    },
+    "<Hold 15 seconds>": {
+        "chi": "<防守15秒>"
+    },
+    "<The Gate opens in 20 seconds>": {
+        "chi": "<门20秒后打开>"
+    },
+    "<Defend 35 seconds>": {
+        "chi": "<防守35秒>"
+    },
+    "< Keep defending >": {
+        "chi": "< 继续防守 >"
+    },
+    "< Defend for 20 seconds >": {
+        "chi": "< 防守20秒 >"
+    },
+    "< 25 >": {
+        "chi": "< 25 >"
+    },
+    "< Hold here >": {
+        "chi": "< 守住这里 >"
+    },
+    "< Defend for 15 seconds >": {
+        "chi": "< 防守15秒 >"
+    },
+    "< 15 >": {
+        "chi": "< 15 >"
+    },
+    "< You won Hard Mode >": {
+        "chi": "< 你战胜了HardMode >"
+    },
+    "< Gods lights are now ready >": {
+        "chi": "< 圣女救赎已经准备好了 >"
+    },
+    "< Chase the light >": {
+        "chi": "< 追逐光明 !!!>"
+    },
+    "< Do not let zombies touch the light >": {
+        "chi": "< 不要让僵尸接近光球! >"
+    },
+    "< Defend for 30 seconds >": {
+        "chi": "< 防守30秒 >"
+    },
+    "< Round Failed >": {
+        "chi": "< 回合失败 >"
+    },
+    "< A zombie picked up Gravity Light  >": {
+        "chi": "< 僵尸捡起了重力  >"
+    },
+    "< The gate opens in 30 seconds >": {
+        "chi": "< 大门在30秒内打开 >"
+    },
+    "< Defend for 25 seconds>": {
+        "chi": "< 防守25秒>"
+    },
+    "< Defend for 35 seconds >": {
+        "chi": "< 防守35秒 >"
+    },
+    "< Teleport activates in 20 seconds >": {
+        "chi": "< 20秒后传送 >"
+    },
+    "< The Possessed Light >": {
+        "chi": "< The Possessed Light >"
+    },
+    "< You won endless mode >": {
+        "chi": "< 你赢得了endless模式 >"
+    },
+    "< A player picked up Rainbow Squares >": {
+        "chi": "< A player picked up Rainbow Squares >"
+    }
+}

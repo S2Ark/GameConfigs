@@ -1,0 +1,332 @@
+{
+    ">>> Map made by Moray <<<": {
+        "chi": "作者 Moray 汉化 萌爱"
+    },
+    ">>> Stage1 Activated <<<": {
+        "chi": ">>>第一关<<<"
+    },
+    ">>> Stage2 Activated <<<": {
+        "chi": ">>>第二关<<<"
+    },
+    ">>> Stage5 Activated <<<": {
+        "chi": ">>> 第五关 <<<"
+    },
+    ">>> Stage3 Activated <<<": {
+        "chi": ">>> 第三关 <<<"
+    },
+    ">>> Stage6 Activated <<<": {
+        "chi": ">>> 第六关 <<<"
+    },
+    ">>> HOLD 20 SECONDS <<<": {
+        "chi": "防守20秒"
+    },
+    ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "挂机玩家10秒后传送"
+    },
+    ">>> HOLD 15 SECONDS <<<": {
+        "chi": "防守15秒"
+    },
+    ">>> SHORTCUT IS OPENING IN 10 SECONDS <<<": {
+        "chi": "捷径10秒后打开"
+    },
+    ">>> HOLD 30 SECONDS <<<": {
+        "chi": "防守30秒"
+    },
+    ">>> PORYGON USED CONVERSION <<<": {
+        "chi": ">>> PORYGON使用转换 <<<"
+    },
+    ">>> PORYGON IS COMING <<<": {
+        "chi": ">>> PORYGON 已降临 <<<"
+    },
+    ">>> HOLD 10 SECONDS <<<": {
+        "chi": "防守10秒"
+    },
+    ">>> THE TANK IS COMING <<<": {
+        "chi": "坦克来了"
+    },
+    ">>> GOLEM USED QUAKE <<<": {
+        "chi": ">>> GOLEM 使用地震 <<<"
+    },
+    ">>> GOLEM USED BEAM <<<": {
+        "chi": ">>> GOLEM 使用光束炮 <<<"
+    },
+    ">>> GOLEM USED FALLING BLOCK <<<": {
+        "chi": ">>> GOLEM 使用封锁 <<<"
+    },
+    ">>> GOLEM USED CLUSTER BLOCK <<<": {
+        "chi": ">>> GOLEM 使用禁锢 <<<"
+    },
+    ">>> ROUTE 1 : HOLD 10 SECONDS <<<": {
+        "chi": "路线1:10秒后开启"
+    },
+    ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
+        "chi": ">>> 路线1:20秒后开启 <<<"
+    },
+    ">>> ROUTE 2 : HOLD 15 SECONDS <<<": {
+        "chi": "路线2：大门15秒后开启"
+    },
+    ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
+        "chi": ">>> 路线2：大门20秒后开启 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ROCKET LAUNCHER <<<": {
+        "chi": "玩家拾取火箭炮"
+    },
+    ">>> PLAYER HAS PICKED UP FLAMETHROWER <<<": {
+        "chi": "玩家拾取喷火器"
+    },
+    ">>> FLAMETHROWER FUEL RUNS OUT <<<": {
+        "chi": "喷火器燃料已用尽"
+    },
+    ">>> PLAYER HAS PICKED UP GATLING <<<": {
+        "chi": "玩家拾取加特林"
+    },
+    ">>> GATLING AMMO RUNS OUT <<<": {
+        "chi": "加特林弹药已用尽"
+    },
+    ">>> PLAYER HAS PICKED UP HEAL <<<": {
+        "chi": "玩家拾取奶"
+    },
+    ">>> PLAYER HAS PICKED UP AMMO <<<": {
+        "chi": "玩家拾取弹药"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<": {
+        "chi": "僵尸黑洞已被拾取"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+        "chi": "僵尸奶已被拾取"
+    },
+    ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+        "chi": "玩家拾取彩虹光炮"
+    },
+    ">>> PLAYER HAS PICKED UP PUSH <<<": {
+        "chi": "玩家拾取推力"
+    },
+    ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<": {
+        "chi": "玩家拾取减速"
+    },
+    ">>> GOLEM IS COMING <<<": {
+        "chi": ">>> GOLEM 已降临 <<<"
+    },
+    ">>> GOLEM SUMMONED PROTECT CRYSTAL <<<": {
+        "chi": ">>> GOLEM 保护了自己L <<<"
+    },
+    ">>> DIFFICULTY : NORMAL <<<": {
+        "chi": ">>>难度 :普通 <<<"
+    },
+    ">>> STAGE 1 : WATERFALL PLAIN <<<": {
+        "chi": ">>> 第一关 : 瀑布 <<<"
+    },
+    ">>> STAGE 2 : RIVERSIDE CITY <<<": {
+        "chi": ">>> 第二关 : 湖畔小城 <<<"
+    },
+    ">>> STAGE 3 : RIDGE TEMPLES <<<": {
+        "chi": ">>> 第三关 : 山中神庙 <<<"
+    },
+    ">>> STAGE 4 : WATERFALL PLAIN <<<": {
+        "chi": ">>> 第四关 : 深渊瀑布 <<<"
+    },
+    ">>> STAGE 5 : RIVERSIDE CITY <<<": {
+        "chi": ">>> 第五关 : 噩梦小城<<<"
+    },
+    ">>> STAGE 6 : RIDGE TEMPLES <<<": {
+        "chi": ">>> 第六关 : 独断万古 <<<"
+    },
+    ">>> STAGE 0 : UNDERWORLD <<<": {
+        "chi": ">>> 神秘关卡 : 地底 <<<"
+    },
+    ">>> HOLD 5 SECONDS <<<": {
+        "chi": "防守5秒"
+    },
+    ">>> THE BARRIERS ARE DISABLING IN 20 SECONDS <<<": {
+        "chi": "屏障20秒后开启"
+    },
+    "原文>>> THE BARRIERS ARE DISABLING IN 10 SECONDS <<<本": {
+        "chi": ">>> 屏障10秒后开启 <<<"
+    },
+    ">>> ZOMBIES TAKE THE STAIRS <<<": {
+        "chi": "僵尸侧路已开放"
+    },
+    ">>> ELEVATOR HAS STOPPED ACCIDENTALLY <<<": {
+        "chi": "电梯已停止"
+    },
+    ">>> GO TO THE SWITCHBOARD AND FIX IT <<<": {
+        "chi": "去修好电梯"
+    },
+    ">>> HELICOPTER IS DEPARTING IN 15 SECONDS <<<": {
+        "chi": "直升机15秒后起飞"
+    },
+    ">>> HELICOPTER IS DEPARTING IN 25 SECONDS <<<": {
+        "chi": "直升机25秒后起飞"
+    },
+    ">>> PORYGON USED TRI ATTACK <<<": {
+        "chi": ">>> PORYGON 使用 TRI 攻击 <<<"
+    },
+    ">>> PORYGON USED DISCHARGE <<<": {
+        "chi": ">>> PORYGON 使用放屁 <<<"
+    },
+    ">>> PORYGON USED TELEPORT <<<": {
+        "chi": ">>> PORYGON使用瞬移<<<"
+    },
+    ">>> PORYGON USED ZAP CANNON <<<": {
+        "chi": ">>> PORYGON 使用加农炮 <<<"
+    },
+    ">>> PORYGON USED SIGNAL BEAM <<<": {
+        "chi": ">>> PORYGON使用信号光束<<<"
+    },
+    ">>> PORYGON USED PSYSHOCK <<<": {
+        "chi": ">>> PORYGON 使用心灵冲击 <<<"
+    },
+    ">>> PORYGON USED PSYBEAM <<<": {
+        "chi": ">>> PORYGON 使用幻象光线 <<<"
+    },
+    ">>> PORYGON HAS BEEN DEFEATED <<<": {
+        "chi": ">>> PORYGON 被击败了 <<<"
+    },
+    ">>> THE TANK HAS BEEN DEFEATED <<<": {
+        "chi": ">>> 坦克被击败了 <<<"
+    },
+    ">>> THE PLATFORM IS MOVING IN 10 SECONDS <<<": {
+        "chi": "平台10秒后移动"
+    },
+    ">>> GOLEM HAS BEEN DEFEATED <<<": {
+        "chi": ">>> GOLEM 被击败了 <<<"
+    },
+    ">>> IFRIT HAS BEEN DEFEATED <<<": {
+        "chi": ">>> IFRIT被击败了 <<<"
+    },
+    ">>> UFO IS COMING <<<": {
+        "chi": ">>> UFO 已到来 <<<"
+    },
+    ">>> AIRCRAFT HAS BEEN DEFEATED <<<": {
+        "chi": ">>> AIRCRAFT被击败了 <<<"
+    },
+    ">>> UFO HAS BEEN DEFEATED <<<": {
+        "chi": ">>> UFO 被击败了<<<"
+    },
+    ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
+        "chi": "僵尸5秒后传送"
+    },
+    ">>> EXIT DOORS ARE OPENING IN 100 SECONDS <<<": {
+        "chi": "出口100秒后打开"
+    },
+    ">>> 60 SECONDS LEFT <<<": {
+        "chi": "剩余60秒"
+    },
+    ">>> 30 SECONDS LEFT <<<": {
+        "chi": "剩余30秒"
+    },
+    ">>> 10 SECONDS LEFT <<<": {
+        "chi": "剩余10秒"
+    },
+    ">>> EXIT DOORS ARE OPENING IN 120 SECONDS <<<": {
+        "chi": ">>> 出口120秒后开启 <<<"
+    },
+    ">>> BOAT IS DEPARTING IN 25 SECONDS <<<": {
+        "chi": "小船25秒后出发"
+    },
+    ">>> STAGE4 COMPLETED <<<": {
+        "chi": ">>> 第四关  已通过 <<<"
+    },
+    ">>> STAGE1 COMPLETED <<<": {
+        "chi": ">>> 第一关 已通过 <<<"
+    },
+    ">>> ROUND FAILED <<<": {
+        "chi": "关卡失败"
+    },
+    ">>> HOLD 25 SECONDS <<<": {
+        "chi": "防守25秒"
+    },
+    ">>> THE PROTECT HAS BEEN BROKEN <<<": {
+        "chi": "保护装置已失效"
+    },
+    ">>> SHOOT HIS FACE <<<": {
+        "chi": "射击那张脸"
+    },
+    ">>> IFRIT IS COMING <<<": {
+        "chi": ">>> IFRIT已降临 <<<"
+    },
+    ">>> IFRIT USED LAVA RAIN <<<": {
+        "chi": ">>> IFRIT 使用熔岩雨 <<<"
+    },
+    ">>> IFRIT SUMMONED MINIONS <<<": {
+        "chi": ">>> IFRIT 召唤了小精灵 <<<"
+    },
+    ">>> IFRIT USED ORBITAL CANNON <<<": {
+        "chi": ">>> IFRIT 使用加农炮 <<<"
+    },
+    ">>> IFRIT USED DETONATION <<<": {
+        "chi": ">>> IFRIT 使用爆破 <<<"
+    },
+    ">>> AIRCRAFT IS COMING <<<": {
+        "chi": ">>> AIRCRAFT 已降临 <<<"
+    },
+    ">>> THE GATE IS CLOSING <<<": {
+        "chi": "大门正在关闭"
+    },
+    ">>> STAGE6 COMPLETED <<<": {
+        "chi": ">>> 第六关已通过 <<<"
+    },
+    ">>> STAGE3 COMPLETED <<<": {
+        "chi": ">>> 第三关已通过 <<<"
+    },
+    ">>> THE GUARDIANS ARE BLOCKING THE WAY <<<": {
+        "chi": "卫兵挡住了路"
+    },
+    ">>> ELEVATOR IS LEAVING IN 15 SECONDS <<<": {
+        "chi": "电梯15秒后离开"
+    },
+    ">>> ROUTE1 : HOLD 15 SECONDS <<<": {
+        "chi": "路线1：大门15秒后开启"
+    },
+    ">>> ROUTE2 : HOLD 15 SECONDS <<<": {
+        "chi": "路线2：大门15秒后开启"
+    },
+    ">>> ROUTE2 : AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "路线2：挂机玩家10秒后传送"
+    },
+    ">>> ROUTE1 : HOLD 25 SECONDS <<<": {
+        "chi": "路线1：大门25秒后开启"
+    },
+    ">>> ROUTE1 : AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "路线1：挂机玩家10秒后传送"
+    },
+    ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
+        "chi": "路线1：大门20秒后开启"
+    },
+    ">>> ELEVATOR2 IS LEAVING IN 15 SECONDS <<<": {
+        "chi": "电梯2将在15秒后离开"
+    },
+    ">>> ELEVATOR1 IS LEAVING IN 15 SECONDS <<<": {
+        "chi": "电梯1将在15秒后离开"
+    },
+    ">>> THE ARMYS ARE COMING <<<": {
+        "chi": "装甲即将降临"
+    },
+    ">>> TRAINS ARE LEAVING IN 15 SECONDS <<<": {
+        "chi": "火车15秒后出发"
+    },
+    ">>> ELEVATOR IS LEAVING IN 20 SECONDS <<<": {
+        "chi": "电梯20秒后离开"
+    },
+    ">>> KILL THE GUARDIANS <<<": {
+        "chi": "击败卫兵"
+    },
+    ">>> ELEVATOR IS LEAVING IN 25 SECONDS <<<": {
+        "chi": "电梯25秒后离开"
+    },
+    ">>> STAGE5 COMPLETED <<<": {
+        "chi": ">>> 第五关已通过 <<<"
+    },
+    ">>> STAGE2 COMPLETED <<<": {
+        "chi": ">>> 第二关已通过 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP BEAMRIFLE <<<": {
+        "chi": "玩家拾取光束炮"
+    },
+    ">>> PLAYER HAS PICKED UP TOXIC LAUNCHER <<<": {
+        "chi": "玩家拾取毒"
+    },
+    ">>> PLAYER HAS PICKED UP SLUGGER <<<": {
+        "chi": "玩家拾取重机枪"
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "** MAP BY SLAYERDRAGON **": {
+        "chi": "** 作者 SLAYERDRAGON 汉化:萌爱**"
+    },
+    "** LEVEL 1 (EASY) **": {
+        "chi": "** LEVEL 1 (EASY) **"
+    },
+    "** DOOR OPENS IN 10 SECONDS **": {
+        "chi": "** 大门10秒后打开 **"
+    },
+    "** DOOR OPENS IN 15 SECONDS **": {
+        "chi": "** 大门打开还有15秒 **"
+    },
+    "** 5 MORE SECONDS LEFT **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** AMMO GUN - 40 sec cooldown **": {
+        "chi": "** 弹药-40秒CD **"
+    },
+    "** Button A1 pressed **": {
+        "chi": "** 按钮1被按下 **"
+    },
+    "** Button A3 Pressed **": {
+        "chi": "** 按钮3被按下 **"
+    },
+    "** Button A2 pressed **": {
+        "chi": "** 按钮2被按下 **"
+    },
+    "** ALL BUTTONS HAVE BEEN PRESSED **": {
+        "chi": "** 所有的按钮都已被按下 **"
+    },
+    "** DEFEND 20 SECONDS **": {
+        "chi": "** 守住20秒 **"
+    },
+    "** DEFEND 5 MORE SECONDS **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** Button B1 Pressed **": {
+        "chi": "** 按钮1被按下 **"
+    },
+    "** Button B3 Pressed **": {
+        "chi": "** 按钮3被按下 **"
+    },
+    "** Button B2 Pressed **": {
+        "chi": "** 按钮2被按下 **"
+    },
+    "** GO TO THE CENTRAL BUILDING... **": {
+        "chi": "** 前往大楼... **"
+    },
+    "** ... AND WAIT FOR EVACUATION **": {
+        "chi": "** 等待救援 **"
+    },
+    "** DEFEND 10 SECONDS **": {
+        "chi": "**防守 10秒 **"
+    },
+    "** END OF THE LINE !! **": {
+        "chi": "** 前面没有路了 !! **"
+    },
+    "** HOLD THIS POSITION FOR 60 SECONDS !! **": {
+        "chi": "** 在天台上守住60秒 !! **"
+    },
+    "** 50 SECONDS REMAINING **": {
+        "chi": "** 还剩50秒 **"
+    },
+    "** 40 SECONDS REMAINING **": {
+        "chi": "** 还剩40秒 **"
+    },
+    "** 30 SECONDS REMAINING **": {
+        "chi": "** 还剩30秒 **"
+    },
+    "** 20 SECONDS REMAINING **": {
+        "chi": "** 还剩20秒 **"
+    },
+    "** 10 SECONDS REMAINING **": {
+        "chi": "** 还剩10秒 **"
+    },
+    "** 5 SECONDS REMAINING **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** U WON LEVEL 1 (EASY) **": {
+        "chi": "** 你们通过了 LEVEL 1 (EASY) **"
+    },
+    "** LEVEL 2 (BOSS) **": {
+        "chi": "** LEVEL 2 (BOSS) **"
+    },
+    "** FIRE BARREL - 50 sec cooldown **": {
+        "chi": "** 炸药桶 - 50 秒CD **"
+    },
+    "** DJ IN DA HOUSE !! **": {
+        "chi": "** DJ?? !! **"
+    },
+    "[MUSIC] REAL2REAL - I Like To Move It": {
+        "chi": "[MUSIC] REAL2REAL - I Like To Move It"
+    },
+    "** GATE WILL OPEN IN 15 SECONDS **": {
+        "chi": "** 大门15秒后打开 **"
+    },
+    "** GATE WILL OPEN IN 5 SECONDS **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** GATE WILL CLOSE IN 10 SECONDS **": {
+        "chi": "** 大门10秒后关闭 **"
+    },
+    "** OH NOES! ITs PEDOBEAR !! **": {
+        "chi": "** 艹 !萝莉熊想要消灭我们! **"
+    },
+    "** KILL IT BEFORE IT RAPES EVERYONE !! **": {
+        "chi": "** 消灭萝莉熊 !! **"
+    },
+    "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **": {
+        "chi": "** 投掷物能造成更多伤害 !! **"
+    },
+    "** PEDOBEAR HAS BEEN DEFEATED **": {
+        "chi": "** 萝莉熊被打败了 **"
+    },
+    "[MUSIC] PENDULUM - Encoder ": {
+        "chi": "[MUSIC] PENDULUM - Encoder "
+    },
+    "** SECRET ENCODER COMPLETED **": {
+        "chi": "** 密码编译器完成 **"
+    },
+    "** ENEMY CHOPPER INBOUND **": {
+        "chi": "** 敌方直升机正在进攻 **"
+    },
+    "** YOU CAN KILL IT OR LEAVE IT !! **": {
+        "chi": "** 你们可以消灭它或者无视它 !! **"
+    },
+    "** U WON LEVEL 2 (BOSS) **": {
+        "chi": "** 你们通过了LEVEL 2 (BOSS) **"
+    },
+    "** LEVEL 3 (HARD) **": {
+        "chi": "** LEVEL 3 (HARD) **"
+    },
+    "** SECRETS 1 of 5 FOUND **": {
+        "chi": "** 你们发现了了1/5的彩蛋 **"
+    },
+    "** FREEZE BOTTLE - 50 sec cooldown **": {
+        "chi": "** 冰冻- 50 秒CD **"
+    },
+    "[MUSIC] EIFEL 65 - Blue": {
+        "chi": "[MUSIC] EIFEL 65 - Blue"
+    },
+    "** SECRET BLUE WORLD COMPLETED **": {
+        "chi": "** 蓝色世界打开 **"
+    },
+    "** U WON LEVEL 3 (HARD) **": {
+        "chi": "** 你们通关了 LEVEL 3 (HARD) **"
+    },
+    "** LEVEL 4 (BOSS) **": {
+        "chi": "** LEVEL 4 (BOSS) **"
+    },
+    "** SECRETS 2 of 5 FOUND **": {
+        "chi": "** 你们发现了2/5的彩蛋 **"
+    },
+    "** ADMIN chose LEVEL 1 for NEXT ROUND **": {
+        "chi": "** ADMIN chose LEVEL 1 for NEXT ROUND **"
+    },
+    "[MUSIC] NYAN CAT": {
+        "chi": "[MUSIC] NYAN CAT"
+    },
+    "** SECRET NYAN CAT COMPLETED **": {
+        "chi": "** 彩虹猫 **"
+    },
+    "** SECRETS 3 of 5 FOUND **": {
+        "chi": "** 你们发现了3/5的彩蛋 **"
+    },
+    "** SECRETS 4 of 5 FOUND **": {
+        "chi": "** 你们发现了4/5的彩蛋 **"
+    },
+    "** ADMIN chose LEVEL 4 for NEXT ROUND **": {
+        "chi": "** ADMIN chose LEVEL 4 for NEXT ROUND **"
+    },
+    "** BOSS ATTACKS ENABLED **": {
+        "chi": "** 萝莉熊即将发起进攻 **"
+    },
+    "[MUSIC] AQUA - BARBIE": {
+        "chi": "[MUSIC] AQUA - BARBIE"
+    },
+    "** U WON LEVEL 4 (BOSS) **": {
+        "chi": "** 你们通过了 LEVEL 4 (BOSS) **"
+    },
+    "** LEVEL 5 (ZM ROUND) **": {
+        "chi": "** LEVEL 5 (ZM ROUND) **"
+    },
+    "** 180 SECONDS left until VICTORY **": {
+        "chi": "** 嘉然的制裁180秒后降临 **"
+    },
+    "** 120 SECONDS left until VICTORY **": {
+        "chi": "** 还剩120秒 **"
+    },
+    "** 60 SECONDS left until VICTORY **": {
+        "chi": "** 还剩60秒 **"
+    },
+    "** 30 SECONDS left until VICTORY **": {
+        "chi": "** 还剩30秒 **"
+    },
+    "** 20 SECONDS left until VICTORY **": {
+        "chi": "** 还剩20秒 **"
+    },
+    "** 10 SECONDS left until VICTORY **": {
+        "chi": "** 还剩10秒 **"
+    },
+    "** 5 SECONDS left until VICTORY **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** U WON LEVEL 5 (ZM ROUND) **": {
+        "chi": "** 你们通过了 LEVEL 5 (ZM ROUND) **"
+    },
+    "** LEVEL 6 (BOSS) **": {
+        "chi": "** LEVEL 6 (BOSS) **"
+    },
+    "** HEAL GUN - 40 sec cooldown **": {
+        "chi": "** 治疗 - 40 秒CD **"
+    },
+    "** LASER GUN - 60 sec cooldown **": {
+        "chi": "** 激光 - 60 秒CD **"
+    },
+    "[MUSIC] ACDC - Highway To Hell": {
+        "chi": "[MUSIC] ACDC - Highway To Hell"
+    },
+    "** U WON LEVEL 6 (BOSS) **": {
+        "chi": "** 我们通过了 LEVEL 6 (BOSS) **"
+    },
+    "** LEVEL 7 (EXTREME) **": {
+        "chi": "** LEVEL 7 (EXTREME) **"
+    },
+    "** DOOR OPENS IN 20 SECONDS **": {
+        "chi": "** 大门20秒后打开 **"
+    },
+    "** DOOR OPENS IN 5 SECONDS **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** MISSION - PLANT THE BOMB AND ESCAPE! **": {
+        "chi": "** 放置炸弹! **"
+    },
+    "** BOMB HAS BEEN PLANTED **": {
+        "chi": "** 炸弹已被安放 **"
+    },
+    "** AIRLOCK TURBINE IS STARTING... **": {
+        "chi": "** 涡轮增鸭启动**"
+    },
+    "** WE ARE READY TO ESCAPE THIS COMPOUND ! **": {
+        "chi": "** 我们已经准备好开溜了 ! **"
+    },
+    "** 20 SECONDS BEFORE THE AIRLOCK OPENS **": {
+        "chi": "** 气阀20秒后启动 **"
+    },
+    "** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **": {
+        "chi": "** 气阀启动还有5秒**"
+    },
+    "** WE ARE BACK IN THE COMPOUND ! **": {
+        "chi": "** 我们回来了 ! **"
+    },
+    "** AFK wall will BREAK in 5 SECONDS **": {
+        "chi": "** AFK玩家5秒后传送 **"
+    },
+    "[MUSIC] REQUIEM FOR A DREAM": {
+        "chi": "[MUSIC] REQUIEM FOR A DREAM"
+    },
+    "** 80 SECONDS REMAINING **": {
+        "chi": "** 在天台上守住80秒 **"
+    },
+    "** 70 SECONDS REMAINING **": {
+        "chi": "** 还剩70秒 **"
+    },
+    "** LILA PANIC COMPOUND IS FALLING APART !! **": {
+        "chi": "** 有未知能量被激活 !! **"
+    },
+    "** ENEMY CHOPPER INBOUND !! **": {
+        "chi": "** 敌方直升机发起进攻!! **"
+    },
+    "** 60 SECONDS REMAINING **": {
+        "chi": "** 还剩60秒 **"
+    },
+    "** U WON LEVEL 7 (EXTREME) **": {
+        "chi": "** 你们通过了 LEVEL 7 (EXTREME) **"
+    },
+    "** LEVEL 8 (FINAL BOSS) **": {
+        "chi": "** LEVEL 8 (FINAL BOSS) **"
+    },
+    "** U WON LEVEL 8 (FINAL BOSS) **": {
+        "chi": "** U WON LEVEL 8 (FINAL BOSS) **"
+    },
+    "** CONGRATZ !! U WON THE MAP !! **": {
+        "chi": "** 太棒了 !! 你们征服了这张地图!! **"
+    },
+    "** LEVEL 9 (ZM ROUND) **": {
+        "chi": "** LEVEL 9 (ZM ROUND) **"
+    },
+    "** ADMIN ROOM IS OPEN ! **": {
+        "chi": "** ADMIN ROOM IS OPEN ! **"
+    },
+    "** U WON LEVEL 9 (ZM ROUND) **": {
+        "chi": "** 我们通过了 LEVEL 9 (ZM ROUND) **"
+    },
+    "** ADMIN gives EVERYONE LEVEL 5! ENJOY!**": {
+        "chi": "** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
+    },
+    "** ADMIN chose LEVEL 6 for NEXT ROUND **": {
+        "chi": "** ADMIN chose LEVEL 6 for NEXT ROUND **"
+    },
+    "** SUICIDAL ZOMBIE INCOMING **": {
+        "chi": "** 僵尸乌拉乌拉来袭 **"
+    },
+    "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go": {
+        "chi": "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go"
+    }
+}

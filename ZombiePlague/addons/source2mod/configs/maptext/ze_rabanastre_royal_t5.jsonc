@@ -1,0 +1,197 @@
+{
+    "< ZE_RABANASTRE_ROYAL >": {
+        "chi": "< 最终幻想12王都拉巴纳斯塔 >"
+    },
+    "< Map by Tianli >": {
+        "chi": "< 地图作者 Tianli >"
+    },
+    "< Special thanks to Lishang,Koyomaple >": {
+        "chi": "< 特别感谢 Lishang,Koyomaple >"
+    },
+    "< Normal Mode >": {
+        "chi": "< Normal Mode >"
+    },
+    "< A player has acquired Aqua Magick >": {
+        "chi": "< 一位玩家捡到了水 >"
+    },
+    "< The path will clear in 30 seconds >": {
+        "chi": "< 道路30秒后开放 >"
+    },
+    "< 5 seconds >": {
+        "chi": "< 还剩5秒 >"
+    },
+    "< Moogling is closed now,kupo~ >": {
+        "chi": "< 莫古传送还未开放,kupo~ >"
+    },
+    "< A player has acquired Thunder Magick >": {
+        "chi": "< 一位玩家捡到了电 >"
+    },
+    "< A player has acquired Cure Magick >": {
+        "chi": "< 一位玩家捡到了奶 >"
+    },
+    "< The path will clear in 20 seconds >": {
+        "chi": "< 道路20秒后开放 >"
+    },
+    "< A player has acquired Oil Magick >": {
+        "chi": "< 一位玩家捡到了油 >"
+    },
+    "< The gate will open in 30 seconds >": {
+        "chi": "< 大门30秒后开启 >"
+    },
+    "< A player has acquired Wind Magick >": {
+        "chi": "< 一位玩家捡到了风 >"
+    },
+    "< The Aerodrome metal gate will open in 20 seconds >": {
+        "chi": "< 机场大门30秒后开启 >"
+    },
+    "< The fight with SandMonster will begin in 10 seconds >": {
+        "chi": "< Boss战10秒后开始 >"
+    },
+    "< SandMonster has casted Shock >": {
+        "chi": "< 冲击波!快躲避! >"
+    },
+    "< SandMonster has casted Gravity >": {
+        "chi": "< 黑洞!抵抗吸力 >"
+    },
+    "< SandMonster has casted Heal >": {
+        "chi": "< 治疗!Boss回血! >"
+    },
+    "< SandMonster has casted Sandstorm >": {
+        "chi": "< 沙尘暴!全屏伤害! >"
+    },
+    "< SandMoster has casted Quicksand >": {
+        "chi": "< 流沙!躲避特效 >"
+    },
+    "< SandMonster has casted Wind >": {
+        "chi": "< 风!抵抗推力! >"
+    },
+    "< You are too late... >": {
+        "chi": "< 你太慢了... >"
+    },
+    "< SandMonster has been defeated,get back to Rabanastre >": {
+        "chi": "< 沙之恶灵已被击败,返回王都拉巴纳斯塔 >"
+    },
+    "< The gate will open in 20 seconds >": {
+        "chi": "< 大门20秒后开启 >"
+    },
+    "< This is the last defend,hold! >": {
+        "chi": "< 最后的守点,守住! >"
+    },
+    "< You have defeated normal mode!Congratulations! >": {
+        "chi": "< 你通过了normal mode!恭喜你! >"
+    },
+    "< Hard Mode >": {
+        "chi": "< Hard Mode >"
+    },
+    "< A player has acquired Scathe Magick >": {
+        "chi": "< 一位玩家捡到了终极 >"
+    },
+    "< The Lowtown gate will open in 15 seconds >": {
+        "chi": "< 城区大门15秒后开启 >"
+    },
+    "< Zombie Chocobo has been picked up >": {
+        "chi": "< 僵尸陆行鸟已拾取 >"
+    },
+    "< A zombie has acquired Bleed Magick >": {
+        "chi": "< 僵尸秒杀已拾取 >"
+    },
+    "< The arena will open in 40 seconds >": {
+        "chi": "< 竞技场40秒后开放 >"
+    },
+    "< The fight with Zeromes will begin in 10 seconds >": {
+        "chi": "< Boss战10秒后开始 >"
+    },
+    "< Zeromus has casted Ice >": {
+        "chi": "< 冰!站外圈! >"
+    },
+    "< Zeromus has casted Fire >": {
+        "chi": "< 火!躲避脚底特效! >"
+    },
+    "< Zeromus has casted Aero >": {
+        "chi": "< 风!抵抗推力! >"
+    },
+    "< Zeromus has casted Holy >": {
+        "chi": "< 神圣之力!蹲下! >"
+    },
+    "< Zeromus has casted Posionrain >": {
+        "chi": "< 毒!一直跳跃规避伤害! >"
+    },
+    "< Zeroms used Reverse to himself >": {
+        "chi": "< 无敌!停枪!会给它加血! >"
+    },
+    "< Zeromus has casted Thunder >": {
+        "chi": "< 电!躲避脚底特效! >"
+    },
+    "< Zeromus want casted Bleed to kill us,we must defeated it in 15 seconds >": {
+        "chi": "< Boss释放终极了,15秒内打死他 >"
+    },
+    "< Zeromus has been defeated...Let's get out of the arena >": {
+        "chi": "< 扎罗姆斯已被打败...离开竞技场 >"
+    },
+    "< Defend!We almost leave the Lowtown soon! >": {
+        "chi": "< 守住!我们马上就能离开了! >"
+    },
+    "< Welcome to the Moogling,kupo~ >": {
+        "chi": "< 欢迎使用莫古传送,kupo~ >"
+    },
+    "< Moogling will teleport humans in 8 seconds >": {
+        "chi": "< 莫古8秒后传送人类 >"
+    },
+    "< ZM Crystall teleport will enable in 5 seconds >": {
+        "chi": "< 僵尸传送水晶5秒后启动 >"
+    },
+    "< The Aerodrome last gate will open in 40 seconds >": {
+        "chi": "< 机场大门40秒后开启 >"
+    },
+    "< The Airship will leave in 10 seconds.Hurry up! >": {
+        "chi": "< 飞船10秒后离开.快跑! >"
+    },
+    "< You have defeated Hard mode!Congratulations! >": {
+        "chi": "< 你通过了Hard mode!恭喜你! >"
+    },
+    "< Extreme Mode >": {
+        "chi": "< Extreme Mode >"
+    },
+    "< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >": {
+        "chi": "< 黑暗力量!去竞技场中间的光里! >"
+    },
+    "< Zeromus has casted Gravity >": {
+        "chi": "< 黑洞!抵抗吸力! >"
+    },
+    "< Zeromus has casted Reverse >": {
+        "chi": "< 反转!没什么用! >"
+    },
+    "< Zeromus has casted Shock >": {
+        "chi": "< 冲击波!去右半场! >"
+    },
+    "< Wait...Who is that? >": {
+        "chi": "< 等等...那是谁? >"
+    },
+    "< You have defeated Extreme mode!Congratulations! >": {
+        "chi": "< 你通过了Extreme mode!恭喜你! >"
+    },
+    "< Trial Mode >": {
+        "chi": "< Trial Mode >"
+    },
+    "< The Airship will leave in 10 seconds >": {
+        "chi": "< 飞船10秒后离开 >"
+    },
+    "< The gate will open in 35 seconds >": {
+        "chi": "< 大门35秒后开启 >"
+    },
+    "< A random gate will open in 30 seconds >": {
+        "chi": "< 30秒后随机开启一道门 >"
+    },
+    "< Boss fight start in 10 seconds... >": {
+        "chi": "< Boss战10秒后开始... >"
+    },
+    "< Nades can do more damage >": {
+        "chi": "< 手雷能造成更多伤害 >"
+    },
+    "< Defend until the final gate open! >": {
+        "chi": "< 守住直到最终大门开启! >"
+    },
+    "< You have defeated Trial mode!Congratulations! >": {
+        "chi": "< 你通过了Trial mode!恭喜你! >"
+    }
+}

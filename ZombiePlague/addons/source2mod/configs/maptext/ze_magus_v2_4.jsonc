@@ -1,0 +1,77 @@
+{
+    "**fail...**": {
+        "chi": "你们失败了"
+    },
+    "**20 seconds until the gate opens**": {
+        "chi": "大门20秒后开放"
+    },
+    "**time limit 210 seconds**": {
+        "chi": "剩余210秒"
+    },
+    "**20 seconds until CT teleports**": {
+        "chi": "人类20秒后传送"
+    },
+    "**teleport!!**": {
+        "chi": "传送开启"
+    },
+    "**90seconds defend and escape**": {
+        "chi": "你们有90秒来逃离这里"
+    },
+    "**We were able to go through the forest**": {
+        "chi": "速速穿过树林"
+    },
+    "**30 seconds until the zombies teleport**": {
+        "chi": "僵尸30秒后传送"
+    },
+    "**Cover 30seconds!!**": {
+        "chi": "防守30秒"
+    },
+    "**30 seconds until the truck departs**": {
+        "chi": "卡车30秒后出发"
+    },
+    "**122 seconds until the gate opens**": {
+        "chi": "大门122秒后打开"
+    },
+    "**OPEN!!**": {
+        "chi": "大门开启"
+    },
+    "**30 seconds until the gate opens**": {
+        "chi": "大门30秒后打开"
+    },
+    "**nuke!!**": {
+        "chi": "核爆降临"
+    },
+    "**40 seconds until the gate opens**": {
+        "chi": "大门40秒后开放"
+    },
+    "**14 seconds until the gate opens**": {
+        "chi": "大门14秒后开放"
+    },
+    "**15 seconds until the gate opens**": {
+        "chi": "大门15秒后开放"
+    },
+    "**20 seconds for the gate to close**": {
+        "chi": "大门20秒后关闭"
+    },
+    "**Change level -Stage2**": {
+        "chi": "第二关"
+    },
+    "**13 seconds until the boat leaves**": {
+        "chi": "小船13秒后离开"
+    },
+    "**30 seconds until the wall breaks**": {
+        "chi": "墙壁30秒后破碎"
+    },
+    "**break!!**": {
+        "chi": "墙壁破碎"
+    },
+    "**Change level -Stage1**": {
+        "chi": "第一关"
+    },
+    "**55 seconds until the gate opens**": {
+        "chi": "大门55秒后开启"
+    },
+    "**10 seconds until the gate opens**": {
+        "chi": "大门10秒后开启"
+    }
+}

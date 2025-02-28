@@ -1,0 +1,254 @@
+{
+    "** Nades do more damage **": {
+        "chi": "** 手雷可以造成更多伤害 **"
+    },
+    "** Defend here so the guards will open the gates to the city! **": {
+        "chi": "** 守住这里守卫将开启城市的大门! **"
+    },
+    "[ADMIN] Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为HARD. 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为EXTREME. 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为EPIC. 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为GOD. 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [ZOMBIE MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为ZM感染. 回合5秒后重新开始."
+    },
+    "[ADMIN] Selected [NORMAL MODE] for next round. Restarting round in 5 seconds.": {
+        "chi": "[管理员设置] 管理员设置下关为NORMAL. 回合5秒后重新开始."
+    },
+    "** Defend untill the guards open the airport. **": {
+        "chi": "** 守住这里直到守卫开放机场.**"
+    },
+    "** Airport opened. **": {
+        "chi": "** 机场开放 **"
+    },
+    "** Defend 25 seconds untill the guards open the hallway. **": {
+        "chi": "** 防守25秒直到守卫开放走廊 **"
+    },
+    "** 5 Seconds left **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** The second door will open in 15 seconds **": {
+        "chi": "** 第二道大门15秒后打开 **"
+    },
+    "** The first door will open in 10 seconds **": {
+        "chi": "** 第一道大门10秒后打开 **"
+    },
+    "** Keep defending!! **": {
+        "chi": "** 继续防守!! **"
+    },
+    "** The elevator will leave in 20 seconds **": {
+        "chi": "** 电梯20秒后离开 **"
+    },
+    "** The elevator will leave in 5 seconds **": {
+        "chi": "** 电梯5秒后离开 **"
+    },
+    "[3 WINS IN A ROW] Easteregg unlocked!": {
+        "chi": "[三连胜] 彩蛋解锁!"
+    },
+    "** ZM JAIL OPEN **": {
+        "chi": "** 尸笼打开！你打的太慢了！ **"
+    },
+    "** Nades do more damage ** ": {
+        "chi": "** 手雷能造成更多伤害 ** "
+    },
+    "** Door will open in 5 seconds **": {
+        "chi": "** 第一道大门5秒后打开 **"
+    },
+    "** Second door will open in 10 seconds **": {
+        "chi": "** 第二道大门10秒后打开 **"
+    },
+    "** Hold 10 more seconds!! **": {
+        "chi": "** 防守10秒!! **"
+    },
+    "** Cover here till the rock explodes **": {
+        "chi": "** 守住这里直到岩石爆炸(别贴，会被炸死) **"
+    },
+    "** Defend here for 30 seconds **": {
+        "chi": "** 守住这里30秒 **"
+    },
+    "** 5 more seconds **": {
+        "chi": "** 还有5秒 **"
+    },
+    "** Go to the end of the road! **": {
+        "chi": "** 去路的尽头! **"
+    },
+    "** 5 SECS REMAINING **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** 10 SECS REMAINING **": {
+        "chi": "** 还剩10秒 **"
+    },
+    "** 20 SECS REMAINING **": {
+        "chi": "** 还剩20秒 **"
+    },
+    "** 40 SECS REMAINING **": {
+        "chi": "** 还剩40秒 **"
+    },
+    "** 30 SECS REMAINING **": {
+        "chi": "** 还剩30秒 **"
+    },
+    "** 50 SECS REMAINING **": {
+        "chi": "** 还剩50秒 **"
+    },
+    "** 60 SECS REMAINING **": {
+        "chi": "** 还剩60秒 **"
+    },
+    "** 70 SECS REMAINING **": {
+        "chi": "** 还剩70秒 **"
+    },
+    "** Cover 10 seconds till the rock explodes **": {
+        "chi": "** 守住这里10秒直到岩石爆炸 **"
+    },
+    "** THANKS FOR PLAYING **": {
+        "chi": "** 感谢你的游玩 **"
+    },
+    "** MAP BY SLAYERDRAGON **": {
+        "chi": "** 地图作者 SLAYERDRAGON 汉化 已死之人 **"
+    },
+    "** Zombies Have Escaped **": {
+        "chi": "** 僵尸已经逃离 **"
+    },
+    "[WINNER] Selected [NORMAL MODE] for next round": {
+        "chi": "[胜利者] 胜利者设置下关为NORMAL"
+    },
+    "[WINNER] Selected [HARD MODE] for next round": {
+        "chi": "[胜利者] 胜利者设置下关为HARD"
+    },
+    "[WINNER] Selected [EXTREME MODE] for next round": {
+        "chi": "[胜利者] 胜利者设置下关为EXTREME"
+    },
+    "[WINNER] Selected [EPIC MODE] for next round": {
+        "chi": "[胜利者] 胜利者设置下关为EPIC"
+    },
+    "** ZOMBIES RELEASED IN 2 SECS **": {
+        "chi": "** 僵尸2秒后释放 **"
+    },
+    "** Cover 20 seconds till the rock explodes **": {
+        "chi": "** 守住这里20秒直到岩石爆炸 **"
+    },
+    "** Cover 30 seconds till the rock explodes **": {
+        "chi": "** 守住这里30秒直到岩石爆炸 **"
+    },
+    "[WINNER] Selected [GOD MODE] for next round": {
+        "chi": "[胜利者] 胜利者设置下关为GOD"
+    },
+    "** A player has learned Water magick. **": {
+        "chi": "** 一位玩家学会了水魔法. **"
+    },
+    "** A player has learned Fire magick. **": {
+        "chi": "** 一位玩家学会了火魔法. **"
+    },
+    "** A player has learned Heal magick. **": {
+        "chi": "** 一位玩家学会了奶魔法. **"
+    },
+    "** A player has learned Earth magick. **": {
+        "chi": "** 一位玩家学会了土魔法. **"
+    },
+    "** A player has learned Electro magick. **": {
+        "chi": "** 一位玩家学会了电魔法. **"
+    },
+    "** A player has learned Wind magick. **": {
+        "chi": "** 一位玩家学会了风魔法. **"
+    },
+    "[NORMAL MODE]": {
+        "chi": "[NORMAL难度]"
+    },
+    "** FIRE NOVA INBOUND **": {
+        "chi": "** 烈焰新星 **"
+    },
+    "** USE WATER TO DODGE IT  **": {
+        "chi": "** 使用水来躲避它  **"
+    },
+    "** Teleporter will be ready in 20 seconds! **": {
+        "chi": "** 传送器20秒后启动! **"
+    },
+    "** Teleporter will be ready in 5 seconds! **": {
+        "chi": "** 传送器5秒后启动! **"
+    },
+    "[GOD MODE]": {
+        "chi": "[GOD难度]"
+    },
+    "** The dragon has been defeated **": {
+        "chi": "** 极神龙已被打败 **"
+    },
+    "** The dragon has been defeated! GOGOGO **": {
+        "chi": "** 极神龙已被打败! 快跑 **"
+    },
+    "** The guardians are dead!! Run back to the entrance!! **": {
+        "chi": "** 裁判长被打败!! 快跑向出口!! **"
+    },
+    "** The healer is down!! **": {
+        "chi": "** 医疗兵倒下了!! **"
+    },
+    "** The battlemage is down!! **": {
+        "chi": "** 战斗兵倒下了!! **"
+    },
+    "** The airship reactors are going to explode!! **": {
+        "chi": "** 飞船反应核心要爆炸了!! **"
+    },
+    "** CHAOS is using a deathwall - RUN FASTER!! **": {
+        "chi": "** 轮回王卡奥斯使用了死亡之墙 - 快跑!! **"
+    },
+    "** Chaos has been defeated - RUN !!!!! **": {
+        "chi": "** 轮回王卡奥斯被打败了 - 跑 !!!!! **"
+    },
+    "** Congratulations - You won [GODMODE] **": {
+        "chi": "** 祝贺 - 你通关了 [GOD难度] **"
+    },
+    "[ZOMBIE MODE]": {
+        "chi": "[ZM感染模式]"
+    },
+    "** Congratulations - You won [NORMAL] **": {
+        "chi": "** 祝贺 - 你通关了 [NORMAL难度] **"
+    },
+    "** Congratulations - You won [HARD] **": {
+        "chi": "** 祝贺 - 你通关了 [HARD难度] **"
+    },
+    "** Congratulations - You won [EXTREME] **": {
+        "chi": "** 祝贺 - 你通关了 [EXTREME难度] **"
+    },
+    "** Congratulations - You won [EPIC] **": {
+        "chi": "** 祝贺 - 你通关了 [EPIC难度] **"
+    },
+    "** There is an error in the level system. **": {
+        "chi": "** 当前系统有一个错误. **"
+    },
+    "[HARD MODE]": {
+        "chi": "[HARD难度]"
+    },
+    "** METEOR INBOUND **": {
+        "chi": "** 流星将至 **"
+    },
+    "** USE ELECTRO TO  BREAK IT **": {
+        "chi": "** 用电破坏它 **"
+    },
+    "** NUKE IN 80 SECONDS **": {
+        "chi": "** 核子打击80秒后降临 **"
+    },
+    "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **": {
+        "chi": "** 10秒后传送所有人到陆行鸟走廊 **"
+    },
+    "** TELEPORTING EVERYONE TO CHOCOBORACE **": {
+        "chi": "** 传送所有人到陆行鸟走廊 **"
+    },
+    "** NUKE IN 20 SECONDS **": {
+        "chi": "** 核子打击20秒后降临 **"
+    },
+    "[EXTREME MODE]": {
+        "chi": "[EXTREME难度]"
+    },
+    "** A player has learned Holy magick. **": {
+        "chi": "** 一位玩家学会了神圣魔法. **"
+    }
+}

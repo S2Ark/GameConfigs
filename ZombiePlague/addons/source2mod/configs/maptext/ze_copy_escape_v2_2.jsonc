@@ -1,0 +1,113 @@
+{
+    "< ze_copy_escape >": {
+        "chi": "< ze_copy_escape（复刻逃亡） >"
+    },
+    "< Map by sweetS >": {
+        "chi": "<地图作者:sweetS 翻译:白云我真的白>"
+    },
+    "< Special Thanks - reflelia, Chocolate, STONE >": {
+        "chi": "< 特别感谢：reflelia, Chocolate, STONE >"
+    },
+    "< I'm sorry for all the sounds, models, and ideas I copied >": {
+        "chi": "< 感谢那些为我提供创意的前辈 >"
+    },
+    "< Stage 1 >": {
+        "chi": "< 关卡一>"
+    },
+    "< Human Win >": {
+        "chi": "< 人类胜利>"
+    },
+    "< Stage 2 >": {
+        "chi": "< 关卡二>"
+    },
+    "< Player picked up floor spawner (5 times only) >": {
+        "chi": "<一名玩家捡起了板子 >"
+    },
+    "< Player picked up heal >": {
+        "chi": "< 玩家拾取了治疗>"
+    },
+    "< Player picked up pyro >": {
+        "chi": "< 玩家拾取了火>"
+    },
+    "< Player picked up anemo >": {
+        "chi": "<玩家拾取了风>"
+    },
+    "< Player picked up cryo >": {
+        "chi": "< 玩家拾取了雪>"
+    },
+    "< Push >": {
+        "chi": "< 推力>"
+    },
+    "< Strike >": {
+        "chi": "< 地坠（三次） >"
+    },
+    "< Ball >": {
+        "chi": "< 弹幕 >"
+    },
+    "< Holy >": {
+        "chi": "< 终极（前往边缘） >"
+    },
+    "< Top Laser >": {
+        "chi": "< 天坠刀 >"
+    },
+    "< Beam >": {
+        "chi": "< 激光>"
+    },
+    "< Top Rotating Laser >": {
+        "chi": "< 旋转天坠刀 >"
+    },
+    "< Danger Field >": {
+        "chi": "< 红场（远离红色区域）>"
+    },
+    "< Reflection in 3 seconds >": {
+        "chi": "< 3s后反伤 >"
+    },
+    "< Reflection End >": {
+        "chi": "< 反伤结束 >"
+    },
+    "< Down Wall >": {
+        "chi": "< 天坠（抬头打墙） >"
+    },
+    "< Stage 3 >": {
+        "chi": "< 关卡三 >"
+    },
+    "< All Guard Crystals have been destroyed >": {
+        "chi": "< 所有水晶已经摧毁 >"
+    },
+    "< Blizzard >": {
+        "chi": "< 冰冻 >"
+    },
+    "< Teleporter will activate in 15 seconds >": {
+        "chi": "< 传送15秒后开启 >"
+    },
+    "< Stage RTV >": {
+        "chi": "< RTV!!!! >"
+    },
+    "< Next level changed to 3 >": {
+        "chi": "< 加载关卡三 >"
+    },
+    "< Inner Fire >": {
+        "chi": "< 内圈火 >"
+    },
+    "< Meteor >": {
+        "chi": "< 流星 >"
+    },
+    "< Crush >": {
+        "chi": "< 碾压 >"
+    },
+    "< Cube >": {
+        "chi": "< 立方体 >"
+    },
+    "< Heal >": {
+        "chi": "< 自愈 >"
+    },
+    "< Shake >": {
+        "chi": "< 地震 >"
+    },
+    "< Outer Fire >": {
+        "chi": "< 外圈火 >"
+    },
+    "< Fail >": {
+        "chi": "< 人类失败！！ >"
+    }
+}

@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Oreo Heal",
+        "shortname": "Heal",
+        "hammerid": "3640",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "darkblue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3635"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "522",
+                "mode": 3,
+                "cooldown": 20,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Ammo Box",
+        "shortname": "Ammo",
+        "hammerid": "3699",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "orange",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3700"
+            },
+            {
+                "hammerid": "3705",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 60,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Push Gun",
+        "shortname": "Push",
+        "hammerid": "3664",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3665"
+            },
+            {
+                "hammerid": "3671",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 35,
+                "maxuses": 0,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Flamethrower",
+        "shortname": "Flame",
+        "hammerid": "3686",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3687"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "3696",
+                "mode": 3,
+                "cooldown": 10,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Electro Gun",
+        "shortname": "Electro",
+        "hammerid": "3673",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3679"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "3685",
+                "offset": [0, -1990],
+                "mode": 5,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Pipe Bombs",
+        "shortname": "PipeBomb",
+        "hammerid": "3717",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "yellow",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3718"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "3729",
+                "mode": 3,
+                "cooldown": 1.5,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Lego Maker",
+        "shortname": "Lego",
+        "hammerid": "3657",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "green",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3652"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "3654",
+                "mode": 3,
+                "cooldown": 2,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "EyeTech Launcher",
+        "shortname": "EyeTech Launcher",
+        "hammerid": "3710",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "darkred",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3711"
+            },
+            {
+                "type": "counterup",
+                "hammerid": "3716",
+                "mode": 3,
+                "cooldown": 2,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "EyeTech Cannon",
+        "shortname": "Cannon",
+        "hammerid": "3742",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "red2",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "3743",
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Banana",
+        "shortname": "Banana",
+        "hammerid": "4377",
+        "message": true,
+        "ui": false,
+        "transfer": true,
+        "color": "yellow",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "4378"
+            }
+        ]
+    },
+    {
+        "name": "Steam",
+        "shortname": "Steam",
+        "hammerid": "4386",
+        "message": true,
+        "ui": false,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "4387"
+            }
+        ]
+    },
+    {
+        "name": "Cyka",
+        "shortname": "Cyka",
+        "hammerid": "330",
+        "message": true,
+        "ui": false,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "332"
+            }
+        ]
+    }
+]

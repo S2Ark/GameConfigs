@@ -1,0 +1,65 @@
+{
+    ">> Repair the shutter 10 SECONDS <<": {
+        "chi": ">> 需要 10 秒打开卷帘门 <<"
+    },
+    ">> Open the elevator 30 SECONDS <<": {
+        "chi": ">> 需要 30 秒打开电梯 <<"
+    },
+    ">> Open the elevator 10 SECONDS <<": {
+        "chi": ">> 还要 10 秒打开电梯 <<"
+    },
+    ">> Enter the laboratory... 10 SECONDS <<": {
+        "chi": ">> 进入实验室... 还有 10 秒 <<"
+    },
+    ">> Repair the shutter 20 SECONDS <<": {
+        "chi": ">> 还要 20 秒来打开卷帘门 <<"
+    },
+    ">> Repair the shutter 30 SECONDS <<": {
+        "chi": ">> 打开卷帘门还要 30 秒 <<"
+    },
+    ">> Watch out TP ! 5 SECONDS <<": {
+        "chi": ">> 小心僵尸在 5 秒后的僵尸传送 ! <<"
+    },
+    ">> Breaking the duct key 20 SECONDS <<": {
+        "chi": ">> 需要 20 秒来打破管道卷帘门 <<"
+    },
+    ">> Breaking the duct key 10 SECONDS <<": {
+        "chi": ">> 需要 10 秒来打破管道卷帘门 <<"
+    },
+    ">> Insert the card key [ I ] <<": {
+        "chi": ">> 插入钥匙卡 [ I ] <<"
+    },
+    ">> Insert the card key [ II ] <<": {
+        "chi": ">> 插入钥匙卡 [ II ] <<"
+    },
+    ">> Open the shutter 30 SECONDS <<": {
+        "chi": ">> 30 秒后打开卷帘门  <<"
+    },
+    ">> Open the shutter 10 SECONDS <<": {
+        "chi": ">> 10 秒后打开卷帘门 <<"
+    },
+    ">> Open the elevator 40 SECONDS <<": {
+        "chi": ">> 40 秒后打开电梯 <<"
+    },
+    ">> Close the elevator 5 SECONDS <<": {
+        "chi": ">> 5秒钟后关闭电梯门 <<"
+    },
+    ">> NEXT EPISODE II <<": {
+        "chi": ">> 第 II 集 <<"
+    },
+    ">> Close the shutter 20 SECONDS <<": {
+        "chi": ">> 20 秒后关闭卷帘门 <<"
+    },
+    ">> Close the shutter 10 SECONDS <<": {
+        "chi": ">> 10秒后关闭 卷帘门 <<"
+    },
+    ">> ????? 30 SECONDS <<": {
+        "chi": ">> 有什么东西将在 30 秒后发生 <<"
+    },
+    ">> ????? 10 SECONDS <<": {
+        "chi": ">> 有什么东西将在 10 秒后发生 <<"
+    },
+    ">> Oh shit! Intelligent life inside! <<": {
+        "chi": ">> 操! 里面怎么还有外星人! <<"
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Barrel",
+        "shortname": "Barrel",
+        "hammerid": "1798",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "green",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1799"
+            }
+        ]
+    }
+]

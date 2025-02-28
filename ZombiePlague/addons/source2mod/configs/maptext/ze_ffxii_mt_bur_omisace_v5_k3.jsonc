@@ -1,0 +1,470 @@
+{
+    "**Survive 230 seconds!**": {
+        "chi": "** 生存230秒 **"
+    },
+    "**Survive 180 seconds!**": {
+        "chi": "** 生存180秒 **"
+    },
+    "**Survive 90 seconds!**": {
+        "chi": "** 生存90秒 **"
+    },
+    "**Survive 60 seconds!**": {
+        "chi": "** 生存60秒 **"
+    },
+    "**Survive 30 seconds!**": {
+        "chi": "** 生存30秒 **"
+    },
+    "**Survive 10 seconds!**": {
+        "chi": "** 生存10秒 **"
+    },
+    "**A Player has acquired Cactuar Summon**": {
+        "chi": "** 一名玩家学会了仙人掌召唤 **"
+    },
+    "**A Player has acquired King Bomb Summon**": {
+        "chi": "** 一名玩家学会了炸弹精灵王召唤 **"
+    },
+    "**A Player has acquired Underworld Rod**": {
+        "chi": "** 一名玩家获得了世界权杖 **"
+    },
+    "**A Player has acquired Silver Mace**": {
+        "chi": "** 一名玩家获得了真银链球 **"
+    },
+    "**A Player has acquired Chaos Blade**": {
+        "chi": "** 一名玩家获得了混乱刀锋 **"
+    },
+    "**[Tonberry] Congratulation": {
+        "chi": "** [冬贝利] 祝贺 **"
+    },
+    "**[Tonberry] Unfortunately": {
+        "chi": "** [冬贝利] 很不幸 **"
+    },
+    "**A Player has acquired HP Potion**": {
+        "chi": "** 一名玩家获得了治疗药剂 **"
+    },
+    "**A Player has acquired Haste Potion**": {
+        "chi": "** 一名玩家获得了仇恨药剂 **"
+    },
+    "**A Player has acquired Betelgeuse**": {
+        "chi": "** 一名玩家获得了参宿星云 **"
+    },
+    "**A Player has acquired Gunblade**": {
+        "chi": "** 一名玩家获得了制式科技枪 **"
+    },
+    "**Level has been changed on Hard Mode**": {
+        "chi": "** 已切换至困难模式 **"
+    },
+    "**King Bomb has casted Flame Ability!**": {
+        "chi": "** 炸弹精灵王释放了火焰 **"
+    },
+    "**King Bomb has summoned Ultimate Fireball Ability!**": {
+        "chi": "** 炸弹精灵王召唤了终极火球 **"
+    },
+    "**King Bomb has casted Revenge Blast Ability!**": {
+        "chi": "** 炸弹精灵王释放了复仇烈焰 **"
+    },
+    "**King Bomb has summoned Ultimate Flame Shield Ability!**": {
+        "chi": "** 炸弹精灵王召唤了究极火焰护盾 **"
+    },
+    "**King Bomb has summoned Mustard Bomb Ability!**": {
+        "chi": "** 炸弹精灵王召唤了芥末炸弹 **"
+    },
+    "**King Bomb has summoned Eruption Ability!**": {
+        "chi": "** 炸弹精灵王使出了火焰喷射 **"
+    },
+    "**King Bomb has summoned Fire Angon Ability!**": {
+        "chi": "** 炸弹精灵王使用了火投枪 **"
+    },
+    "**King Bomb has summoned Ultimate Bomb Meteor Ability!**": {
+        "chi": "** 炸弹精灵王召唤了究极爆弹彗星 **"
+    },
+    "**King Bomb has casted Self-Destruct Ability!**": {
+        "chi": "** 炸弹精灵王开始自我焚烬 **"
+    },
+    "**Defeat King Bomb before he burn us!**": {
+        "chi": "** 在炸弹精灵王将我们燃尽前战胜它 **"
+    },
+    "< You are too slow >": {
+        "chi": "< 太慢了 >"
+    },
+    "**Bahamut is retreating! run!**": {
+        "chi": "** 巴哈姆特使用了战术性撤退，快跑 **"
+    },
+    "**Defend until main platform start moving!**": {
+        "chi": "** 防御到主平台开始移动 **"
+    },
+    "**Nades do more damage**": {
+        "chi": "** 手雷将造成更多伤害 **"
+    },
+    "**Defeat Exodus before his power will consume us!**": {
+        "chi": "** 在天秤座审判之灵树埃克斯狄斯毁灭我们之前击败他 **"
+    },
+    "**Exodus has summoned Electrogenesis Ability!**": {
+        "chi": "** 埃克斯狄斯召唤了电场 **"
+    },
+    "**Exodus has casted Ultravibration Ability!**": {
+        "chi": "** 埃克斯狄斯释放出了地震魔法 **"
+    },
+    "**Stay on the middle to dodge the attack!**": {
+        "chi": "** 待在中间以躲过攻击 **"
+    },
+    "**Exodus has casted Weakness Breaker Ability!**": {
+        "chi": "** 埃克斯狄斯使用了决斗之舞 **"
+    },
+    "**Exodus has summoned Imbue Wind Ability**": {
+        "chi": "** 埃克斯狄斯唤来了风场 **"
+    },
+    "**Exodus has summoned Shock Strike Ability**": {
+        "chi": "** 埃克斯狄斯使用了冲击波 **"
+    },
+    "**Exodus has summoned Electrogenesis Ability**": {
+        "chi": "** 埃克斯狄斯使用了电 **"
+    },
+    "**Exodus has casted Guard Breaker**": {
+        "chi": "** 埃克斯狄斯使用了护盾破坏 **"
+    },
+    "**Exodus has summoned Perpetual Ray Ability!**": {
+        "chi": "** 埃克斯狄斯使用了永恒镭射 **"
+    },
+    "**Exodus has casted Reflux Ability!**": {
+        "chi": "** 埃克斯狄斯释放了全屏伤害 **"
+    },
+    "**Exodus has casted Ultimate Ability!**": {
+        "chi": "** 埃克斯狄斯开始咏唱终极 **"
+    },
+    "**Exodus attacks get 50% boost!**": {
+        "chi": "** 埃克斯狄斯已经充能一半了 **"
+    },
+    "**Exodus has casted Break Exploiter Ability!**": {
+        "chi": "** 埃克斯狄斯为自身疗伤 **"
+    },
+    "**Exodus has casted Elemental Retrieval Ability!**": {
+        "chi": "** 埃克斯狄斯释放了元素反演 **"
+    },
+    "**Hurry up! Exodus summon his most powerful ability!**": {
+        "chi": "** 速度！埃克斯狄斯要使用他最强的能力了 **"
+    },
+    "**Nades do 200% more damage!**": {
+        "chi": "** 手雷将造成额外200%的伤害 **"
+    },
+    "**A Player has acquired Sandstorm Magick**": {
+        "chi": "** 一名玩家学会了沙暴魔法 **"
+    },
+    "**A Player has acquired Ensanguined Shield**": {
+        "chi": "** 一名玩家获得了血染圣盾 **"
+    },
+    "**A Player has acquired Thunder Magick**": {
+        "chi": "** 一名玩家学会了雷霆魔法 **"
+    },
+    "**A Player has acquired Heal Magick**": {
+        "chi": "** 一名玩家学会了治愈魔法 **"
+    },
+    "**A Player has acquired Penetrator Crossbow**": {
+        "chi": "** 一名玩家获得了十字弩 **"
+    },
+    "**A Player has acquired Ultimate Blade!**": {
+        "chi": "** 一名玩家学会了终极魔法 **"
+    },
+    "**Map Status: Stripper #5 Enable!**": {
+        "chi": "** 地图状态：Stripper #5启用 **"
+    },
+    "**When we were in the Stilshrine of Miriam we could see smoke coming from that area**": {
+        "chi": "** 当我们正在探索米利亚姆遗迹时，我们看见了来自神都布尔米奥赛斯的狼烟 **"
+    },
+    "**We have to check it out**": {
+        "chi": "** 我们必须查明真相 **"
+    },
+    "**Find way to main temple and talk with Gran Kiltias Anastasis**": {
+        "chi": "** 找到前往主神殿的路并与大僧正安纳塔西斯了解情况 **"
+    },
+    "**We need to get to him asap**": {
+        "chi": "** 我们需要尽快找到他 **"
+    },
+    "**Judge Bergan probably went to the room where Gran Kiltias Anastasis is staying!**": {
+        "chi": "** 大裁判长贝甘可能去了大僧正安纳塔西斯的所在处 **"
+    },
+    "**I hope the soldiers of the empire will not disturb us**": {
+        "chi": "** 我希望帝国的士兵不要妨碍我们 **"
+    },
+    "**Level has been changed on Normal Mode**": {
+        "chi": "** 已切换至普通模式 **"
+    },
+    "**Level has been changed on Insane Mode**": {
+        "chi": "** 已切换至疯狂模式 **"
+    },
+    "**Admin set Maximum Tenberry quest**": {
+        "chi": "** 管理员满足了冬贝利的请求 **"
+    },
+    "**Level has been changed on Epic Mode**": {
+        "chi": "** 已切换至史诗模式 **"
+    },
+    "**Judge Bergan is dead": {
+        "chi": "** 大裁判长贝甘死了 **"
+    },
+    "**Strahl exploded? Defend until something happen!**": {
+        "chi": "** 飞船爆炸了？？在什么事件发生前防守住！ **"
+    },
+    "**Exodus finally is dead. run!**": {
+        "chi": "** 埃克斯狄斯终于死了！快跑 **"
+    },
+    "**[Exodus] Face your weaknesses or die!**": {
+        "chi": "** [埃克斯狄斯] 直面你的恐惧，或者死！ **"
+    },
+    "**Gates will open in 25 seconds!**": {
+        "chi": "** 大门25秒后开启 **"
+    },
+    "**Bergan has summoned Fire Bomb!**": {
+        "chi": "** 贝甘召唤了火焰炸弹 **"
+    },
+    "**Bergan is using Cure Magick!**": {
+        "chi": "** 贝甘咏唱了治愈魔法 **"
+    },
+    "**Bergan has casted White Wind Ability!**": {
+        "chi": "** 贝甘释放了白色狂风 **"
+    },
+    "**Bergan has casted Protect Ability!**": {
+        "chi": "** 贝甘使用了保护力场 **"
+    },
+    "**Bergan has casted Shock Strike Ability!**": {
+        "chi": "** 贝甘释放了冲击波 **"
+    },
+    "**Bergan has summoned Water Cannon Ability!**": {
+        "chi": "** 贝甘召唤了水龙炮 **"
+    },
+    "**Bergan has casted Bad Breath Ability!**": {
+        "chi": "** 贝甘咏唱了死亡呼吸 **"
+    },
+    "**Bergan has summoned 1000 Needles Ability!**": {
+        "chi": "** 贝甘使用了千针雨 **"
+    },
+    "**Bergan has casted Blood Drain Ability!**": {
+        "chi": "** 贝甘使用了生命偷取 **"
+    },
+    "**Bergan has summoned Fire Angon Ability!**": {
+        "chi": "** 贝甘使用了火投枪 **"
+    },
+    "**Judge Bergan should be dead but with them you never know": {
+        "chi": "** 大裁判长贝甘死了，但是真的吗？ **"
+    },
+    "**Hopefully Gran Kiltias Anastasis is safe**": {
+        "chi": "** 希望大僧正安纳西斯塔还安全 **"
+    },
+    "**We can run away from this empty tower**": {
+        "chi": "** 我们快离开这座空塔 **"
+    },
+    "**Hurry up!!! - Judge Bergan power up his abilities**": {
+        "chi": "** 快！贝甘解放了他的能力 **"
+    },
+    "**Hold this area for 15 seconds until gate is open!**": {
+        "chi": "** 在门开前守住15秒 **"
+    },
+    "**It's last hold gates will open in 20 seconds!***": {
+        "chi": "** 最后一扇门将在20秒后开启 **"
+    },
+    "**Where we are? i never saw this place before!**": {
+        "chi": "** 我们在哪里？我从来没有来到过这里 **"
+    },
+    "**[Exodus] Welcome to Kiltian temple": {
+        "chi": "** [天秤座埃克斯狄斯] 欢迎来到基迪亚神殿 **"
+    },
+    "**[Exodus] Goodbye!**": {
+        "chi": "** [天秤座埃克斯狄斯] 再会！**"
+    },
+    "**Bahamut has casted Cure Ability!**": {
+        "chi": "** 巴哈姆特使用了治愈魔法 **"
+    },
+    "**Bahamut has summoned Shield Ability!**": {
+        "chi": "** 巴哈姆特召唤了盾 **"
+    },
+    "**Bahamut has casted Lure Ability!**": {
+        "chi": "** 巴哈姆特使用了诱导 **"
+    },
+    "**Bahamut has casted Push Ability!**": {
+        "chi": "** 巴哈姆特使用了推力 **"
+    },
+    "**Bahamut has summoned Ultimate Electro Ability!**": {
+        "chi": "** 巴哈姆特使用了终极电场 **"
+    },
+    "**Bahamut has summoned Ultimate Push Ability!**": {
+        "chi": "** 巴哈姆特使用了终极推力 **"
+    },
+    "**Bahamut has summoned Electro Ability!**": {
+        "chi": "** 巴哈姆特使用了电场 **"
+    },
+    "**Bahamut has summoned Flame Ability!**": {
+        "chi": "** 巴哈姆特召唤了火焰 **"
+    },
+    "**Bahamut has summoned Mega Flare Ability!**": {
+        "chi": "** 巴哈姆特在咏唱百万核爆！ **"
+    },
+    "**That must be Bahamut lair! Kill this beast before he kill us!**": {
+        "chi": "** 这一定是巴哈姆特！在这头野兽撕碎我们前干掉他 **"
+    },
+    "< You are too slow! Bahamus escaping!**": {
+        "chi": "** 你太慢了！巴哈姆特逃走了！ **"
+    },
+    "**Well done! Bahamut is dead!**": {
+        "chi": "** 做得好！巴哈姆特死了 **"
+    },
+    "**Insane mode was beaten. Unlocking Epic mode **": {
+        "chi": "** 疯狂模式已击破，解锁史诗模式 **"
+    },
+    "**Zombie detected**": {
+        "chi": "** 检测到僵尸 **"
+    },
+    "**Hold this area until way is open!**": {
+        "chi": "** 在道路开放前守住这个区域 **"
+    },
+    "**Defend until gate is opens!**": {
+        "chi": "** 在门开前守住 **"
+    },
+    "**Hold this area**": {
+        "chi": "** 守住这片区域 **"
+    },
+    "**Way will open in 15 seconds!**": {
+        "chi": "** 道路15秒后开放 **"
+    },
+    "**Hold this area for 30 seconds**": {
+        "chi": "** 守住这片区域30秒 **"
+    },
+    "**Hold this area for 20 seconds!**": {
+        "chi": "** 守住这片区域20秒 **"
+    },
+    "**Normal mode was beaten. Unlocking Hard mode**": {
+        "chi": "** 普通模式已击破，解锁困难模式 **"
+    },
+    "**Zombie detected": {
+        "chi": "** 检测到僵尸 **"
+    },
+    "**Defend for 30 seconds until the way is opens!**": {
+        "chi": "** 在道路开放前守住30秒 **"
+    },
+    "**Gates will open in 20 seconds!**": {
+        "chi": "** 大门20秒后开放 **"
+    },
+    "**Oh no! Way is blocked!**": {
+        "chi": "** 不！道路被阻挡了！ **"
+    },
+    "**Defend until something happen!**": {
+        "chi": "** 守住直到某些事情发生 **"
+    },
+    "**Hold this area for 15 seconds until way is open!**": {
+        "chi": "** 守住这片区域15秒直到道路开放 **"
+    },
+    "**The Gates will open in 20 seconds!**": {
+        "chi": "** 大门20秒后开启 **"
+    },
+    "**Hold this area for 30 seconds!**": {
+        "chi": "** 守住这个区域30秒 **"
+    },
+    "**Epic mode was beaten. You won map! **": {
+        "chi": "** 史诗模式已击破，是不是卖人过的你自己清楚 **"
+    },
+    "**Judge Bergan blocking the way": {
+        "chi": "** 大裁判长贝甘挡住了道路 **"
+    },
+    "**Hard mode was beaten. Unlocking Insane mode**": {
+        "chi": "** 困难模式已击破，解锁疯狂模式 **"
+    },
+    "**Hold this area! We escaping in 30 seconds!**": {
+        "chi": "** 守住这个区域，30秒后我们就可以逃离了 **"
+    },
+    "**Path will open in 25 seconds!**": {
+        "chi": "** 小路25秒后开放 **"
+    },
+    "**Defend! Way will open in 25 seconds!**": {
+        "chi": "** 守住！道路25秒后开放 **"
+    },
+    "**Hold here for 30 seconds!**": {
+        "chi": "** 守住30秒 **"
+    },
+    "**Hold here for 15 seconds!*": {
+        "chi": "** 守住15秒 **"
+    },
+    "**Bahamut is blocking your path - Shoot it now!**": {
+        "chi": "** 巴哈姆特挡住了路！射击他！ **"
+    },
+    "**Zombie Warlock blocking the path! Defeat him!**": {
+        "chi": "** 亡灵术士挡住了路！打败它！ **"
+    },
+    "**Hurry up! Bergan summon his most powerful ability!**": {
+        "chi": "** 快！贝甘要使用他最强的攻击了！ **"
+    },
+    "**Bergan has summoned Aqua Ability**": {
+        "chi": "** 贝甘召唤了流体 **"
+    },
+    "**Bergan has casted Fire Agony Ability!*": {
+        "chi": "** 贝甘释放了火投枪 **"
+    },
+    "**Bergan has summoned Knight's Tour Ability!**": {
+        "chi": "** 贝甘使用了骑士征途 **"
+    },
+    "**Bergan has casted Chelonian Gate Ability!**": {
+        "chi": "** 贝甘释放了幽冥门！ **"
+    },
+    "**Bergan has casted Peripheral Synthesis Ability!**": {
+        "chi": "** 贝甘使用了能量化生 **"
+    },
+    "**Bergan has casted Haste Ability!**": {
+        "chi": "** 贝甘释放了恨意 **"
+    },
+    "**Bergan has casted Thunder Ability!*": {
+        "chi": "** 贝甘使用了雷霆魔法 **"
+    },
+    "**Bergan has casted Blood drain Ability!**": {
+        "chi": "** 贝甘使用了血液吸取 **"
+    },
+    "**Bergan has summoned Ultimate Ability!**": {
+        "chi": "** 贝甘召唤了终极 **"
+    },
+    "**Bergan has summoned Mustard Bomb Ability!**": {
+        "chi": "** 贝甘使用了芥末炸弹 **"
+    },
+    "**Bergan has summoned Sandstorm Ability!**": {
+        "chi": "** 贝甘召唤了沙暴 **"
+    },
+    "**Bergan has summoned Electrogenesis Ability!**": {
+        "chi": "** 贝甘召唤了电场 **"
+    },
+    "**[Tonberry] Hello my friend I got lost and I am looking for a way back**": {
+        "chi": "** [冬贝利] 嘿，朋友，我迷路了，我在找回去的路 **"
+    },
+    "**[Tonberry] But I lost my Cactus Toys could you help we find them?**": {
+        "chi": "** [冬贝利] 但我弄丢了我的仙人掌玩具，你可以帮我找到它们吗？ **"
+    },
+    "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all toys****": {
+        "chi": "** [冬贝利] 谢谢你，作为感谢，我会在你找到所有玩具之后给你一个小礼物 **"
+    },
+    "**[Tonberry] I will try to summon an item for you maybe it may be useful to you**": {
+        "chi": "** [冬贝利] 我会尝试为你召唤一个神器，或许对你有用 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 9 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我九个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 8 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我八个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 7 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我七个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 6 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我六个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 5 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我五个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 4 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我四个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 3 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我三个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 2 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我两个玩具 **"
+    },
+    "**[Tonberry] Still havent found all the toys? You need to bring me 1 more toys **": {
+        "chi": "** [冬贝利] 还没有找齐所有玩具吗？你还需要带给我一个玩具 **"
+    },
+    "**[Tonberry] Congratulation I hope this item will serve you well!**": {
+        "chi": "** [冬贝利] 恭喜！我希望这个神器对你们有用 **"
+    }
+}

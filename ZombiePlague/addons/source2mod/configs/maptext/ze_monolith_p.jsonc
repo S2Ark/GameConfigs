@@ -1,0 +1,326 @@
+{
+    "***Main gate is opening in 10 seconds***": {
+        "chi": "大门将在 10 秒后开启"
+    },
+    "***Final hold! Dont let any zombies out***": {
+        "chi": "最后一战!别让僵尸有机可乘！"
+    },
+    "***Final door will close in 30 seconds***": {
+        "chi": "最后一扇门将在 30 秒后关闭！"
+    },
+    "***The alarm system will shut down in 30 seconds***": {
+        "chi": "警报系统将在 30 秒后关闭！"
+    },
+    "***The doors will be opened in 20 seconds***": {
+        "chi": "门将在 20 秒后打开！"
+    },
+    "***The door will open in 20 seconds***": {
+        "chi": "门将在 20 秒后打开！"
+    },
+    "***Zombie TP in 5 seconds***": {
+        "chi": "倒计时 5 秒僵尸传送！"
+    },
+    "***Someone has to go and realign the Satellite***": {
+        "chi": "得有人去重新调整卫星！"
+    },
+    "***Cover them until its done***": {
+        "chi": "坚持到他们成功！"
+    },
+    "***TIP: stand near the control panel to rotate it***": {
+        "chi": "提示:站在控制面板附近旋转它！"
+    },
+    "***Hold this area for 25 seconds***": {
+        "chi": "坚守这个区域 25 秒！"
+    },
+    "***The path will open in 10 seconds***": {
+        "chi": "路径将在 10 秒后打开！"
+    },
+    "***Elevator is leaving in 30 seconds***": {
+        "chi": "电梯将在 30 秒后离开！"
+    },
+    "***15 seconds left***": {
+        "chi": "倒计时剩余 15 秒"
+    },
+    "***Watch out above us!***": {
+        "chi": "小心我们上面！"
+    },
+    "***We are safe finally - the elevator is starting***": {
+        "chi": "我们终于安全了——电梯启动了"
+    },
+    "***Kill any remaining zombies inside***": {
+        "chi": "***杀死里面所有剩下的僵尸***"
+    },
+    "***Cover this area until we get the door to open***": {
+        "chi": "守住这片区域，直到门打开！"
+    },
+    "***Watch out! The door is closing***": {
+        "chi": "小心!门要关上了"
+    },
+    "***Seems like we have been surrounded***": {
+        "chi": "我们好像被包围了！"
+    },
+    "***Hold any of the doors that opens***": {
+        "chi": "坚守直到大门打开！"
+    },
+    "***That was the last of it***": {
+        "chi": "这是最后一战了！"
+    },
+    "***The path should be clear ahead of us now***": {
+        "chi": "现在我们前面的路应该畅通了！"
+    },
+    "***Lets keep moving!***": {
+        "chi": "让我们继续前进!"
+    },
+    "***Elevator is leaving in 10 seconds***": {
+        "chi": "电梯 10 秒后离开！"
+    },
+    "***The bombs are now set***": {
+        "chi": "炸弹现在已经装好了！"
+    },
+    "***This should be the last place***": {
+        "chi": "这应该是最后一个地方了！"
+    },
+    "***Now lets get out quickly!***": {
+        "chi": "现在我们赶快出去吧!"
+    },
+    "***COVER HERE until someone sets the bombs***": {
+        "chi": "在有人安装炸弹之前躲在这里！"
+    },
+    "***Zombie TP in 10 seconds***": {
+        "chi": "倒计时 10 秒后僵尸传送！"
+    },
+    "***It seems we have to use the cavern system to get down***": {
+        "chi": "看来我们得用洞穴系统下去了"
+    },
+    "***The bombs are now being planted***": {
+        "chi": "炸弹正在被安置！"
+    },
+    "***Cover this area until we are done with it***": {
+        "chi": "封锁这片区域，直到我们完成任务！"
+    },
+    "***Lets head to the underground area now***": {
+        "chi": "我们现在去地下区吧！"
+    },
+    "***The shaft will open in 15 seconds***": {
+        "chi": "轴将在 15 秒内打开！"
+    },
+    "***The bomb has been set at the satellite***": {
+        "chi": "炸弹已被安置在卫星上！"
+    },
+    "***Lets head to the generator room now***": {
+        "chi": "我们现在去发电室吧！"
+    },
+    "***The door will open in 15 seconds***": {
+        "chi": "门将在 15 秒后打开！"
+    },
+    "***Doors opening in 10 seconds***": {
+        "chi": "门将在 10 秒后打开！"
+    },
+    "***We can hold here until someone opens the door from the other side for us***": {
+        "chi": "我们可以守在这里，直到有人从另一边为我们开门！"
+    },
+    "***Some of the doors seem to be completely locked***": {
+        "chi": "有些门似乎完全锁上了！"
+    },
+    "***We should check whether the lower levels are also closed***": {
+        "chi": "我们应该检查下一层是否也关闭了！"
+    },
+    "***Elevator is leaving in 20 seconds***": {
+        "chi": "电梯 20 秒后离开！"
+    },
+    "***We finally reached it***": {
+        "chi": "我们终于到了！"
+    },
+    "***Lets take a closer look what it actually is***": {
+        "chi": "让我们仔细看看它到底是什么！"
+    },
+    "***Defend this place until we find something out***": {
+        "chi": "坚守这里，直到我们有所发现！"
+    },
+    "***The liquid being produced here seems to turn people into zombies***": {
+        "chi": "这里生产的液体似乎能把人变成僵尸！"
+    },
+    "***Get in quickly until we clear the path back to safety***": {
+        "chi": "快点上车，直到我们清理出安全地带！"
+    },
+    "***Door will close in 5 seconds***": {
+        "chi": "门将在 5 秒后关闭！"
+    },
+    "***The path is now clear! Lets head back to the elevator***": {
+        "chi": "这条路现在畅通了!我们回电梯去吧！"
+    },
+    "***We finally got down into the underground area***": {
+        "chi": "我们终于进入了地下区域！"
+    },
+    "***The place we are looking for should be around here somewhere***": {
+        "chi": "我们要找的地方应该就在这附近！"
+    },
+    "***Cover this room for a bit more***": {
+        "chi": "再火力覆盖一会这个房间！"
+    },
+    "***It seems that both ways are opening - we should cover each side***": {
+        "chi": "看来两条路都开了，我们应该两面都火力覆盖！"
+    },
+    "***The doors on both sides will open in 25 seconds***": {
+        "chi": "两边的门将在 25 秒后打开！"
+    },
+    "***Both sides are now open***": {
+        "chi": "两边现在都处于开放状态！"
+    },
+    "***Start the elevator! Once we starts - the zombies wont be able to reach us***": {
+        "chi": "启动电梯!一旦运行，僵尸就无法接近我们了"
+    },
+    "***The engine still needs some time to start up***": {
+        "chi": "发动机还需要一些时间才能启动！"
+    },
+    "***Defend until its fully functional***": {
+        "chi": "防守直到它完全发挥作用！"
+    },
+    "***The engines are now working": {
+        "chi": "发动机正在运转！！"
+    },
+    "***Lets head out quickly***": {
+        "chi": "我们赶快出发吧！"
+    },
+    "***Door is opening in 25 seconds***": {
+        "chi": "大门将会在 25 秒后打开！"
+    },
+    "***Shortcut for zombies is open in 5 seconds***": {
+        "chi": "僵尸的捷径将在 5 秒后打开！"
+    },
+    "***It seems the elevator has no power***": {
+        "chi": "电梯好像没电了！"
+    },
+    "***But there seems to be a generator room nearby***": {
+        "chi": "但附近好像有个发电室！"
+    },
+    "***Lets head there quickly***": {
+        "chi": "我们赶快过去吧！"
+    },
+    "***Door is opening in 10 seconds***": {
+        "chi": "门将在 10 秒后打开！"
+    },
+    "***The door will open in 30 seconds***": {
+        "chi": "门将在 30 秒后打开！"
+    },
+    "***We have finally reached the elevator - lets try starting it up***": {
+        "chi": "我们终于到了电梯，让我们试着启动它！"
+    },
+    "***Chapter 4***": {
+        "chi": "第四章 托儿索的救赎（狗头）"
+    },
+    "***After the information you have gathered for us we have decided on the fate of this place***": {
+        "chi": "在你为我们收集了这些信息之后我们已经决定了这个地方的命运！"
+    },
+    "***To prevent anyone from making use of this forsaken place you have to get rid of it once***": {
+        "chi": "为了防止任何人利用这个被遗弃的地方你必须把它处理掉一次！"
+    },
+    "***Your objective is to place bombs in the 3 main locations of this facility***": {
+        "chi": "你的目标是在这个设施的三个主要地点放置炸弹！"
+    },
+    "***Triangular Gate is now unlocked***": {
+        "chi": "三角门现在解锁了！"
+    },
+    "***Chapter 3***": {
+        "chi": "第三章 彼岸花肯定过不了关！"
+    },
+    "***Your objective is to look deeper into the information you have found earlier***": {
+        "chi": "你的目标是更深入地研究你之前发现的信息！"
+    },
+    "***The lower levels of this place are still uncovered so you should go and search for more clues***": {
+        "chi": "这个地方的底层还没有被发现，所以你应该去寻找更多的线索！"
+    },
+    "***If you find anything - come back to us and report it immediately***": {
+        "chi": "如果你有任何发现，请立即向我们报告！"
+    },
+    "***Chapter 2***": {
+        "chi": "第二章 彼岸花的破防"
+    },
+    "***Your objective is to find any info or trace of suspicious activities in this facility***": {
+        "chi": "你的任务是在这里找到任何可疑活动的信息或踪迹！"
+    },
+    "***We have been told that this place might have been used the Federation***": {
+        "chi": "我们被告知这个地方可能被联邦利用了！"
+    },
+    "***If you find any sign of it - report back to us immediately***": {
+        "chi": "如果你发现任何迹象，立即向我们报告！"
+    },
+    "***Chapter 1***": {
+        "chi": "第一章"
+    },
+    "***Your objective is to set up a comminucation system with the base***": {
+        "chi": "你的任务是建立一个与基地的通讯系统！"
+    },
+    "***There is supposedly an unused Satellite Dish in this place***": {
+        "chi": "这里应该有个没用过的卫星天线！"
+    },
+    "***Try to locate it and make use of it***": {
+        "chi": "试着找到它并利用它！"
+    },
+    "***Warmup round***": {
+        "chi": "热身结束！"
+    },
+    "***Warmup ending in 5...***": {
+        "chi": "热身结束剩余5秒！"
+    },
+    "***Warmup ending in 4...***": {
+        "chi": "热身结束剩余4秒！"
+    },
+    "***Warmup ending in 3...***": {
+        "chi": "热身结束剩余3秒！"
+    },
+    "***Warmup ending in 2...***": {
+        "chi": "热身结束剩余2秒！"
+    },
+    "***Warmup ending in 1...***": {
+        "chi": "热身结束剩余1秒！"
+    },
+    "***Nuke inbound***": {
+        "chi": ""
+    },
+    "***Triangular Gate has been picked up***": {
+        "chi": "Triangular Gate已被拾取！"
+    },
+    "***A powerful one time use ability that can kill any zombie in close proximity***": {
+        "chi": "一个强大的一次性技能，可以杀死附近的任何僵尸！"
+    },
+    "***ZM Mode***": {
+        "chi": "ZM 关"
+    },
+    "***Survive for 4 minutes***": {
+        "chi": "存活 240 秒！"
+    },
+    "***Survive for 3 minutes***": {
+        "chi": "存活 180 秒！"
+    },
+    "***Survive for 2 minutes***": {
+        "chi": "存活 120 秒！"
+    },
+    "***Survive for 1 minute***": {
+        "chi": "存活 60 秒！"
+    },
+    "***There is supposed to be an archive in this area***": {
+        "chi": "这个地区应该有一个档案馆！"
+    },
+    "***The Satellite is now aligned***": {
+        "chi": "卫星现在调整完成了！"
+    },
+    "***It seems the alarms have been triggered and locked all the doors***": {
+        "chi": "似乎警报被触发了，所有的门都被锁上了！"
+    },
+    "***We have to find an alternative way to get back***": {
+        "chi": "“***我们必须找到另一种方式回去***”"
+    },
+    "***Lower level doors have been now unlocked***": {
+        "chi": "下层的门现在已经解锁！"
+    },
+    "***These documents say something about some kind of biological weapon***": {
+        "chi": "这些文件提到了某种生物武器！"
+    },
+    "***Seems to be located in the underground levels... lets head there quickly***": {
+        "chi": "好像是在地下……我们赶快过去吧"
+    },
+    "***This is the place!***": {
+        "chi": "就是这里!"
+    }
+}

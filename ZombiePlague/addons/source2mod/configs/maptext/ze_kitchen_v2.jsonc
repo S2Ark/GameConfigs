@@ -1,0 +1,95 @@
+{
+    ">>> Defend 30 sec <<<": {
+        "chi": "防守30秒"
+    },
+    ">>> Still defend 5 sec <<<": {
+        "chi": "最后5秒"
+    },
+    ">>> Defend 25 sec <<<": {
+        "chi": "防守25秒"
+    },
+    ">>> Fall Back <<<": {
+        "chi": ">>> 快溜 <<<"
+    },
+    ">>> Push the sponge <<<": {
+        "chi": "推动海绵"
+    },
+    ">>> START SHOOTING <<<": {
+        "chi": "快射击它"
+    },
+    ">>> Defend 35 sec <<<": {
+        "chi": "防守35秒"
+    },
+    ">>> Door opens in 20 sec <<<": {
+        "chi": "大门20秒后打开"
+    },
+    ">>> The door is open <<<": {
+        "chi": "大门已开启"
+    },
+    ">>> Wait 20 sec <<<": {
+        "chi": "等待20秒"
+    },
+    ">>> The vent is open <<<": {
+        "chi": "通风管道已开启"
+    },
+    ">>> Defend 10 sec <<<": {
+        "chi": "防守10秒"
+    },
+    ">>> Last Defend 35 sec <<<": {
+        "chi": "最后防守35秒"
+    },
+    ">>> Still Defend 5 sec <<<": {
+        "chi": "防守5秒"
+    },
+    "Kill all zombies inside!": {
+        "chi": "消灭剩余僵尸"
+    },
+    ">>> Wait 25 sec <<<": {
+        "chi": "等待25秒"
+    },
+    ">>> The door will open fully in 5 sec <<<": {
+        "chi": "大门5秒后完全打开"
+    },
+    ">>> DEFEND <<<": {
+        "chi": "继续防守"
+    },
+    ">>> RUN <<<": {
+        "chi": "快润"
+    },
+    ">>> Wait 30 sec <<<": {
+        "chi": "等待30秒"
+    },
+    ">>> Wait 40 sec <<<": {
+        "chi": "等待40秒"
+    },
+    ">>> Door opens in 30 sec <<<": {
+        "chi": "大门30秒后院打开"
+    },
+    ">>> Door closes in 20 sec <<<": {
+        "chi": "大门20秒后关闭"
+    },
+    ">>> Door opens in 5 sec <<<": {
+        "chi": "大门5秒后打开"
+    },
+    ">>> Door opens in 25 sec <<<": {
+        "chi": "大门25秒后打开"
+    },
+    ">>> Door closes in 15 sec <<<": {
+        "chi": "大门15秒后关闭"
+    },
+    ">>> Door closes in 5 sec <<<": {
+        "chi": "大门5秒后关闭"
+    },
+    ">>> Fly model created by Kaesar <<<": {
+        "chi": "感谢Kaesar的模型"
+    },
+    ">>> The path has been cleared <<<": {
+        "chi": "道路已开放"
+    },
+    ">>> Elevator leave in 40 sec <<<": {
+        "chi": "电梯40秒后离开"
+    },
+    ">>> Elevator leave in 5 sec <<<": {
+        "chi": "电梯5秒后离开"
+    }
+}

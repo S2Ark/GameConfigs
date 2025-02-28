@@ -1,0 +1,125 @@
+{
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***": {
+        "chi": "*** 工业循环圈  ***"
+    },
+    "***Map ported by ??????***": {
+        "chi": "***作者:??????  汉化:萌什么爱???***"
+    },
+    "*** CURRENT MODE: EASY ***": {
+        "chi": "*** 难度:EASY ***"
+    },
+    "*** NO ZOMBIE WEAPONS & SMALL INFECTION ***": {
+        "chi": "*** 无僵尸神器 & 母体数量少 ***"
+    },
+    "*** HELPING PUSHES ACTIVATED ON EASY MODE ***": {
+        "chi": "*** 僵尸推力启动  ***"
+    },
+    "*** Door opens in 20 seconds! ***": {
+        "chi": "*** 门开还需20秒! ***"
+    },
+    "*** Resist for 30 seconds! ***": {
+        "chi": "*** 门开还需30秒! ***"
+    },
+    "*** Strangely near door opens in 12 seconds. ***": {
+        "chi": "*** 奇怪的门在12秒后打开  ***"
+    },
+    "*** Resist for 10 more seconds! ***": {
+        "chi": "*** 继续防守10秒! ***"
+    },
+    "*** GO! GO! GO! MOVE OUT! ***": {
+        "chi": "*** GO! GO! GO!  ***"
+    },
+    "*Ammo Box has been picked up. Press +USE (E) to activate.*": {
+        "chi": "*弹药被拾起，按E使用*"
+    },
+    "*It has a 90 seconds cooldown.*": {
+        "chi": "*弹药有90秒CD.*"
+    },
+    "*** Helicopter comes in 30 seconds. ***": {
+        "chi": "*** 直升机30秒后到达 ***"
+    },
+    "***Evacuate!!!***": {
+        "chi": "***关卡完成!!!***"
+    },
+    "*** We did it! Moving on to the NORMAL mode! ***": {
+        "chi": "*** 下一关难度:正常! ***"
+    },
+    "***Map ported by ??????!***": {
+        "chi": "***作者:??????!  汉化:萌什么爱???***"
+    },
+    "*** CURRENT MODE: NORMAL ***": {
+        "chi": "*** 难度: NORMAL ***"
+    },
+    "*** ZOMBIE WEAPONS & NORMAL INFECTION ***": {
+        "chi": "*** 僵尸神器解锁 & 正常母体数量 ***"
+    },
+    "*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***": {
+        "chi": "*** 僵尸推力减弱 ***"
+    },
+    "*Laser wall generator has been picked up. Press +USE (E) to activate.*": {
+        "chi": "*激光墙被拾起 按E使用*"
+    },
+    "*It has a 60 seconds cooldown.*": {
+        "chi": "*激光墙CD 60秒.*"
+    },
+    "**Flamethrower has been picked up. Press +Use (E) to activate**": {
+        "chi": "**喷火器  按E使用**"
+    },
+    "**Fuel lasts about 10 seconds. **": {
+        "chi": "**燃料持续10秒. **"
+    },
+    "*** Boat leaves in 40 seconds. ***": {
+        "chi": "*** 船将在40秒后离开 ***"
+    },
+    "*** RESIST!!! 10 SECONDS!!!. ***": {
+        "chi": "*** !!! 最后10秒 !!. ***"
+    },
+    "*** Well done! Now it will get interesting on the HARD mode! ***": {
+        "chi": "*** 关卡完成....下一关难度：困难! ***"
+    },
+    "*** CURRENT MODE: HARD ***": {
+        "chi": "*** 难度: HARD ***"
+    },
+    "*** ZOMBIE WEAPONS & BIG INFECTION ***": {
+        "chi": "*** 有僵尸神器 & 较多的母体数量 ***"
+    },
+    "*** HELPING PUSHES DISABLED ***": {
+        "chi": "*** 没有僵尸推力 ***"
+    },
+    "* Zombie heal has been picked up. Press +USE (E) to activate.*": {
+        "chi": "* 僵尸奶被拾起  按E使用*"
+    },
+    "*** Hold the house for 24 seconds! ***": {
+        "chi": "*** 守住房子24秒! ***"
+    },
+    "*** Windows that don't have a wooden plank are breakable! ***": {
+        "chi": "*** 僵尸可以进攻窗户!!! ***"
+    },
+    "*** GO BACK! IT'S GONNA BLOW! ***": {
+        "chi": "*** 快溜!!! ***"
+    },
+    "*** Freezegun has been picked up. Press +USE (E) to activate. 75 seconds cooldown. ": {
+        "chi": "*** 冰冻枪被拾起  按E使用   CD75秒. "
+    },
+    "*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***": {
+        "chi": "*** 幸运儿们   你们将进入Max难度! ***"
+    },
+    "*** CURRENT MODE: EXTREME ***": {
+        "chi": "*** 难度: Max ***"
+    },
+    "*** ZOMBIE WEAPONS & MASSIVE INFECTION ***": {
+        "chi": "*** 僵尸神器增多 & 僵尸母体数量增多 ***"
+    },
+    "*** Door closes in 8 seconds! ***": {
+        "chi": "*** 8秒后门关! ***"
+    },
+    "*** Unbelievable! You won EXTREME mode! ***": {
+        "chi": "*** 难以置信!你竟然通过了最难的难度! ***"
+    },
+    "*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***": {
+        "chi": "*** 地图难度已达最高，接下来的难度将会不变。如果你还想玩..... ***"
+    },
+    "*** Bunker door opens in 15 seconds!  ***": {
+        "chi": "***地堡将在15秒后开启 ***"
+    }
+}

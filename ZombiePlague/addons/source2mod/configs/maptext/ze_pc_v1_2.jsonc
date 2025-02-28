@@ -1,0 +1,143 @@
+{
+    ">>> Defend 25 sec <<<": {
+        "chi": ">>> 防守25秒 <<<"
+    },
+    ">>> Defend 30 sec <<<": {
+        "chi": ">>> 防守30秒 <<<"
+    },
+    ">>> Fall Back <<<": {
+        "chi": ">>> 后退 <<<"
+    },
+    ">>> Defend 20 sec <<<": {
+        "chi": ">>> 防守20秒<<<"
+    },
+    ">>> Still Defend 5 sec <<<": {
+        "chi": ">>> 再防守5秒 <<<"
+    },
+    ">>> Go destroy the CPU <<<": {
+        "chi": ">>> 去摧毁CPU <<<"
+    },
+    ">>> 10 sec <<<": {
+        "chi": ">>> 10秒 <<<"
+    },
+    ">>> 9 sec <<<": {
+        "chi": ">>> 9秒<<<"
+    },
+    ">>> 8 sec <<<": {
+        "chi": ">>> 8秒 <<<"
+    },
+    ">>> 7 sec <<<": {
+        "chi": ">>> 7秒 <<<"
+    },
+    ">>> 6 sec <<<": {
+        "chi": ">>> 6秒<<<"
+    },
+    ">>> 5 sec <<<": {
+        "chi": ">>> 5秒<<<"
+    },
+    ">>> 4 sec <<<": {
+        "chi": ">>> 4秒<<<"
+    },
+    ">>> 3 sec <<<": {
+        "chi": ">>> 3秒<<<"
+    },
+    ">>> 2 sec <<<": {
+        "chi": ">>> 2秒<<<"
+    },
+    ">>> 1 sec <<<": {
+        "chi": ">>> 1秒<<<"
+    },
+    ">>> ALU Boss <<<": {
+        "chi": ">>> ALU Boss <<<"
+    },
+    ">>> Humans have to avoid standing on wires that will be activated <<<": {
+        "chi": ">>> 人类不要站在将被激活的电线上 <<<"
+    },
+    ">>> Activated wires are a result of addition of 2 input numbers in binary representation <<<": {
+        "chi": ">>>激活的导线是用二进制输入2 个数字的结果<<<"
+    },
+    ">>> Zombies can select input numbers by standing on corresponding wires in DECODE phase <<<": {
+        "chi": ">>> 僵尸可以在解码阶段通过站在相应的电线上选择输入的数字<<<"
+    },
+    ">>> Humans have to calculate which wires will be activated in EXECUTE phase <<<": {
+        "chi": ">>> 人类在执行阶段需要观察哪根电线将被激活，避免站在激活的电线上 <<<"
+    },
+    ">>> PC restart: 69 sec <<<": {
+        "chi": ">>>  电脑重启: 69 sec <<<"
+    },
+    ">>> CPU is broken! <<<": {
+        "chi": ">>> CPU被破坏 <<<"
+    },
+    ">>> PC restart: 65 sec <<<": {
+        "chi": ">>> 电脑重启: 65 sec <<<"
+    },
+    ">>> PC restart: 60 sec <<<": {
+        "chi": ">>> 电脑重启: 60 sec <<<"
+    },
+    ">>> PC restart: 50 sec <<<": {
+        "chi": ">>> 电脑重启: 50 sec <<<"
+    },
+    ">>> PC restart: 40 sec <<<": {
+        "chi": ">>> 电脑重启: 40 sec <<<"
+    },
+    ">>> PC restart: 30 sec <<<": {
+        "chi": ">>> P电脑重启: 30 sec <<<"
+    },
+    ">>> PC restart: 20 sec <<<": {
+        "chi": ">>> 电脑重启: 20 sec <<<"
+    },
+    ">>> PC restart: 15 sec <<<": {
+        "chi": ">>> 电脑重启: 15 sec <<<"
+    },
+    ">>> PC restart: 10 sec <<<": {
+        "chi": ">>> 电脑重启: 10 sec <<<"
+    },
+    ">>> PC restart: 9 sec <<<": {
+        "chi": ">>> 电脑重启： 9 sec <<<"
+    },
+    ">>> PC restart: 8 sec <<<": {
+        "chi": ">>> 电脑重启: 8 sec <<<"
+    },
+    ">>> PC restart: 7 sec <<<": {
+        "chi": ">>> 电脑重启: 7 sec <<<"
+    },
+    ">>> PC restart: 6 sec <<<": {
+        "chi": ">>> 电脑重启: 6 sec <<<"
+    },
+    ">>> PC restart: 5 sec <<<": {
+        "chi": ">>> 电脑重启: 5 sec <<<"
+    },
+    ">>> PC restart: 4 sec <<<": {
+        "chi": ">>> 电脑重启: 4 sec <<<"
+    },
+    ">>> PC restart: 3 sec <<<": {
+        "chi": ">>> 电脑重启: 3 sec <<<"
+    },
+    ">>> PC restart: 2 sec <<<": {
+        "chi": ">>> 电脑重启: 2 sec <<<"
+    },
+    ">>> PC restart: 1 sec <<<": {
+        "chi": ">>> 电脑重启: 1 sec <<<"
+    },
+    ">>> Restart failed. Another restart attempt in 41 sec <<<": {
+        "chi": ">>> 重启失败，将在41秒后再次尝试<<<"
+    },
+    ">>> Shoot the fan blades <<<": {
+        "chi": ">>> 射击风扇叶片<<<"
+    },
+    ">>> PC restart: 41 sec <<<": {
+        "chi": ">>> 电脑重启: 41 sec <<<"
+    },
+    ">>> PC restart: 35 sec <<<": {
+        "chi": ">>> 电脑重启: 35 sec <<<"
+    },
+    ">>> PC restart: 25 sec <<<": {
+        "chi": ">>> 电脑重启: 25 sec <<<"
+    },
+    ">>> PC restart: 0 sec <<<": {
+        "chi": ">>> 电脑重启: 0 sec <<<"
+    },
+    ">>> FAN is broken! <<<": {
+        "chi": ">>> 风扇已被破坏 <<<"
+    }
+}

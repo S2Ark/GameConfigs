@@ -1,0 +1,53 @@
+{
+    "<<< BREAK CRYSTAL TO OPEN THE DOOR >>>": {
+        "chi": "<<< 打破水晶开门 >>>"
+    },
+    "<<Level>><<1>>": {
+        "chi": "<<关卡>><<1>>"
+    },
+    ">>> PLAYER HAS PICKED UP WALL <<<": {
+        "chi": ">>> 有玩家捡到了墙 <<<"
+    },
+    ">>> PLAYER USED WALL <<<": {
+        "chi": ">>> 玩家使用了墙 <<<"
+    },
+    "<<< BOSS USE WIND ! GO FORWARD ! >>>": {
+        "chi": "<<< BOSS使用了风（按住w）>>>"
+    },
+    "<<< BOSS USE GRAVITY ! GO BACK ! >>> ": {
+        "chi": "<<< BOSS使用了引力（按住s）>>> "
+    },
+    "<<< BOSS USE SHIELD ! DONT SHOOT ! >>>": {
+        "chi": "<<< BOSS使用了盾（别开枪）>>>"
+    },
+    "<<< BOSS USE SMASH ! JUMP ! >>>": {
+        "chi": "<<< BOSS使用了烈焰猛击，（跳，或者被击飞时抵抗）>>>"
+    },
+    "<<< BOSS USE FIREBALL ! DONT STAY IN THE MIDDLE ! >>>": {
+        "chi": "<<< BOSS吐出了火， 别站中间>>>"
+    },
+    "**The gates will open in 30 seconds**": {
+        "chi": "**大门30秒后打开**"
+    },
+    "<<< YOU WIN LEVEL *1* >>> ": {
+        "chi": "<<< 关卡1通关 >>> "
+    },
+    "<<Level>><<2>>": {
+        "chi": "<<关卡>><<2>>"
+    },
+    "**The gates will open in 20 seconds**": {
+        "chi": "**大门20秒后打开**"
+    },
+    "<<< YOU WIN LEVEL *2* >>>": {
+        "chi": "<<< 关卡2通关>>>"
+    },
+    "<<Level>><<3>>": {
+        "chi": "<<关卡>><<3>>"
+    },
+    ">>> PLAYER HAS PICKED UP ICE <<<": {
+        "chi": ">>> 有玩家捡到了冰<<<"
+    },
+    "*** PLAYER FOUND A KEY ***": {
+        "chi": "*** 玩家找到了钥匙 ***"
+    }
+}

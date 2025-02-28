@@ -1,0 +1,68 @@
+{
+    "<<Hold the elevator for 40 sec.>>": {
+        "chi": "守住电梯40秒"
+    },
+    "<<Doors will open in 25 sec.>>": {
+        "chi": "大门25秒后打开"
+    },
+    "<<Afk teleport in 10 sec.>>": {
+        "chi": "挂机玩家10秒后传送"
+    },
+    "<<Wait for 25 sec.>>": {
+        "chi": "等待25秒"
+    },
+    "<<Afk teleport in 15 sec.>>": {
+        "chi": "挂机玩家15秒后传送"
+    },
+    "<<Wait for 15sec.>>": {
+        "chi": "等待15秒"
+    },
+    "<<Afk tp in 10 sec.>>": {
+        "chi": "挂机玩家10秒后传送"
+    },
+    "<<Wait for 30 sec.>>": {
+        "chi": "防守30秒"
+    },
+    "<<Hold the elevator for 20 sec.>>": {
+        "chi": "防守电梯20秒"
+    },
+    "<<10 sec remaining.>>": {
+        "chi": "剩余10秒"
+    },
+    "<<Tears>>": {
+        "chi": "<<泪>>"
+    },
+    "<<zombies>>": {
+        "chi": "<僵尸>"
+    },
+    "<<Hold for 85 sec.>>": {
+        "chi": "防守85秒"
+    },
+    "<<Resist for 25 sec.>>": {
+        "chi": "防守25秒"
+    },
+    "<<Hold the platform for 20 sec.>>": {
+        "chi": "守住平台20秒"
+    },
+    "<<ze_colorfull>>": {
+        "chi": "<<黑白绚烂>>"
+    },
+    "<<Resist for 30 sec.>>": {
+        "chi": "防守30秒"
+    },
+    "<<Map by maqu>>": {
+        "chi": "<<作者 maqu 汉化 萌爱>>"
+    },
+    "<<Thanks to all players in PSE for testing.>>": {
+        "chi": "感谢你们的游玩"
+    },
+    "<<Special thanks : thas and kune>>": {
+        "chi": "<<特别感谢 : thas and kune>>"
+    },
+    "<<Hold here for 25 sec.>>": {
+        "chi": "防守25秒"
+    },
+    "<<Hold here for 20 sec.>>": {
+        "chi": "防守20秒"
+    }
+}

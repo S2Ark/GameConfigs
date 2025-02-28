@@ -1,0 +1,497 @@
+{
+    "***Iron Fence will break when ship arrive!***": {
+        "chi": "***铁栅栏会在泊船的时候破碎!***"
+    },
+    "***Assistance is on the way,Just fucking defend!!***": {
+        "chi": "***大帮手在路上了，给爷防御一下等到他们到来!!***"
+    },
+    "[Now Playing: Benjamin - RUSH]": {
+        "chi": "[现在正在播放: Benjamin - RUSH]"
+    },
+    "** Two boat leave in 15 sec. **": {
+        "chi": "** 两条船将在15秒内相继出发. **"
+    },
+    "***The helicopter will take off in 5 seconds.***": {
+        "chi": "***这直升机将在5秒内出发.***"
+    },
+    "V: *Where is dante and nero..They're late.*": {
+        "chi": "V: *dante和nero死哪儿去了..你慢死了.*"
+    },
+    "V: *Damn,But the show is about to begin.*": {
+        "chi": "V: *淦,演出都要开始了.*"
+    },
+    "V: *Alright,Let's rehearse first,We gonna have a party after this.*": {
+        "chi": "V: *好吧，让我们先排练，之后我们要开impart.*"
+    },
+    "** Zombie Push Area has disable! **": {
+        "chi": "** 僵尸的push被解除了! **"
+    },
+    "** Teleport afk player in 10 sec **": {
+        "chi": "** 10秒钟后将传送AFK玩家 **"
+    },
+    "***The rescue ship is on the way.***": {
+        "chi": "***救援船在路上了（启动发动机.jpeg）.***"
+    },
+    "*** Metal gate open in 10 sec ***": {
+        "chi": "*** 金属门在 10 秒后打开 ***"
+    },
+    "*Both Boat will left in 30 sec.*": {
+        "chi": "*俩船都会在30秒后离开.*"
+    },
+    "*** Warning! Nuke incoming..***": {
+        "chi": "***核爆噜 Bo0o0o0o0oo0oM***"
+    },
+    "*** 5 ***": {
+        "chi": "*** 5 ***"
+    },
+    "*** 4 ***": {
+        "chi": "*** 4 ***"
+    },
+    "*** 3 ***": {
+        "chi": "*** 3 ***"
+    },
+    "*** 2 ***": {
+        "chi": "*** 2 ***"
+    },
+    "*** 1 ***": {
+        "chi": "*** 1 ***"
+    },
+    "*READY FOR THE SHOW....*": {
+        "chi": "*准备登场....*"
+    },
+    "*READY FOR THE SHOW...*": {
+        "chi": "*准备登场...*"
+    },
+    "*READY FOR THE SHOW..*": {
+        "chi": "*准备登场..*"
+    },
+    "**SELECT CLASS: MAP MODE...**": {
+        "chi": "**地图模式...**"
+    },
+    "**CURRENT MAP: MAKO REACTOR**": {
+        "chi": "**魔光炉模式**"
+    },
+    "**THE MATERIA WILL DIRECITY EFFECT SEPHIROTH!**": {
+        "chi": "**神器可以控制萨菲罗斯!!**"
+    },
+    "*Sephiroth's Laser will unlock in 10 sec.*": {
+        "chi": "*Sephiroth 的激光将在 10 秒内解锁。*"
+    },
+    "Sephiroth is here,Beware the sky...": {
+        "chi": "Sephiroth 就在这里，小心头顶..."
+    },
+    "*A PLAYER HAS EQUIN THE ULTIMA MATERIA*": {
+        "chi": "*有人拿到了Holy！*"
+    },
+    "*A PLAYER HAS EQUIN THE EARTH MATERIA*": {
+        "chi": "*小心有人要盖Trim土了！*"
+    },
+    "*A PLAYER HAS EQUIN THE FIRE MATERIA*": {
+        "chi": "*心在跳！是爱情如烈火！*"
+    },
+    "*A PLAYER HAS EQUIN THE GRAVITY MATERIA*": {
+        "chi": "*吸nmb里，嘻嘻嘻！*"
+    },
+    "*A PLAYER HAS EQUIN THE ELECTRO MATERIA*": {
+        "chi": "*以雷霆 击碎黑暗*"
+    },
+    "**Bahamut has casted ultimate inside the reactor**": {
+        "chi": "**巴哈姆特将会释放终极**"
+    },
+    "**The whole place will blow up,We got to move now!**": {
+        "chi": "**这里会爆炸！快run！**"
+    },
+    "**Final gate open in 35 sec**": {
+        "chi": "**最终的避难所将于35秒后打开**"
+    },
+    "*Console has slay the player Sephiroth*": {
+        "chi": "*萨菲罗斯去世了！*"
+    },
+    "**BAHAMUT DOWN,KEEP RUNNING!**": {
+        "chi": "**巴哈姆特被打败了!快跑！**"
+    },
+    "**BAHAMUT'S ULTIMATE BRUST IN 20 SEC!**": {
+        "chi": "**巴哈姆特在 20 秒内终极！**"
+    },
+    "**SEPHIROTH DOWN,GET IN THERE AND SOLOOOO!**": {
+        "chi": "**萨菲罗斯 寄,从这里进去 然后 SOLOOOO!**"
+    },
+    "**Wow,You did it,Without yek or trim...?**": {
+        "chi": "**牛逼,你赢了,但看看你yek和trim了多少人...SB了？**"
+    },
+    "**Mode Complete,Mako Mode Locked.**": {
+        "chi": "**模式完成,Mako 模式锁定。**"
+    },
+    "**CURRENT MODE: ALL STAR BATTLE**": {
+        "chi": "**当前模式: 权 原 司 马（全明星大乱斗）**"
+    },
+    "**SELECTING WEATHER...**": {
+        "chi": "**特殊天气**"
+    },
+    "**Normal Weather**": {
+        "chi": "**普通天气**"
+    },
+    "** THE WHITE KNIGHT IS READY ROCK THE WORLD **": {
+        "chi": "** 白骑士将要摧毁这个世界！ **"
+    },
+    "***PLAYER PICKED UP ITEM - BEAM CANNON***": {
+        "chi": "***玩家拾取了激光炮！***"
+    },
+    "The Storm is Approaching...": {
+        "chi": "新的风暴已经出现..."
+    },
+    "***PLAYER PICKED UP ITEM - ROCKET CANNON***": {
+        "chi": "***火箭炮被捡起了***"
+    },
+    "*A PLAYER HAS EQUIN THE WIND MATERIA*": {
+        "chi": "*狂风！听我号令！*"
+    },
+    "***PLAYER PICKED UP ITEM - MINI CANNON***": {
+        "chi": "***有人捡起了mini钢：啊肉哥哥的mini钢，顶到我的血肉战士基地了，雪妹妹颤抖着说道***"
+    },
+    "*Queen's Ability will unlock in 10 sec.*": {
+        "chi": "*女皇将在十秒后解放能力.*"
+    },
+    "*A PLAYER HAS EQUIN THE HEAL MATERIA*": {
+        "chi": "*芭芭拉冲鸭！（玩家拾取神器：奶）*"
+    },
+    "*A PLAYER HAS EQUIN THE ICE MATERIA*": {
+        "chi": "*握焯！冰！*"
+    },
+    "The HellFire Gonna Melt Everthing Down.....": {
+        "chi": "地狱之火将烧毁一切....."
+    },
+    "** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+        "chi": "** ... 火焰与暗影 ... **"
+    },
+    "**SELECT CLASS: SPECIAL MODE...**": {
+        "chi": "**特殊模式...**"
+    },
+    "**CURRENT MODE: FACE TO FACE BATTLE**": {
+        "chi": "**当前模式: 贴贴 然后 开打**"
+    },
+    "**Teleport to battle platform in 20 sec**": {
+        "chi": "**20秒后传送到擂台**"
+    },
+    "[Now Playing: Porter Robinson - Shelter]": {
+        "chi": "[正在播放: Porter Robinson - Shelter]"
+    },
+    "**Destroy Enemy Nexus Or Eliminate All Enemy,Do Your Choice...**": {
+        "chi": "**摧毁敌人的枢纽或消灭所有敌人，做个选择吧......**"
+    },
+    "**Normal Human Ignore Infect When Near Nexus**": {
+        "chi": "**正常人在靠近枢纽时会忽略感染**"
+    },
+    "**War Begin!**": {
+        "chi": "**开打!**"
+    },
+    "*Zombie Nexus Been Destroy!*": {
+        "chi": "*僵尸的老巢芜咯!*"
+    },
+    "*HUMAN WIN*": {
+        "chi": "*人类胜利*"
+    },
+    "**CURRENT MODE: LUCKY BOX**": {
+        "chi": "**当前模式: 猜猜箱子里面都是什么猫**"
+    },
+    "[Now Playing: Samuel Kim - I Really Want to Stay at Your House]": {
+        "chi": "[正在播放: Samuel Kim - I Really Want to Stay at Your House]"
+    },
+    "**Blizzard Weather,Water frozen xd!!**": {
+        "chi": "**冰冻三尺！湖面结冰，你船没咯！！**"
+    },
+    "**WHITE KNIGHT HAS BLESSED BY ULTIMATE POWER!**": {
+        "chi": "**白骑士拥有至高无上的力量!**"
+    },
+    "*Super Ultimate Vehicle Unlocked! B)*": {
+        "chi": "*超级大车车解锁! B)*"
+    },
+    "**Only No Item Player Allow to Enter the admin room**": {
+        "chi": "**？拿了神器还想进调关房¿**"
+    },
+    "*There will be no boat to get us*": {
+        "chi": "*不会有船啦！*"
+    },
+    "*Walk on the ice to the island!*": {
+        "chi": "*直接从冰上走！!*"
+    },
+    "[Now Playing: Mafu - Don't Go]": {
+        "chi": "[正在播放: Mafu - Don't Go]"
+    },
+    "** ...Wait,Why it takes so long? **": {
+        "chi": "** ......等等，怎么这么墨迹? **"
+    },
+    "[Now Playing: Sana - She on a journey]": {
+        "chi": "[正在播放: Sana - She on a journey]"
+    },
+    "***PLAYER PICKED UP ITEM - HEALING SHITBOX***": {
+        "chi": "***有玩家捡起了一坨答辩***"
+    },
+    "[Now Playing: mpi - Inferno]": {
+        "chi": "[正在播放: mpi - Inferno]"
+    },
+    "**CURRENT MODE: BOATESCAPE111**": {
+        "chi": "**111模式**"
+    },
+    "** HUMAN WILL BE... **": {
+        "chi": "** 人类是... **"
+    },
+    "** DAEDRIC! **": {
+        "chi": "** 原，哦不好意思，魔神! **"
+    },
+    "** AND... **": {
+        "chi": "** 还有是... **"
+    },
+    "** DOHVA! **": {
+        "chi": "** 龙裔 ! **"
+    },
+    "** ZOMBIE WILL BE...**": {
+        "chi": "** 僵尸是...**"
+    },
+    "** HELLFIRE! **": {
+        "chi": "** 地狱火! **"
+    },
+    "** AND...**": {
+        "chi": "** 和...**"
+    },
+    "** And there is no helicopter because its BoatEscape101. **": {
+        "chi": "** 没直升机了，是坐船跑101！. **"
+    },
+    "** Go on the left boat. B) **": {
+        "chi": "** 前往B船) **"
+    },
+    "**CURRENT MODE: VIP**": {
+        "chi": "**当前模式: 保护VIP**"
+    },
+    "**Console will Pick the VIP Player in 5 sec**": {
+        "chi": "**VIP5秒后诞生**"
+    },
+    "**VIP is here,Protect that little Capoo Cat or Human will lose! B)**": {
+        "chi": "**保护VIP，VIP被抓处死人类！**"
+    },
+    "**?!**": {
+        "chi": "**?!**"
+    },
+    "**Capoo got caught by zombie!**": {
+        "chi": "**完了!被抓了！**"
+    },
+    "**You fucked!!**": {
+        "chi": "**双腿一蹬 与世无争**"
+    },
+    "** You got 10 sec to end this fight! **": {
+        "chi": "** 10秒内结束战斗！ **"
+    },
+    "** GANDALF! **": {
+        "chi": "** 甘 道 夫! **"
+    },
+    "** TOWER KNIGHT! **": {
+        "chi": "** 高塔守卫! **"
+    },
+    "** Crimson Queen! **": {
+        "chi": "** 绯红女王! **"
+    },
+    "**CURRENT MAP: SANTASSINATION**": {
+        "chi": "**当前模式: SANTCAONISIMA（狮子王）**"
+    },
+    "*Admin has Choose Mako Reactor for next round...*": {
+        "chi": "* OP 给你们调了...炉子模式*"
+    },
+    "**Current Mode is Unallow to enter Adminroom**": {
+        "chi": "**当前模式无法进入权男的米奇妙妙屋**"
+    },
+    "*SOCRATES HAS NOTICED YOUR EXISTENCE*": {
+        "chi": "*苏格拉底 注意到了你的存在！*"
+    },
+    "*SOCRATES WILL SHOW THE PATH IN 30 SEC*": {
+        "chi": "*苏格拉底 将会在30s后打开道路*"
+    },
+    "*SOCRATES IS MOURNING*": {
+        "chi": "*苏格拉底 正在哀悼*"
+    },
+    "*SOCRATES SAID GO FORWARD*": {
+        "chi": "*苏格拉底 表示继续！*"
+    },
+    "*GO...HE IS WAITING FOR YOU...*": {
+        "chi": "*去吧！...他正在等你...*"
+    },
+    "*SOCRATES WELCOME YOU..*": {
+        "chi": "*苏格拉底 对你敞开心扉..*"
+    },
+    "***SOCRATES IS FAKE***": {
+        "chi": "***苏格拉底 是假的！***"
+    },
+    "***SOCRATES NEVER EXIST***": {
+        "chi": "***苏格拉底 从未存在***"
+    },
+    "***SOCRATES IS SANTA'S LIES***": {
+        "chi": "***苏格拉底 是耶稣的谎言！***"
+    },
+    "***SANTA USE SOCRATES TO COVER HIS SINS***": {
+        "chi": "***苏格拉底 只是替罪羊罢了***"
+    },
+    "***PLAYER PICKED UP ITEM - HERDER***": {
+        "chi": "***玩家拾取了推力***"
+    },
+    "***PICK THEM UP***": {
+        "chi": "***把它捡起来***"
+    },
+    "***FIGHT FOR THE TRUE..WHATEVER IT TAKES***": {
+        "chi": "*** 为真理而战   不惜一切代价 ***"
+    },
+    "**- TRUE SANTA -**": {
+        "chi": "**- 真正的耶稣 -**"
+    },
+    "**AND YES THERE IS NO SPEEDER CUZ I ATE IT**": {
+        "chi": "**是的，你们只是食物罢了**"
+    },
+    "***YOU HAVE DONE IT!***": {
+        "chi": "***你们做到了!***"
+    },
+    "***BUT YOU KNOW,IT'S JUST AN ILLUSION***": {
+        "chi": "***但你知道，这只是一种幻觉***"
+    },
+    "***IT'S NOT THE REAL SANTASSINATION***": {
+        "chi": "***这不是真正的SANTCAONISIMA***"
+    },
+    "***Uh....You know what,Just skip the BLABLABLA***": {
+        "chi": "***呃....你知道吗，跳过A0xb/*Q@（GSD***"
+    },
+    "***YOU ARE FUCKING CHAMPION YEEEEEEAAA***": {
+        "chi": "***你是 吊炸天的 哥五安冠 只因晕军 冠军！***"
+    },
+    "**Mode Completed,Santassination Mode Locked.**": {
+        "chi": "**模式通关,Santcaonisima模式已被锁定.**"
+    },
+    "**Mode been select by Admin...**": {
+        "chi": "**这是权男调的关...**"
+    },
+    "**MAKO REACTOR**": {
+        "chi": "**魔光炉模式**"
+    },
+    "*Human Nexus Been Destroy!*": {
+        "chi": "*血肉战士基地被轰烂了!*"
+    },
+    "*ZOMBIE WIN*": {
+        "chi": "*僵尸胜利*"
+    },
+    "**Spring**": {
+        "chi": "**春**"
+    },
+    "** Alright,fuxk it. **": {
+        "chi": "** 操你妈，总算搞定了. **"
+    },
+    "** ROCKET! **": {
+        "chi": "** 火箭筒! **"
+    },
+    "*Admin has Choose Santassination for next round...*": {
+        "chi": "*权男给你们的下一把调了 Santcaonisima 模式...*"
+    },
+    "*Admin has skip the Warmup...*": {
+        "chi": "*权男 启动了新的游戏...*"
+    },
+    "**SANTASSINATION**": {
+        "chi": "**SANTCAONISIMA**"
+    },
+    "*Admin has Skip Santassaination Mode...*": {
+        "chi": "*权男给你们跳过了Santcaonisima模式...*"
+    },
+    "*You facking pussy B)*": {
+        "chi": "*你面对的是B浦西（译者：笑，什么吊图）*"
+    },
+    "*Admin has Skip Mako Reactor Mode...*": {
+        "chi": "*权男跳过了 Mako 模式...*"
+    },
+    "*Admin has Choose Secret Santa Mode for next round...*": {
+        "chi": "*权男将下一把修改为了 Secret Santa 模式...*"
+    },
+    "**SUPER SANTASSINATION**": {
+        "chi": "**超级 SANTACAONISISIMA**"
+    },
+    "*Admin has Choose Secret Mako Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了 Secret Mako 模式...*"
+    },
+    "*Admin has Choose Face to Face Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了 面对面搞基模式 ...*"
+    },
+    "**SUPER MAKO REACTOR**": {
+        "chi": "**超 级 魔 光 炉**"
+    },
+    "*Admin has Choose Ultimate Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了 超级魔改 模式...*"
+    },
+    "**CURRENT MODE: ULTIMATE POWER**": {
+        "chi": "**超级魔改模式: 魔改对抗**"
+    },
+    "**ALMOST ALL ITEM HAS BEEN BLESS BY @SETH ULTIMATE POWER!**": {
+        "chi": "**魔改作者 @SETH !**"
+    },
+    "*Admin has Choose All Earth Battle Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了  模式...*"
+    },
+    "*Admin has Choose VIP Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了 VIP 模式...*"
+    },
+    "**CURRENT MODE: ALL EARTH BATTLE**": {
+        "chi": "**当前模式: 全员Trim土**"
+    },
+    "*Admin has Choose Car Race for next round...*": {
+        "chi": "*权男给你们的下一把调了 超级小车车 模式...*"
+    },
+    "*Admin has Choose BoatEscape111 for next round...*": {
+        "chi": "*权男给你们的下一把调了 BoatEscape111 模式...*"
+    },
+    "**CURRENT MODE: MADNESS RACE**": {
+        "chi": "**当前模式: 彻 底 疯 狂**"
+    },
+    "**GET ON THE BACKSEAT AND PRESS E TO SIT ON!**": {
+        "chi": "***按E上车!***"
+    },
+    "**THE RACE WILL BEGIN IN 5 SEC**": {
+        "chi": "**倒计时 五秒 后开赛**"
+    },
+    "**3**": {
+        "chi": "**3**"
+    },
+    "**2**": {
+        "chi": "**2**"
+    },
+    "**1**": {
+        "chi": "**1**"
+    },
+    "**LET'S GO!**": {
+        "chi": "**冲冲冲!**"
+    },
+    "*Admin has Choose Knight Duel for next round...*": {
+        "chi": "*权男给你们的下一把调了 击剑 模式...*"
+    },
+    "** BALROG! **": {
+        "chi": "** BALROG! **"
+    },
+    "*Admin has Choose Luckybox Challenge for next round...*": {
+        "chi": "*权男给你们的下一把调了 幸运盒子 模式...*"
+    },
+    "**CURRENT MODE: KNIGHT DUEL**": {
+        "chi": "**当前模式: 和我击♂剑**"
+    },
+    "**Teleport to battle platform in 5 sec**": {
+        "chi": "**5 秒后传送到擂台**"
+    },
+    "**Two of Knight will join in every 5 sec**": {
+        "chi": "**两位剑斗士将在5秒后登场**"
+    },
+    "*Admin has Choose All Star Battle for next round...*": {
+        "chi": "*权男给你们的下一把调了 权 原 司 马 模式...*"
+    },
+    "*Admin has Choose ZM Mode for next round...*": {
+        "chi": "*权男给你们的下一把调了 ZM 模式...*"
+    },
+    "**CURRENT MODE: ZM**": {
+        "chi": "**当前模式: ZM**"
+    },
+    "**This is ZM Mode,Go get a luckybox and HIDE!**": {
+        "chi": "**现在是ZM模式, 找到一个幸运箱然后藏起来!**"
+    },
+    "**Fight or Hide,Try to Survival for 175 seconds!**": {
+        "chi": "**要么战斗 要么躲起来, 反正你守住175秒!**"
+    }
+}

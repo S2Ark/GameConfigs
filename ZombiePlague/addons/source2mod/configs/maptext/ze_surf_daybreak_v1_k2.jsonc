@@ -1,0 +1,20 @@
+{
+    "~ Zombies come in 20sec ~": {
+        "chi": "僵尸20秒后传送"
+    },
+    "~ Afk tele in 20sec ~": {
+        "chi": "挂机玩家20秒后传送"
+    },
+    "~ Zombies come in 11sec ~": {
+        "chi": "僵尸11秒后出笼"
+    },
+    "~ Last afk tele in 15 sec ~": {
+        "chi": "挂机传送15秒后开启"
+    },
+    "~ 25sec until platform break ~": {
+        "chi": "防守25秒"
+    },
+    "~ Afk tele in 15sec~": {
+        "chi": "挂机传送15秒后开启"
+    }
+}

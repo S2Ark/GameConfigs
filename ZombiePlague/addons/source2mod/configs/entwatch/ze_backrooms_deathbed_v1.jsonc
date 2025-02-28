@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Tactical Flashlight 1",
+        "shortname": "Flashlight 1",
+        "hammerid": "5687",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "5700"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "5693",
+                "mode": 5,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Tactical Flashlight 2",
+        "shortname": "Flashlight 2",
+        "hammerid": "5709",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "5723"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "5714",
+                "mode": 5,
+                "ui": true
+            }
+        ]
+    }
+]

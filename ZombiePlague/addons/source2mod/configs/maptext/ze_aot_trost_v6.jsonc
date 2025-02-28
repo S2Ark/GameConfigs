@@ -1,0 +1,152 @@
+{
+    ">>Map by Natsume,model by Sea_sedge/Qigongxiaoxie,script by Sea_sedge,particle help:Li qiluo<<": {
+        "chi": ">>地图作者:Natsume,模型:Qigongxiaoxie,脚本:Sea_sedge,粒子效果:礼绮罗<<"
+    },
+    ">This remade map is based on ze_attackontitan_trotster and aot_trostlos,some house models come from ze_tyranny2<": {
+        "chi": ">地图参考 ze_attackontitan和 aot_trostlos,房屋模型参考暴君2 汉化:萌爱<"
+    },
+    ">>main door open in 30S<<": {
+        "chi": ">>中央大门将在 30S后开启<<"
+    },
+    ">>fence will break in 30S<<": {
+        "chi": ">>障碍物将在30秒后破碎<<"
+    },
+    ">>yard door will open in 20S<<": {
+        "chi": ">>大门20秒后打开<<"
+    },
+    ">>we can get out of the yard in 20S<<": {
+        "chi": ">>我们20秒后才能离开这里<<"
+    },
+    ">>final 60S,hold<<": {
+        "chi": ">>最后的大门60秒后关闭<<"
+    },
+    "Monkey threw a stone.Watch out!": {
+        "chi": "兽之巨人投掷了巨石"
+    },
+    ">>Mission completed, loading the second level<<": {
+        "chi": ">>正在进入第二关....<<"
+    },
+    ">>main door open in 40S<<": {
+        "chi": ">>中央大门将在40秒后开启<<"
+    },
+    ">>door1 will break in 20S<<": {
+        "chi": ">>门会在20秒后开放<<"
+    },
+    ">>fence will break in 20S,hold!<<": {
+        "chi": ">>栅栏20秒后破碎!<<"
+    },
+    ">>fence will break in 10S<<": {
+        "chi": ">>障碍物10秒后破碎<<"
+    },
+    ">>second fence will break in 20S<<": {
+        "chi": ">>障碍物 20秒后破碎<<"
+    },
+    ">>the wall will explode in 20S<< ": {
+        "chi": ">>墙壁将在20秒后爆炸<< "
+    },
+    ">>the wall will break in 30S<<": {
+        "chi": ">>墙壁破碎还有30秒<<"
+    },
+    ">>door of the palace will open in 25S<<": {
+        "chi": ">>我们25秒后才能进入城堡<<"
+    },
+    ">>zombie tp in 10S<<": {
+        "chi": ">>10秒后僵尸传送<<"
+    },
+    ">>human tp in 30S<<": {
+        "chi": ">>人类将在30秒后传送<<"
+    },
+    ">>Watch out for the house in the northeast!<<": {
+        "chi": ">>小心东北的房子!!!<<"
+    },
+    ">>Watch out for the house in the northwest!<<": {
+        "chi": ">>小心西北的房子!!!<<"
+    },
+    ">>Watch out for the house in the southeast!<<": {
+        "chi": ">>小心东南的房子!!!<<"
+    },
+    ">>Watch out for the house in the southwest!<<": {
+        "chi": ">>小心西南的房子!!!<<"
+    },
+    ">>Hellfire,stop shooting!<<": {
+        "chi": ">>火炎焱燚  停止射击!!!!<<"
+    },
+    ">>power of location activated,house will explode in 8S<<": {
+        "chi": ">>坐标之力激活  白房子8秒后爆炸<<"
+    },
+    ">>Watch out for the house in the center!<<": {
+        "chi": ">>小心中间的房子!!!<<"
+    },
+    ">>final 60S,hold!<<": {
+        "chi": ">>最后的大门60秒后关闭<<"
+    },
+    ">>Mission completed, loading the Extreme Mode<<": {
+        "chi": ">>进入EX难度<<"
+    },
+    ">>fence will break in 25S<<": {
+        "chi": ">>障碍物25秒后破碎<<"
+    },
+    ">>zombie tp in 25S<<": {
+        "chi": ">>僵尸25秒后传送<<"
+    },
+    ">>yard door will open in 30S<<": {
+        "chi": ">>院子的门30秒后打开<<"
+    },
+    ">>zombie tp in 20S<<": {
+        "chi": ">>僵尸20秒后传送<<"
+    },
+    ">>we can get out of the yard in 50S<<": {
+        "chi": ">>我们50秒后才能离开院子<<"
+    },
+    ">>main door will opne in 40S<<": {
+        "chi": ">>中央大门40秒后开启<<"
+    },
+    ">>door1 will break in 30S<<": {
+        "chi": ">>门在30秒后破碎<<"
+    },
+    ">>zombie tp in 15S<<": {
+        "chi": ">>僵尸15秒后传送<<"
+    },
+    ">>the wall will break in 50S<<": {
+        "chi": ">>墙壁50秒后破碎<<"
+    },
+    ">>house will explode in 40S<<": {
+        "chi": ">>房子会在40秒后爆炸<<"
+    },
+    ">>Mission completed,but it is not over!<<": {
+        "chi": ">>还没有结束....<<"
+    },
+    ">>Gas replenishment completed<<": {
+        "chi": ">>补气完成<<"
+    },
+    ">>power of location activated<<": {
+        "chi": ">>坐标之力被激活<<"
+    },
+    ">>second fence will break in 10S<<": {
+        "chi": ">>障碍物10秒后破碎<<"
+    },
+    ">>keep 30S<<": {
+        "chi": ">>防守30秒<<"
+    },
+    ">>we can back in 20 S<<": {
+        "chi": ">>我们20秒后才能离开这里<<"
+    },
+    ">>final 88S,hold!<<": {
+        "chi": ">>最后88秒!!!我们要坚持到嘉然小姐来拯救我们!!!<<"
+    },
+    ">>It's her............<<": {
+        "chi": ">>是她............<<"
+    },
+    ">>I'll expel you all !!!!!!<<": {
+        "chi": ">>我将会留下你们所有人!!!!!!<<"
+    },
+    ">>Congratulations on conquering this map!!!have a good time!!!<<": {
+        "chi": ">>祝贺你们!!!你们征服了这张地图!!!<<"
+    },
+    ">>ZM mode<<": {
+        "chi": ">>ZM mode<<"
+    },
+    ">>final 60S<<": {
+        "chi": ">> 60S<<"
+    }
+}

@@ -1,0 +1,437 @@
+{
+    "**Stage 1 has been chosen**": {
+        "chi": "权男选择第一关"
+    },
+    "**Stage 0 has been chosen**": {
+        "chi": "权男选择序章"
+    },
+    "**Stage 3 has been chosen**": {
+        "chi": "权男选择第三关"
+    },
+    "**Stage 2 has been chosen**": {
+        "chi": "权男选择第二关"
+    },
+    "**EndRound**": {
+        "chi": "关卡结束"
+    },
+    "**Stage 4 has been chosen**": {
+        "chi": "权男选择第四关"
+    },
+    "**Nade do more damage in 10 seconds**": {
+        "chi": "手雷在10秒内可以造成更多伤害"
+    },
+    "**Item can do more damage**": {
+        "chi": "神器可以造成伤害"
+    },
+    "**A player has picked up <Planet Befall>**": {
+        "chi": "一位玩家拾取星辰"
+    },
+    "**You Failed**": {
+        "chi": "你们失败了"
+    },
+    "**The place where all begins and all goes to rest**": {
+        "chi": "这里即是终末，也是开始"
+    },
+    "**And our mission is not over yet**": {
+        "chi": "我们的任务还没有结束"
+    },
+    "**Defend for 30 seconds**": {
+        "chi": "防守30秒"
+    },
+    "**Waiting for the wave**": {
+        "chi": "等待一会儿"
+    },
+    "**A player has picked up <Dawn>**": {
+        "chi": "一位玩家拾取黎明"
+    },
+    "**A zombie has picked up <Water>**": {
+        "chi": "僵尸拾取喷水"
+    },
+    "**About 10 seconds**": {
+        "chi": "剩余10秒"
+    },
+    "**Guard the border between life and death...**": {
+        "chi": "守住生与死的边界"
+    },
+    "**Many floors with the same pattern......**": {
+        "chi": "地板有相同的图案"
+    },
+    "**Seems to be able to break the floor...**": {
+        "chi": "地板似乎能被打破"
+    },
+    "**But it is better not to do this**": {
+        "chi": "但最好不要这样做"
+    },
+    "**Remember the glowing floor...**": {
+        "chi": "记住发光的地板"
+    },
+    "**Wait here for more than 15 seconds...**": {
+        "chi": "等待15秒"
+    },
+    "**The door will open soon**": {
+        "chi": "大门正在打开"
+    },
+    "**It looks like the entrance to a relic**": {
+        "chi": "此乃遗迹的入口"
+    },
+    "**This is a road with no end in sight**": {
+        "chi": "此路无穷无尽"
+    },
+    "**What is waiting for us**": {
+        "chi": "前方是深渊吗"
+    },
+    "**Light ahead...**": {
+        "chi": "前方出现了光"
+    },
+    "**No way......**": {
+        "chi": "不可能"
+    },
+    "**There is a strange stone with some pattern on it**": {
+        "chi": "是一块石头，上面有奇怪的图案"
+    },
+    "**Seems to combine the two patterns into one**": {
+        "chi": "似乎要将两者合并起来"
+    },
+    "**There is a step, climb up and try!**": {
+        "chi": "爬上去试试"
+    },
+    "<Tips>Stare at the stone for at least 1 seconds, try to squat down.": {
+        "chi": "<提示>盯住 石头一秒钟，然后尝试蹲下."
+    },
+    "**Pressed the old switch, it seems that something is going to happen**": {
+        "chi": "按下开关，发生什么事了"
+    },
+    "**It seems that we are going to the depths of the cave**": {
+        "chi": "我们要深入洞穴"
+    },
+    "**A player get <Brightness>": {
+        "chi": "一位玩家拾取圣灵闪耀"
+    },
+    "**A player get <Darkness>**": {
+        "chi": "一位玩家拾取恶魔之拥"
+    },
+    "**The door seems to be about to open**": {
+        "chi": "大门很快就会打开"
+    },
+    "**A player has picked up <EarthlyStar>**": {
+        "chi": "一位玩家拾取地星"
+    },
+    "**A zombie has picked up <Rescue>**": {
+        "chi": "僵尸拾取治愈"
+    },
+    "**A player has picked up <Asylum>**": {
+        "chi": "一位玩家拾取庇护所"
+    },
+    "**The owl statue's eyes take on an eerie glow. As the light fades, the statuette has disappeared**": {
+        "chi": "猫头鹰雕像的眼睛呈现出诡异的光芒。随着光线的消逝，小雕像消失了"
+    },
+    "**The magic around is flowing to the door**": {
+        "chi": "魔法的力量正在大门上流动"
+    },
+    "**This door will close in 20 seconds**": {
+        "chi": "大门20秒后关闭"
+    },
+    "**Oh, what happen? It's teleport magic!!!**": {
+        "chi": "这是什么？是传送魔法"
+    },
+    "**It seems we must get to the right teleport magic array**": {
+        "chi": "我们必须找到正确的魔法路径"
+    },
+    "**Get hurry!!!The mist here is poisonous**": {
+        "chi": "快点，这里的空气富含毒素"
+    },
+    "**Waiting for your teammates in 30 seconds**": {
+        "chi": "等待队友30秒"
+    },
+    "**Teleportation magic is about to start, keep defence**": {
+        "chi": "传送魔法即将启动"
+    },
+    "**Item <Wisp> is temporarily unavailable**": {
+        "chi": "某些神器暂时不可用"
+    },
+    "**It seems that we are temporarily safe. Item <Wisp> is also available now**": {
+        "chi": "我们到达了安全的地方，神器已解锁"
+    },
+    "**We need to activate the mechanism of the ruins to let the magic flow out**": {
+        "chi": "我们需要激活废墟来释放魔法"
+    },
+    "**So we have to reach the center of the ruins**": {
+        "chi": "所以我们必须到达废墟的中心"
+    },
+    "**Look, it's a owl statue**": {
+        "chi": "这里有一座猫头鹰雕像"
+    },
+    "**Oh, it's disappeared**": {
+        "chi": "它消失了。。。。"
+    },
+    "**We need to find another one owl statue**": {
+        "chi": "我们需要找到另一个猫头鹰雕像"
+    },
+    "**It seems there is a strange energy emanating from the eyes of the statues in the corridors of this place**": {
+        "chi": "似乎有一种奇怪的能量从这个地方走廊里雕像的眼睛里散发出来"
+    },
+    "**We successfully deliver the statuette to the base**": {
+        "chi": "我们成功地把小雕像送到了大门"
+    },
+    "**The statue! We found it!**": {
+        "chi": "我们找到了雕像"
+    },
+    "**We need but return it to the other base**": {
+        "chi": "我们需要把它送回大门"
+    },
+    "**<Tips>: Press <E> to pick up the statue**": {
+        "chi": "**<提示>: 按E拿起雕像**"
+    },
+    "**A player has picked up <Holy>**": {
+        "chi": "一位玩家拾取神圣"
+    },
+    "**Solve the clock puzzle or defend 40 seconds**": {
+        "chi": "防守40秒"
+    },
+    "**Door has opened**": {
+        "chi": "大门正在打开"
+    },
+    "**Nithhogg is casting <The advent of despair: Gotterdammerung>": {
+        "chi": "**Nithhogg 正在选择 <绝望之歌>"
+    },
+    "**Zombies get on**": {
+        "chi": "僵尸到达了"
+    },
+    "**Elevator will start in 30 seconds**": {
+        "chi": "电梯30秒后出发"
+    },
+    "**Slate has activated, waiting for 30 seconds**": {
+        "chi": "石板已激活，防守30秒"
+    },
+    "**Door will open in 20 seconds**": {
+        "chi": "大门20秒后打开"
+    },
+    "**The statues seem to contain some secrets.**": {
+        "chi": "这些雕像似乎含有一些秘密"
+    },
+    "**Door will open in 15 seconds**": {
+        "chi": "大门15秒后打开"
+    },
+    "**Oh..Landvedi..Why are you appeared like this? Such a mess..**": {
+        "chi": "哦…兰德维迪…你为什么这样出现？真是一团糟"
+    },
+    "**There is no way in.No,no,where is the key to get into the hidden way? Find it at once.**": {
+        "chi": "没有办法进去。不，不，进入隐蔽道路的钥匙在哪里？马上找到它"
+    },
+    "**Rocks will break in 15 seconds**": {
+        "chi": "石块15秒后破碎"
+    },
+    "**Rocks will break in 20 seconds**": {
+        "chi": "石块20秒后破碎"
+    },
+    "**Dead end? No way, there should be able to find another path...**": {
+        "chi": "死胡同？不可能，应该能找到另一条路"
+    },
+    "**That was close.I don't want to face it twice anymore. But I have to say things are not so simple like what he says...Then what will be the next one?**": {
+        "chi": "这很接近。我不想再面对它两次了。但我不得不说，事情并不像他说的那么简单……那么下一个会是什么呢"
+    },
+    "**What a wasteland...No,according to the index,here should be the Asgard Forest. What the hell is going on here...?**": {
+        "chi": "多荒唐啊……不，根据索引，这里应该是阿斯加德森林。这到底是怎么回事"
+    },
+    "**Elevator will leave in 20 seconds**": {
+        "chi": "电梯20秒后离开"
+    },
+    "**Is you? Vidal? Why are you standing against us..I can't believe what will happen next.**": {
+        "chi": "是吗？维达尔？你为什么站在我们面前……我不敢相信接下来会发生什么"
+    },
+    "**Is Diablo! Nein! Another fake one,a fragment of its power..Shit! It's going to attack. fire at will!**": {
+        "chi": "是暗黑破坏神！不！另一个假的，它的力量的碎片…该死！它要攻击了。快开火"
+    },
+    "**Diablo is going to cast <Inferno Tempest>**": {
+        "chi": "暗黑破坏神将施放《地狱风暴》"
+    },
+    "**Shoot him or use <Verdandi>**": {
+        "chi": "消灭它"
+    },
+    "**He disappeared, the Altar Transfer has been activated**": {
+        "chi": "他被击败了，祭坛已经启动"
+    },
+    "**Nah. It's end for now. Why are the fragments of Diablo appeared here? Nevermind, We'd better leave here now.**": {
+        "chi": "不。现在结束了。为什么暗黑破坏神的碎片出现在这里？没关系，我们最好现在就离开这里"
+    },
+    "**Magica will activated after 15 seconds**": {
+        "chi": "魔法阵将在15秒后就绪"
+    },
+    "**Keep zombies away**": {
+        "chi": "守住僵尸"
+    },
+    "**A zombie has picked up <Heal>**": {
+        "chi": "僵尸拾取奶"
+    },
+    "**Remember to get the item<Urd>, its under the waterfall.**": {
+        "chi": "拿到毒神器，它在瀑布下面"
+    },
+    ">>Cauterize<<": {
+        "chi": "灼烧"
+    },
+    "**The Firn...Honestly I have a bad feeling about the ice gorge in the front.**": {
+        "chi": "弗恩…老实说，我对前面的冰峡谷有一种不好的感觉"
+    },
+    "**All units reload your weapons and prepared for any emergencies.**": {
+        "chi": "所有单位重新装填武器，准备应对任何紧急情况"
+    },
+    "**It shouldn't be so quiet like what it covers, something must be hiding below.**": {
+        "chi": "它不应该像它所覆盖的那样安静，一定有东西藏在下面"
+    },
+    "**Strange, where can we find that coagent...?**": {
+        "chi": "奇怪，我们在哪里能找到那个引路人"
+    },
+    "**A player has picked up <Mimir>**": {
+        "chi": "一位玩家拾取奶"
+    },
+    "**A player has picked up <Verdandi>**": {
+        "chi": "一位玩家拾取命运，可以对BOSS造成伤害"
+    },
+    "**A player has picked up <Urd>**": {
+        "chi": "一位玩家拾取毒"
+    },
+    "**Zombies activated the lever , teleport afk players immediately!": {
+        "chi": "传送挂机僵尸"
+    },
+    "**The direction of the statues seem to contain some secrets.**": {
+        "chi": "雕像的方向似乎有一些秘密"
+    },
+    ">>Horrid Roar<<": {
+        "chi": "恐惧咆哮"
+    },
+    ">>Akh Morn<<": {
+        "chi": "死亡轮回"
+    },
+    "**Get on the Altar Transfer**": {
+        "chi": "进入祭坛"
+    },
+    "**Rocks will break in 40 seconds**": {
+        "chi": "岩石40秒后破碎"
+    },
+    ">>Mortal Chorus<<": {
+        "chi": "死亡之歌"
+    },
+    "**Nithhogg has released Twilight of The Gods, run into the shield quickly**": {
+        "chi": "尼思霍格已经释放了《神之迟暮》，找到防护法阵*"
+    },
+    ">>Sable Pearl<<": {
+        "chi": "沙暴"
+    },
+    ">>Scarlet Whisper<<": {
+        "chi": "猩红之月"
+    },
+    ">>Dragon Breath<<": {
+        "chi": "恶龙咆哮"
+    },
+    ">>Fiery Wings<<": {
+        "chi": "炎之翼"
+    },
+    ">>Anger Roar<<": {
+        "chi": "狂怒咆哮"
+    },
+    "**There seems to be no road here , keep defending!!!**": {
+        "chi": "这里似乎没有路，继续防守"
+    },
+    "**Maybe we will face that Dragon next.**": {
+        "chi": "也许我们下一次会面对那条龙"
+    },
+    "**Well then, this should be the end of our plan.**": {
+        "chi": "那么，我们的计划就到此结束了"
+    },
+    "**You ready? We are the last hope that they can rely on.**": {
+        "chi": "准备好了吗？我们是他们最后的希望*"
+    },
+    "**You are too late!!!**": {
+        "chi": "你们太慢了"
+    },
+    "**A player has picked up <Wisp>**": {
+        "chi": "一位玩家拾取小玩具"
+    },
+    "[Secret Quest] You found the energy crystal , item <Wisp> has unlocked!": {
+        "chi": "【秘密任务】你找到了能量水晶，物品＜小玩具＞已解锁！"
+    },
+    "**Here should be the way to the next stop so defend right here.**": {
+        "chi": "这里应该是下一站的路，所以就在这里防守"
+    },
+    "**We can't let those creatures approach to us.**": {
+        "chi": "我们不能让那些生物接近我们"
+    },
+    "**Let me check how to activate it...**": {
+        "chi": "让我检查一下如何激活它"
+    },
+    "**Ok, it has been activated.Lets go!!!**": {
+        "chi": "好的，它已经被激活了。我们走吧"
+    },
+    "**This rock will break after 15 seconds**": {
+        "chi": "这块石头15秒后就会碎"
+    },
+    "**Altar transfer will activate after 30 seconds**": {
+        "chi": "祭坛将在30秒后激活"
+    },
+    "**Looks like here is the world he mentioned, and it must be the sourse of Nidhogg The Dragon.**": {
+        "chi": "看来这就是他提到的世界，这一定是《尼德霍格龙》的来源"
+    },
+    "**Be ware, take everything might be useful to our plan.**": {
+        "chi": "当心，一切可能对我们的计划有用"
+    },
+    "**This is the only way to guard our world that we have to make it become real.**": {
+        "chi": "这是保护我们的世界的唯一方法，我们必须使它成为现实"
+    },
+    "**This is...altar transfer? Wait! The altar convergence of energy**": {
+        "chi": "这是…圣坛转移？等待能量的祭坛汇聚"
+    },
+    "**Full ready for battle! It seems that we have to go through another adventure**": {
+        "chi": "准备好战斗了！看来我们必须经历另一次冒险*"
+    },
+    "**Hold here!**": {
+        "chi": "再防守一会儿"
+    },
+    "**Survive and resist the zombies**": {
+        "chi": "生存下来"
+    },
+    "**We can immediately go home**": {
+        "chi": "我们可以马上回家"
+    },
+    "**The adventures of different worlds are really thrilling, we have found completely different civilizations with us**": {
+        "chi": "不同世界的冒险真的很刺激，我们发现了完全不同的文明"
+    },
+    "**Warm Round**": {
+        "chi": "热身"
+    },
+    "**30 seconds remaining**": {
+        "chi": "30s"
+    },
+    "**20 seconds remaining**": {
+        "chi": "20s"
+    },
+    "**10 seconds remaining**": {
+        "chi": "10s"
+    },
+    "**Found the lever and activate it!**": {
+        "chi": "找到开关并启动它"
+    },
+    "**Damn it! Where is this? There is a cave here to avoid it!**": {
+        "chi": "该死！这是哪里？这里有一个洞穴可以避开它"
+    },
+    "**Prepare for emergency landing!!!**": {
+        "chi": "准备紧急着陆"
+    },
+    "**Wait! What is that! Shit! How is there a black dragon here!!!**": {
+        "chi": "等等！那是什么！倒霉！这里怎么有一条黑龙"
+    },
+    "**Shoot it immediately!!!**": {
+        "chi": "开枪"
+    },
+    "**Wait! Wait! She wants to attack us!**": {
+        "chi": "等等！她想攻击我们"
+    },
+    "**Fall Back!!!**": {
+        "chi": "快撤退"
+    },
+    "**Here is like a super ancient monuments? We try to get ready to go, prepare for the adventure**": {
+        "chi": "这里就像一座超级古老的纪念碑？我们试着做好出发的准备，萌爱祝福你们"
+    },
+    "**Our world seems there have been some changes! Things that should not belong to our world appear in our world!**": {
+        "chi": "我们的世界似乎发生了一些变化！不属于我们世界的东西出现在我们的世界上"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "***Keep Zombies outside!***": {
+        "chi": "***把僵尸挡在外面！***"
+    },
+    "*** Lift 1 is leaving in 20 seconds ***": {
+        "chi": "*** 1号电梯将在20秒后离开  ***"
+    },
+    "*** Lift 5 is leaving in 20 seconds ***": {
+        "chi": "*** 5号电梯将在20秒后离开 ***"
+    },
+    "*** Lift 3 is leaving in 30 seconds ***": {
+        "chi": "*** 3号电梯将在30秒后离开  ***"
+    },
+    "*** Lift 2 is leaving in 25 seconds ***": {
+        "chi": "*** 2号电梯将在25秒后离开 ***"
+    },
+    "*** Lift 4 is leaving in 25 seconds ***": {
+        "chi": "*** 4号电梯将在25秒后离开 ***"
+    },
+    "***Appartment lift is opening in 20 seconds!***": {
+        "chi": "***公寓电梯将在20秒后打开!***"
+    },
+    "***Appartment lift is opening in 10 seconds!***": {
+        "chi": "***公寓电梯将在10秒后打开!***"
+    },
+    "***Appartment lift is opening in 5 seconds!***": {
+        "chi": "***公寓电梯将在5秒内打开!***"
+    },
+    "***Appartment lift is open! Press the button to activate it!***": {
+        "chi": "***公寓电梯打开!按下按钮激活他!***"
+    },
+    "***Lift is leaving in 5 seconds!***": {
+        "chi": "***电梯还有5秒离开! 快上电梯！***"
+    },
+    "***Goto the cargo door***": {
+        "chi": "***快去货舱门***"
+    },
+    "***Cargo door is opening in 15 seconds. HOLD!!!***": {
+        "chi": "***货舱门将在15秒后打开，守住!!!***"
+    },
+    "***GO! The door is opening!***": {
+        "chi": "***快走!门开了!***"
+    },
+    "***Make your way to the cockpit and start the engines!***": {
+        "chi": "***前往驾驶舱并启动引擎!***"
+    },
+    "***Defend the top floor!***": {
+        "chi": "***保卫顶层!***"
+    },
+    "***Start the engine by pressing the button!***": {
+        "chi": "***按下按钮启动引擎!***"
+    },
+    "***Hold the cockpit for 30s!***": {
+        "chi": "***守住驾驶舱30秒!***"
+    },
+    "***Keep Zombies in the cargo!***": {
+        "chi": "***压住僵尸!让他们留在货舱!***"
+    },
+    "***Keep defending the top floor !***": {
+        "chi": "***继续守住顶层 !***"
+    },
+    "***Cockpit door closing in 15s***": {
+        "chi": "***驾驶舱门将在15秒后关闭***"
+    },
+    "***Cockpit & Cargo door closing in 5s***": {
+        "chi": "***驾驶舱和货舱将在5秒后关闭***"
+    },
+    "***Hold the cave for 30 seconds!***": {
+        "chi": "***防守山洞30秒!***"
+    },
+    "***Don't let the zombies come inside or we're doomed!***": {
+        "chi": "***别让僵尸进来不然我们就完了!***"
+    },
+    "***Hold the cave for 15 seconds!***": {
+        "chi": "***守住洞穴15秒!***"
+    },
+    "***...4...***": {
+        "chi": "***...4...***"
+    },
+    "***...3...***": {
+        "chi": "***...3...***"
+    },
+    "***...2...***": {
+        "chi": "***...2...***"
+    },
+    "***...1...***": {
+        "chi": "***...1...***"
+    },
+    "***Ruuuuun!***": {
+        "chi": "***滚石击退了僵尸！快跑!***"
+    },
+    "**Keep zombies on a distance! Shoot between the bars!": {
+        "chi": "**与僵尸保持距离! 在月台之间射击!"
+    },
+    "**Arc door 4 opening!": {
+        "chi": "**拱门开启!"
+    },
+    "**Only a few persons can pass to break what is jamming the gears!***": {
+        "chi": "**只有一个人可以通过！打破卡住齿轮的东西!***"
+    },
+    "**Stay fucking defending untill the gears are broken!***": {
+        "chi": "**继续防守，直到齿轮破坏!***"
+    },
+    "***Don't let zombies break the bars!***": {
+        "chi": "***不要让僵尸突破月台!***"
+    },
+    "***Cross the metal ropes!***": {
+        "chi": "***穿过金属绳索!***"
+    },
+    "**Stay fucking defending untill you are told to run in !***": {
+        "chi": "**守住僵尸!***"
+    },
+    "**You got 60 Damn seconds to close the arkdoor!": {
+        "chi": "**防守60秒!方舟门即将关闭"
+    },
+    "[Clear whatever is jamming the gears first!]": {
+        "chi": "[首先要清除卡住齿轮的东西!]"
+    },
+    "***RUN into the ark! Hurry!***": {
+        "chi": "***跑进方舟! 快点!***"
+    },
+    "***Go close the ark! Hurry!***": {
+        "chi": "***关闭方舟! 快!!!!!***"
+    },
+    "[Ark door is closing!]": {
+        "chi": "[方舟门关上了!]"
+    }
+}

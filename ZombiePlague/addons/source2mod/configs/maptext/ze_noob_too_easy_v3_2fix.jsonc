@@ -1,0 +1,194 @@
+{
+    "***A player has picked up Gravity***": {
+        "chi": "一位玩家拿到了重力"
+    },
+    "***The road will open in 20 seconds***": {
+        "chi": "道路将在20s后开启"
+    },
+    "***A player has picked up Wind***": {
+        "chi": "一位玩家拿到了风"
+    },
+    "**You're too fast. Please wait**": {
+        "chi": "**请稍等**"
+    },
+    "***A player has picked up Death Knigth***": {
+        "chi": "一位玩家拿到了死亡之剑"
+    },
+    "<Magic Book button 2 triggered>": {
+        "chi": "魔法书按钮2已触发"
+    },
+    "**The elevator door will open in 20 seconds**": {
+        "chi": "电梯门将在20s后打开"
+    },
+    "**Wait 10 seconds. The door will open soon**": {
+        "chi": "等待10s"
+    },
+    "***A player has picked up Heal***": {
+        "chi": "一位玩家拿到了奶"
+    },
+    "**The door will open in 35 seconds**": {
+        "chi": "门将在35s后打开"
+    },
+    "**The exit is blocked by stone, wait 20 seconds**": {
+        "chi": "出口被石头堵住，等待20s"
+    },
+    "**We need 20 seconds to clear the stone**": {
+        "chi": "我们20s时间清理石头"
+    },
+    "**Crystal appears, break it!!!**": {
+        "chi": "打碎水晶"
+    },
+    "**Keep defending until the teleport enable**": {
+        "chi": "保持火力直到传送"
+    },
+    "***Door will open in 20 seconds***": {
+        "chi": "门将在20s后打开"
+    },
+    "***Lever pulled,door will open ***": {
+        "chi": "拉动拉杆，门将打开"
+    },
+    "***Holy shit! What's this?***": {
+        "chi": "该死，这是什么"
+    },
+    "***Shoot it，hurry up !***": {
+        "chi": "快点射击"
+    },
+    "***Nuke at 3 seconds***": {
+        "chi": "3s后核爆"
+    },
+    "***Nuke at 2 seconds***": {
+        "chi": "2s后核爆"
+    },
+    "***Nuke at 1 seconds***": {
+        "chi": "1s后核爆"
+    },
+    "***Button has been pressed,door will open ***": {
+        "chi": "按钮已按下，门将打开"
+    },
+    "***A player has picked up Earth***": {
+        "chi": "一位玩家拿到了土"
+    },
+    "***A player has picked up Electric***": {
+        "chi": "一位玩家拿到了电"
+    },
+    "***A player has picked up FreezeIce***": {
+        "chi": "一位玩家拿到了冰"
+    },
+    "***A player has picked up SaberExtra***": {
+        "chi": "一名玩家获得了SaberExtra"
+    },
+    "***Button has pressed,door will open***": {
+        "chi": "按钮按下，门将打开"
+    },
+    "***A player has picked up Ammo***": {
+        "chi": "一位玩家拿到了弹药"
+    },
+    "***The dorr will open in 30 seconds***": {
+        "chi": "大门将在30s后打开"
+    },
+    "***A player has picked up Slowfire***": {
+        "chi": "一位玩家拿到了火"
+    },
+    "***The platform will moving in 15 seconds***": {
+        "chi": "平台将在15s后移动"
+    },
+    "***Button has pressed,road will open in 15 seconds.***": {
+        "chi": "道路将在15s后打开"
+    },
+    "***The door will open in 25 seconds.***": {
+        "chi": "大门将在25s后打开"
+    },
+    "***It used ice fog, Please use god thunder to dispel(or use heal to resistance)***": {
+        "chi": "它使用了冰雾，请使用神雷驱散(或者使用治愈)"
+    },
+    "***Last door will open in 20 seconds***": {
+        "chi": "最后的大门在20s后打开"
+    },
+    "***Defend 20 seconds***": {
+        "chi": "坚守20s"
+    },
+    "***Defend 15 seconds***": {
+        "chi": "坚守15s"
+    },
+    "***Updraft will appear in 15 seconds***": {
+        "chi": "上升气流将在15秒后出现"
+    },
+    "***Fast kill the God of wrath. Roll call will start in 120 seconds.***": {
+        "chi": "我们只有120s时间杀死他"
+    },
+    "***BOSS is died***": {
+        "chi": "BOSS死了"
+    },
+    "***Ruin in 240 seconds, Please go to the tree of life***": {
+        "chi": "240s后核爆，去生命树"
+    },
+    "***From now , disable zombie items***": {
+        "chi": "现在禁用僵尸技能"
+    },
+    "***A player has picked up GodThunder***": {
+        "chi": "一个玩家拿起了GodThunder"
+    },
+    "**Open the side road in 12 seconds**": {
+        "chi": "12s后打开侧路"
+    },
+    "**We need 15 seconds to clear the stone**": {
+        "chi": "我们需要15s清理石头"
+    },
+    "*** The ventilation ducts will open in 25 seconds ***": {
+        "chi": "通风管道将在25s后打开"
+    },
+    "*** go go go ! hurry up !***": {
+        "chi": "快跑"
+    },
+    "**Open the door in 20 seconds**": {
+        "chi": "大门将在20s后打开"
+    },
+    "*** The platform will leave in 15 seconds ***": {
+        "chi": "平台将在15s离开"
+    },
+    "***Defend 10 seconds ***": {
+        "chi": "坚守10s"
+    },
+    "**Get off the platform, hurry up**": {
+        "chi": "离开平台，快点"
+    },
+    "**The elevator door will open in 15 seconds**": {
+        "chi": "电梯将在15s后打开"
+    },
+    "**Boss fight in 10 seconds**": {
+        "chi": "10s后boss战"
+    },
+    "**Boss uesd jump attack**": {
+        "chi": "boss使用了跳跃攻击"
+    },
+    "**Boss used back jump attack**": {
+        "chi": "boss使用了向后跳跃攻击"
+    },
+    "**<< Boss speed increased >>**": {
+        "chi": "boss速度提升"
+    },
+    "**Boss uesd forward jump attack**": {
+        "chi": "boss使用了向前跳跃攻击"
+    },
+    "**The elevator will activate in 25 seconds**": {
+        "chi": "电梯将在25s后启动"
+    },
+    "***Lever pulled,door will open in 15 seconds***": {
+        "chi": "拉动拉杆，门将在15秒内打开"
+    },
+    "**<< Boss summon zombies >>**": {
+        "chi": "boss召唤了僵尸"
+    },
+    "**Will disable zombie items **": {
+        "chi": "禁用僵尸技能"
+    },
+    "**Last door will open in 15 seconds**": {
+        "chi": "最后的大门将在15s后打开"
+    },
+    "***Jump to the platform ， hurry up!***": {
+        "chi": "跳到平台上，快点"
+    },
+    "***Death has been defeated***": {
+        "chi": "死神已经被打败"
+    }
+}

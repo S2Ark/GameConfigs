@@ -1,0 +1,290 @@
+{
+    ">>ze_bioshock<<": {
+        "chi": ">>生化奇兵<<"
+    },
+    ">>Map by DormantLemon<<": {
+        "chi": ">>地图制作DormantLemon  汉化:黑岩<<"
+    },
+    ">>Chapter 1 - Welcome to Rapture<<": {
+        "chi": ">>第1章-欢迎来到Rapture<<"
+    },
+    ">>Current Difficulty: Hard<<": {
+        "chi": ">>当前难度:困难<<"
+    },
+    ">>>A Little Sister has been spotted nearby<<<": {
+        "chi": ">>>一只僵尸发现了附近的小妹妹<<<"
+    },
+    ">>Wait for Bathysphere arrival - 25s<<": {
+        "chi": ">>等待潜水艇到达->25秒<<"
+    },
+    ">>Bathysphere is docking...<<": {
+        "chi": ">>潜水艇已对接...<<"
+    },
+    ">>Get in the Bathysphere - 12s<<": {
+        "chi": ">>进入潜水艇->12秒<<"
+    },
+    ">>Current Difficulty: Easy<<": {
+        "chi": ">>当前难度:简单<<"
+    },
+    "***Plasmid obtained: Electro Bolt***": {
+        "chi": "***一位玩家拾取神器:闪电***"
+    },
+    ">>Hold the Atrium - 22s<<": {
+        "chi": ">>防守中庭->22秒<<"
+    },
+    "***Plasmid obtained: Insect Swarm***": {
+        "chi": "***一位玩家拾取神器:蜂群***"
+    },
+    ">>Door is open<<": {
+        "chi": ">>大门打开<<"
+    },
+    "***Plasmid obtained: Sonic Boom***": {
+        "chi": "***一位玩家拾取神器:音爆***"
+    },
+    ">>Hold until secuity door releases - 15s<<": {
+        "chi": ">>防守直到安全门打开->15秒<<"
+    },
+    "***Plasmid obtained: Winter Blast***": {
+        "chi": "***一位玩家拾取神器:寒霜***"
+    },
+    ">>Wait for the elevators arrival<<": {
+        "chi": ">>等待电梯到达<<"
+    },
+    "*AFK teleport in 5s*": {
+        "chi": "*5秒后传送AFK玩家*"
+    },
+    ">>Elevator 1 leaving - 5s<<": {
+        "chi": ">>电梯1即将离开->5秒<<"
+    },
+    ">>Elevator 2 leaving - 5s<<": {
+        "chi": ">>电梯2即将离开->5秒<<"
+    },
+    ">>Hold until the security door releases<<": {
+        "chi": ">>防守直到安全门打开<<"
+    },
+    "That's a Little Sister. Looks like she's alone...": {
+        "chi": "那是个小妹妹,看起来有些孤独..."
+    },
+    ">>Board and defend the Rapture Metro<<": {
+        "chi": ">>登上列车,并防守Rapture Metro<<"
+    },
+    ">>>Chapter complete<<<": {
+        "chi": ">>>章节完成<<<"
+    },
+    ">>Chapter 2 - Fort Frolic<<": {
+        "chi": ">>第2章-马戏团<<"
+    },
+    ">>Wait for Siren Alley doors to open - 15s<<": {
+        "chi": ">>等待警笛巷大门打开->15秒<<"
+    },
+    "*Splicers have been blocked for 8 seconds*": {
+        "chi": "*拼接器已被阻挡->8秒*"
+    },
+    "*Splicers have been blocked for 6 seconds*": {
+        "chi": "*拼接器已被阻挡->6秒*"
+    },
+    ">>Hide or hold until the exit has drained - 84s<<": {
+        "chi": ">>找个地方防守或者与僵尸捉迷藏->84秒<<"
+    },
+    "*Splicers have been blocked for 4 seconds*": {
+        "chi": "*拼接器已被阻挡->4秒*"
+    },
+    "*Splicers have been blocked for 2 seconds*": {
+        "chi": "*拼接器已被阻挡->2秒*"
+    },
+    "*Splicers have been freed!*": {
+        "chi": "*拼接器已被释放!*"
+    },
+    "***Plasmid obtained: Gravity Well***": {
+        "chi": "***一位玩家拾取神器:重力***"
+    },
+    ">>Hold the Decompression Chamber<<": {
+        "chi": ">>防守住减压室<<"
+    },
+    ">>Defend until Cohen opens the doors - 20s<<": {
+        "chi": ">>防守直到科恩开门->20秒<<"
+    },
+    ">>Hold the doorway - 5s<<": {
+        "chi": ">>防守直到科恩开门->5秒<<"
+    },
+    ">>Go up the stairs<<": {
+        "chi": ">>可以上楼了<<"
+    },
+    ">>Wait for Poseidon Plaza to unfreeze<<": {
+        "chi": ">>等待波塞冬广场解冻<<"
+    },
+    ">>Defend while the door unfreezes - 20s<<": {
+        "chi": ">>防守直到门解冻->20秒<<"
+    },
+    ">>Defend Jasmine Jolie's room - 60s<<": {
+        "chi": ">>保卫茉莉朱莉的房间->60秒<<"
+    },
+    ">>Chapter 3 - Arcadia<<": {
+        "chi": ">>第3章-阿卡迪亚<<"
+    },
+    ">>>The Big Daddy is lurking<<<": {
+        "chi": ">>>大老爹正在附近潜行<<<"
+    },
+    "***Plasmid obtained: Incinerate***": {
+        "chi": "***一位玩家拾取神器:焚化***"
+    },
+    ">>Hold the Balcony<<": {
+        "chi": ">>防守住阳台<<"
+    },
+    ">>Hold Julie Langford's Garden<<": {
+        "chi": ">>保卫朱莉兰福德的花园<<"
+    },
+    ">>Wait for corridor to drain...<<": {
+        "chi": ">>等待走廊的水排干...<<"
+    },
+    ">>Hold until the security door unlocks<<": {
+        "chi": ">>防守直到安全门解锁<<"
+    },
+    ">>Detonate and Destroy the tunnel<<": {
+        "chi": ">>引爆炸药并摧毁隧道<<"
+    },
+    ">>Splicers must not make it past the marker<<": {
+        "chi": ">>拼接器不得超过标记!<<"
+    },
+    ">>>Chapter failed<<<": {
+        "chi": ">>>章节失败<<<"
+    },
+    ">>Chapter 4 - Hephaestus<<": {
+        "chi": ">>第4章-赫菲斯托斯<<"
+    },
+    ">>Hephaestus security checks in progress.. - 15s<<": {
+        "chi": ">>赫菲斯托斯正在安全检测中->15秒<<"
+    },
+    ">>Wait for Hephaestus to open - 15s<<": {
+        "chi": ">>等待赫菲斯托斯->15秒<<"
+    },
+    ">>Hephaestus is open<<": {
+        "chi": ">>赫菲斯托斯已打开<<"
+    },
+    ">>SECRET: Found the Vox Populi Token<<": {
+        "chi": ">>彩蛋任务:找到Vox Populi代币 开启隐藏关卡<<"
+    },
+    ">>Wait for Trophy Room access - 35s<<": {
+        "chi": ">>等待进入纪念房->35秒<<"
+    },
+    ">>AFK Teleport in 5s<<": {
+        "chi": ">>5秒后传送AFK玩家<<"
+    },
+    ">>Evaporate the flood water<<": {
+        "chi": ">>蒸发洪水<<"
+    },
+    ">>Elevator is leaving - 5s<<": {
+        "chi": ">>电梯即将离开->5秒<<"
+    },
+    ">>Laser incoming<<": {
+        "chi": ">>激光入射<<"
+    },
+    ">>Elevator will be leaving soon<<": {
+        "chi": ">>电梯即将离开<<"
+    },
+    "*AFK teleport in 3s*": {
+        "chi": "*3秒后传送AFK玩家*"
+    },
+    ">>>Bathysphere door opens in 20 seconds<<<": {
+        "chi": ">>>潜水艇即将开门->20秒<<<"
+    },
+    ">>Defend the Bathysphere - 40s<<": {
+        "chi": ">>保卫潜水艇->40秒<<"
+    },
+    ">>Chapter Completed<<": {
+        "chi": ">>章节完成<<"
+    },
+    ">>>Find the secrets for the true ending<<<": {
+        "chi": ">>>寻找真正结局的秘密<<<"
+    },
+    ">>>Bad ending obtained!<<<": {
+        "chi": ">>>已达成->坏结局<-<<<"
+    },
+    ">>Campaign Completed<<": {
+        "chi": ">>活动已完成<<"
+    },
+    ">>Thank you for playing. Try 1999 mode for a true challenge<<": {
+        "chi": ">>感谢你的游玩!尝试1999模式,迎接更多的挑战<<"
+    },
+    ">>Extra Chapter - 1999<<": {
+        "chi": ">>最终章-1999模式[全程近20分钟]<<"
+    },
+    ">>1999 is a special mode<<": {
+        "chi": ">>1999是一个特殊的模式<<"
+    },
+    ">>Its long and difficult<<": {
+        "chi": ">>它很漫长且艰难<<"
+    },
+    ">>Enjoy it<<": {
+        "chi": ">>好好享受这份旅途,祝各位好运<<"
+    },
+    ">>There are 2 ways to go. Someone must take the upper path<<": {
+        "chi": ">>有2条路可以走,上路必须有人去开门<<"
+    },
+    ">>They must go and open the lower door from behind<<": {
+        "chi": ">>必须有人走上路去打开下面的门<<"
+    },
+    ">>Wait for access to Fort Frolic<<": {
+        "chi": ">>等待进入嬉戏堡<<"
+    },
+    ">>Wait for access to the Bathysphere - 35s<<": {
+        "chi": ">>等待潜水艇->35秒<<"
+    },
+    ">>Hold the Wineries - 25s<<": {
+        "chi": ">>防守酒庄->25秒<<"
+    },
+    "*AFK teleport in 5s": {
+        "chi": "*5秒后传送AFK玩家"
+    },
+    ">>Kill the Patriot<<": {
+        "chi": ">>击杀爱国者<<"
+    },
+    ">>>A Patriot is awake. Kill it!<<<": {
+        "chi": ">>>爱国者苏醒!击杀它<<<"
+    },
+    ">>Wait for rail access - 15s<<": {
+        "chi": ">>等待滑轨激活->15秒<<"
+    },
+    ">>>Jump onto the rail!<<<": {
+        "chi": ">>>跳上滑轨!按住W向前滑<<<"
+    },
+    ">>Wait for the security door to open - 20s<<": {
+        "chi": ">>等待安全门打开->20秒<<"
+    },
+    ">>Defend while the door opens - 50s<<": {
+        "chi": ">>还需防守至大门开启->50秒<<"
+    },
+    ">>Defend until the doors close - 15s<<": {
+        "chi": ">>防守至大门关闭->15秒<<"
+    },
+    ">>Tip: The Songbird is vulnerable only to headshots. Remember this<<": {
+        "chi": ">>提示:鸣禽只容易被爆头!记住这一点!<<"
+    },
+    ">>Wait for garden access - 20s<<": {
+        "chi": ">>等待花园外门打开->20秒<<"
+    },
+    ">>Service must end before you may enter - 25s<<": {
+        "chi": ">>花园内门即将打开,请守住->25秒<<"
+    },
+    ">>Elizabeth is searching for a tear - 50s<<": {
+        "chi": ">>伊丽莎白正在寻找眼泪->50秒<<"
+    },
+    ">>>ELIZABETH: This is it! Defend the boat!<<<": {
+        "chi": ">>>伊丽莎白:就是这个!保卫船!<<<"
+    },
+    ">>>Elizabeth can't control the tear! Teleport in 5 seconds<<<": {
+        "chi": ">>>伊丽莎白控制不住裂缝,僵尸即将传送->5秒<<<"
+    },
+    ">>>ELIZABETH: The boat! GET IN THE BOAT<<<": {
+        "chi": ">>>伊丽莎白:是船,快上船!<<<"
+    },
+    ">>It's your chance. Kill the Songbird<<": {
+        "chi": ">>这是我们最后的机会!击杀鸣禽<<"
+    },
+    ">>>Congratulations<<": {
+        "chi": ">>>恭喜各位!我们成功了!<<"
+    },
+    ">>>Thank you for playing<<": {
+        "chi": ">>>感谢你们的游玩! 本图翻译:黑岩<<"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "*** Rescue boats inbound ***": {
+        "chi": "***逃生船正在进港。***"
+    },
+    "*** Volcanic eruption imminent. 40 seconds to boat departure ***": {
+        "chi": "***火山马上就要喷发。逃生船还有40秒离港。***"
+    },
+    "*** Volcanic eruption imminent. 20 seconds to boat departure ***": {
+        "chi": "***火山马上就要喷发。逃生船还有20秒离港。***"
+    },
+    "*** Volcanic eruption imminent. 10 seconds to boat departure ***": {
+        "chi": "***火山马上就要喷发。逃生船还有10秒离港。***"
+    },
+    "*** Volcanic eruption imminent. 5 seconds to boat departure ***": {
+        "chi": "***火山马上就要喷发。逃生船还有5秒离港。***"
+    },
+    "*** Volcanic eruption in 10 seconds ***": {
+        "chi": "***火山10秒后喷发***"
+    }
+}

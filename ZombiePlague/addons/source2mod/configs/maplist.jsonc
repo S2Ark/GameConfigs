@@ -1,0 +1,194 @@
+{
+    "maplist": [
+        {
+            "mapname": "zm_minecraft_chunk",
+            "displayname": "[感染] MC 区块",
+            "workshopid": 3243458604
+        },
+        {
+            "mapname": "zm_vendetta",
+            "displayname": "[感染] 复仇",
+            "workshopid": 3189946391
+        },
+        {
+            "mapname": "zm_alley",
+            "displayname": "[感染] 小巷",
+            "workshopid": 3251292323
+        },
+        {
+            "mapname": "zm_luxury_mansion_ysn",
+            "displayname": "[感染] 豪华别墅",
+            "workshopid": 3377839882
+        },
+        {
+            "mapname": "zm_mts_minecraft_siege",
+            "displayname": "[感染] MC 围城",
+            "workshopid": 3365839155
+        },
+        {
+            "mapname": "zm_dust2_rebuild_b1_p",
+            "displayname": "[感染] 重做版炙热沙城2",
+            "workshopid": 3326291211
+        },
+        {
+            "mapname": "zm_desert_town_ysn",
+            "displayname": "[感染] 沙漠小镇",
+            "workshopid": 3379943475
+        },
+        {
+            "mapname": "zm_green_shade_ysn",
+            "displayname": "[感染] 绿荫之地",
+            "workshopid": 3379682714
+        },
+        {
+            "mapname": "zm_404_facilities_ysn",
+            "displayname": "[感染] 404 设施",
+            "workshopid": 3380668808
+        },
+        {
+            "mapname": "zm_x1_cs2",
+            "displayname": "[感染] X1 沙漠",
+            "workshopid": 3378719725
+        },
+        {
+            "mapname": "zm_bunker_a1",
+            "displayname": "[感染] 地堡",
+            "workshopid": 3378705465
+        },
+        {
+            "mapname": "zm_cubeworld_v3_p",
+            "displayname": "[感染] 魔方世界",
+            "workshopid": 3329031517
+        },
+        {
+            "mapname": "zm_boundaries",
+            "displayname": "[感染] 边界",
+            "workshopid": 3248948312
+        },
+        {
+            "mapname": "zm_mirage",
+            "displayname": "[感染] 荒漠迷城感染版",
+            "workshopid": 3347415049
+        },
+        {
+            "mapname": "zm_trisya_ysn",
+            "displayname": "[感染]",
+            "workshopid": 3382992277
+        },
+        {
+            "mapname": "zm_river_city",
+            "displayname": "[感染] 湖边城市",
+            "workshopid": 3334365154
+        },
+        {
+            "mapname": "zm_abyss1_v1",
+            "displayname": "[感染] 生化危机1",
+            "workshopid": 3371877417
+        },
+        {
+            "mapname": "zm_holy_bracelet_ruins",
+            "displayname": "[感染]",
+            "workshopid": 3335646127
+        },
+        {
+            "mapname": "zm_holy_land_relics_ysn",
+            "displayname": "[感染]",
+            "workshopid": 3376282549
+        },
+        {
+            "mapname": "zm_abyss3_v2_p",
+            "displayname": "[感染] 生化危机3",
+            "workshopid": 3262125075
+        },
+        {
+            "mapname": "zm_sunbeach_minecraft",
+            "displayname": "[感染]",
+            "workshopid": 3360611621
+        },
+        {
+            "mapname": "zm_purification",
+            "displayname": "[感染] 净化四合院",
+            "workshopid": 3336580992
+        },
+        {
+            "mapname": "zm_mediumzm",
+            "displayname": "[感染] ⑨⑨⑨⑨⑨⑨⑨",
+            "workshopid": 3283778158
+        },
+        {
+            "mapname": "zm_wxc",
+            "displayname": "[感染] 无相城",
+            "workshopid": 3325100844
+        },
+        {
+            "mapname": "zm_chunxiaoshanye",
+            "displayname": "[感染] 春晓山野",
+            "workshopid": 3395761756
+        },
+        {
+            "mapname": "zm_garage",
+            "displayname": "[感染] 车库",
+            "workshopid": 3397486196
+        },
+        {
+            "mapname": "zm_dark_dust",
+            "displayname": "[感染] 黑暗沙漠",
+            "workshopid": 3385376518
+        },
+        {
+            "mapname": "zm_aisle_ysn",
+            "displayname": "[感染] 走廊",
+            "workshopid": 3386176495
+        },
+        {
+            "mapname": "zm_gorodok_cs2_v1",
+            "displayname": "[感染] Gorodok",
+            "workshopid": 3100743780
+        },
+        {
+            "mapname": "zm_16chambres",
+            "displayname": "[感染] 16 个小房间",
+            "workshopid": 3412338522
+        },
+        {
+            "mapname": "zm_mts_rooftop",
+            "displayname": "[感染] L4D2 No Mercy 屋顶",
+            "workshopid": 3390876594
+        },
+        {
+            "mapname": "zm_ice_canyons",
+            "displayname": "[感染] 冰雪峡谷",
+            "workshopid": 3216490934
+        },
+        {
+            "mapname": "zm_Micro_bootcamps",
+            "displayname": "[感染] 微型训练营",
+            "workshopid": 3254679359
+        },
+        {
+            "mapname": "zm_Misty_Village",
+            "displayname": "[感染] 迷雾村庄",
+            "workshopid": 3241986715
+        },
+        {
+            "mapname": "zm_dust_ct_ysn",
+            "displayname": "[感染] 炽热沙城1 警家",
+            "workshopid": 3388487445
+        },
+        {
+            "mapname": "zm_br_swimsuits_r3",
+            "displayname": "[感染] 泳装海滩",
+            "workshopid": 3402277859
+        },
+        {
+            "mapname": "zm_dust2_2k15_16togo_p",
+            "displayname": "[感染] 炙热沙城2 2015",
+            "workshopid": 3364459870
+        }
+        // {
+        //     "mapname": "ze_boatescape888",
+        //     "displayname": "[逃跑] [弹幕] 坐船跑 888",
+        //     "workshopid": 3169214837
+        // }
+    ]
+}

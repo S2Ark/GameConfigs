@@ -1,0 +1,305 @@
+{
+    "***Map Made By Color!***": {
+        "chi": "***地图作者：酸奶   汉化：苏艾因***"
+    },
+    "***Welcome to froyo world!Let's enjoy a fantastic trip!***": {
+        "chi": "***欢迎来到酸奶世界，马上开启假摔之旅！***"
+    },
+    "***Plane 1 will move in 25s!***": {
+        "chi": "***25秒后将传送***"
+    },
+    "***5s left!***": {
+        "chi": "***剩余5秒***"
+    },
+    "***Plane 3 will move in 25s!***": {
+        "chi": "***25秒后将传送***"
+    },
+    "***Find and touch the froyo!***": {
+        "chi": "***Find and touch the froyo!***"
+    },
+    "***Wood door will open in 10s!***": {
+        "chi": "***mua板将在10秒后打开***"
+    },
+    "***Well!If the count of travellers is less than half,all zombies will be teleported in 40s!***": {
+        "chi": "***如果没假摔的小可爱少于一半，所有僵尸将在40秒后传送***"
+    },
+    "***30s left!***": {
+        "chi": "***剩余30秒***"
+    },
+    "***All zombies will be teleported in 10s!***": {
+        "chi": "***所有僵尸将在10秒后传送!***"
+    },
+    "***Hold for 60s!***": {
+        "chi": "***挺住60秒！别让僵尸啵到你啦！***"
+    },
+    "***Zombies will come in 15s!***": {
+        "chi": "***僵尸将在15秒后出现***"
+    },
+    "***30s left to win!***": {
+        "chi": "***顶住30秒就赢了！***"
+    },
+    "***Wood will break in 30s!***": {
+        "chi": "***mua板将在30秒后打开***"
+    },
+    "***Teleport all zombies!***": {
+        "chi": "***Teleport all zombies!***"
+    },
+    "***You have 90s to fight Boss Froyo!***": {
+        "chi": "***你有90秒的时间来打败邪恶酸奶大魔王!***"
+    },
+    "***Boss Froyo will appear in 30s!***": {
+        "chi": "***邪恶酸奶大魔王将在30秒后出现***"
+    },
+    "***Well!Boss Froyo has been defeated!***": {
+        "chi": "***我超！邪恶酸奶大魔王居然被打败了！***"
+    },
+    "***Then you can explore more and more different froyo worlds!***": {
+        "chi": "***Then you can explore more and more different froyo worlds!***"
+    },
+    "***You travellers must travel around the initial froyo world!***": {
+        "chi": "***You travellers must travel around the initial froyo world!***"
+    },
+    "***Initializing froyo world in 1s!***": {
+        "chi": "***Initializing froyo world in 1s!***"
+    },
+    "***Initializing froyo world in 2s!***": {
+        "chi": "***Initializing froyo world in 2s!***"
+    },
+    "***Initializing froyo world in 3s!***": {
+        "chi": "***Initializing froyo world in 3s!***"
+    },
+    "***Congratulations!Travellers succeed!***": {
+        "chi": "***Congratulations!Travellers succeed!***"
+    },
+    "***Zombies!Feel froyo's force!balabala...***": {
+        "chi": "***Zombies!Feel froyo's force!balabala...***"
+    },
+    "***Boss Froyo will destroy all travellers in 5s!***": {
+        "chi": "***Boss Froyo will destroy all travellers in 5s!***"
+    },
+    "***You have 30s to fight Boss Froyo!***": {
+        "chi": "***You have 30s to fight Boss Froyo!***"
+    },
+    "***You have 60s to fight Boss Froyo!***": {
+        "chi": "***You have 60s to fight Boss Froyo!***"
+    },
+    "***Boss Froyo***": {
+        "chi": "***邪恶酸奶大魔王***"
+    },
+    "***Normal***": {
+        "chi": "***Normal***"
+    },
+    "***Zombies will come in 20s!***": {
+        "chi": "***Zombies will come in 20s!***"
+    },
+    "***Plane 2 will move in 25s!***": {
+        "chi": "***Plane 2 will move in 25s!***"
+    },
+    "***Laser***": {
+        "chi": "***Laser***"
+    },
+    "***Boss Star will appear in 20s!***": {
+        "chi": "***邪恶小星星将在30秒后出现***"
+    },
+    "***Boss Star***": {
+        "chi": "***邪恶小星星***"
+    },
+    "***The star platform will rise in 4s!***": {
+        "chi": "***星台在4秒后上升***"
+    },
+    "***Well!Boss Star was defeated!***": {
+        "chi": "***我超！邪恶小星星被打败了！***"
+    },
+    "***Zombies will come in 8s!": {
+        "chi": "***Zombies will come in 8s!"
+    },
+    "***Boss Star II***": {
+        "chi": "***Boss Star II***"
+    },
+    "***You have 30s to fight Boss Star!***": {
+        "chi": "***You have 30s to fight Boss Star!***"
+    },
+    "***You have 90s to fight Boss Star!***": {
+        "chi": "***你有90秒的时间来打败邪恶小星星!***"
+    },
+    "***You have 60s to fight Boss Star!***": {
+        "chi": "***You have 60s to fight Boss Star!***"
+    },
+    "***Boss Star will destroy all travellers in 5s!***": {
+        "chi": "***邪恶小星星将在5秒后释放终极***"
+    },
+    "***Hegrenade can give Boss Star more damage!***": {
+        "chi": "***Hegrenade can give Boss Star more damage!***"
+    },
+    "***You have 120s to fight Boss Star!***": {
+        "chi": "***你有120秒的时间来打败邪恶小星星!***"
+    },
+    "***Wait for 40s until the box breaks!***": {
+        "chi": "***Wait for 40s until the box breaks!***"
+    },
+    "***Hold for 25s!***": {
+        "chi": "***Hold for 25s!***"
+    },
+    "***Wait for 10s until the box breaks!***": {
+        "chi": "***Wait for 10s until the box breaks!***"
+    },
+    "**The elevator will leave in 15 seconds**": {
+        "chi": "**The elevator will leave in 15 seconds**"
+    },
+    "***Teleportion is active!Go ahead,travellers!***": {
+        "chi": "***Teleportion is active!Go ahead,travellers!***"
+    },
+    "***Well!Teleportion will be active in 60s!***": {
+        "chi": "***传送水晶将在60秒后激活***"
+    },
+    "***Press the button and activate teleportion!***": {
+        "chi": "***找到按钮来激活传送水晶！***"
+    },
+    "***A traveller has picked Boss Froyo's ultimate --- Blast!***": {
+        "chi": "***A traveller has picked Boss Froyo's ultimate --- Blast!***"
+    },
+    "***A traveller has picked Boss Star's ultimate --- Wave!***": {
+        "chi": "***A traveller has picked Boss Star's ultimate --- Wave!***"
+    },
+    "***A traveller has picked halo crystal!***": {
+        "chi": "***A traveller has picked halo crystal!***"
+    },
+    "***A traveller has picked roar crystal!***": {
+        "chi": "***A traveller has picked roar crystal!***"
+    },
+    "***A zombie has picked health crystal!***": {
+        "chi": "***A zombie has picked health crystal!***"
+    },
+    "***A zombie has picked fear crystal!***": {
+        "chi": "***A zombie has picked fear crystal!***"
+    },
+    "***A traveller has picked lightwall crystal!***": {
+        "chi": "***A traveller has picked lightwall crystal!***"
+    },
+    "***A traveller has picked snowstorm crystal!***": {
+        "chi": "***A traveller has picked snowstorm crystal!***"
+    },
+    "***(Admin)Boss Star II in next round!***": {
+        "chi": "***(Admin)Boss Star II in next round!***"
+    },
+    "***(Admin)Boss Star in next round!***": {
+        "chi": "***(Admin)Boss Star in next round!***"
+    },
+    "***(Admin)Boss Froyo in next round!***": {
+        "chi": "***(Admin)Boss Froyo in next round!***"
+    },
+    "***(Admin)Laser in next round!***": {
+        "chi": "***(Admin)Laser in next round!***"
+    },
+    "***(Admin)Normal in next round!***": {
+        "chi": "***(Admin)Normal in next round!***"
+    },
+    "***Bridge can pass through in 25s!***": {
+        "chi": "***在25秒内通过桥梁***"
+    },
+    "***Bridge can pass through in 5s!***": {
+        "chi": "***还剩5秒!***"
+    },
+    "***Hold here for 30s!***": {
+        "chi": "***Hold here for 30s!***"
+    },
+    "***Wood box will break in 5s!***": {
+        "chi": "***Wood box will break in 5s!***"
+    },
+    "***Wood box will break in 30s!***": {
+        "chi": "***木箱在30秒后破碎***"
+    },
+    "***Press the red button and enter the castle!***": {
+        "chi": "***Press the red button and enter the castle!***"
+    },
+    "***A traveller has picked unknown crystal!***": {
+        "chi": "***A traveller has picked unknown crystal!***"
+    },
+    "***Warm Up Round!***": {
+        "chi": "***Warm Up Round!***"
+    },
+    "***Hold star for 40s!***": {
+        "chi": "***Hold star for 40s!***"
+    },
+    "***Hold for 40s!***": {
+        "chi": "***Hold for 40s!***"
+    },
+    "***Initial***": {
+        "chi": "***Initial***"
+    },
+    "***(Admin)Initial in next round!***": {
+        "chi": "***(Admin)Initial in next round!***"
+    },
+    "***Hold froyo for 30s!***": {
+        "chi": "***Hold froyo for 30s!***"
+    },
+    "***The platform will move in 35s!***": {
+        "chi": "***The platform will move in 35s!***"
+    },
+    "***Hard***": {
+        "chi": "***Hard***"
+    },
+    "***(Admin)Hard in next round!***": {
+        "chi": "***(Admin)Hard in next round!***"
+    },
+    "***The teleportion crystal is active!***": {
+        "chi": "***The teleportion crystal is active!***"
+    },
+    "***Great!The teleportion crystal is active!***": {
+        "chi": "***Great!The teleportion crystal is active!***"
+    },
+    "***Wait for 120s or complete last surf to activate the teleportion crystal!***": {
+        "chi": "***坚守120秒，或有一个能通过最终滑翔来提前触发传送水晶***"
+    },
+    "***The boat will move in 30s!***": {
+        "chi": "***船在30秒后离开***"
+    },
+    "***The boat will move in 60s!***": {
+        "chi": "***船在60秒后离开***"
+    },
+    "***A traveller has picked shock ring!***": {
+        "chi": "***A traveller has picked shock ring!***"
+    },
+    "***Box will break in 20s!***": {
+        "chi": "***坚守20s***"
+    },
+    "***Find and touch the star!***": {
+        "chi": "***Find and touch the star!***"
+    },
+    "***Box will break in 10s!***": {
+        "chi": "***Box will break in 10s!***"
+    },
+    "***The teleportion crystal will be active in 60s!***": {
+        "chi": "***The teleportion crystal will be active in 60s!***"
+    },
+    "***10s left to win!***": {
+        "chi": "***10s left to win!***"
+    },
+    "***Generating froyo world in 3s!***": {
+        "chi": "***Generating froyo world in 3s!***"
+    },
+    "***Generating froyo world in 2s!***": {
+        "chi": "***Generating froyo world in 2s!***"
+    },
+    "***Generating froyo world in 1s!***": {
+        "chi": "***Generating froyo world in 1s!***"
+    },
+    "***Well,Zombies!Get your crystals to infect travellers!***": {
+        "chi": "***Well,Zombies!Get your crystals to infect travellers!***"
+    },
+    "***Sorry!Zombies have no crystal to use!***": {
+        "chi": "***Sorry!Zombies have no crystal to use!***"
+    },
+    "***Well,Travellers!Making good use of these crystals!***": {
+        "chi": "***Well,Travellers!Making good use of these crystals!***"
+    },
+    "***Sorry!You travellers have no crystal to use!Good luck!***": {
+        "chi": "***Sorry!You travellers have no crystal to use!Good luck!***"
+    },
+    "***Check travellers' crystals......***": {
+        "chi": "***Check travellers' crystals......***"
+    },
+    "***Check zombies' crystals......***": {
+        "chi": "***Check zombies' crystals......***"
+    }
+}

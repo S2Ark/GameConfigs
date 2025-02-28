@@ -1,0 +1,197 @@
+{
+    "ZE_Deathinvain_Palace": {
+        "chi": "ZE_Deathinvain_Palace"
+    },
+    "Map by vueru": {
+        "chi": "作者vueru汉化:萌爱"
+    },
+    "Thank memories for telling me about some bugs": {
+        "chi": "感谢Memories 的修复"
+    },
+    "<The barrier will disappear in 20 seconds>": {
+        "chi": "<屏障20秒后消失>"
+    },
+    "**A player has picked up Frost Scroll**": {
+        "chi": "**一位玩家获取神里流霜灭**"
+    },
+    "**A player has picked up Saint Diana's shelter**": {
+        "chi": "**一位玩家获取嘉然今天吃什么**"
+    },
+    "**A player has picked up The lament of Otto**": {
+        "chi": "**一位玩家获取猛男冲锋**"
+    },
+    "<The barrier will disappear in 30 seconds>": {
+        "chi": "<屏障30秒后消失>"
+    },
+    "**A player has picked up Cure Scroll**": {
+        "chi": "**一位玩家获取芭芭拉的奶**"
+    },
+    "**A player has picked up Thunder Scroll**": {
+        "chi": "**一位玩家获取电光如我—斩尽牛杂**"
+    },
+    "<The gate is closed>": {
+        "chi": "<大门禁闭着>"
+    },
+    "<The stone tablets on both sides seem to have a clue>": {
+        "chi": "<站在两边的石碑下进行触发>"
+    },
+    "**A player has picked up Hurricane Scroll**": {
+        "chi": "**一位玩家获取风神的守护**"
+    },
+    "**A player has picked up Lure Scroll**": {
+        "chi": "**一位玩家获取黑洞**"
+    },
+    "**A player has picked up Disaster Scroll**": {
+        "chi": "**一位玩家获取灾难**"
+    },
+    "**A zombie has picked up ZMHeal**": {
+        "chi": "**僵尸获取奶**"
+    },
+    "<Is this... Successful?>": {
+        "chi": "<这是...要成功了?>"
+    },
+    "<The gate will open in 25 seconds>": {
+        "chi": "<大门25秒后打开>"
+    },
+    "<The way is blocked by fire!>": {
+        "chi": "<前面是一片火场!>"
+    },
+    "<Wait a minute...>": {
+        "chi": "<等一会儿再过去!!!>"
+    },
+    "<The gate will open in 30 seconds>": {
+        "chi": "<大门30秒后开启>"
+    },
+    "<This damn stone wall is too thick!>": {
+        "chi": "<这面石墙也太厚了...!>"
+    },
+    "<The barrier will disappear in 25 seconds>": {
+        "chi": "<屏障25秒后消失>"
+    },
+    "<Zombie item disabled>": {
+        "chi": "<僵尸神器已被禁用>"
+    },
+    "<It's gone!But what seems to have fallen?>": {
+        "chi": "<它离开了，留下了什么东西?>"
+    },
+    "<Take it!Ready to return to the main hall!>": {
+        "chi": "<拾起碎片，原路返回!>"
+    },
+    "<Zombie item enabled>": {
+        "chi": "<僵尸神器启用>"
+    },
+    "**A player has picked up Stone tablet fragments**": {
+        "chi": "**一位玩家获取碎片**"
+    },
+    "<OK, go and put the fragments into the stone tablet by someone.>": {
+        "chi": "<OK，把碎片放进石碑里>"
+    },
+    "<Others guard here. Don't let zombies get out of this door!>": {
+        "chi": "<守住!别让僵尸出门>"
+    },
+    "<It's in place!>": {
+        "chi": "<快完成了???>"
+    },
+    "<The power of the stone tablet is being released...>": {
+        "chi": "<石碑释放了力量>"
+    },
+    "<Step back. Don't be affected by the force!>": {
+        "chi": "<往后退点，不要被力量波及!>"
+    },
+    "<Wait 10 seconds>": {
+        "chi": "<等待最后10秒>"
+    },
+    "<Zombies have been reset to 1 blood,Kill them!>": {
+        "chi": "<开始剿匪!!!!!!!!>"
+    },
+    "<What's that flying past???>": {
+        "chi": "<什么东西飞过去了???>"
+    },
+    "<The gate will open in 20 seconds>": {
+        "chi": "<大门20秒后开启>"
+    },
+    "<Get what you need and go!>": {
+        "chi": "<拿上那个东西!>"
+    },
+    "<ybb! Who closed the door!>": {
+        "chi": "<艹，是谁关的门!>"
+    },
+    "<The trigger platform on the left is made of fragments?>": {
+        "chi": "<左边的平台似乎需要碎片>"
+    },
+    "<People with fragments go to the left!>": {
+        "chi": "<碎片站在左边>"
+    },
+    "<Wait a minute>": {
+        "chi": "<等待一会儿>"
+    },
+    "<Not good! It wants to die with us!>": {
+        "chi": "<不好，它要和我们同归于尽!>"
+    },
+    "<It's dead!let's go!>": {
+        "chi": "<它死了，我们快走>"
+    },
+    "<Good!As usual>": {
+        "chi": "<干的漂亮>"
+    },
+    "<We keep the zombies in here. Let the power of the stele kill them!>": {
+        "chi": "<继续防守僵尸，我们将启动石碑的力量!>"
+    },
+    "**AVA follows a player**": {
+        "chi": "**一位玩家获取史莱姆大魔王**"
+    },
+    "<The barrier will disappear in 15 seconds>": {
+        "chi": "<屏障15秒后消失>"
+    },
+    "<The gate will open in 15 seconds>": {
+        "chi": "<大门15秒后打开>"
+    },
+    "<The sound of fighting came straight ahead.>": {
+        "chi": "<前面的战斗很激烈>"
+    },
+    "**A zombie has picked up ZMFire**": {
+        "chi": "**一位僵尸获取ZM火**"
+    },
+    "<A stone tablet is surrounded by fire.>": {
+        "chi": "<石碑被火焰包围着.>"
+    },
+    "<We need time to deal with the fire on the ground.>": {
+        "chi": "<等待地面的火焰消失>"
+    },
+    "<The fire disappeared>": {
+        "chi": "<火焰消失了>"
+    },
+    "<AVA went through the battle and seemed to gain strength>": {
+        "chi": "<史莱姆大魔王的力量已经激活>"
+    },
+    "<Who's there?>": {
+        "chi": "<这是?>"
+    },
+    "<DIANA!>": {
+        "chi": "<快使用嘉心糖!>"
+    },
+    "<neid:Get ready greet my wild knife dance!>": {
+        "chi": "<准备迎接我的刀锋吧!!!>"
+    },
+    "<Destroy this place in 25 seconds>": {
+        "chi": "<嘉然将在25秒后摧毁这里>"
+    },
+    "**A zombie has picked up ZMWarp**": {
+        "chi": "**僵尸获得秒杀**"
+    },
+    "**A zombie has picked up ZMGravity**": {
+        "chi": "**僵尸获得黑洞**"
+    },
+    "**A zombie has picked up ZMShield**": {
+        "chi": "**僵尸获得盾**"
+    },
+    "**A zombie has picked up ZMIce**": {
+        "chi": "**僵尸获得冰**"
+    },
+    "<Otto's wheelchair was dried to pieces, TNT>": {
+        "chi": "<猛男冲锋被玩坏了, TUT>"
+    },
+    "<Otto's wheelchair has been repaired!>": {
+        "chi": "<猛男♂冲锋已经准备好了!>"
+    }
+}

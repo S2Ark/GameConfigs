@@ -1,0 +1,263 @@
+{
+    "*** Rage ***": {
+        "chi": "技能：暴怒"
+    },
+    "***Slayser Casted***": {
+        "chi": "技能：秒杀全场"
+    },
+    "***Graser Casted***": {
+        "chi": "技能：狂暴"
+    },
+    "***Rotade Casted***": {
+        "chi": "技能：螺旋丸"
+    },
+    "***Lasers Casted***": {
+        "chi": "技能：刀光鸽"
+    },
+    "***Rotade v2 Casted***": {
+        "chi": "技能：双重螺旋丸"
+    },
+    "***WBB  Casted***": {
+        "chi": "***技能 ：WBB ***"
+    },
+    "***Laserstrike ***": {
+        "chi": "技能：超级刀光"
+    },
+    "***Bstrike Casted***": {
+        "chi": "技能：霸王冲"
+    },
+    "***Makoorit or Bstrike....***": {
+        "chi": "***Makoorit 或 Bstrike....***"
+    },
+    "*** Matematika 5 klass gdz***": {
+        "chi": "*** 来数学5班 ，搞快点兄弟们***"
+    },
+    "*** PALOCHKA Casted ***": {
+        "chi": "技能：帕罗卡其"
+    },
+    "*** VETER NAHOY ***": {
+        "chi": "*** 现在是水  ***"
+    },
+    "***KURT KURT KURT BLYA***": {
+        "chi": "***光明审判***"
+    },
+    "***EBALO STYANI***": {
+        "chi": "***EBALO STYANI***"
+    },
+    "*** NPC ATTACK ***": {
+        "chi": "NPC攻击"
+    },
+    "*** 120 sec do zalupahui ***": {
+        "chi": "*派蒙给你120秒"
+    },
+    "*** zalupahui push cherez 90 sec ***": {
+        "chi": " 派蒙推力90秒后释放"
+    },
+    "***POEZD NAHOY***": {
+        "chi": "***回到我们身边 ***"
+    },
+    "***FAIV SECANDS!!!***": {
+        "chi": "准备出发"
+    },
+    "***SHA VSO BUDET NAHOY***": {
+        "chi": "都是我的( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)"
+    },
+    "***BLYAT TYT STENA***": {
+        "chi": "*** 下一阶段滑翔马上开始 ***"
+    },
+    "*** 40 sec ***": {
+        "chi": "剩余40秒"
+    },
+    "***LEVEL 1 - SURF ZALUPAHUI***": {
+        "chi": "第一关 - 派蒙滑翔"
+    },
+    "***TELEPORT IN 10 SECONDS": {
+        "chi": "传送10秒后开启"
+    },
+    "*** 60 sec ***": {
+        "chi": "剩余60秒"
+    },
+    "Metro otkrivaetsa, predyavite QR-code": {
+        "chi": "等待地铁，它会放出天使的气息 "
+    },
+    "*** MI NASHLI QR-CODE ***": {
+        "chi": "是神圣天使 "
+    },
+    "*** NYJNO NAYTI METRO I PREDJYAVIT EGO ***": {
+        "chi": "*** 她可以破除各种机关***"
+    },
+    "*** INACHE NAS NAIDYT RABOTNIKI METRO I OTPIZDYAT ***": {
+        "chi": "*** 要发挥你们的聪明才智 ***"
+    },
+    "***POEZDA OTSOSALI JAJAJAJAJAJ***": {
+        "chi": "***派蒙：竟然让你们逃脱了***"
+    },
+    "*** Push ***": {
+        "chi": "小心推力"
+    },
+    "***5 SEC PACANI***": {
+        "chi": "剩余5秒"
+    },
+    "***YRA PENDULUM***": {
+        "chi": "***小心列车刀***"
+    },
+    "*** predyavite QR-code ***": {
+        "chi": "*** 默认二维码 ***"
+    },
+    "Sha otkrou nahoy podozdite 30 sec.": {
+        "chi": "剩余30秒放开何娜"
+    },
+    "Pochti otkril pacani.": {
+        "chi": "请患者了解"
+    },
+    "*** Firewall ***": {
+        "chi": "小心火焰壁垒"
+    },
+    "*** Fireball ***": {
+        "chi": "小心火球"
+    },
+    "***LEVEL 2 - QR CODE ***": {
+        "chi": "第二关 - 二维码"
+    },
+    ">>> Alinochka <<<": {
+        "chi": "找到正确道路"
+    },
+    "*** Fire ***": {
+        "chi": "火焰"
+    },
+    "***VNIMANIE ANEKDOT***": {
+        "chi": "***小老弟，你们很棒***"
+    },
+    "***KAK TI SMOTRISH NA PROBLEMY S DIPRESSIEY SREDI DEVUSHEK***": {
+        "chi": "如何在戒瑟中心陷入抑郁症"
+    },
+    "***V 4K***": {
+        "chi": "看看4K高清无码"
+    },
+    "***JAJAJAJJAJJAAJAJA***": {
+        "chi": "***准备好了吗，细狗们***"
+    },
+    "***DRAKON IZ SKYRIMA CHEREZ 30 sec ***": {
+        "chi": "防守30秒"
+    },
+    "*** QR-CODE PREDYAVLEN ***": {
+        "chi": "注意二维码"
+    },
+    "*** 15 SEC DO POBEDI ***": {
+        "chi": "我们将在15秒后获胜"
+    },
+    "*** 70 SEC DO PRIBITIYA RABOTNIKOV METRO ***": {
+        "chi": "地铁70秒后出发"
+    },
+    "*** POISON ***": {
+        "chi": "毒"
+    },
+    "***PUDGE YMER NAHOY***": {
+        "chi": "***PUDGE YMER NAHOY***"
+    },
+    "***DEFAYTE 10 SEC***": {
+        "chi": "防守10秒"
+    },
+    "***YRA POBEDA NAHOY***": {
+        "chi": "耶耶耶 我们胜利了"
+    },
+    "***STARIY EVREY MOYSHA TAKI POMER OT TOGO CHTO EGO KLETKI OTKAZALIS DELITSYA***": {
+        "chi": "由埃弗里·莫伊莎·塔基·波默（EVREY MOYSHA TAKI POMER）主演，取自KLETKI的DELITSIA*"
+    },
+    "***VNIMANIE!!! POEZDA!!!": {
+        "chi": "卧槽 快回去"
+    },
+    "***BISRTO BISTRO BISRTO BISTRO BISRTO BISTRO BISRTO BISTRO BIIIIIISTRO SZADI SHALAVA***": {
+        "chi": "快走，派蒙会把我们创死死"
+    },
+    "*** 20 sec ***": {
+        "chi": "剩余20秒"
+    },
+    "*** CONGRATYLASHIN KARTA PROYDENA ***": {
+        "chi": "恭喜你们"
+    },
+    "*** RTV ***": {
+        "chi": "可以RTV了"
+    },
+    "***POSTAV NA LAZERAH PJ***": {
+        "chi": "***POSTAV NA LAZERAH PJ***"
+    },
+    "*** 15 sec  ***": {
+        "chi": "剩余15秒"
+    },
+    "***KAK JE ETI STENKI YJE ZAIBALE***": {
+        "chi": "那块巨石怎么样了"
+    },
+    "***OMG IT'S A PUDGE!!!***": {
+        "chi": "天哪，这是一个泥头车"
+    },
+    "***KILL HIM***": {
+        "chi": "快消灭它"
+    },
+    "*** 30 sec ***": {
+        "chi": "剩余30秒"
+    },
+    "*** Podsos ***": {
+        "chi": "包容万象"
+    },
+    "LASER STRIKE CD : 7 - 10": {
+        "chi": "刀光CD 7-10秒"
+    },
+    "1 HIT - 1 DAMAGE": {
+        "chi": "使用一次就能造成伤害"
+    },
+    "MAX DAMAGE 100": {
+        "chi": "最高伤害100血"
+    },
+    "BLACK KILL": {
+        "chi": "杀戮者"
+    },
+    "*** SERAPHOT ***": {
+        "chi": "天使"
+    },
+    "***map by muwei***": {
+        "chi": "***作者 muwei 汉化 萌爱***"
+    },
+    "***pudge love you***": {
+        "chi": "爱你呦 亲( ͡  ͜ ʖ ͡ )( ͡  ͜ ʖ ͡ )( ͡  ͜ ʖ ͡ )"
+    },
+    "*** 10 SEC DO JESKOGO GAY PORNO ***": {
+        "chi": "10秒后播放同性恋瑟情片"
+    },
+    "*** VIJIVAYTE 60 SEC ***": {
+        "chi": "存活60秒"
+    },
+    "*** 60 SEC ***": {
+        "chi": "剩余60秒"
+    },
+    "*** ZM TP 10 SEC": {
+        "chi": "僵尸10秒后传送"
+    },
+    "原文本": {
+        "chi": "翻译"
+    },
+    "***ZALUPAHUI PICK UP***": {
+        "chi": "派蒙已被拾取"
+    },
+    "***Makoorit Casted***": {
+        "chi": "技能：马克冲击"
+    },
+    "*** 180s ***": {
+        "chi": "剩余180秒"
+    },
+    "***DRAKON IZ SKYRIMA YMER***": {
+        "chi": "是天竺葵"
+    },
+    "***DEFEND 25 SECONDS***": {
+        "chi": "防守25秒"
+    },
+    "*** MISS ***": {
+        "chi": "左右横跳"
+    },
+    "Pudge will disappear in 30 sec": {
+        "chi": "吉普将在20秒后消失"
+    },
+    "Pudge will disappear in 5 sec": {
+        "chi": "吉普将在5秒后消失"
+    }
+}

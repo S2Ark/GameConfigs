@@ -1,0 +1,41 @@
+{
+    "The slate will open in 20 seconds": {
+        "chi": "封印的第二道石板将在20秒后打开"
+    },
+    "Open the hole in 40 seconds": {
+        "chi": "40秒后某种力量将苏醒,传送门打开"
+    },
+    "Transfer AFK player in 10 seconds": {
+        "chi": "10秒后传送AFK的玩家"
+    },
+    "Open the stone gate in 20 seconds": {
+        "chi": "封印的第一道石板将在20秒后打开"
+    },
+    "Defeat the guardian of ancient will": {
+        "chi": "击败远古意志的守护者"
+    },
+    "Send AFK player to level 1 in 15 seconds": {
+        "chi": "15秒后将传送AFK的玩家到第一层,快TM跑"
+    },
+    "The iron door will break down in 30 seconds": {
+        "chi": "铁门将在30秒后被破坏"
+    },
+    "After 20 seconds, the stone slabs on both sides were destroyed": {
+        "chi": "20秒后,左右两层的石板将被摧毁"
+    },
+    "Send AFK player to level 2 in 5 seconds": {
+        "chi": "5秒后将传送AFK的玩家到第三层,快TM跑"
+    },
+    "Turn on the last transfer after 30 seconds and close after 10 seconds": {
+        "chi": "30秒后开启通往上层的传送 10秒后关闭传送"
+    },
+    "<< 30 >>": {
+        "chi": "<< 30 >>"
+    },
+    "<< The door of satan open 60 second >>": {
+        "chi": "<< 撒旦之门60秒打开 >>"
+    },
+    "Trigger the final battle in 5 seconds": {
+        "chi": "在5秒内触发最终战斗"
+    }
+}

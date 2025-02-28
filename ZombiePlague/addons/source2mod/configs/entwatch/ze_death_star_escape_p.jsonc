@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Blue Lightsaber",
+        "shortname": "Lightsaber",
+        "hammerid": "1622",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "blue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1614"
+            },
+            {
+                "hammerid": "1611",
+                "event": "OnEqualTo",
+                "mode": 2,
+                "cooldown": 20,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Red Lightsaber",
+        "shortname": "Lightsaber",
+        "hammerid": "1820",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "darkred",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1810"
+            },
+            {
+                "hammerid": "1805",
+                "event": "OnEqualTo",
+                "mode": 2,
+                "cooldown": 20,
+                "message": true,
+                "ui": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+{
+    "[MAP INFO] *** This map has been created by FuTuRe ***": {
+        "chi": "*** 作者 FuTuRe汉化:萌爱 ***"
+    },
+    "[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***": {
+        "chi": " *** 感谢Syoudous 的修复! ***"
+    },
+    "[MAP INFO] The gate will open in 20 seconds! *****": {
+        "chi": "****大门20秒后打开! *****"
+    },
+    "[MAP INFO] *** The gate has opened, move on! ***": {
+        "chi": "*** 大门正在打开! ***"
+    },
+    "[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***": {
+        "chi": "*** 防守25秒后平台碎裂! ***"
+    },
+    "[MAP INFO] *** Get in the hole! ***": {
+        "chi": "*** 跳入洞穴! ***"
+    },
+    "[MAP INFO] The gate is slowly opening, hold this area! ***": {
+        "chi": "大门开的很慢! 继续防守!***"
+    },
+    "[MAP INFO] *** Hold here for 25 seconds! ***": {
+        "chi": "*** 防守25秒! ***"
+    },
+    "[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***": {
+        "chi": " *** 触发C4!!!!***"
+    },
+    "[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***": {
+        "chi": "*** C4已被安放，等待30秒! ***"
+    },
+    "[MAP INFO] *** 5 seconds left until explosion! ***": {
+        "chi": " ***还剩5秒! ***"
+    },
+    "[MAP INFO] ** The metal wall will break down in 15 seconds! ***": {
+        "chi": " ** 金属墙壁15秒后崩塌! ***"
+    },
+    "[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***": {
+        "chi": "*** 守住这里，并触发按钮!! ***"
+    },
+    "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***": {
+        "chi": " *** 按钮已被按下，防守至大门打开! ***"
+    },
+    "[MAP INFO] *** Gate has opened up, move move move! ***": {
+        "chi": "*** 门开了!快溜!! ***"
+    },
+    "[MAP INFO] *** Keep this area until we get sent to the next world! ***": {
+        "chi": "*** 守住这里!我们即将传送到另一个世界! ***"
+    },
+    "[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***": {
+        "chi": "*** 僵尸10秒后传送!***"
+    },
+    "[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***": {
+        "chi": " *** 僵尸传送还有5秒!***"
+    },
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***": {
+        "chi": "*** 人类必须在60秒内杀死僵尸! 否则就是拼刺刀***"
+    },
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 30 SECS OR KNIFE IT OUT! ***": {
+        "chi": "*** 还剩30秒! ***"
+    },
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 15 SECS OR KNIFE IT OUT! ***": {
+        "chi": "*** 还剩15秒! ***"
+    },
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 5 SECS OR KNIFE IT OUT! ***": {
+        "chi": "*** 还剩5秒! ***"
+    },
+    "*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***": {
+        "chi": "*** 人类被缴械了，开始刀战!! ***"
+    },
+    "*** WORLD NUKE INCOMING IN 15 SECONDS! ***": {
+        "chi": "*** 嘉然的制裁15秒后降临! ***"
+    },
+    "*** WORLD NUKE INCOMING IN 10 SECONDS! ***": {
+        "chi": "*** 还剩10秒! ***"
+    },
+    "*** WORLD NUKE INCOMING IN 5 SECONDS! ***": {
+        "chi": "*** 还剩5秒! ***"
+    }
+}

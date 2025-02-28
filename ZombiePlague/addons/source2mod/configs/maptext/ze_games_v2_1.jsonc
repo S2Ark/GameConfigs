@@ -1,0 +1,206 @@
+{
+    "-=[ Welcome to Zombie Games ]=-": {
+        "chi": "-=[ 欢迎来到这里和幽魂谷做一些击剑游戏！ ]=-"
+    },
+    "-=[ Round starting in 10 seconds ]=-": {
+        "chi": "-=[ 10秒钟后幽魂谷会到来，用咸鱼的方式击败他！ ]=-"
+    },
+    "-=[ Starting game: Obstacle Race ]=-": {
+        "chi": "-=[ 游戏开始：和幽魂谷的轮椅障碍竞速赛！ ]=-"
+    },
+    "-=[ You have 1 minute to reach the end ]=-": {
+        "chi": "-=[ 你有1分钟的时间到达终点，跑快点！ ]=-"
+    },
+    "-=[ You have 40 seconds ]=-": {
+        "chi": "-=[ 你还有40秒，小心幽魂谷偷你的屁股 ]=-"
+    },
+    "-=[ You have 20 more seconds ]=-": {
+        "chi": "-=[ 快快快，就剩20秒了，你想和幽魂谷啵啵吗？ ]=-"
+    },
+    "-=[ Hurry, 10 seconds left ]=-": {
+        "chi": "-=[ 10秒钟了，再加把劲！ ]=-"
+    },
+    "-=[ 5 ]=-": {
+        "chi": "-=[ 5 ]=-"
+    },
+    "-=[ 4 ]=-": {
+        "chi": "-=[ 4 ]=-"
+    },
+    "-=[ 3 ]=-": {
+        "chi": "-=[ 3 ]=-"
+    },
+    "-=[ 2 ]=-": {
+        "chi": "-=[ 2 ]=-"
+    },
+    "-=[ 1 ]=-": {
+        "chi": "-=[ 1 ]=-"
+    },
+    "-=[ Select your first game ]=-": {
+        "chi": "-=[ 选择你想和幽魂谷进行的第一场游戏 ]=-"
+    },
+    "-=[ Autopick in 1 minute ]=-": {
+        "chi": "-=[ 幽魂谷将在1分钟以后自动选择 ]=-"
+    },
+    "-=[ Starting Game: Castle Defence ]=-": {
+        "chi": "-=[ 开始游戏：城堡防御 ]=-"
+    },
+    "-=[ Normal Mode ]=-": {
+        "chi": "-=[ 正常模式 ]=-"
+    },
+    "-=[ Enter the Castle ]=-": {
+        "chi": "-=[ 进入城堡，那里是安全的 ]=-"
+    },
+    "-=[ Doors closing in 5 seconds ]=-": {
+        "chi": "-=[ 城堡的门会在5秒后关闭，别被关在外面 ]=-"
+    },
+    "-=[ Zombies are free ]=-": {
+        "chi": "-=[ 幽魂谷释放了他的爪牙僵尸们 ]=-"
+    },
+    "-=[ Hold for 30 seconds ]=-": {
+        "chi": "-=[ 坚守住30秒好嘛？答应我 ]=-"
+    },
+    "-=[ Shoot the ladders down ]=-": {
+        "chi": "-=[ 快点击落幽魂谷为爪牙们搭建的梯子 ]=-"
+    },
+    "-=[ The catapult is coming!!! ]=-": {
+        "chi": "-=[ 幽魂谷的弹射大炮来啦!!! ]=-"
+    },
+    "-=[ Castle gates open in 30 seconds ]=-": {
+        "chi": "-=[ 城堡大门将在30秒后打开 ]=-"
+    },
+    "-=[ Fallback ]=-": {
+        "chi": "-=[ 快退快退！ ]=-"
+    },
+    "-=[ Castle gates open in 15 seconds ]=-": {
+        "chi": "-=[ 城堡大门15秒后开启 ]=-"
+    },
+    "-=[ Castle gates are opening ]=-": {
+        "chi": "-=[ 城堡大门正在打开 ]=-"
+    },
+    "-=[ Finishing in 30 seconds ]=-": {
+        "chi": "-=[ 30秒后结束，幽魂谷要输啦！ ]=-"
+    },
+    "-=[ Finishing in 5 ]=-": {
+        "chi": "-=[ 5秒后结束，见鬼去吧幽魂谷！ ]=-"
+    },
+    "-=[ It's time for the final minigame ]=-": {
+        "chi": "-=[ 什么！幽魂谷不服气！还要来一场 ]=-"
+    },
+    "-=[ Starting game: Low Gravity ]=-": {
+        "chi": "-=[ 开始游戏：月球漫步！ ]=-"
+    },
+    "-=[  ]=-": {
+        "chi": "-=[ 在幽魂谷的爪牙的进攻下生存60秒！ ]=-"
+    },
+    "-=[ Here come the zombies!!! ]=-": {
+        "chi": "-=[ 可恶，幽魂谷释放了爪牙!!! ]=-"
+    },
+    "-=[ 30 more seconds... ]=-": {
+        "chi": "-=[ 还有30秒，幽魂谷看起来不堪一击... ]=-"
+    },
+    "-=[ Finishing in 5... ]=-": {
+        "chi": "-=[ 5秒后结束... ]=-"
+    },
+    "-=[ Humans Win ]=-": {
+        "chi": "-=[ 幽魂谷输啦！这就是你的实力吗 ]=-"
+    },
+    "-=[ Killing zombies in 5 ]=-": {
+        "chi": "-=[ 5秒后击败幽魂谷的全部爪牙 ]=-"
+    },
+    "-=[ Starting game: Slingshot ]=-": {
+        "chi": "-=[ 开始游戏：弹弓 ]=-"
+    },
+    "-=[ Survive 60 Seconds... ]=-": {
+        "chi": "-=[ 生存60秒，碾碎他们... ]=-"
+    },
+    "-=[ Starting game: Drop ]=-": {
+        "chi": "-=[ 开始游戏：吹啊吹啊我的骄傲放纵 ]=-"
+    },
+    "-=[ Activating in 5 ]=-": {
+        "chi": "-=[ 5秒后激活 ]=-"
+    },
+    "-=[ Starting game: Obstacle ]=-": {
+        "chi": "-=[ 开始游戏：躲避幽魂谷设置的障碍 ]=-"
+    },
+    "-=[ Survive 90 Seconds... ]=-": {
+        "chi": "-=[ 生存90秒... ]=-"
+    },
+    "-=[ Here come the zombies ]=-": {
+        "chi": "-=[ 幽魂谷又派出了他的爪牙 ]=-"
+    },
+    "-=[ You have 60 seconds ]=-": {
+        "chi": "-=[ 你还有60秒！ ]=-"
+    },
+    "-=[ Zombie spawn has advanced ]=-": {
+        "chi": "-=[ 幽魂谷给他的爪牙们沐浴了邪恶的光！ ]=-"
+    },
+    "-=[ Hard Mode :: CT/T == 1 ]=-": {
+        "chi": "-=[ 幽魂谷气愤了 :: CT/T == 1 ]=-"
+    },
+    "-=[ Hard Mode ]=-": {
+        "chi": "-=[ 启动困难模式 ]=-"
+    },
+    "-=[ Starting game: Deathrun ]=-": {
+        "chi": "-=[ 开始游戏：速度与激情 ]=-"
+    },
+    "-=[ Hold for 90 seconds ]=-": {
+        "chi": "-=[ 坚持90秒不要被幽魂谷逮到，不然没你好果子吃 ]=-"
+    },
+    "-=[ 1 more minute ]=-": {
+        "chi": "-=[ 还有1分钟 ]=-"
+    },
+    "-=[ Zombie spawn advanced ]=-": {
+        "chi": "-=[ 幽魂谷让他的爪牙们变强了 ]=-"
+    },
+    "-=[ Starting game: Frogger ]=-": {
+        "chi": "-=[ 开始游戏：青蛙过河 ]=-"
+    },
+    "-=[ Collect the gems in 45 seconds ]=-": {
+        "chi": "-=[ 在45秒的时间收集齐幽魂谷家的房产证 ]=-"
+    },
+    "-=[ All Gems have been collected ]=-": {
+        "chi": "-=[ 所有的房产证都被你们找齐了，幽魂谷没房子住啦 ]=-"
+    },
+    "-=[ Make your way to the highway ]=-": {
+        "chi": "-=[ 去高速公路 ]=-"
+    },
+    "-=[ Middle Exit opening in 30 seconds ]=-": {
+        "chi": "-=[ 中间的出口在30秒内打开 ]=-"
+    },
+    "-=[ Doors opening in 5 ]=-": {
+        "chi": "-=[ 5秒钟后打开门 ]=-"
+    },
+    "-=[ Starting game: The Trap ]=-": {
+        "chi": "-=[ 开始游戏：躲避幽魂谷的陷阱 ]=-"
+    },
+    "-=[ Extreme Mode ]=-": {
+        "chi": "-=[ 极端模式 ]=-"
+    },
+    "-=[ Activating Trap ]=-": {
+        "chi": "-=[ 幽魂谷激活了陷阱 ]=-"
+    },
+    "-=[ You have 30 seconds ]=-": {
+        "chi": "-=[ 你还有30秒的时间 ]=-"
+    },
+    "-=[ Starting game: Conveyor ]=-": {
+        "chi": "-=[ 开始游戏：传送带 ]=-"
+    },
+    "-=[ Easy Mode ]=-": {
+        "chi": "-=[ 简易模式 ]=-"
+    },
+    "-=[Normal Mode ]=-": {
+        "chi": "-=[正常模式 ]=-"
+    },
+    "-=[ Survive until next ratio mode ]=-": {
+        "chi": "-=[ 生存到下一个比率模式 ]=-"
+    },
+    "-=[ Finishing Game :: < 2 ]=-": {
+        "chi": "-=[ 结束了兄弟们 :: < 2 ]=-"
+    },
+    "-=[ Starting game: Murder in the dark ]=-": {
+        "chi": "-=[ 开始游戏：小心幽魂谷的背刺 ]=-"
+    },
+    "-=[ Zombies are blind!!!! ]=-": {
+        "chi": "-=[ 幽魂谷的爪牙们是看不见的，别怕!!!! ]=-"
+    }
+}

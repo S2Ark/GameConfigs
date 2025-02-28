@@ -1,0 +1,221 @@
+{
+    "**Go see the Oracle over the academy in Rookgaard after you spend 80 seconds! in town or you advance to level 10!**": {
+        "chi": "你有80秒的时间来升级"
+    },
+    "**A player has picked up Daramanian Mace!**": {
+        "chi": "一名玩家拾取狼牙棒"
+    },
+    "**A player has picked up Jagged Sword!**": {
+        "chi": "玩家拾取锯齿剑"
+    },
+    "**A player has picked up Snakebite Rod!**": {
+        "chi": "一名玩家拾取蛇杖"
+    },
+    "**A player has picked up Steel_Axe!**": {
+        "chi": "**玩家拾取钢斧!**"
+    },
+    "**A player has picked up Spellbook!**": {
+        "chi": "玩家拾取魔法书"
+    },
+    "**A player has picked up Wand of Vortex!**": {
+        "chi": "玩家拾取漩涡魔杖"
+    },
+    "**A player has picked up Solar Axe!**": {
+        "chi": "玩家拾取太阳斧"
+    },
+    "**[Captain Kurt] Harrr, give me 45 seconds and we can sail**": {
+        "chi": "**[Captain Kurt] Harrr, give me 45 seconds and we can sail**"
+    },
+    "**Hold this area for 20 seconds!**": {
+        "chi": "**Hold this area for 20 seconds!**"
+    },
+    "**Door will open in 30 seconds!**": {
+        "chi": "**Door will open in 30 seconds!**"
+    },
+    "**A player have found a Snakebite Rod**": {
+        "chi": "一名玩家发现蛇杖"
+    },
+    "**A player have found a Spellbook**": {
+        "chi": "一名玩家找到魔法书"
+    },
+    "**Hold this area for 20 seconds until cave is open!**": {
+        "chi": "**Hold this area for 20 seconds until cave is open!**"
+    },
+    "**Hold this area for 30 seconds until hole is open!**": {
+        "chi": "**Hold this area for 30 seconds until hole is open!**"
+    },
+    "**Hold this area for 35 seconds!**": {
+        "chi": "**Hold this area for 35 seconds!**"
+    },
+    "**You have successfully returned, hold here for 25 seconds!**": {
+        "chi": "**You have successfully returned, hold here for 25 seconds!**"
+    },
+    "**Hold here for 25 seconds!**": {
+        "chi": "**Hold here for 25 seconds!**"
+    },
+    "**Hold this area for 30 seconds!**": {
+        "chi": "**Hold this area for 30 seconds!**"
+    },
+    "**A player have found a Steel Axe**": {
+        "chi": "玩家拾取钢斧"
+    },
+    "**A player have found a Daramanian Mace**": {
+        "chi": "玩家拾取狼牙棒"
+    },
+    "**A player have found a Jagged Sword**": {
+        "chi": "玩家拾取锯齿剑"
+    },
+    "**Hold this area for 15 seconds!**": {
+        "chi": "**Hold this area for 15 seconds!**"
+    },
+    "**We need to rest for a while here, hold here for 35 seconds!**": {
+        "chi": "**We need to rest for a while here, hold here for 35 seconds!**"
+    },
+    "**Hold this area for 25 seconds!**": {
+        "chi": "**Hold this area for 25 seconds!**"
+    },
+    "**Well done! You found way out, hold this area for 40 seconds!**": {
+        "chi": "**Well done! You found way out, hold this area for 40 seconds!**"
+    },
+    "**A player has picked up Spike Sword!**": {
+        "chi": "玩家拾取尖刺剑"
+    },
+    "**A player has picked up Torch!**": {
+        "chi": "玩家拾取火炬"
+    },
+    "**A player have found a torch**": {
+        "chi": "玩家拾取火炬"
+    },
+    "**Door will open in 10 seconds**": {
+        "chi": "**Door will open in 10 seconds**"
+    },
+    "**A player have found a Spike Sword**": {
+        "chi": "玩家拾取尖刺剑"
+    },
+    "**A player have found a Copper Shield**": {
+        "chi": "玩家找到铜盾"
+    },
+    "**A player has picked up Copper Shield!**": {
+        "chi": "玩家拾取铜盾"
+    },
+    "**Energy Zone, we can't pass it, hold this area for 15 seconds!**": {
+        "chi": "**Energy Zone, we can't pass it, hold this area for 15 seconds!**"
+    },
+    "**We need to rest, hold this area for 35 seconds!**": {
+        "chi": "**We need to rest, hold this area for 35 seconds!**"
+    },
+    "**We need to rest, hold here for 20 seconds!**": {
+        "chi": "**We need to rest, hold here for 20 seconds!**"
+    },
+    "**We need to rest, hold this area for 15 seconds!**": {
+        "chi": "**We need to rest, hold this area for 15 seconds!**"
+    },
+    "**We are so close! Hold here for 15 seconds!**": {
+        "chi": "**We are so close! Hold here for 15 seconds!**"
+    },
+    "**It's last hold, survive 25 seconds!**": {
+        "chi": "**It's last hold, survive 25 seconds!**"
+    },
+    "**A player have found a Lifefluid**": {
+        "chi": "玩家找到救生液"
+    },
+    "**A player has picked up Lifefluid!**": {
+        "chi": "玩家拾取救生液"
+    },
+    "**A player have found a Dragon Ham**": {
+        "chi": "玩家找到龙腿"
+    },
+    "**A player has picked up Dragon Ham!**": {
+        "chi": "玩家拾取龙腿"
+    },
+    "**A player has picked up Katana!**": {
+        "chi": "玩家拾取卡塔娜"
+    },
+    "**This horse can help us get to the bear cave, hold here for 30 seconds!**": {
+        "chi": "**This horse can help us get to the bear cave, hold here for 30 seconds!**"
+    },
+    "**A player have found a Katana**": {
+        "chi": "玩家找到卡塔娜"
+    },
+    "**Hold here for 20 seconds!**": {
+        "chi": "**Hold here for 20 seconds!**"
+    },
+    "**Doors will open in 15 seconds**": {
+        "chi": "**Doors will open in 15 seconds**"
+    },
+    "**We leaving in 28 seconds!**": {
+        "chi": "**We leaving in 28 seconds!**"
+    },
+    "**Hold this area for 40 seconds!**": {
+        "chi": "**Hold this area for 40 seconds!**"
+    },
+    "**Well done, you found the key! Door will open in 15 seconds**": {
+        "chi": "**Well done, you found the key! Door will open in 15 seconds**"
+    },
+    "**We'll dig passage in 20 seconds**": {
+        "chi": "**We'll dig passage in 20 seconds**"
+    },
+    "**We'll dig passage in 25 seconds**": {
+        "chi": "**We'll dig passage in 25 seconds**"
+    },
+    "**It's last hold, survive here for 45 seconds**": {
+        "chi": "**It's last hold, survive here for 45 seconds**"
+    },
+    "**Cave will open 27 seconds**": {
+        "chi": "**Cave will open 27 seconds**"
+    },
+    "**Door are unlock! defend here for 15 seconds**": {
+        "chi": "**Door are unlock! defend here for 15 seconds**"
+    },
+    "**We'll dig up the passage in 30 seconds**": {
+        "chi": "**We'll dig up the passage in 30 seconds**"
+    },
+    "**Cave will open 20 seconds**": {
+        "chi": "**Cave will open 20 seconds**"
+    },
+    "**Bear room will open in 22 seconds**": {
+        "chi": "**Bear room will open in 22 seconds**"
+    },
+    "**We leaving in 15 seconds!**": {
+        "chi": "**We leaving in 15 seconds!**"
+    },
+    "**We leaving in 20 seconds!**": {
+        "chi": "**We leaving in 20 seconds!**"
+    },
+    "**We leaving in 24 seconds!**": {
+        "chi": "**We leaving in 24 seconds!**"
+    },
+    "**Map by Ma/l/go**": {
+        "chi": "**萌爱对麻辣狗的这张地图做了简单的翻译**"
+    },
+    "**ze_tibia**": {
+        "chi": "罗卡加尔德"
+    },
+    "**It's last hold, defend here for 20 seconds**": {
+        "chi": "**It's last hold, defend here for 20 seconds**"
+    },
+    "**Defend here for 22 seconds and then run to the bridge!": {
+        "chi": "**Defend here for 22 seconds and then run to the bridge!"
+    },
+    "**Stage 2 - Bear Room**": {
+        "chi": "**第二关 熊洞**"
+    },
+    "**Stage 3 - Minotaur Hell**": {
+        "chi": "第三关 牛头地狱"
+    },
+    "**Stage 4 - Katana Quest**": {
+        "chi": "第四关 卡罗娜的任务"
+    },
+    "**Stage 1 - Rookgaard**": {
+        "chi": "第一关 罗卡加尔德"
+    },
+    "**Stage 5 - Copper Shield Quest**": {
+        "chi": "第五关 铜盾"
+    },
+    "**Stage 6 - Spike Sword Quest**": {
+        "chi": "第六关 剑"
+    },
+    "**Stage 7 - Destiny**": {
+        "chi": "第七关 命运"
+    }
+}

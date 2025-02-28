@@ -1,0 +1,191 @@
+{
+    "**A player has picked up Electric **": {
+        "chi": "**一位玩家学会了雷霆之力**"
+    },
+    "**A player has learned an ability from Scholar**": {
+        "chi": "**一位玩家学会了学者之力**"
+    },
+    "**Defend until the path is clear**": {
+        "chi": "**防守直到区域清空**"
+    },
+    "**A player has learned an ability from Bard**": {
+        "chi": "**一位玩家学会了吟游诗人之力**"
+    },
+    "**Defend 40s for the teleport**": {
+        "chi": "**防守40秒传送**"
+    },
+    "**Defend until both sides doors open**": {
+        "chi": "**防守直到两边的门打开**"
+    },
+    "**AFK 40s**": {
+        "chi": "**挂机玩家40秒传送**"
+    },
+    "**AFK 80s**": {
+        "chi": "**挂机玩家80秒传送**"
+    },
+    "**Small ADS can provide speed to zombie**": {
+        "chi": "**小ADS将为僵尸增加移速**"
+    },
+    "**A player has learned an ability from Astrologian **": {
+        "chi": "**一位玩家学会了占星术士之力**"
+    },
+    "**Destory small ADS can also reduce the main ADS hp**": {
+        "chi": "**摧毁小ADS将为ADS减少血量**"
+    },
+    "**Destory ADS in 180s**": {
+        "chi": "**在180秒内摧毁ADS！**"
+    },
+    "**Last defense, keep holding here for 15s!**": {
+        "chi": "**最后的防守，守住这里15秒！**"
+    },
+    "**The road on the right is blocked. We should find another way to go**": {
+        "chi": "**右边的路被堵住了. 我们要另寻他路了**"
+    },
+    "**Look! There is a teleporter**": {
+        "chi": "**看！那里有一个传送器**"
+    },
+    "**Defend**": {
+        "chi": "**防守**"
+    },
+    "**Defend 15s**": {
+        "chi": "**防守15秒**"
+    },
+    "**AFK 5s**": {
+        "chi": "**挂机玩家5秒传送**"
+    },
+    "**Meteir Stream**": {
+        "chi": "**陨石**"
+    },
+    "**Iron Chariot** ": {
+        "chi": "**钢铁战车** "
+    },
+    "**Dalamud Dive**": {
+        "chi": "**杜拉姆俯冲**"
+    },
+    "**Lunar Dynamo** ": {
+        "chi": "**月环** "
+    },
+    "**Defend 25s**": {
+        "chi": "**防守25秒**"
+    },
+    "**Defend 10s**": {
+        "chi": "**防守10秒**"
+    },
+    "**A zombie got some power from Ramuh**": {
+        "chi": "**一个僵尸获得了Ramuh的力量**"
+    },
+    "**Wait until the platform go down**": {
+        "chi": "**等到平台降下**"
+    },
+    "**Defend 20s**": {
+        "chi": "**防守20秒**"
+    },
+    "**A zombie got some power from Garuda**": {
+        "chi": "**一个僵尸获得了Garuda的力量**"
+    },
+    "**A zombie got some power from Titan**": {
+        "chi": "**一个僵尸获得了Titan的力量**"
+    },
+    "**A zombie got some power from Shiva**": {
+        "chi": "**一个僵尸获得了Shiva的力量**"
+    },
+    "**AFK 10s**": {
+        "chi": "**挂机玩家10秒后传送**"
+    },
+    "**Defend 20s for the teleport**": {
+        "chi": "**防守20秒传送**"
+    },
+    "**Wait until the platform go up**": {
+        "chi": "**等到平台上升**"
+    },
+    "**A player has learned an ability from White Mage **": {
+        "chi": "**一位玩家学会了白魔法师之力**"
+    },
+    "**Zombies can climb up from both sides**": {
+        "chi": "**提示：僵尸可以从两边爬上去**"
+    },
+    "**Phoenix is going to wake up in 10 seconds**": {
+        "chi": "**不死鸟僵尸10秒后苏醒**"
+    },
+    "**Revelation** ": {
+        "chi": "**启示** "
+    },
+    "**Shield** ": {
+        "chi": "**护盾** "
+    },
+    "**BrandofPurgatory** ": {
+        "chi": "**炼狱印记** "
+    },
+    "**FlamesofUnforgiveness** ": {
+        "chi": "**不可饶恕之炎** "
+    },
+    "**Fountain of Fire** ": {
+        "chi": "**火焰喷涌** "
+    },
+    "**Gravity** ": {
+        "chi": "**引力** "
+    },
+    "**Collision** ": {
+        "chi": "**俯冲** "
+    },
+    "**Phoenix is going to destroy us with FlamesofRebirth**": {
+        "chi": "**不死鸟将使用重生烈焰摧毁我们**"
+    },
+    "**1**": {
+        "chi": "**1**"
+    },
+    "**2**": {
+        "chi": "**2**"
+    },
+    "**3**": {
+        "chi": "**3**"
+    },
+    "**4**": {
+        "chi": "**4**"
+    },
+    "**5**": {
+        "chi": "**5**"
+    },
+    "**6**": {
+        "chi": "**6**"
+    },
+    "**7**": {
+        "chi": "**7**"
+    },
+    "**8**": {
+        "chi": "**8**"
+    },
+    "**9**": {
+        "chi": "**9**"
+    },
+    "**10**": {
+        "chi": "**10**"
+    },
+    "**Encounter**": {
+        "chi": "**Encounter**"
+    },
+    "**Bahamut**": {
+        "chi": "**Bahamut**"
+    },
+    "**Oh shit it's ADS again, Kill him!**": {
+        "chi": "**又是ADS，摧毁他！**"
+    },
+    "**Phoenix**": {
+        "chi": "**不死鸟**"
+    },
+    "**Bahamut is going to wake up in 10 seconds**": {
+        "chi": "**巴哈姆特将在10秒后苏醒**"
+    },
+    "**Exhale**": {
+        "chi": "**喷涌**"
+    },
+    "**Neurolink**": {
+        "chi": "**拘束器**"
+    },
+    "**NUCLEAR EXPLOSION** ": {
+        "chi": "**核爆打击** "
+    },
+    "**Gravity**": {
+        "chi": "**重力**"
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "** 55 secs until the whole space devasted **": {
+        "chi": "** 55 后毁灭这里 **"
+    },
+    "** Go to the end of the rail! **": {
+        "chi": "前往道路尽头"
+    },
+    "** Timeout... **": {
+        "chi": "** 游戏结束... **"
+    },
+    "** Defend for 15 secs to win! **": {
+        "chi": "** 最后防守15秒! **"
+    },
+    "** Zombie has infected the end! **": {
+        "chi": "** 僵尸毁灭了世界! **"
+    },
+    "**Laser Mode>Tilex<!Survive For 140secs**": {
+        "chi": "**跳刀模式  列车刀 !存活140秒**"
+    },
+    "** Defend for 30secs until the way open **": {
+        "chi": "** 30秒后大门道路开放 **"
+    },
+    "** Go!Go!Go! **": {
+        "chi": "** Go!Go!Go! **"
+    },
+    "** Defend for 25secs until the core rise **": {
+        "chi": "** 核心25秒后上升 **"
+    },
+    "**Mode>Core<!Survive For 140secs**": {
+        "chi": "**游乐园模式 存活140秒**"
+    },
+    "** You have 140 secs before timeout! **": {
+        "chi": "** 剩余140秒! **"
+    },
+    "**8 miniguns! Watch out your teammates!**": {
+        "chi": "**机关枪! 小心炸膛!**"
+    },
+    "**8 Holy grenades!Hallelujah!**": {
+        "chi": "**神圣手雷!哈利路亚!**"
+    },
+    "**8 Earth! Solo !**": {
+        "chi": "**大地元素! Solo !**"
+    },
+    "**8 Dragon Cannon! Where is the axes?**": {
+        "chi": "**黑龙炮?**"
+    },
+    "*8 Wind! Blow the zombies!**": {
+        "chi": "*风神庇护!**"
+    },
+    "**8 Lure! To infinity and beyond!**": {
+        "chi": "**我超，黑洞**"
+    },
+    "**8 White Knights! Let's Rock the World!**": {
+        "chi": "**白骑士准备拯救世界!**"
+    },
+    "**8 Speakers! Better than nothing right?**": {
+        "chi": "**喇叭! 总比没有好?**"
+    },
+    "**8 Heals! Sometimes they are very useful...**": {
+        "chi": "**奶！感谢芭芭拉...**"
+    },
+    "**8 Ices! Wocao, Bing!.**": {
+        "chi": "**卧槽 冰!.**"
+    },
+    "**8 Archers! Unlimited Blade Works!**": {
+        "chi": "**剑士! 迎接无限剑制!**"
+    },
+    "**8 Gandalfs! They shall not pass, forever...**": {
+        "chi": "**甘道夫...**"
+    },
+    "**8 Nyancats! Nyanyanyanyanyanya.**": {
+        "chi": "**彩虹猫! Nyanyanyanyanyanya.**"
+    },
+    "**8 Flamethrowers!Burn Them Out!**": {
+        "chi": "**喷火器，烧尽一切!**"
+    },
+    "**8 Ultima!Yek Yek Yek Yek!**": {
+        "chi": "**终极!跳刀终极,跳刀终极!**"
+    },
+    "**8 Tornados! Claws of Tornarus!**": {
+        "chi": "**龙卷风!小心大飞!**"
+    },
+    "**8 Invisible! Nothing is true, everything is permitted... **": {
+        "chi": "隐身!不要相信眼前的一切"
+    },
+    "**8 Kirito! Too Many Hackers... **": {
+        "chi": "**桐人! ... **"
+    },
+    "**8 Skadi! Let's raise the tide... **": {
+        "chi": "**斯卡蒂... **"
+    },
+    "**8 Builder! Build a wall and make dust great again!**": {
+        "chi": "**建筑物!不要再盖队友了好吗**"
+    },
+    "**8 Bed! Have fun!**": {
+        "chi": "**蹦床! 飞高高!**"
+    },
+    "**8 Singularity Guns! Oh yeah It's ass kick'en time!**": {
+        "chi": "引力炮!小心你的屁股!"
+    },
+    "** Deadcore EX-Faster Laser and Canon!- ***": {
+        "chi": "**EX Deadcore 已激活!- ***"
+    },
+    "** Meteor Mode **": {
+        "chi": "** 天谴模式 **"
+    },
+    "** Low Gravity Mode! **": {
+        "chi": "** 低重力模式! **"
+    },
+    "** Madness Mode **": {
+        "chi": "** 疯狂触发模式 **"
+    },
+    "** Reverse Control! **": {
+        "chi": "** 卧槽！反向控制!!! **"
+    },
+    "** Icy Ground! **": {
+        "chi": "** 滑冰! **"
+    },
+    "** Low Gravity! **": {
+        "chi": "** 低重力! **"
+    },
+    "**Black Screen!Yek Yek Yek Yek! **": {
+        "chi": "**黑屏！黑屏！黑屏! **"
+    },
+    "*A frequent error of Windows will happen! **": {
+        "chi": "* 你的Windows 已出错! **"
+    },
+    "**Meteor's coming! **": {
+        "chi": "天谴来临"
+    },
+    "**HUMAN SPEEDUP!DEJA VU! **": {
+        "chi": "**人类已加速! **"
+    },
+    "**ZOMBIE SPEEDUP!WATCH OUT YOUR ASS! **": {
+        "chi": "**僵尸已加速!小心你的屁股! **"
+    },
+    "** Next Random Effect Comes in 20s **": {
+        "chi": "** 下一个随机效果20秒后触发 **"
+    },
+    "** Builder's ready! **": {
+        "chi": "**建筑物已就绪! **"
+    },
+    "** Jumping Beds! Have some fun! **": {
+        "chi": "** 蹦床!准备起飞 **"
+    },
+    "** Admin Abused to Grant more power to the Guardian! **": {
+        "chi": "** 权男正在进入跳刀里世界! **"
+    },
+    "** 10 Faster Blue Lasers...Oh my god!!! ***": {
+        "chi": "** 艹艹艹 10蓝刀...哪个傻逼调的!!! ***"
+    },
+    "** Admin Cast Magic to Enter the Mako Inner World **": {
+        "chi": "** 权男进入MAKO里世界 **"
+    },
+    "** Winner buff granted! **": {
+        "chi": "** 胜利者将获得加成! **"
+    },
+    "** Zombies have infected the final point... **": {
+        "chi": "** 僵尸已到达终点.. **"
+    },
+    "** Human Failed **": {
+        "chi": "** 人类失败 **"
+    },
+    "** You are the master of ZM Dust! **": {
+        "chi": "** 你们征服了生化沙漠! **"
+    },
+    "**DJ's jukebox has been deactivated**": {
+        "chi": "**DJ盒已被拾取**"
+    },
+    "** Invisible has been picked up **": {
+        "chi": "** 隐身已被拾取 **"
+    },
+    "** Invisible has been cast **": {
+        "chi": "** 隐身已被使用 **"
+    },
+    "** Paving the road Every 15 secs... Go! **": {
+        "chi": "** 每15秒降下平台... Go! **"
+    },
+    "** Watch Out the Laser and Canon! **": {
+        "chi": "** 小心跳刀和激光炮! **"
+    },
+    "** 20 secs left! **": {
+        "chi": "** 剩余20秒! **"
+    },
+    "** 80 secs remaining to reach the end... **": {
+        "chi": "80秒内到达终点"
+    },
+    "**Laser Mode>Deadcore<!Survive For 140secs**": {
+        "chi": "**跳刀模式 死亡核心!存活140秒**"
+    },
+    "** 120 secs remaining for you...**": {
+        "chi": "** 存活120秒...**"
+    },
+    "**Admin Has Set Clone Mode**": {
+        "chi": "**权男开启克隆模式**"
+    },
+    "** Admin Has Set >Troll Mode< **": {
+        "chi": "**权男开启巨魔模式 **"
+    },
+    "** Admin Has Set >Skin Mode< **": {
+        "chi": "** 权男开启皮肤大战 **"
+    },
+    "** Admin Has Set >Excitement Mode< **": {
+        "chi": "** 权男选择激情模式 **"
+    },
+    "** Troll Mode... No one is your teammte now! **": {
+        "chi": "** 巨魔模式... 准备1V63! **"
+    },
+    "** Skin Mode!Ultimate Battle!**": {
+        "chi": "** 皮肤大战!准备对抗!**"
+    },
+    "**Laser Mode>Cosmo<!Survive For 140secs**": {
+        "chi": "**跳刀模式>Cosmo<!存活140秒**"
+    },
+    "**Genesis is ready to kill us all!Defeat him in 45 secs!**": {
+        "chi": "**45内打败杰内西斯!**"
+    },
+    "** Even if the morrow is barren of promise,nothing shall forestall my return **": {
+        "chi": "今天,即是你们的忌日"
+    },
+    "** Retreat to The Airship and Defend for 15 secs!**": {
+        "chi": "飞船15秒后出发"
+    },
+    "** Zombies have infected the ship core... **": {
+        "chi": "** 僵尸破坏了飞船核心... **"
+    },
+    "** You are the master of ZM dust... **": {
+        "chi": "** 你们征服了生化沙漠... **"
+    },
+    "** Human Failed... **": {
+        "chi": "人类失败"
+    },
+    "** Ultima Magic Ready to Be Cast! **": {
+        "chi": "** 终极已就绪! **"
+    },
+    "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+        "chi": "** .. 地狱与暗影中诞生的生物已出现 ... **"
+    },
+    "** Zombie has infected the platform **": {
+        "chi": "** 僵尸入侵了平台 **"
+    },
+    ">Normal ZM Mode!< Survive for 222 secs!": {
+        "chi": ">僵尸感染模式!< 生存222秒!"
+    },
+    "**Laser Mode>Westersand<!Survive For 140secs**": {
+        "chi": "**跳刀模式>Westersand<!存活140秒**"
+    },
+    "**Chaos is casting >>Bowels of Agony<<We must defeat it in 45s!**": {
+        "chi": "*轮回王将在45秒后释放深层恐惧!**"
+    },
+    "** Chaos has been defeated!!! Fall Back!!!**": {
+        "chi": "** 轮回王已被击败!前往最后的平台!!!**"
+    },
+    "** Fall Back Onto the Platform!The Guardian'll release Death Wall in 12secs!**": {
+        "chi": "死墙将在12秒后移动"
+    },
+    "** SCARY TREX IS CHASING AFTER YOU **": {
+        "chi": "僵尸恐龙已被拾取"
+    },
+    "** YOU ARE THE MASTER OF THE ZOMBIE DUST!!!**": {
+        "chi": "** 你们征服了生化沙漠!!!**"
+    },
+    "**Zombies have infected the bunker!!!**": {
+        "chi": "僵尸已进入地堡"
+    },
+    "**Laser Mode>Sephiroth<!Survive For 140secs**": {
+        "chi": "**跳刀模式>萨菲罗斯<!存活140秒**"
+    },
+    "**45secs remaining!Defeat Sephiroth!**": {
+        "chi": "**击败萨菲罗斯!**"
+    },
+    "** 8 Suicide Bomber! Allah Akbar! **": {
+        "chi": "** 自爆! BOOM! **"
+    },
+    "** 8 Vortigaunt! They're not friendly! **": {
+        "chi": "弗地冈！小心被抓走"
+    },
+    "** 8 Pyramid Head! Let's make this desert a true silent hill!**": {
+        "chi": "三角头!这里将真正寂静"
+    },
+    "** 8 Balrog! Oh my god...**": {
+        "chi": "** 炎魔! 我的天哪...**"
+    },
+    "** 8 Explosive TNT! Dodge This! **": {
+        "chi": "** TNT! BOOM **"
+    },
+    "** 8 Laddermaker! Your defense positions may be dangerous...**": {
+        "chi": "** 梯子...**"
+    },
+    "** 8 Scary TRex!Welcome to Jurassic Park...!**": {
+        "chi": "** 恐龙 欢迎来到侏罗纪...!**"
+    },
+    "** 8 Truck Maker! They're coming to kill your mother...!**": {
+        "chi": "** 卡车! 皮卡车来杀马了...!**"
+    },
+    "** 8 Sephiroth!Only the hacker may survive... **": {
+        "chi": "**萨菲罗斯... **"
+    },
+    "** 8 Fogzombie!Advise to delete ffvii_cosmo now... **": {
+        "chi": "** 僵尸 污浊... **"
+    },
+    ">Choosing Human Item...<": {
+        "chi": ">正在选择人类神器...<"
+    },
+    ">And then Zombie Item...<": {
+        "chi": ">正在选择僵尸神器...<"
+    },
+    ">All Items Mode!<": {
+        "chi": ">全神器模式!<"
+    },
+    ">Clone Mode!<": {
+        "chi": ">克隆模式!<"
+    },
+    ">Troll Mode!<": {
+        "chi": ">巨魔模式!<"
+    },
+    ">Skin Mode!<": {
+        "chi": ">皮肤大战!<"
+    },
+    ">Excitement Mode!<": {
+        "chi": ">激情模式!<"
+    },
+    "encourage ready": {
+        "chi": "激励已就绪"
+    },
+    "**Pyramid Head is looking for you ... **": {
+        "chi": "**三角头正在寻找你 ... **"
+    },
+    "** A PLAYER HAS PICKED UP THE ICE MATERIAL  **": {
+        "chi": "** 卧槽 冰  **"
+    },
+    "** A PLAYER HAS PICKED UP THE HEAL MATERIAL  **": {
+        "chi": "**芭芭拉-闪亮登场  **"
+    },
+    "** DJ's Jukebox has been picked up! **": {
+        "chi": "DJ DJ DJ"
+    },
+    "** Vortigaunt's coming for you... **": {
+        "chi": "弗地刚正在寻找你"
+    },
+    "* THE WHITE KNIGHT IS READY ROCK THE WORLD**": {
+        "chi": "* 白骑士准备拯救世界**"
+    },
+    "**Map by >Rainsfield.SK**": {
+        "chi": "**作者Rainsfield.SK 汉化 萌爱**"
+    },
+    "**Special Thanks to UUZ/WackoD for help!**": {
+        "chi": "**特别感谢 UUZ/WackoD 的协助!**"
+    },
+    "**Thanks to ZED/EXG!**": {
+        "chi": "**感谢 ZED/EXG 社区!**"
+    }
+}

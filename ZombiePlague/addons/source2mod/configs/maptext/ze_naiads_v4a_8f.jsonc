@@ -1,0 +1,35 @@
+{
+    "***wait for 10 sec***": {
+        "chi": "***等待10秒***"
+    },
+    "***wait for 40 sec***": {
+        "chi": "***等待40秒***"
+    },
+    "***wait for 20 sec***": {
+        "chi": "***等待20秒***"
+    },
+    "***wait for 25 sec***": {
+        "chi": "***等待25秒***"
+    },
+    "***wait for 30 sec***": {
+        "chi": "***等待30秒***"
+    },
+    "***zombie teleport  25 sec***": {
+        "chi": "***僵尸25秒后传送***"
+    },
+    "***wait for 50 sec***": {
+        "chi": "***等待50秒***"
+    },
+    "***stay with Naiads***": {
+        "chi": "***stay with Naiads***"
+    },
+    "***zombie teleport 15 sec***": {
+        "chi": "***僵尸传送15秒***"
+    },
+    "Naiads:Undine please help me": {
+        "chi": "Naiads:Undine please help me"
+    },
+    "music:End of Dream": {
+        "chi": "music:End of Dream"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "*** 40 SECONDS LEFT ***": {
+        "chi": "剩余40秒"
+    },
+    "*** 30 SECONDS LEFT ***": {
+        "chi": "剩余30秒"
+    },
+    "*** 20 SECONDS LEFT ***": {
+        "chi": "剩余20秒"
+    },
+    "*** 10 SECONDS LEFT ***": {
+        "chi": "剩余10秒"
+    },
+    "*** 50 SECONDS LEFT ***": {
+        "chi": "剩余50秒"
+    },
+    "??": {
+        "chi": "？？"
+    },
+    "!!": {
+        "chi": "！！"
+    },
+    "*** HOLD 30 SECONDS ***": {
+        "chi": "防守30秒"
+    },
+    "*** HOLD 20 SECONDS ***": {
+        "chi": "防守20秒"
+    },
+    "*** HOLD 40 SECONDS ***": {
+        "chi": "防守40秒"
+    }
+}

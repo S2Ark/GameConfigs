@@ -1,0 +1,56 @@
+{
+    "*** Map created by dAllas ***": {
+        "chi": "*** 地图作者：dAllas Nightmares翻译 如有问题请联系top游廊管理团队***"
+    },
+    "*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***": {
+        "chi": "*** 提示和帮助：Kim [pF]和Mikey-Muse  ***"
+    },
+    "*** The backend door will open in 30 seconds ***": {
+        "chi": "*** 后面的门在30秒后打开 ***"
+    },
+    "*** Elevator is activated ***": {
+        "chi": "*** 电梯被激活 ***"
+    },
+    "*** Elevator doors opens in 30 sec ***": {
+        "chi": "*** 电梯门在30秒后打开 ***"
+    },
+    "*** Elevator doors closes in 15 seconds ***": {
+        "chi": "*** 电梯门在15秒后打开 ***"
+    },
+    "*** Stair grid is now accessible ***": {
+        "chi": "***楼梯已开放 ***"
+    },
+    "*** The blast door will close after 30 seconds ***": {
+        "chi": "*** 防爆门30秒后关闭 ***"
+    },
+    "*** The fence will break when the door is fully closed! ***": {
+        "chi": "*** 栅栏将在门彻底关闭时破碎 ***"
+    },
+    "*** The TNT will blow in 40 seconds ***": {
+        "chi": "*** TNT40秒后爆炸 ***"
+    },
+    "*** 3 ***": {
+        "chi": "*** 3 ***"
+    },
+    "*** 2 ***": {
+        "chi": "*** 2 ***"
+    },
+    "*** 1 ***": {
+        "chi": "*** 1 ***"
+    },
+    "*** BOOM ***": {
+        "chi": "*** 爆炸 ***"
+    },
+    "*** GO GO GO ***": {
+        "chi": "*** 走 走 走 ***"
+    },
+    "*** Last elevator is leaving in 15 seconds ***": {
+        "chi": "*** 最后的电梯将在15秒后离开 ***"
+    },
+    "*** Ladder grid will break in 10 seconds ***": {
+        "chi": "*** 楼梯将在10秒后破碎 ***"
+    },
+    "*** The Train will leave in 30 seconds ***": {
+        "chi": "*** 火车将在30秒后离开***"
+    }
+}

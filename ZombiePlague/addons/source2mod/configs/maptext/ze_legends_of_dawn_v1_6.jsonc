@@ -1,0 +1,29 @@
+{
+    "**Enter the lost land in 20 seconds**": {
+        "chi": "**20秒后进入失落之地**"
+    },
+    "zombieTP **20**": {
+        "chi": "僵尸会在20秒后传送"
+    },
+    "We need to defend for 20 seconds": {
+        "chi": "我们需要防守20秒去化解屏障"
+    },
+    "zombieTP **30**": {
+        "chi": "僵尸会在30秒后传送"
+    },
+    "The castle gate will open in 25 seconds": {
+        "chi": "城堡大门将在25秒后开启,坚持住"
+    },
+    "**The final gate opens in 25 seconds**": {
+        "chi": "**最后一扇门将在25秒后开启,守住我们就能进入里面了**"
+    },
+    "Underpass switch activated": {
+        "chi": "地下通道的开关已被拉下"
+    },
+    "zombieTP **5**": {
+        "chi": "僵尸会在5秒后传送"
+    },
+    "Zombie low HP after 10 seconds!!!": {
+        "chi": "该死的僵尸10秒后他们就要GG啦,低血量剿匪咯!"
+    }
+}

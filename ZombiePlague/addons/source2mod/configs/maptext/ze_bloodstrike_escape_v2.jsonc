@@ -1,0 +1,167 @@
+{
+    "**zombies will teleport in 5 seconds**": {
+        "chi": "**僵尸将在5秒内传送**"
+    },
+    "**kill them!!!**": {
+        "chi": "**杀了他们!!!**"
+    },
+    "**you finished the map**": {
+        "chi": "**你完成了地图**"
+    },
+    "**choose stage 1**": {
+        "chi": "**选择第一阶段**"
+    },
+    "**choose stage 2**": {
+        "chi": "**选择第二阶段**"
+    },
+    "**choose ZM**": {
+        "chi": "**选择僵尸感染模式**"
+    },
+    "**Hide for 240 seconds,then you can kill zombies**": {
+        "chi": "**躲避240秒，然后你可以杀死僵尸**"
+    },
+    "地图制作 : genL": {
+        "chi": "地图制作 : genL"
+    },
+    "特别感谢 : 酸奶": {
+        "chi": "特别感谢 : 酸奶"
+    },
+    "**地图制作 : genL**": {
+        "chi": "**地图制作 : genL**"
+    },
+    "**特别感谢 : 酸奶 **": {
+        "chi": "**特别感谢 : 酸奶 **"
+    },
+    "**Item_Ice use**": {
+        "chi": "**使用Item_Ice**"
+    },
+    "**player pick up Item_ice**": {
+        "chi": "**玩家拿起Item_ice**"
+    },
+    "**CD 40seconds**": {
+        "chi": "**CD 40秒**"
+    },
+    "**boat move in 15 seconds**": {
+        "chi": "** 船在15秒内发动 **"
+    },
+    "**The platform will stretch after 20 seconds**": {
+        "chi": "**平台将在20秒后伸展**"
+    },
+    "**boat door open in 30 seconds**": {
+        "chi": "**舱门在30秒内打开**"
+    },
+    "**defend here**": {
+        "chi": "**在这里防守**"
+    },
+    "**wood and glass break in 8 seconds**": {
+        "chi": "**木头和玻璃在8秒内破碎**"
+    },
+    "**we need time to remove the shelves**": {
+        "chi": "**我们需要时间把架子搬走**"
+    },
+    "**defend here for 30 seconds**": {
+        "chi": "**在这里防守30秒**"
+    },
+    "**stair is blocked,we can use elevator**": {
+        "chi": "**楼梯堵住了，我们可以用电梯**"
+    },
+    "**elevator open in 20seconds**": {
+        "chi": "**电梯20秒后开门**"
+    },
+    "**elevator move in 10 seconds**": {
+        "chi": "**电梯在10秒内发动**"
+    },
+    "**defend here,we need time to put ladder**": {
+        "chi": "**在这里防守，我们需要时间把梯子放下**"
+    },
+    "**ladder are mounted in 40seconds**": {
+        "chi": "**梯子安装需要40秒的时间**"
+    },
+    "**use phone in the meetingroom to call temporary open the door**": {
+        "chi": "**在会议室打电话临时开门**"
+    },
+    "**we need to go to the controlroom to restart the electricity**": {
+        "chi": "**我们需要去控制室重新通电**"
+    },
+    "**obstructions are removed in 30 seconds**": {
+        "chi": "**障碍物在30秒内清除**"
+    },
+    "**The toile door is blocked , we need time to clear it**": {
+        "chi": "**厕所的门被堵住了，我们需要时间把它清理干净**"
+    },
+    "**glass door will open in 40seconds": {
+        "chi": "**玻璃门将在40秒内打开"
+    },
+    "**when the electricity restart,go to the meetingroom**": {
+        "chi": "**重新通电后，去会议室**"
+    },
+    "**use phone on the table to call temporary to open the door": {
+        "chi": "**用桌上的电话打临时电话开门"
+    },
+    "**door open in 40 seconds**": {
+        "chi": "**40秒后开门**"
+    },
+    "**stage 1 finish**": {
+        "chi": "**第一阶段完成**"
+    },
+    "**stage 2 finish**": {
+        "chi": "**第二阶段完成**"
+    },
+    "**to use computer make the ladder useful**": {
+        "chi": "**使用计算机开启梯子**"
+    },
+    "the last glass car will go after 10 seconds": {
+        "chi": "最后一辆玻璃车将在10秒后开走"
+    },
+    "the last door will open after 30 seconds": {
+        "chi": "最后一扇门将在30秒后打开"
+    },
+    "you can climb the ladder after 40 seconds": {
+        "chi": "你可以在40秒后爬上梯子"
+    },
+    "the elevator will down after 30 seconds": {
+        "chi": "电梯将在30秒后下降"
+    },
+    "the elevator will up after 10 seconds": {
+        "chi": "电梯将在10秒钟后升起"
+    },
+    "the wire will break after 40 seconds": {
+        "chi": "电线将在40秒后断开"
+    },
+    "go~go~go!!!": {
+        "chi": "go~go~go!!!"
+    },
+    "the wire will break after 30 seconds": {
+        "chi": "30秒后电线会断开"
+    },
+    "the lift will move after 15 seconds": {
+        "chi": "电梯将在15秒后移动"
+    },
+    "the door will open after 30 seconds": {
+        "chi": "30秒后大门将打开"
+    },
+    "the door will open after 40 seconds": {
+        "chi": "40秒后门将打开"
+    },
+    "**stage 1**": {
+        "chi": "**第一阶段**"
+    },
+    "**stage 2**": {
+        "chi": "**第二阶段**"
+    },
+    "**system error**": {
+        "chi": "**系统错误**"
+    },
+    "**ZM:Hide On Bush**": {
+        "chi": "**ZM：躲在灌木丛上**"
+    },
+    "**Player pick up Item_Wind**": {
+        "chi": "**Player pick up Item_Wind**"
+    },
+    "**CD 60 seconds**": {
+        "chi": "**CD 60 seconds**"
+    },
+    "**Item_Wind use**": {
+        "chi": "**Item_Wind use**"
+    }
+}

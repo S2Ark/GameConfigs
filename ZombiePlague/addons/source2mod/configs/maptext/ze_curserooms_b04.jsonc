@@ -1,0 +1,29 @@
+{
+    "*** Hold 30 seconds ***": {
+        "chi": "*** HOLD 30 SECONDS ***"
+    },
+    "*** HOLD 40 SECONDS ***": {
+        "chi": "*** HOLD 40 SECONDS ***"
+    },
+    "*** Hold 20 seconds ***": {
+        "chi": "*** HOLD 20 SECONDS ***"
+    },
+    "*** 40 SECONDS LEFT ***": {
+        "chi": "*** 40 SECONDS LEFT ***"
+    },
+    "*** 30 SECONDS LEFT ***": {
+        "chi": "*** 30 SECONDS LEFT ***"
+    },
+    "*** 20 SECONDS LEFT ***": {
+        "chi": "*** 20 SECONDS LEFT ***"
+    },
+    "*** 10 SECONDS LEFT ***": {
+        "chi": "*** 10 SECONDS LEFT ***"
+    },
+    "??": {
+        "chi": "??"
+    },
+    "!!": {
+        "chi": "!!"
+    }
+}

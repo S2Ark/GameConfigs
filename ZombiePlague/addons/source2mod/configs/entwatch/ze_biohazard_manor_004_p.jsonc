@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Flamethrower",
+        "shortname": "Flamethrower",
+        "hammerid": "974",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "orange",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "978"
+            },
+            {
+                "type": "counterdown",
+                "hammerid": "983",
+                "mode": 5,
+                "ui": true
+            }
+        ]
+    }
+]

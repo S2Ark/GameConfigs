@@ -1,0 +1,14 @@
+{
+    ">> The door opens 30 s <<": {
+        "chi": ">> 大门30秒后打开<<"
+    },
+    ">> The door opens 10 s <<": {
+        "chi": ">> 大门10秒后打开 <<"
+    },
+    ">> The door opens 40 s <<": {
+        "chi": ">> 大门40秒后打开 <<"
+    },
+    ">> The door closes 15 s <<": {
+        "chi": ">> 大门15秒后关闭<<"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "-<defend 35 seconds>-": {
+        "chi": "-<防守35秒>-"
+    },
+    "-<All surfer teleport in 30 seconds>-": {
+        "chi": "-<落后30秒后传送>-"
+    },
+    "-<no push the zombies. take your time>-": {
+        "chi": "-<僵尸没有推力，慢慢来>-"
+    },
+    "-<defend 70 seconds>-": {
+        "chi": "-<防守70秒>-"
+    },
+    "-<berak random bridge in 10 seconds>-": {
+        "chi": "-<桥10秒后崩碎>-"
+    },
+    "-<defend 30 seconds>-": {
+        "chi": "-<防守30秒>-"
+    },
+    "-<defend 10 more seconds>-": {
+        "chi": "-<防守10秒>-"
+    },
+    "-<door open>-": {
+        "chi": "-<大门开启>-"
+    },
+    "-<door close in 10 seconds>-": {
+        "chi": "-<大门10秒后关闭>-"
+    },
+    "-<zombie surf has open>-": {
+        "chi": "-<僵尸准备滑翔>-"
+    },
+    "-<zombie tp 15 seconds>-": {
+        "chi": "-<僵尸15秒后传送>-"
+    },
+    "-<defend 40 seconds>-": {
+        "chi": "-<防守40秒>-"
+    },
+    "-<zombie tp 30 seconds>-": {
+        "chi": "-<僵尸30秒后传送>-"
+    },
+    "-<zombie tp activate soon>-": {
+        "chi": "-<僵尸传送很快就会激活>-"
+    },
+    "-<40 seconds>-": {
+        "chi": "-<剩余40秒 >-"
+    },
+    "-<zombie tp activated>-": {
+        "chi": "-<僵尸传送已启动>-"
+    },
+    "-<survive 80 seconds>-": {
+        "chi": "-<生存80 秒>-"
+    },
+    "-<10 seconds>-": {
+        "chi": "-<剩余10秒>-"
+    },
+    "-<zombie tp 25 seconds>-": {
+        "chi": "-<僵尸25秒后传送>-"
+    },
+    "-<zombies release in 20 seconds>-": {
+        "chi": "-<僵尸20秒后释放>-"
+    },
+    "-<zombies release in 10 seconds>-": {
+        "chi": "-<僵尸10秒后释放>-"
+    },
+    "-<survive 30 seconds>-": {
+        "chi": "-<生存30秒>-"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "<  player has picked up the Heal Materia >": {
+        "chi": "<  玩家拾取奶  >"
+    },
+    "< Arcana summon monster to help >": {
+        "chi": "奥秘：召唤圣兽"
+    },
+    "< [Arcana] You will meet your destiny! >": {
+        "chi": "<[Arcana]你会满足你的命运！>"
+    },
+    "< [Arcana] soon >": {
+        "chi": "< [Arcana] 等等 >"
+    },
+    "< [Arcana] This is not the end, we will meet again >": {
+        "chi": "<[Arcana]这还没结束，我们还会再见面>"
+    },
+    "< survive in the base 45 seconds to arrival of army >": {
+        "chi": "<在军队到达前在基地生存45秒>"
+    },
+    "< What's going on? I got a message from the base, they survived! >": {
+        "chi": "发生了什么？我从基地收到消息，他们活下来了！"
+    },
+    "< Defend this platform, give us time, we have to come up with something! >": {
+        "chi": "守住这个平台，给我们时间，我们必须想出办法！"
+    },
+    "< Get to the teleport, we are save! >": {
+        "chi": "<去传送站，我们得救了！>"
+    },
+    "< Be careful, we don't know what she's capable of!>": {
+        "chi": "小心，我们不知道她有什么能力！"
+    },
+    "< To defeat Arcana destroy the three panels under her room! >": {
+        "chi": "<为了打败阿卡娜，摧毁她房间下面的三块板！>"
+    },
+    "< [Arcana] Prepare to die! >": {
+        "chi": "<[Arcana]准备受死！>"
+    },
+    "< [Arcana] And I won't let you do it >": {
+        "chi": "[Arcana]我不会让你这么做的"
+    },
+    "< [Arcana] Welcome on my ship, I know why you came here! >": {
+        "chi": "<[Arcana]欢迎来到我的地盘，我知道你为什么来这里！>"
+    },
+    "< [Arcana] No! the engine stopped working >": {
+        "chi": "< [Arcana] 哦不！发动机停止工作了 >"
+    },
+    "< [Arcana] Everything will blow up because of you >": {
+        "chi": "<[Arcana]一切都会因你而起>"
+    },
+    "< [Arcana] You'll pay me for it! >": {
+        "chi": "<[Arcana]你会后悔的！>"
+    },
+    "< It is, Metal Bastion has been found >": {
+        "chi": "是的，这是金属堡垒"
+    },
+    "< The Gate will open in 20 seconds >": {
+        "chi": "大门20秒后打开"
+    },
+    "< The Gate will open in 30 seconds >": {
+        "chi": "大门30秒后打开"
+    },
+    "< The Gate will open in 25 seconds >": {
+        "chi": "大门25秒后打开"
+    },
+    "< A player has picked up TATICAL NUKE >": {
+        "chi": "一位玩家拾取核弹"
+    },
+    "< Teleport to spaceship will enable in 15 seconds >": {
+        "chi": "传送飞船15秒后开启"
+    },
+    "< Chapter I - Last Metal Bastion >": {
+        "chi": "< 第一关 - 最后的城堡 >"
+    },
+    "< Chapter II - Rendezvous >": {
+        "chi": "< 第二关 - 汇合 >"
+    },
+    "< Chapter III - Reconciliation >": {
+        "chi": "< 第三关 - 和解 >"
+    },
+    "< Complete two first surfs or wait 2 min >": {
+        "chi": "<完成两次滑翔或等待2分钟>"
+    },
+    "**Map by Ma/l/go**": {
+        "chi": "**作者 Ma/l/go 汉化 萌爱**"
+    },
+    "**ze surf galaxy zena**": {
+        "chi": "银河滑翔"
+    },
+    "**Models made by Nitro and Struppi* *": {
+        "chi": "**感谢Nitro和Struppi的模型**"
+    },
+    "< Find the last metal bastion and take it over >": {
+        "chi": "找到最后一个城堡并接管它"
+    },
+    "< There is no place for mistake here, you have to do this!  >": {
+        "chi": "<这里没有犯错的地方，你必须这样做！>"
+    },
+    "< Earth is over, we must go to orbit! >": {
+        "chi": "地面正在消失，我们必须进入轨道"
+    },
+    "< The Gate will open in 15 seconds >": {
+        "chi": "大门15秒后打开"
+    },
+    "< The teleport will be opened for 20 seconds >": {
+        "chi": "传送20秒后开启"
+    },
+    "< Survive for 40 seconds >": {
+        "chi": "存活40秒"
+    },
+    "< 20 seconds remaining >": {
+        "chi": "剩余20秒"
+    },
+    "< 10 seconds remaining >": {
+        "chi": "剩余10秒"
+    },
+    "< 5 seconds remaining >": {
+        "chi": "剩余5秒"
+    },
+    "< 15 seconds remaining >": {
+        "chi": "剩余15秒"
+    },
+    "< 30 seconds remaining >": {
+        "chi": "剩余30秒"
+    },
+    "< Survive for 45 seconds >": {
+        "chi": "存活45秒"
+    }
+}

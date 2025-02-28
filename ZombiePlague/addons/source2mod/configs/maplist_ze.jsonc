@@ -1,0 +1,1789 @@
+{
+    "maplist": [
+        {
+            "mapname": "ze_aztecnoob_p",
+            "displayname": "阿兹坎特遗迹",
+            "workshopid": 3070231528
+        },
+        {
+            "mapname": "ze_boatescape101_p",
+            "displayname": "坐船跑101",
+            "workshopid": 3070281654
+        },
+        {
+            "mapname": "ze_fast_escape_p",
+            "displayname": "快跑！",
+            "workshopid": 3070332866
+        },
+        {
+            "mapname": "ze_abandoned_industry_p",
+            "displayname": "废弃工厂",
+            "workshopid": 3071209915
+        },
+        {
+            "mapname": "ze_bp-infested-prison_p",
+            "displayname": "越狱危机",
+            "workshopid": 3071453239
+        },
+        {
+            "mapname": "ze_por_island_p",
+            "displayname": "POR刷分岛",
+            "workshopid": 3071483803
+        },
+        {
+            "mapname": "ze_hazard_escape_p",
+            "displayname": "危机逃亡",
+            "workshopid": 3072150479
+        },
+        {
+            "mapname": "ze_arctic_escape_p",
+            "displayname": "北地逃亡",
+            "workshopid": 3072610663
+        },
+        {
+            "mapname": "ze_licciana_escape_p",
+            "displayname": "里西西亚那",
+            "workshopid": 3072646272
+        },
+        {
+            "mapname": "ze_hidden_fortress_p",
+            "displayname": "隐藏的堡垒",
+            "workshopid": 3072712278
+        },
+        {
+            "mapname": "ze_dangerous_waters_p",
+            "displayname": "危险水域",
+            "workshopid": 3073379342
+        },
+        {
+            "mapname": "ze_defense3002_p",
+            "displayname": "防御战3002",
+            "workshopid": 3073553926
+        },
+        {
+            "mapname": "ze_chicken_lords_tower_p",
+            "displayname": "小鸡城堡",
+            "workshopid": 3073653424
+        },
+        {
+            "mapname": "ze_thousand_steps_p",
+            "displayname": "千阶之战",
+            "workshopid": 3074987016
+        },
+        {
+            "mapname": "ze_pools_p",
+            "displayname": "Level130-荒谬游泳馆",
+            "workshopid": 3075014275
+        },
+        {
+            "mapname": "ze_omega_p",
+            "displayname": "欧米伽计划",
+            "workshopid": 3075635324
+        },
+        {
+            "mapname": "ze_colorlicouspilar_p",
+            "displayname": "色彩世界",
+            "workshopid": 3075687337
+        },
+        {
+            "mapname": "ze_raccoon_facility_p",
+            "displayname": "生化危机：蜂巢",
+            "workshopid": 3075694806
+        },
+        {
+            "mapname": "ze_sorrento_escape_p",
+            "displayname": "索伦托",
+            "workshopid": 3075789914
+        },
+        {
+            "mapname": "ze_rooftop_runaway1_p",
+            "displayname": "屋顶逃亡1",
+            "workshopid": 3075946829
+        },
+        {
+            "mapname": "ze_rooftop_runaway2_p",
+            "displayname": "屋顶逃亡2",
+            "workshopid": 3075967570
+        },
+        {
+            "mapname": "ze_icecap_escape_p",
+            "displayname": "西瓜橘子",
+            "workshopid": 3075976468
+        },
+        {
+            "mapname": "ze_ocean_base_escape_p",
+            "displayname": "海洋基地",
+            "workshopid": 3076043478
+        },
+        {
+            "mapname": "ze_hypernova_p",
+            "displayname": "超新星",
+            "workshopid": 3076127575
+        },
+        {
+            "mapname": "ze_atix_panic_p",
+            "displayname": "守点防御系列：恐慌",
+            "workshopid": 3076578445
+        },
+        {
+            "mapname": "ze_haunted_lab_escape_p",
+            "displayname": "闹鬼实验室",
+            "workshopid": 3076662784
+        },
+        {
+            "mapname": "ze_mario_tower_p",
+            "displayname": "马里奥高塔",
+            "workshopid": 3077381254
+        },
+        {
+            "mapname": "ze_kaffe_escape_p",
+            "displayname": "咖啡逃亡",
+            "workshopid": 3077639523
+        },
+        {
+            "mapname": "ze_puta_p",
+            "displayname": "工厂逃亡",
+            "workshopid": 3078006878
+        },
+        {
+            "mapname": "ze_iamlegend_p",
+            "displayname": "我是传奇",
+            "workshopid": 3079562247
+        },
+        {
+            "mapname": "ze_breakable_p",
+            "displayname": "拆迁队",
+            "workshopid": 3080846697
+        },
+        {
+            "mapname": "ze_surf_gypt_p",
+            "displayname": "埃及滑翔",
+            "workshopid": 3082188705
+        },
+        {
+            "mapname": "ze_voodoo_islands_p",
+            "displayname": "巫毒岛",
+            "workshopid": 3083304405
+        },
+        {
+            "mapname": "ze_jurassicpark_p",
+            "displayname": "侏罗纪公园",
+            "workshopid": 3083543662
+        },
+        {
+            "mapname": "ze_deepice_p",
+            "displayname": "深冰",
+            "workshopid": 3083573930
+        },
+        {
+            "mapname": "ze_blackmesa_escape_p",
+            "displayname": "逃离黑山基地",
+            "workshopid": 3083632383
+        },
+        {
+            "mapname": "ze_namviet_p",
+            "displayname": "踩雷王",
+            "workshopid": 3084216893
+        },
+        {
+            "mapname": "ze_potc_p",
+            "displayname": "小加勒比",
+            "workshopid": 3084219587
+        },
+        {
+            "mapname": "ze_artika_base_p",
+            "displayname": "阿提卡基地",
+            "workshopid": 3084697233
+        },
+        {
+            "mapname": "ze_exchange_innovation_p",
+            "displayname": "逃离生化大楼",
+            "workshopid": 3084785318
+        },
+        {
+            "mapname": "ze_greece_escape_p",
+            "displayname": "希腊逃亡",
+            "workshopid": 3087521295
+        },
+        {
+            "mapname": "ze_atix_apocalypse_p",
+            "displayname": "守点防御系列：末日",
+            "workshopid": 3087543130
+        },
+        {
+            "mapname": "ze_interception_p",
+            "displayname": "拦截行动",
+            "workshopid": 3089070637
+        },
+        {
+            "mapname": "ze_zombierig_p",
+            "displayname": "僵尸钻井",
+            "workshopid": 3090094325
+        },
+        {
+            "mapname": "ze_magala_castle_p",
+            "displayname": "马格拉城堡",
+            "workshopid": 3090180606
+        },
+        {
+            "mapname": "ze_hold_em_p",
+            "displayname": "鬼脸长廊",
+            "workshopid": 3090239773
+        },
+        {
+            "mapname": "ze_mars_escape_p",
+            "displayname": "火星逃亡",
+            "workshopid": 3091057104
+        },
+        {
+            "mapname": "ze_chronus_p",
+            "displayname": "柯罗诺斯",
+            "workshopid": 3091942084
+        },
+        {
+            "mapname": "ze_minecraft_journey_v1",
+            "displayname": "我的世界：旅途",
+            "workshopid": 3093037356
+        },
+        {
+            "mapname": "ze_surf_danger_p",
+            "displayname": "危险滑翔",
+            "workshopid": 3093361377
+        },
+        {
+            "mapname": "ze_totemo_roka_p",
+            "displayname": "神秘海域",
+            "workshopid": 3096674083
+        },
+        {
+            "mapname": "ze_traak_p",
+            "displayname": "逃命游轮",
+            "workshopid": 3097124262
+        },
+        {
+            "mapname": "ze_luigismansion_p",
+            "displayname": "路易基鬼屋",
+            "workshopid": 3098731139
+        },
+        {
+            "mapname": "ze_strange_escape_p",
+            "displayname": "奇异逃亡",
+            "workshopid": 3098739829
+        },
+        {
+            "mapname": "ze_colors_p",
+            "displayname": "多彩逃亡",
+            "workshopid": 3099208354
+        },
+        {
+            "mapname": "ze_pokemon_kanto_v1",
+            "displayname": "宝可梦：关都",
+            "workshopid": 3100100976
+        },
+        {
+            "mapname": "ze_tkara_p",
+            "displayname": "塔卡拉地下基地",
+            "workshopid": 3101065234
+        },
+        {
+            "mapname": "ze_descent_into_cerberon_p",
+            "displayname": "地狱突袭",
+            "workshopid": 3101174331
+        },
+        {
+            "mapname": "ze_noir_p",
+            "displayname": "黑色街道",
+            "workshopid": 3101279523
+        },
+        {
+            "mapname": "ze_surf_vortex_p",
+            "displayname": "漩涡滑翔",
+            "workshopid": 3105755546
+        },
+        {
+            "mapname": "ze_tilex_escape_p",
+            "displayname": "跳刀列车",
+            "workshopid": 3109957993
+        },
+        {
+            "mapname": "ze_oneiros_p",
+            "displayname": "奥内罗斯神殿",
+            "workshopid": 3111583269
+        },
+        {
+            "mapname": "ze_zk_mall_of_zombies_p",
+            "displayname": "购物中心",
+            "workshopid": 3111585991
+        },
+        {
+            "mapname": "ze_anzalone_remake",
+            "displayname": "安扎隆大桥",
+            "workshopid": 3113561170
+        },
+        {
+            "mapname": "ze_frostdrake_tower_p",
+            "displayname": "冰龙高塔",
+            "workshopid": 3120465300
+        },
+        {
+            "mapname": "ze_starwars_v2fix",
+            "displayname": "星球大战",
+            "workshopid": 3123260164
+        },
+        {
+            "mapname": "ze_surf_saltfish",
+            "displayname": "咸鱼滑翔",
+            "workshopid": 3124799228
+        },
+        {
+            "mapname": "ze_journey_p",
+            "displayname": "黑魂：旅途",
+            "workshopid": 3125207714
+        },
+        {
+            "mapname": "ze_purification_a1",
+            "displayname": "净化",
+            "workshopid": 3128279930
+        },
+        {
+            "mapname": "ze_otakuroom_pt",
+            "displayname": "死宅房",
+            "workshopid": 3128321209
+        },
+        {
+            "mapname": "ze_lotr_isengard",
+            "displayname": "魔戒2：艾辛格",
+            "workshopid": 3133242053
+        },
+        {
+            "mapname": "ze_box_defend_v1_4",
+            "displayname": "箱子防守",
+            "workshopid": 3133817890
+        },
+        {
+            "mapname": "ze_random_p",
+            "displayname": "随机小游戏",
+            "workshopid": 3134108142
+        },
+        {
+            "mapname": "ze_requiem_test",
+            "displayname": "安魂曲",
+            "workshopid": 3134550710
+        },
+        {
+            "mapname": "ze_elevator_escape_p",
+            "displayname": "电梯：逃出升天",
+            "workshopid": 3135918205
+        },
+        {
+            "mapname": "ze_chronicle_a",
+            "displayname": "超能失控",
+            "workshopid": 3136049641
+        },
+        {
+            "mapname": "ze_townscapes",
+            "displayname": "小镇逃亡",
+            "workshopid": 3138193816
+        },
+        {
+            "mapname": "ze_mabinogi_f4_1_cs2",
+            "displayname": "洛奇",
+            "workshopid": 3138594789
+        },
+        {
+            "mapname": "ze_percocet_p",
+            "displayname": "乙酰氨酚",
+            "workshopid": 3139639057
+        },
+        {
+            "mapname": "ze_panic_escape_p",
+            "displayname": "跳刀仓库",
+            "workshopid": 3142876280
+        },
+        {
+            "mapname": "ze_winter_warehouse_p",
+            "displayname": "雪中仓库",
+            "workshopid": 3144617784
+        },
+        {
+            "mapname": "ze_alien_mountain_escape_p",
+            "displayname": "外星阿里山",
+            "workshopid": 3145781680
+        },
+        {
+            "mapname": "ze_sandstorm_cs2",
+            "displayname": "沙尘暴",
+            "workshopid": 3148296430
+        },
+        {
+            "mapname": "ze_lemonade",
+            "displayname": "柠檬水工厂",
+            "workshopid": 3148678988
+        },
+        {
+            "mapname": "ze_showdown_p",
+            "displayname": "对决",
+            "workshopid": 3149203270
+        },
+        {
+            "mapname": "ze_celestial_ops",
+            "displayname": "天体运动",
+            "workshopid": 3150912938
+        },
+        {
+            "mapname": "ze_newyork_escape_p",
+            "displayname": "纽约大逃亡",
+            "workshopid": 3153952411
+        },
+        {
+            "mapname": "ze_biohazard2_rpd_004_p",
+            "displayname": "生化危机2：警察局",
+            "workshopid": 3154062503
+        },
+        {
+            "mapname": "ze_umbrellazombiezmtr_v1",
+            "displayname": "阳伞公司实验室",
+            "workshopid": 3158864083
+        },
+        {
+            "mapname": "ze_dystopia_p",
+            "displayname": "衰败城市",
+            "workshopid": 3159658783
+        },
+        {
+            "mapname": "ze_obj_rampage_v1_2",
+            "displayname": "行动代号：暴走计划",
+            "workshopid": 3159812985
+        },
+        {
+            "mapname": "ze_obf_filth_v1",
+            "displayname": "行动代号：污点计划",
+            "workshopid": 3160547491
+        },
+        {
+            "mapname": "ze_emerald",
+            "displayname": "翡翠之心",
+            "workshopid": 3167475235
+        },
+        {
+            "mapname": "ze_boatescape888",
+            "displayname": "弹幕刷分888",
+            "workshopid": 3169214837
+        },
+        {
+            "mapname": "ze_inboxed_p",
+            "displayname": "空岛追击",
+            "workshopid": 3169700716
+        },
+        {
+            "mapname": "ze_surf_okitsu_shonyudo",
+            "displayname": "沖津滑翔",
+            "workshopid": 3170338275
+        },
+        {
+            "mapname": "ze_mirrors_edge_reborn_p",
+            "displayname": "镜之边缘：重生",
+            "workshopid": 3170476530
+        },
+        {
+            "mapname": "ze_k19_escape_p",
+            "displayname": "K19机库",
+            "workshopid": 3170603615
+        },
+        {
+            "mapname": "ze_only_up",
+            "displayname": "ONLY UP！",
+            "workshopid": 3171061416
+        },
+        {
+            "mapname": "ze_saw_p",
+            "displayname": "电锯惊魂",
+            "workshopid": 3171881962
+        },
+        {
+            "mapname": "ze_umbrellazombie_v1_part2_1",
+            "displayname": "保护伞公司-其二",
+            "workshopid": 3173114474
+        },
+        {
+            "mapname": "ze_venice_escape_p",
+            "displayname": "威尼斯",
+            "workshopid": 3173139330
+        },
+        {
+            "mapname": "ze_forius_just_run_p",
+            "displayname": "只管跑！",
+            "workshopid": 3173196031
+        },
+        {
+            "mapname": "ze_backrooms_deathbed_v1",
+            "displayname": "后室：死眠",
+            "workshopid": 3174524746
+        },
+        {
+            "mapname": "ze_secret_garden",
+            "displayname": "油桶花园",
+            "workshopid": 3175004434
+        },
+        {
+            "mapname": "ze_luciddreams_cs2",
+            "displayname": "清醒梦",
+            "workshopid": 3177491488
+        },
+        {
+            "mapname": "ze_lotr_helms_deep_p",
+            "displayname": "魔戒2：圣盔谷之战",
+            "workshopid": 3182611588
+        },
+        {
+            "mapname": "ze_predator_ultimate_p",
+            "displayname": "铁血战士",
+            "workshopid": 3184009332
+        },
+        {
+            "mapname": "ze_minecraft_sakura",
+            "displayname": "我的世界：樱花村",
+            "workshopid": 3184013959
+        },
+        {
+            "mapname": "ze_vietnam_p",
+            "displayname": "月岚踩雷王",
+            "workshopid": 3193837246
+        },
+        {
+            "mapname": "ze_stalkermonolith",
+            "displayname": "潜行者：黑石特异区",
+            "workshopid": 3194494417
+        },
+        {
+            "mapname": "ze_greencity_p",
+            "displayname": "绿之城",
+            "workshopid": 3194922441
+        },
+        {
+            "mapname": "ze_sumai_facility_lite",
+            "displayname": "烧麦工厂",
+            "workshopid": 3197712518
+        },
+        {
+            "mapname": "ze_azathoth_p",
+            "displayname": "阿撒托斯远征",
+            "workshopid": 3198066058
+        },
+        {
+            "mapname": "ze_firewall_laboratory_part1_p",
+            "displayname": "防火墙实验室-其一",
+            "workshopid": 3199805346
+        },
+        {
+            "mapname": "ze_firewall_laboratory_part2_p",
+            "displayname": "防火墙实验室-其二",
+            "workshopid": 3201034411
+        },
+        {
+            "mapname": "ze_boacceho_p",
+            "displayname": "古堡逃脱",
+            "workshopid": 3201834353
+        },
+        {
+            "mapname": "ze_parkers_pit_p",
+            "displayname": "帕克矿坑",
+            "workshopid": 3203203928
+        },
+        {
+            "mapname": "ze_zk_fapescape_p",
+            "displayname": "小乐高",
+            "workshopid": 3208033496
+        },
+        {
+            "mapname": "ze_sisyphus",
+            "displayname": "西西弗斯推石头",
+            "workshopid": 3208444375
+        },
+        {
+            "mapname": "ze_nuke_p",
+            "displayname": "导弹基地逃亡",
+            "workshopid": 3209599928
+        },
+        {
+            "mapname": "ze_no_title_cs2_l",
+            "displayname": "无名-全方位练习图",
+            "workshopid": 3209995116
+        },
+        {
+            "mapname": "ze_antartika_p",
+            "displayname": "南极基地",
+            "workshopid": 3210240252
+        },
+        {
+            "mapname": "ze_fapescape_p",
+            "displayname": "乐高",
+            "workshopid": 3211676445
+        },
+        {
+            "mapname": "ze_shroomforest_p",
+            "displayname": "蘑菇森林1",
+            "workshopid": 3212196068
+        },
+        {
+            "mapname": "ze_umbrellazombie_v1_p3_final",
+            "displayname": "保护伞公司",
+            "workshopid": 3212650219
+        },
+        {
+            "mapname": "ze_biohazard_manor_004_p",
+            "displayname": "生化危机1：洋馆",
+            "workshopid": 3214250988
+        },
+        {
+            "mapname": "ze_loom",
+            "displayname": "织编小镇",
+            "workshopid": 3214940342
+        },
+        {
+            "mapname": "ze_minecraft_p",
+            "displayname": "我的世界（小MC）",
+            "workshopid": 3215084604
+        },
+        {
+            "mapname": "ze_christmas_p",
+            "displayname": "圣诞节",
+            "workshopid": 3215749919
+        },
+        {
+            "mapname": "ze_boatescape_ultimate",
+            "displayname": "坐船跑：终极版",
+            "workshopid": 3217056098
+        },
+        {
+            "mapname": "ze_s_a_m",
+            "displayname": "刀剑神域",
+            "workshopid": 3217227843
+        },
+        {
+            "mapname": "ze_1way_tunnel",
+            "displayname": "只有一条路的隧道",
+            "workshopid": 3217363701
+        },
+        {
+            "mapname": "ze_postal_p",
+            "displayname": "夺命邮差",
+            "workshopid": 3218547242
+        },
+        {
+            "mapname": "ze_slender_escape_p",
+            "displayname": "面条人：噩梦回忆",
+            "workshopid": 3219243688
+        },
+        {
+            "mapname": "ze_ffxiv_reisen_temple",
+            "displayname": "FF14：醴泉神社",
+            "workshopid": 3220221743
+        },
+        {
+            "mapname": "ze_lotr_mines_of_moria_p",
+            "displayname": "魔戒1：摩瑞亚矿坑",
+            "workshopid": 3220471698
+        },
+        {
+            "mapname": "ze_atix_panic_2017_p",
+            "displayname": "守点防御系列：2017",
+            "workshopid": 3223525974
+        },
+        {
+            "mapname": "ze_eternal_journey",
+            "displayname": "飞升者：永恒之旅",
+            "workshopid": 3225822266
+        },
+        {
+            "mapname": "ze_aragami_p",
+            "displayname": "荒神",
+            "workshopid": 3226680626
+        },
+        {
+            "mapname": "ze_8bit",
+            "displayname": "8位机",
+            "workshopid": 3227899731
+        },
+        {
+            "mapname": "ze_escape_the_eye_p",
+            "displayname": "逃离法眼",
+            "workshopid": 3228849421
+        },
+        {
+            "mapname": "ze_obf_npst_v1",
+            "displayname": "行动代号：黑山计划",
+            "workshopid": 3229383490
+        },
+        {
+            "mapname": "ze_fapescape_rote_p",
+            "displayname": "乐高大逃亡：噩梦陷阱",
+            "workshopid": 3231280179
+        },
+        {
+            "mapname": "ze_compound_escape",
+            "displayname": "复合逃亡",
+            "workshopid": 3233851029
+        },
+        {
+            "mapname": "ze_frozentemple_p",
+            "displayname": "冰封神庙",
+            "workshopid": 3234890754
+        },
+        {
+            "mapname": "ze_ffxii_westersand_v7_t",
+            "displayname": "FF12：西沙v7",
+            "workshopid": 3236270292
+        },
+        {
+            "mapname": "ze_surf_sahok",
+            "displayname": "沙口滑翔",
+            "workshopid": 3236908736
+        },
+        {
+            "mapname": "ze_omochi_cs2",
+            "displayname": "元素秘神",
+            "workshopid": 3238552190
+        },
+        {
+            "mapname": "ze_obj_npst_v1_2",
+            "displayname": "行动代号：黑山计划",
+            "workshopid": 3240862431
+        },
+        {
+            "mapname": "ze_l0v0l_p",
+            "displayname": "颜文字1",
+            "workshopid": 3240966394
+        },
+        {
+            "mapname": "ze_siberia_1990_p",
+            "displayname": "西伯利亚1990",
+            "workshopid": 3241013638
+        },
+        {
+            "mapname": "ze_tesv_skyrim_p",
+            "displayname": "上古卷轴5：天际",
+            "workshopid": 3242492031
+        },
+        {
+            "mapname": "ze_ocean_heart_cs2",
+            "displayname": "海洋之心",
+            "workshopid": 3242876423
+        },
+        {
+            "mapname": "ze_grau_p",
+            "displayname": "鸽劳",
+            "workshopid": 3246171131
+        },
+        {
+            "mapname": "ze_forsaken_temple",
+            "displayname": "被遗忘的神殿",
+            "workshopid": 3247462748
+        },
+        {
+            "mapname": "ze_surf_shonyudo_v1_cs2",
+            "displayname": "山涧滑翔",
+            "workshopid": 3248498691
+        },
+        {
+            "mapname": "ze_arcana_heart",
+            "displayname": "圣灵之心",
+            "workshopid": 3248842358
+        },
+        {
+            "mapname": "ze_jiangnan_town_v3_1",
+            "displayname": "江南水乡",
+            "workshopid": 3250118774
+        },
+        {
+            "mapname": "ze_bathroom",
+            "displayname": "浴室",
+            "workshopid": 3250974096
+        },
+        {
+            "mapname": "ze_aware",
+            "displayname": "觉醒",
+            "workshopid": 3251593033
+        },
+        {
+            "mapname": "ze_death_star_escape_p",
+            "displayname": "星球大战：死星",
+            "workshopid": 3251815259
+        },
+        {
+            "mapname": "ze_awaker",
+            "displayname": "觉醒者",
+            "workshopid": 3251914993
+        },
+        {
+            "mapname": "ze_farmhouse_p",
+            "displayname": "坦克农场",
+            "workshopid": 3252377262
+        },
+        {
+            "mapname": "ze_aperturescience_p",
+            "displayname": "光圈科技",
+            "workshopid": 3252379913
+        },
+        {
+            "mapname": "ze_rizomata_p",
+            "displayname": "精灵塔",
+            "workshopid": 3252844768
+        },
+        {
+            "mapname": "ze_yueyingchuanshuo",
+            "displayname": "月影传说",
+            "workshopid": 3253885951
+        },
+        {
+            "mapname": "ze_offliner",
+            "displayname": "單、機者",
+            "workshopid": 3255547370
+        },
+        {
+            "mapname": "ze_dabadeedabadie",
+            "displayname": "大爸的大巴爹",
+            "workshopid": 3255751584
+        },
+        {
+            "mapname": "ze_honkai_impact_changkongshi",
+            "displayname": "崩坏3：长空市",
+            "workshopid": 3256961169
+        },
+        {
+            "mapname": "ze_visualizer",
+            "displayname": "监视者",
+            "workshopid": 3257332702
+        },
+        {
+            "mapname": "ze_beyond_the_boundary",
+            "displayname": "境界の彼方",
+            "workshopid": 3257386150
+        },
+        {
+            "mapname": "ze_platformer_p",
+            "displayname": "捡币小游戏",
+            "workshopid": 3257491664
+        },
+        {
+            "mapname": "ze_ratatouille",
+            "displayname": "美食总动员",
+            "workshopid": 3258064134
+        },
+        {
+            "mapname": "ze_shroomforest2_p",
+            "displayname": "蘑菇森林2",
+            "workshopid": 3258673372
+        },
+        {
+            "mapname": "ze_overlord",
+            "displayname": "骨王",
+            "workshopid": 3259318150
+        },
+        {
+            "mapname": "ze_obj_encounter",
+            "displayname": "行动代号：林燕计划",
+            "workshopid": 3259618066
+        },
+        {
+            "mapname": "ze_bluearchive_abydos_b1",
+            "displayname": "碧蓝档案：阿拜多斯",
+            "workshopid": 3261481731
+        },
+        {
+            "mapname": "ze_forhidden_slicoo_cs2",
+            "displayname": "禁地斯迪科",
+            "workshopid": 3261709847
+        },
+        {
+            "mapname": "ze_gods_wrath_p",
+            "displayname": "神の怒",
+            "workshopid": 3262558725
+        },
+        {
+            "mapname": "ze_magic_carpet_p",
+            "displayname": "魔毯",
+            "workshopid": 3262559311
+        },
+        {
+            "mapname": "ze_aot_trost_v6r",
+            "displayname": "进击的巨人：托洛斯特区v6",
+            "workshopid": 3262920150
+        },
+        {
+            "mapname": "ze_evil_mansion_cs2_l",
+            "displayname": "整蛊豪宅",
+            "workshopid": 3263625340
+        },
+        {
+            "mapname": "ze_skygarden",
+            "displayname": "天穹树",
+            "workshopid": 3264110647
+        },
+        {
+            "mapname": "ze_hydroponic_garden",
+            "displayname": "水培花园",
+            "workshopid": 3265261614
+        },
+        {
+            "mapname": "ze_simple_teamplay_p",
+            "displayname": "简单防守",
+            "workshopid": 3266019386
+        },
+        {
+            "mapname": "ze_lotr_mount_doom_p",
+            "displayname": "魔戒3：末日火山",
+            "workshopid": 3266739716
+        },
+        {
+            "mapname": "ze_trainescape_p",
+            "displayname": "火车逃亡",
+            "workshopid": 3267059270
+        },
+        {
+            "mapname": "ze_omen_cs2",
+            "displayname": "预兆 - 古数觉醒",
+            "workshopid": 3267175222
+        },
+        {
+            "mapname": "ze_silent_hill_blackblood",
+            "displayname": "寂静岭：黑血",
+            "workshopid": 3267382742
+        },
+        {
+            "mapname": "ze_sky_fantasy_v1",
+            "displayname": "天空幻想",
+            "workshopid": 3267469267
+        },
+        {
+            "mapname": "ze_evil_mansion_p",
+            "displayname": "整蛊豪宅",
+            "workshopid": 3267932570
+        },
+        {
+            "mapname": "ze_hammer_bunker_part1",
+            "displayname": "锤子地堡",
+            "workshopid": 3268855381
+        },
+        {
+            "mapname": "ze_snow_mountain_escape_l",
+            "displayname": "雪山逃亡",
+            "workshopid": 3269121949
+        },
+        {
+            "mapname": "ze_toy_world_final",
+            "displayname": "玩具世界",
+            "workshopid": 3269254804
+        },
+        {
+            "mapname": "ze_ffxii_feywood_t",
+            "displayname": "FF12：幻妖之森",
+            "workshopid": 3270937493
+        },
+        {
+            "mapname": "ze_zertinan",
+            "displayname": "FF12：泽尔提南洞窟",
+            "workshopid": 3271367553
+        },
+        {
+            "mapname": "ze_act_character_relic",
+            "displayname": "角色扮演：遗迹",
+            "workshopid": 3271517064
+        },
+        {
+            "mapname": "ze_silent_hill_2_illusion",
+            "displayname": "寂静岭：幻境",
+            "workshopid": 3272284666
+        },
+        {
+            "mapname": "ze_ffvii_mako_reactor_v6_p",
+            "displayname": "FF7：壹号魔晄炉V6",
+            "workshopid": 3273375829
+        },
+        {
+            "mapname": "ze_ardenweald",
+            "displayname": "炽蓝仙野",
+            "workshopid": 3273717624
+        },
+        {
+            "mapname": "ze_p_v_z",
+            "displayname": "植物大战僵尸",
+            "workshopid": 3274462953
+        },
+        {
+            "mapname": "ze_obj_escalation_a1",
+            "displayname": "行动代号：飞升计划",
+            "workshopid": 3275865807
+        },
+        {
+            "mapname": "ze_stark_escape",
+            "displayname": "斯塔克工业",
+            "workshopid": 3276197721
+        },
+        {
+            "mapname": "ze_uchiha_legacy",
+            "displayname": "宇智波遗迹",
+            "workshopid": 3278140812
+        },
+        {
+            "mapname": "ze_texturescape_cs2_l",
+            "displayname": "坑爹逃亡",
+            "workshopid": 3278144490
+        },
+        {
+            "mapname": "ze_boatescape999",
+            "displayname": "跳刀刷分999",
+            "workshopid": 3280054813
+        },
+        {
+            "mapname": "ze_lightnight_v1",
+            "displayname": "夜空",
+            "workshopid": 3280980480
+        },
+        {
+            "mapname": "ze_diverted_destiny",
+            "displayname": "命运呼叫转移",
+            "workshopid": 3282400800
+        },
+        {
+            "mapname": "ze_obf_rescape",
+            "displayname": "行动代号：逃脱计划",
+            "workshopid": 3283167200
+        },
+        {
+            "mapname": "ze_infiltration_final_p",
+            "displayname": "经典长征",
+            "workshopid": 3283238776
+        },
+        {
+            "mapname": "ze_aoraitsu_reloaded",
+            "displayname": "油桶世界",
+            "workshopid": 3286182665
+        },
+        {
+            "mapname": "ze_ffvii_mako_reactor_v5_3",
+            "displayname": "FF7：壹号魔晄炉v5",
+            "workshopid": 3400128277
+        },
+        {
+            "mapname": "ze_wicked_organization",
+            "displayname": "逃离邪恶组织",
+            "workshopid": 3291775385
+        },
+        {
+            "mapname": "ze_conflict",
+            "displayname": "公交车冲突",
+            "workshopid": 3291812593
+        },
+        {
+            "mapname": "ze_outpost_escape_p",
+            "displayname": "前哨基地",
+            "workshopid": 3292176189
+        },
+        {
+            "mapname": "ze_immortal_flame",
+            "displayname": "永恒烈焰",
+            "workshopid": 3292773390
+        },
+        {
+            "mapname": "ze_surf_hp",
+            "displayname": "卖血滑翔",
+            "workshopid": 3293436009
+        },
+        {
+            "mapname": "ze_undertale_sans_final",
+            "displayname": "传说之下：sans",
+            "workshopid": 3294459795
+        },
+        {
+            "mapname": "ze_ffvii_snow_cosmo",
+            "displayname": "FF7：雪域峡谷",
+            "workshopid": 3295082384
+        },
+        {
+            "mapname": "ze_neron",
+            "displayname": "幻境遗愿",
+            "workshopid": 3295495749
+        },
+        {
+            "mapname": "ze_obj_escalation_v1",
+            "displayname": "行动代号：熵变计划",
+            "workshopid": 3297038916
+        },
+        {
+            "mapname": "ze_zandalar_forever",
+            "displayname": "赞达拉圣城",
+            "workshopid": 3297642912
+        },
+        {
+            "mapname": "ze_xenovation",
+            "displayname": "次元革新",
+            "workshopid": 3299009552
+        },
+        {
+            "mapname": "ze_ffxiv_the_orbonne_monastery",
+            "displayname": "FF14：乐欲之所瓯博讷修道院",
+            "workshopid": 3302617978
+        },
+        {
+            "mapname": "ze_silent_hill_3_dawn",
+            "displayname": "寂静岭：黎明",
+            "workshopid": 3303188199
+        },
+        {
+            "mapname": "ze_silent_hill_3_flee",
+            "displayname": "寂静岭：逃离",
+            "workshopid": 3303191928
+        },
+        {
+            "mapname": "ze_industrial_dejavu",
+            "displayname": "刷分循环",
+            "workshopid": 3303378356
+        },
+        {
+            "mapname": "ze_tilex_ultimate_p",
+            "displayname": "跳刀列车",
+            "workshopid": 3304371486
+        },
+        {
+            "mapname": "ze_deadcore",
+            "displayname": "死亡核心",
+            "workshopid": 3304554968
+        },
+        {
+            "mapname": "ze_urban_laby_of_death_p",
+            "displayname": "城市迷宫",
+            "workshopid": 3304571694
+        },
+        {
+            "mapname": "ze_angelbeats_guild",
+            "displayname": "天使的心跳",
+            "workshopid": 3306796313
+        },
+        {
+            "mapname": "ze_santassination_p",
+            "displayname": "圣诞老人之罪：狮子王",
+            "workshopid": 3307061089
+        },
+        {
+            "mapname": "ze_fapescape_katrina",
+            "displayname": "乐高：卡特琳娜",
+            "workshopid": 3309007201
+        },
+        {
+            "mapname": "ze_magus_v2_4",
+            "displayname": "麻瓜山",
+            "workshopid": 3309053758
+        },
+        {
+            "mapname": "ze_eizures_b2",
+            "displayname": "核子工厂",
+            "workshopid": 3309934498
+        },
+        {
+            "mapname": "ze_aooka",
+            "displayname": "龙之殿",
+            "workshopid": 3310240982
+        },
+        {
+            "mapname": "ze_ffvii_cosmo_canyon_t",
+            "displayname": "FF7：宇宙峡谷",
+            "workshopid": 3310260547
+        },
+        {
+            "mapname": "ze_obf_insane",
+            "displayname": "行动代号：疯魔计划",
+            "workshopid": 3310660027
+        },
+        {
+            "mapname": "ze_honkai_impact_tqs",
+            "displayname": "崩坏3：天穹市",
+            "workshopid": 3311391580
+        },
+        {
+            "mapname": "ze_lotr_minas_tirith_p",
+            "displayname": "魔戒：米纳斯提利斯",
+            "workshopid": 3314560349
+        },
+        {
+            "mapname": "ze_palace_of_minolila_cs2",
+            "displayname": "米诺莉拉神殿",
+            "workshopid": 3316647362
+        },
+        {
+            "mapname": "ze_flying_world",
+            "displayname": "空中世界",
+            "workshopid": 3318263833
+        },
+        {
+            "mapname": "ze_mist_p",
+            "displayname": "雾城龙影",
+            "workshopid": 3318559672
+        },
+        {
+            "mapname": "ze_ny_marathon_cs2",
+            "displayname": "马拉松",
+            "workshopid": 3321297949
+        },
+        {
+            "mapname": "ze_easy_escape_v4",
+            "displayname": "简单逃亡",
+            "workshopid": 3322882927
+        },
+        {
+            "mapname": "ze_skyscraper_city_p",
+            "displayname": "镜之城",
+            "workshopid": 3323092112
+        },
+        {
+            "mapname": "ze_desperate_soul",
+            "displayname": "绝望灵魂",
+            "workshopid": 3323542208
+        },
+        {
+            "mapname": "ze_mountain_escape_snow",
+            "displayname": "雪山逃亡v7",
+            "workshopid": 3324156583
+        },
+        {
+            "mapname": "ze_sst2_p",
+            "displayname": "星河舰队2",
+            "workshopid": 3324696235
+        },
+        {
+            "mapname": "ze_jurassic_park_story_p",
+            "displayname": "侏罗纪公园",
+            "workshopid": 3325370910
+        },
+        {
+            "mapname": "ze_insanitycity_t",
+            "displayname": "疯狂都市",
+            "workshopid": 3326176066
+        },
+        {
+            "mapname": "ze_little_trip",
+            "displayname": "短途旅行",
+            "workshopid": 3328341985
+        },
+        {
+            "mapname": "ze_blackmesa_remix_cs2",
+            "displayname": "黑山基地",
+            "workshopid": 3329668908
+        },
+        {
+            "mapname": "ze_minecraft_run",
+            "displayname": "我的世界大逃亡",
+            "workshopid": 3330692980
+        },
+        {
+            "mapname": "ze_aepp_nano_grid2_p",
+            "displayname": "电子游戏",
+            "workshopid": 3331937749
+        },
+        {
+            "mapname": "ze_nuclear_site_survie_by_gm",
+            "displayname": "核遗址求生",
+            "workshopid": 3333753339
+        },
+        {
+            "mapname": "ze_sky_fantasy_v2",
+            "displayname": "天空幻想V2",
+            "workshopid": 3334864881
+        },
+        {
+            "mapname": "ze__hell_p",
+            "displayname": "地狱循环",
+            "workshopid": 3338986984
+        },
+        {
+            "mapname": "ze_fragment_ops_rewind",
+            "displayname": "破碎数码",
+            "workshopid": 3339737651
+        },
+        {
+            "mapname": "ze_highest_to_lowest",
+            "displayname": "猛虎下山",
+            "workshopid": 3339829564
+        },
+        {
+            "mapname": "ze_ffvii_temple_ancient",
+            "displayname": "FF7：古代种神殿",
+            "workshopid": 3340741299
+        },
+        {
+            "mapname": "ze_ffxii_westersand_v8",
+            "displayname": "FF12：西沙v8",
+            "workshopid": 3344357687
+        },
+        {
+            "mapname": "ze_tyranny_cs2",
+            "displayname": "暴君",
+            "workshopid": 3345284992
+        },
+        {
+            "mapname": "ze_forhidden_void",
+            "displayname": "禁地虚空遗迹",
+            "workshopid": 3347081341
+        },
+        {
+            "mapname": "ze_obf_npst_v2",
+            "displayname": "行动代号：黑山计划V2",
+            "workshopid": 3348665019
+        },
+        {
+            "mapname": "ze_parking_cs2",
+            "displayname": "停车场",
+            "workshopid": 3349087452
+        },
+        {
+            "mapname": "ze_shroomforest3_z",
+            "displayname": "蘑菇森林3",
+            "workshopid": 3349725387
+        },
+        {
+            "mapname": "ze_shroomforest3_p",
+            "displayname": "蘑菇森林3",
+            "workshopid": 3352275561
+        },
+        {
+            "mapname": "ze_bioshock_v6_cs2",
+            "displayname": "生化奇兵",
+            "workshopid": 3352809617
+        },
+        {
+            "mapname": "ze_obj_ouroboros_aurora",
+            "displayname": "行动代号：衔尾蛇计划",
+            "workshopid": 3353097518
+        },
+        {
+            "mapname": "ze_last_man_standing_p",
+            "displayname": "一夫当关",
+            "workshopid": 3353304489
+        },
+        {
+            "mapname": "ze_ffxii_paramina_rift",
+            "displayname": "FF12：帕拉米娜大峡谷",
+            "workshopid": 3353405580
+        },
+        {
+            "mapname": "ze_lotr_minas_tirith",
+            "displayname": "魔戒：米纳斯提利斯",
+            "workshopid": 3353505696
+        },
+        {
+            "mapname": "ze_solidarity_paper_cs2_l",
+            "displayname": "林燕基地",
+            "workshopid": 3355293896
+        },
+        {
+            "mapname": "ze_tear_of_tide",
+            "displayname": "潮汐之泪",
+            "workshopid": 3355621066
+        },
+        {
+            "mapname": "ze_quiver_cs2",
+            "displayname": "震颤危机",
+            "workshopid": 3355818753
+        },
+        {
+            "mapname": "ze_icebreaker",
+            "displayname": "破冰行动",
+            "workshopid": 3356773677
+        },
+        {
+            "mapname": "ze_serpentis_temple",
+            "displayname": "美杜莎神殿",
+            "workshopid": 3357015378
+        },
+        {
+            "mapname": "ze_cyberspace_v2",
+            "displayname": "赛博空间",
+            "workshopid": 3357121032
+        },
+        {
+            "mapname": "ze_obf_rampage_v2_legacy",
+            "displayname": "行动代号：暴走计划V2",
+            "workshopid": 3358056867
+        },
+        {
+            "mapname": "ze_opti_variety_missions_cs2_l",
+            "displayname": "多样化任务",
+            "workshopid": 3358886836
+        },
+        {
+            "mapname": "ze_2049",
+            "displayname": "公元2049",
+            "workshopid": 3360193336
+        },
+        {
+            "mapname": "ze_legoland_crackheads",
+            "displayname": "乐高传奇",
+            "workshopid": 3360546897
+        },
+        {
+            "mapname": "ze_naruto_z",
+            "displayname": "火影忍者",
+            "workshopid": 3361027839
+        },
+        {
+            "mapname": "ze_frozen_abyss",
+            "displayname": "冰封深渊",
+            "workshopid": 3361357611
+        },
+        {
+            "mapname": "ze_apollo_p",
+            "displayname": "阿波罗",
+            "workshopid": 3361842183
+        },
+        {
+            "mapname": "ze_stilshrine_of_miriam",
+            "displayname": "FF12：米里亚姆神殿",
+            "workshopid": 3362061557
+        },
+        {
+            "mapname": "ze_depths",
+            "displayname": "孤岛地底神庙",
+            "workshopid": 3362719311
+        },
+        {
+            "mapname": "ze_djinn",
+            "displayname": "埃及神鬼图鉴",
+            "workshopid": 3363808337
+        },
+        {
+            "mapname": "ze_30_seconds_p",
+            "displayname": "30秒真男人",
+            "workshopid": 3365639552
+        },
+        {
+            "mapname": "ze_pd2_crime_art",
+            "displayname": "收获日2：美术馆",
+            "workshopid": 3366678704
+        },
+        {
+            "mapname": "ze_obj_goosestep_a1",
+            "displayname": "行动代号：并进计划",
+            "workshopid": 3367233005
+        },
+        {
+            "mapname": "ze_laser_island_z",
+            "displayname": "跳刀岛",
+            "workshopid": 3367534981
+        },
+        {
+            "mapname": "ze_dnb_realms_a1",
+            "displayname": "鼓动与低音的世界",
+            "workshopid": 3367623638
+        },
+        {
+            "mapname": "ze_toaster_p",
+            "displayname": "面包机",
+            "workshopid": 3367711562
+        },
+        {
+            "mapname": "ze_ice_cavern_z",
+            "displayname": "冰窟",
+            "workshopid": 3368351412
+        },
+        {
+            "mapname": "ze_silent_hill_3_dawn_full",
+            "displayname": "寂静岭3：黎明（长征版）",
+            "workshopid": 3368481687
+        },
+        {
+            "mapname": "ze_sit_caelum_paradisus",
+            "displayname": "雕刻天堂",
+            "workshopid": 3368922933
+        },
+        {
+            "mapname": "ze_grace",
+            "displayname": "优雅格蕾丝",
+            "workshopid": 3369072300
+        },
+        {
+            "mapname": "ze_mochi_island",
+            "displayname": "年糕岛",
+            "workshopid": 3370830254
+        },
+        {
+            "mapname": "ze_permafrost",
+            "displayname": "永冻纪元",
+            "workshopid": 3371340033
+        },
+        {
+            "mapname": "ze_trainsanity",
+            "displayname": "火车循环",
+            "workshopid": 3372089032
+        },
+        {
+            "mapname": "ze_stardust_a03",
+            "displayname": "星尘",
+            "workshopid": 3373082090
+        },
+        {
+            "mapname": "ze_ffxiv_great_gubal_library",
+            "displayname": "FF14：迦巴勒幻想图书馆",
+            "workshopid": 3373306757
+        },
+        {
+            "mapname": "ze_scp_containment_breach",
+            "displayname": "SCP：收容失效",
+            "workshopid": 3374542647
+        },
+        {
+            "mapname": "ze_dreamin",
+            "displayname": "梦想",
+            "workshopid": 3375301835
+        },
+        {
+            "mapname": "ze_watagi_sanatorium",
+            "displayname": "渡木疗养院",
+            "workshopid": 3375366241
+        },
+        {
+            "mapname": "ze_boralus",
+            "displayname": "魔兽世界：伯拉勒斯",
+            "workshopid": 3375463079
+        },
+        {
+            "mapname": "ze_christmas_infection_p",
+            "displayname": "圣诞工厂",
+            "workshopid": 3375743674
+        },
+        {
+            "mapname": "ze_halloween_house_p",
+            "displayname": "万圣屋",
+            "workshopid": 3376623477
+        },
+        {
+            "mapname": "ze_crashbandicoot_p",
+            "displayname": "古惑狼",
+            "workshopid": 3378501953
+        },
+        {
+            "mapname": "ze_scourge_p",
+            "displayname": "祸乱之源",
+            "workshopid": 3378842690
+        },
+        {
+            "mapname": "ze_rtcw_ominous_rumors_p",
+            "displayname": "重返德军总部",
+            "workshopid": 3379185817
+        },
+        {
+            "mapname": "ze_world_escapes",
+            "displayname": "逃离世界",
+            "workshopid": 3380544762
+        },
+        {
+            "mapname": "ze_minimal",
+            "displayname": "极病",
+            "workshopid": 3381264138
+        },
+        {
+            "mapname": "ze_pirates_port_royal",
+            "displayname": "加勒比海盗：皇家海港",
+            "workshopid": 3381572627
+        },
+        {
+            "mapname": "ze_tyranny2",
+            "displayname": "暴君2",
+            "workshopid": 3381888563
+        },
+        {
+            "mapname": "ze_stalker_ultimate_z",
+            "displayname": "潜行者：切尔诺贝利的阴影",
+            "workshopid": 3383028817
+        },
+        {
+            "mapname": "ze_obj_redemption",
+            "displayname": "行动代号：救赎计划",
+            "workshopid": 3383451059
+        },
+        {
+            "mapname": "ze_the_curse_of_blackwater",
+            "displayname": "黑水镇的诅咒",
+            "workshopid": 3385381348
+        },
+        {
+            "mapname": "ze_surf_happy",
+            "displayname": "快乐滑翔1",
+            "workshopid": 3386114661
+        },
+        {
+            "mapname": "ze_dark_souls",
+            "displayname": "黑暗之魂",
+            "workshopid": 3387284574
+        },
+        {
+            "mapname": "ze_lila_panic_escape_p",
+            "displayname": "打熊传说",
+            "workshopid": 3387818506
+        },
+        {
+            "mapname": "ze_thelostworld_redux_p",
+            "displayname": "侏罗纪公园：失落世界",
+            "workshopid": 3389333194
+        },
+        {
+            "mapname": "ze_squid_game",
+            "displayname": "鱿鱼游戏",
+            "workshopid": 3390192395
+        },
+        {
+            "mapname": "ze_light_shadow_cs2",
+            "displayname": "光与影",
+            "workshopid": 3394921667
+        },
+        {
+            "mapname": "ze_survivors_mountain",
+            "displayname": "幸存者山岭",
+            "workshopid": 3396065042
+        },
+        {
+            "mapname": "ze_jurassicpark_escape_p",
+            "displayname": "逃离侏罗纪公园",
+            "workshopid": 3397749308
+        },
+        {
+            "mapname": "ze_isla_nublar_p",
+            "displayname": "侏罗纪公园：恐龙岛",
+            "workshopid": 3397783582
+        },
+        {
+            "mapname": "ze_obj_void_v1",
+            "displayname": "行动代号：虚空计划",
+            "workshopid": 3397864348
+        },
+        {
+            "mapname": "ze_ffxii_mt_bur_omisace_v6",
+            "displayname": "FF12：神都布尔奥米赛斯",
+            "workshopid": 3398706540
+        },
+        {
+            "mapname": "ze_games_cs2_l",
+            "displayname": "小游戏",
+            "workshopid": 3400208308
+        },
+        {
+            "mapname": "ze_radio_building",
+            "displayname": "广播大楼",
+            "workshopid": 3400976371
+        },
+        {
+            "mapname": "ze_biohazard2_sewer_004",
+            "displayname": "生化危机2：下水道",
+            "workshopid": 3404397288
+        },
+        {
+            "mapname": "ze_paradise_t",
+            "displayname": "天堂岛",
+            "workshopid": 3404515839
+        },
+        {
+            "mapname": "ze_parking_p",
+            "displayname": "停车场",
+            "workshopid": 3405314470
+        },
+        {
+            "mapname": "ze_dnd_hydra_z",
+            "displayname": "龙与地下城：九头蛇",
+            "workshopid": 3406009899
+        },
+        {
+            "mapname": "ze_obj_ember",
+            "displayname": "行动代号：余烬计划",
+            "workshopid": 3408908971
+        },
+        {
+            "mapname": "ze_alien_shooter",
+            "displayname": "孤胆枪手",
+            "workshopid": 3410639236
+        },
+        {
+            "mapname": "ze_sele",
+            "displayname": "海边圣堂",
+            "workshopid": 3411145443
+        },
+        {
+            "mapname": "ze_bioluminescent",
+            "displayname": "生物幽光",
+            "workshopid": 3412129855
+        },
+        {
+            "mapname": "ze_v0u0v_p",
+            "displayname": "颜文字2",
+            "workshopid": 3416293909
+        },
+        {
+            "mapname": "ze_lotr_minas_tiret_p",
+            "displayname": "小米那斯提力斯",
+            "workshopid": 3418753441
+        },
+        {
+            "mapname": "ze_sunkentemple",
+            "displayname": "魔兽世界：沉没神庙",
+            "workshopid": 3418758157
+        },
+        {
+            "mapname": "ze_melong_dow_learjet_p",
+            "displayname": "喷气机逃亡",
+            "workshopid": 3420245755
+        },
+        {
+            "mapname": "ze_empirecity_p",
+            "displayname": "帝国城逃亡",
+            "workshopid": 3420276708
+        },
+        {
+            "mapname": "ze_floating_rocks_survival",
+            "displayname": "浮空岛",
+            "workshopid": 3422599395
+        },
+        {
+            "mapname": "ze_ut2004_convoy_p",
+            "displayname": "虚幻竞技场",
+            "workshopid": 3422683946
+        },
+        {
+            "mapname": "ze_rabanastre_royal",
+            "displayname": "FF12：拉巴纳斯塔王宫",
+            "workshopid": 3425595150
+        },
+        {
+            "mapname": "ze_minecraft_dragon_castle",
+            "displayname": "我的世界：龙堡堡",
+            "workshopid": 3427386217
+        },
+        {
+            "mapname": "ze_surf_happy_2_newbie_village",
+            "displayname": "快乐滑翔2：新手村",
+            "workshopid": 3428262134
+        },
+        {
+            "mapname": "ze_skyline",
+            "displayname": "CSOL 逃出升天",
+            "workshopid": 3429593650
+        },
+        {
+            "mapname": "ze_blood_castle",
+            "displayname": "CSOL 血色城堡",
+            "workshopid": 3429597811
+        },
+        {
+            "mapname": "ze_neko_canyon_p",
+            "displayname": "尼欧峡谷",
+            "workshopid": 3432325232
+        },
+        {
+            "mapname": "ze_obj_ouroboros_ragnarok",
+            "displayname": "行动代号：破晓终幕",
+            "workshopid": 3407901941
+        },
+        {
+            "mapname": "ze_miside",
+            "displayname": "米塔",
+            "workshopid": 3432667287
+        }
+    ]
+}

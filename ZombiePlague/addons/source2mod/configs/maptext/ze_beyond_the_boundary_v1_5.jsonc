@@ -1,0 +1,59 @@
+{
+    "Current difficulty >>Hard<<! ": {
+        "chi": "当前难度 >>困难<< 地图作者:黑岩  "
+    },
+    "Break the seal in 20 seconds": {
+        "chi": "20秒后[封印]解除,步入[境界彼方]"
+    },
+    "After 10 seconds, the left and right sides open randomly": {
+        "chi": "10秒后左右两侧随机开启一道[封印]"
+    },
+    "15 seconds later, the magic circle is disappearing": {
+        "chi": "15秒后解除这道[封印]"
+    },
+    "Release the courtyard seal in 20 seconds": {
+        "chi": "庭院的[封印]将在20秒后解除"
+    },
+    "The courtyard door opens in 20 seconds": {
+        "chi": "庭院大门在20秒后打开"
+    },
+    "After 30 seconds, the platform rises. Hold on": {
+        "chi": "防守30秒,平台就送我们上去"
+    },
+    "[Spirit Pray] Guard teleport 20 seconds": {
+        "chi": "[圣灵祈祷]20秒后开启传送"
+    },
+    "The magic circle disappears after 10 seconds": {
+        "chi": "[封印]将在10秒后解除"
+    },
+    "The inner gate of heaven will open in 20 seconds": {
+        "chi": "天庭内门将在20秒后打开"
+    },
+    "The ladder will appear in 30 seconds": {
+        "chi": "[天梯]将在30秒后浮现"
+    },
+    "[Spirit Pray]Guard teleport 15 seconds later": {
+        "chi": "[圣灵祈祷]15秒后开启传送"
+    },
+    "【We're at the elves castle. Kill the red elves】": {
+        "chi": "[吾等位于精灵城堡,消灭作怪的红色精灵]"
+    },
+    "[Spirit Pray]Transmit in 10 seconds": {
+        "chi": "[圣灵祈祷]10秒后开启传送"
+    },
+    "The seal will be released in 20 seconds": {
+        "chi": "[封印]将在20秒后释放"
+    },
+    "The seal will be released in 15 seconds": {
+        "chi": "[封印]将在15秒后释放"
+    },
+    "Defend for 15 seconds and wait for the seal to be released": {
+        "chi": "防守15秒,等待[封印]解除"
+    },
+    "【Break the crystal, nuclear explosion after 30s】": {
+        "chi": "[击败红精灵,不然30秒后会被处死]"
+    },
+    "Someone has triggered the >>Normal<< mode egg. Go to the green Elf": {
+        "chi": "[有人触发了>>特殊路线<<彩蛋,快去寻找绿精灵解开]"
+    }
+}

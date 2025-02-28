@@ -1,0 +1,161 @@
+{
+    "20 SECOND | DEFEND": {
+        "chi": "防守20秒"
+    },
+    "[TROLL MESSAGE] GET IN HELICOPTER | FINAL": {
+        "chi": "进入直升机"
+    },
+    "LOOK AT LEFT SIDE | DEFEND THE SHIP": {
+        "chi": "看左边守住这艘船"
+    },
+    "DIDNT LISTEN ANIME AVATAR": {
+        "chi": "不要看这些画面"
+    },
+    "STRIDER | BOSS FIGHT": {
+        "chi": "BOSS战开始"
+    },
+    "40 SECOND | DEFEND THE HOUSE": {
+        "chi": "守住房子40秒"
+    },
+    "10 SECOND | FALL BACK | TOP FLOOR | GET IN NARROW ROOM": {
+        "chi": "防守10秒后退进入顶楼狭窄的房间"
+    },
+    "ARE YOU READY? | LASERS IS COMING": {
+        "chi": "准备好了吗，刀光来临"
+    },
+    "LASER FINISH": {
+        "chi": "刀光结束"
+    },
+    "GO GO GO | GET IN SHIP": {
+        "chi": "走，快上船"
+    },
+    "RIGHT WAY | CARGO TOP BUTTON PRESS": {
+        "chi": "右侧|货物顶部按钮"
+    },
+    "BREAK CARGO DOORS": {
+        "chi": "打碎 货舱门"
+    },
+    "20 SECOND | COMBINE CAR DOOR": {
+        "chi": "大门20秒后打开"
+    },
+    "10 SECOND | ZOMBIE SHORTCUT OPENING": {
+        "chi": "僵尸侧路10秒后打开"
+    },
+    "HUMANS | FALL BACK": {
+        "chi": "人类...失败了？"
+    },
+    "10 SECOND | GET IN DOZER": {
+        "chi": "10秒后进门"
+    },
+    "30 SECOND": {
+        "chi": "防守30秒"
+    },
+    "10 SECOND | ZOMBIE TELEPORT": {
+        "chi": "僵尸10秒后传送"
+    },
+    "30 SECOND | GET IN ELEVATOR": {
+        "chi": "守住电梯30秒"
+    },
+    "50 SECOND": {
+        "chi": "防守50秒"
+    },
+    "LEFT AND RIGHT WAY | EQUAL DEFENSE": {
+        "chi": "防守左右两边"
+    },
+    "10 SECOND | GO ELEVATOR": {
+        "chi": "电梯10秒后出发"
+    },
+    "40 SECOND | DEFEND THE BUNKER": {
+        "chi": "守住地堡40秒"
+    },
+    "GET IN LIGHT": {
+        "chi": "前往光明的地方"
+    },
+    "10 SECOND | GROUND ELEVATOR": {
+        "chi": "防守10秒电梯"
+    },
+    "20 SECOND | VENT": {
+        "chi": "通风口20秒后打开"
+    },
+    "30 SECOND | COMBINE WALL": {
+        "chi": "墙壁30秒后破碎"
+    },
+    "30 SECOND | COMBINE WALL 2": {
+        "chi": "二号墙30秒后破碎"
+    },
+    "10 SECOND | WAITING TRAIN...": {
+        "chi": "等待列车"
+    },
+    "20 SECOND | ROOF DOOR": {
+        "chi": "房顶20秒后开放"
+    },
+    "20 SECOND | WAITING DOG...": {
+        "chi": "等待机械狗20秒"
+    },
+    "10 SECOND | DOOR OPENING": {
+        "chi": "大门10秒后打开"
+    },
+    "OMG ANTLION GUARD | STUCK ON GLASS": {
+        "chi": "OMG把这些东西粘在玻璃上"
+    },
+    "20 SECOND | ELEVATOR WAITING": {
+        "chi": "等待电梯20秒"
+    },
+    "5 SECOND | LEFT": {
+        "chi": "剩余5秒"
+    },
+    "+5 YOU WOKE | THE ANTLIONS": {
+        "chi": "+5 你惊醒了蚁狮"
+    },
+    "+4 YOU WOKE | THE ANTLIONS": {
+        "chi": "+4 你惊醒了蚁狮"
+    },
+    "+6 YOU WOKE | THE ANTLIONS": {
+        "chi": "+6 你惊醒了蚁狮"
+    },
+    "+7 YOU WOKE | THE ANTLIONS": {
+        "chi": "+7 你惊醒了蚁狮"
+    },
+    "+3 YOU WOKE | THE ANTLIONS": {
+        "chi": "+3 你惊醒了蚁狮"
+    },
+    "1/2  | BACK RIGHT WAY | PRESS BUTTON": {
+        "chi": "1/2 右边按下按钮"
+    },
+    "2/2 | LEFT WAY | DEFEND STRONG": {
+        "chi": "2/2|左侧继续防守"
+    },
+    "20 SECOND | COMBINE WALL 3": {
+        "chi": "三号墙20秒后打开"
+    },
+    "5 SECOND | DOOR OPENING": {
+        "chi": "剩余5秒"
+    },
+    "SLEEPING ANTLIONS | DONT WALK SAND": {
+        "chi": "沉睡的蚁狮|不要在沙滩上行走"
+    },
+    "COMBINE SHIP HAS BEEN BREAK | GET IN BUNKER": {
+        "chi": "联合收割机的船坏了|进茹掩体"
+    },
+    "20 SECOND | DONT STAY CAVE": {
+        "chi": "防守20秒|不要呆在洞穴里"
+    },
+    "WAIT | COMBINE SHIP | LOOK AT BLACK ROCKS": {
+        "chi": "等待|联合船|看看黑色岩石"
+    },
+    "5 SECONDS | ZOMBIES TELEPORTING": {
+        "chi": "僵尸5秒后传送"
+    },
+    "WARNING | BREAK COMBINE SHIP |  IN ZOMBIES": {
+        "chi": "警告船上有僵尸"
+    },
+    "BIG DOOR | OPENING": {
+        "chi": "大门已打开"
+    },
+    "1/2 | 1 HUMAN LEFT WAY | ROTATE VALVE ELEVATOR": {
+        "chi": "1/2|1人去左边旋转阀阀门"
+    },
+    "2/2 |  OTHER HUMANS |  GET IN ELEVATOR": {
+        "chi": "2/2 其他人|上电梯"
+    }
+}

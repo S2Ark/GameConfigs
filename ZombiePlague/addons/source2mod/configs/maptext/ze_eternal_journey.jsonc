@@ -1,0 +1,131 @@
+{
+    ">>*** MAP BY STK ***<<": {
+        "chi": ">>*** 作者： STK 翻译：四叶草***<<"
+    },
+    ">>> STAGE 1 <<<": {
+        "chi": ">>> 关卡1 <<<"
+    },
+    "** A player has picked up Freeze Staff **": {
+        "chi": "冰已被拾取"
+    },
+    "** Hold for 30 seconds **": {
+        "chi": "守住30s"
+    },
+    "** 5 Seconds left **": {
+        "chi": "5s"
+    },
+    "** FALL BACK **": {
+        "chi": "撤退"
+    },
+    "** A player has picked up Earth Staff **": {
+        "chi": "土已被拾取"
+    },
+    "** A player has picked up Fire Staff **": {
+        "chi": "火已被拾取"
+    },
+    "** A player has picked up Tornado Staff **": {
+        "chi": "风已被拾取"
+    },
+    "** Hold for 20 seconds **": {
+        "chi": "守住20s"
+    },
+    "** Teleport will open in 30 seconds **": {
+        "chi": "30s传送"
+    },
+    "** 5 seconds left**": {
+        "chi": "5s"
+    },
+    "** A player has picked up Heal Staff **": {
+        "chi": "治疗已被拾取"
+    },
+    "** The doors will open in 25 seconds **": {
+        "chi": "门在25s后打开"
+    },
+    "** The doors will open in 20 seconds **": {
+        "chi": "门在20s后打开"
+    },
+    "** YOU WON STAGE 1 **": {
+        "chi": "关卡1通关"
+    },
+    ">>> STAGE 2 <<<": {
+        "chi": ">>> 关卡2 <<<"
+    },
+    "** HOLD 25 SECONDS **": {
+        "chi": "守住25s"
+    },
+    "** Hold 20 seconds **": {
+        "chi": "守住20s"
+    },
+    "** A player has picked up Ultimate Staff **": {
+        "chi": "终极已被拾取"
+    },
+    "** Hold 30 seconds **": {
+        "chi": "守住30s"
+    },
+    "** Kill him or he kills you!!! **": {
+        "chi": "杀死他或者他杀死你"
+    },
+    "*** Grenades do more damage. ***": {
+        "chi": "手雷造成更多伤害"
+    },
+    "*** He's dead. Run. ***": {
+        "chi": "他死了，撤退"
+    },
+    "** Hold for 10 seconds **": {
+        "chi": "守住10s"
+    },
+    "** Hold for 15 seconds **": {
+        "chi": "守住15s"
+    },
+    "** Teleport will open in 25 seconds **": {
+        "chi": "25s后传送"
+    },
+    "** YOU WON STAGE 2 **": {
+        "chi": "关卡2通关"
+    },
+    ">>> STAGE 3 <<<": {
+        "chi": ">>> 关卡3 <<<"
+    },
+    "*** Grenades do more damage (5 seconds) ***": {
+        "chi": "手雷造成更多伤害"
+    },
+    ">> BOSS USED FIRE <<": {
+        "chi": "BOSS使用火"
+    },
+    ">> BOSS USED ELECTRO <<": {
+        "chi": "BOSS使用电，蹲下躲避"
+    },
+    ">> BOSS USED FREEZE <<": {
+        "chi": "BOSS使用冰"
+    },
+    ">> BOSS USED ULTIMATE <<": {
+        "chi": "BOSS使用终极"
+    },
+    ">> BOSS USED TENTACLES <<": {
+        "chi": "BOSS使用触手攻击，贴墙躲开触手"
+    },
+    "*** Hold 20 seconds. ***": {
+        "chi": "守住20s"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "5s"
+    },
+    "*** FALL BACK ***": {
+        "chi": "撤退"
+    },
+    "** Hold 15 seconds **": {
+        "chi": "守住15s"
+    },
+    "** Hold 10 seconds **": {
+        "chi": "守住10s"
+    },
+    "** YOU WON STAGE 3 **": {
+        "chi": "关卡3通关"
+    },
+    ">>> STAGE 4<<<": {
+        "chi": ">>> 关卡4 <<<"
+    },
+    ">>> STAGE 5<<<": {
+        "chi": ">>> 关卡5 <<<"
+    }
+}

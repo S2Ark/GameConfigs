@@ -1,0 +1,224 @@
+{
+    "ZE_Aooka3": {
+        "chi": "<<< 龙之殿v3 >>>"
+    },
+    "Map by vueru": {
+        "chi": "<<< 地图作者:  vueru 汉化: 萌爱ღ >>> "
+    },
+    "< Izzo! >": {
+        "chi": "< 你发现了嘉然隐藏的神器    你真是太棒了! >"
+    },
+    "<Hold here>": {
+        "chi": "<在这儿进行防御>"
+    },
+    "<The gate will open in 35 seconds>": {
+        "chi": "<通往龙之殿的大门 还有35 秒打开>"
+    },
+    "** A player has acquired Gold Magick **": {
+        "chi": "**  捡取地图道具: 【性感大金轮】 **"
+    },
+    "<Gate will open in 30 seconds>": {
+        "chi": "<大门30秒后打开>"
+    },
+    "** A player has acquired Present Magick **": {
+        "chi": "** 捡取地图道具：【圣嘉然之净化】 **"
+    },
+    "<Gate will open in 20 seconds>": {
+        "chi": "<大门打开还有20秒>"
+    },
+    "** A player has acquired Heal Magick **": {
+        "chi": "** 捡取地图道具：【芭芭拉的奶】 **"
+    },
+    "< A zombie has acquired Rise Magick >": {
+        "chi": "<僵尸获得 加速 >"
+    },
+    "<Barrier is gone !!>": {
+        "chi": "<障碍消失, 赶快撤退 !!>"
+    },
+    "<The gate will open in 25 seconds>": {
+        "chi": "<大门打开还有25秒>"
+    },
+    "** A player has acquired Water Magick **": {
+        "chi": "** 捡取地图道具：【圣水】 **"
+    },
+    "<There seems to be a road under this slate...>": {
+        "chi": "<大石块？ 离它远点 ！ 等它爆炸后再下去>"
+    },
+    "<5 seconds>": {
+        "chi": "<5 秒>"
+    },
+    "<Wait for 15 seconds>": {
+        "chi": "<等待15秒>"
+    },
+    "<Meat wakes up in 10 seconds>": {
+        "chi": "<还有10秒  不要让僵尸进来！！！>"
+    },
+    "<Zombie Item is Disable>": {
+        "chi": "<僵尸阵营的神器已经被禁用>"
+    },
+    "< Meat - Fire >": {
+        "chi": "< 麒麟臂巨人 释放了技能 -> 致命火场   跳到护栏上>"
+    },
+    "< Meat - Waters >": {
+        "chi": "< 麒麟臂巨人 释放了技能 -> 水波 >"
+    },
+    "< Meat - Ice Blade >": {
+        "chi": "< 麒麟臂巨人 释放了技能 -> 寒冰切割 >"
+    },
+    "< Meat - Sand Dust >": {
+        "chi": "< 麒麟臂巨人 释放了技能 -> 流沙  蹲下 >"
+    },
+    "< Meat - Space Cocoon >": {
+        "chi": "< 麒麟臂巨人 释放了技能 -> 传送 >"
+    },
+    "<Zombie Item is Enable>": {
+        "chi": "<僵尸阵营的神器已经被激活了>"
+    },
+    "<The crystal is broken?>": {
+        "chi": "<水晶怎么消失了??? 继续防守！！！路在脚下>"
+    },
+    "<The gate will open in 15 seconds>": {
+        "chi": "<门开还有15秒>"
+    },
+    "<Defend until the gate is closed>": {
+        "chi": "<门快要关了! 快快快 ,快进去! >"
+    },
+    "<It's safe for the time being...>": {
+        "chi": "<你以为结束了吗 （ ° ͜ ʖ ° ）...>"
+    },
+    "<The gate will open in 30 seconds>": {
+        "chi": "<大门还有30秒开启>"
+    },
+    "<Door will broken in 25 seconds>": {
+        "chi": "<门还有25秒破碎>"
+    },
+    "** A player has acquired Wind Magick **": {
+        "chi": "** 捡取地图道具: 【风神的庇护】 **"
+    },
+    "< A zombie has acquired Shield Magick >": {
+        "chi": "< 僵尸获得 盾 >"
+    },
+    "** A player has acquired Fire Magick **": {
+        "chi": "** 捡取地图道具: 【魔法火焰】 **"
+    },
+    "** A player has acquired Ice Magick **": {
+        "chi": "** 捡取地图道具: 【万古寒冰】 **"
+    },
+    "<Wait for the water to rise>": {
+        "chi": "<等待水面上升, 不要跳下去！！！>"
+    },
+    "<The door will broken in 10 seconds>": {
+        "chi": "<门还有10秒爆炸  不要贴门!!!>"
+    },
+    "< Boot - Poison >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 毒 >"
+    },
+    "< Boot - Repair >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 吸收 >"
+    },
+    "< Boot - Snow >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 冰圈>"
+    },
+    "< Boot - Mire >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 泥潭 >"
+    },
+    "< Boot - Vortex >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 漩涡>"
+    },
+    "< Boot - Starfall >": {
+        "chi": "< 邪恶女仆 释放了技能 -> 星辰陨落 >"
+    },
+    "<Activate teleport crystal after 15 seconds>": {
+        "chi": "<15秒后激活水晶>"
+    },
+    "< A zombie has acquired Lure Magick >": {
+        "chi": "< 捡取了地图道具: 黑洞 >"
+    },
+    "** A player has acquired Electric Magick **": {
+        "chi": "** 捡取地图道具: 【十万伏特】  **"
+    },
+    "<Gate will open in 35 seconds>": {
+        "chi": "<门打开还有35秒>"
+    },
+    "<Gate will open in 25 seconds>": {
+        "chi": "<门打开还有25秒>"
+    },
+    "<The wall will broken in 20 seconds>": {
+        "chi": "<墙壁还有20秒破碎>"
+    },
+    "<Gate will open in 10 seconds>": {
+        "chi": "<门打开还有10秒>"
+    },
+    "< Soul - Nibble Away Up >": {
+        "chi": "< Soul 释放了技能 -> 啃咬 >"
+    },
+    ">* 10 seconds *<": {
+        "chi": ">* 10秒 *<"
+    },
+    "< Enter the Gold range to avoid damage >": {
+        "chi": "<快进入性感大金轮, 避免伤害 >"
+    },
+    "< Spider - Ask Spirit >": {
+        "chi": "< 不死蛛王 释放了技能 -> Ask Spirit >"
+    },
+    "< Soul - Electric >": {
+        "chi": "< 不死蛛王 释放了技能 -> 电球 >"
+    },
+    "< Spider - Heavenly Sin >": {
+        "chi": "<不死蛛王 释放了技能 -> Heavenly Sin >"
+    },
+    "< Spider - Sand Wind >": {
+        "chi": "< 不死蛛王 释放了技能 -> 风沙 >"
+    },
+    "< Spider - Gemini >": {
+        "chi": "< 不死蛛王 释放了技能 -> Gemini >"
+    },
+    "< Spider - Lock Star >": {
+        "chi": "< 不死蛛王 释放了技能 ->星辰之光 >"
+    },
+    "< Spider - Solution Star >": {
+        "chi": "< 不死蛛王 释放了技能 -> 星辰之光>"
+    },
+    "< Spider - Death Star >": {
+        "chi": "< 不死蛛王 释放了技能 -> 死亡星辰 >"
+    },
+    "< Spider - Dark Light >": {
+        "chi": "< 不死蛛王 释放了技能 -> 光与暗 >"
+    },
+    "< Spider - Time Cocoon >": {
+        "chi": "< 不死蛛王 释放了技能 -> 光芒之击>"
+    },
+    "< Spider - Twins >": {
+        "chi": "< 不死蛛王 释放了技能 -> 暗影侵袭 >"
+    },
+    "<Gate will open in 15 seconds>": {
+        "chi": "< 门打开还有15秒 >"
+    },
+    "<Door will open in 20 seconds>": {
+        "chi": "<门打开还有20秒 >"
+    },
+    "<Door will broken in 20 seconds>": {
+        "chi": "<离门破碎还有20秒>"
+    },
+    "<Hole here>": {
+        "chi": "<展开阵型，进行原地阵地防御战>"
+    },
+    "< Meat - Thunder >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 雷场 >"
+    },
+    "< Meat - Gravity >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 重力>"
+    },
+    "< Meat - Fire of Cure >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 火+治疗 >"
+    },
+    "< Meat - Holy >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 终极  左右两边躲避>"
+    },
+    "< Meat - Wind >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 风 >"
+    },
+    "< Meat - Fire of Shield >": {
+        "chi": "< 麒麟臂蛛王 释放了技能 -> 火+反伤  停枪!!! >"
+    }
+}

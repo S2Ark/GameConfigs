@@ -1,0 +1,266 @@
+{
+    "** Map by Kayena and Heyfumi **": {
+        "chi": "制作 Kayena,Heyfumi 汉化 幽魂谷@GO社区服"
+    },
+    "** NO SIGNAL DETECTED. **": {
+        "chi": "未检测到信号."
+    },
+    "** NO SIGNAL DETECTED.. **": {
+        "chi": "未检测到信号.."
+    },
+    "** NO SIGNAL DETECTED... **": {
+        "chi": "未检测到信号..."
+    },
+    "** SIGNAL FOUND **": {
+        "chi": "找到信号"
+    },
+    "** ENGINE STARTING **": {
+        "chi": "启动引擎中"
+    },
+    "** ELEVATOR STARTING **": {
+        "chi": "电梯启动"
+    },
+    "** ENGINE IS ROTATING **": {
+        "chi": "引擎正在转动"
+    },
+    "** ELEVATOR IS ASCENDING **": {
+        "chi": "电梯正在上升"
+    },
+    "** GEARS: OFFLINE. **": {
+        "chi": "齿轮：离线."
+    },
+    "** GEARS: OFFLINE.. **": {
+        "chi": "齿轮：离线.."
+    },
+    "** GEARS: OFFLINE... **": {
+        "chi": "齿轮：离线..."
+    },
+    "** POWER FOUND **": {
+        "chi": "找到电源"
+    },
+    "** ATTEMPTING TO RESTORE POWER. **": {
+        "chi": "正在尝试恢复供电."
+    },
+    "** ATTEMPTING TO RESTORE POWER.. **": {
+        "chi": "正在尝试恢复供电.."
+    },
+    "** ATTEMPTING TO RESTORE POWER... **": {
+        "chi": "正在尝试恢复供电..."
+    },
+    "** POWER IS RESTORED **": {
+        "chi": "电源已恢复"
+    },
+    "** GEARS: ONLINE **": {
+        "chi": "齿轮：上线"
+    },
+    "** GEARS: STARTING **": {
+        "chi": "齿轮：启动"
+    },
+    "** ELEVATOR IS STARTING **": {
+        "chi": "电梯启动"
+    },
+    "** 30s BEFORE DESCEND **": {
+        "chi": "30秒后下降"
+    },
+    "** ATTEMPTING TO TELEPORT. **": {
+        "chi": "尝试传送."
+    },
+    "** ATTEMPTING TO TELEPORT.. **": {
+        "chi": "尝试传送.."
+    },
+    "** ATTEMPTING TO TELEPORT... **": {
+        "chi": "尝试传送..."
+    },
+    "** ATTEMPTING TO MOVE **": {
+        "chi": "尝试移动"
+    },
+    "** ATTEMPt tO tElpoRt.. **": {
+        "chi": "尝试tElpoRt"
+    },
+    "** teelEPortiign... **": {
+        "chi": "** teelEPortiign... **"
+    },
+    "** ALL GEARS ACTIVATED **": {
+        "chi": "所有齿轮已激活"
+    },
+    "** ATTEMPTING TO START MAIN GEAR. **": {
+        "chi": "尝试启动主齿轮."
+    },
+    "** ATTEMPTING TO START MAIN GEAR.. **": {
+        "chi": "尝试启动主齿轮.."
+    },
+    "** ATTEMPTING TO START MAIN GEAR... **": {
+        "chi": "尝试启动主齿轮..."
+    },
+    "** SUCCESS **": {
+        "chi": "成功"
+    },
+    "** MAIN GEAR IS MALFUNCTIONING **": {
+        "chi": "主齿轮出现故障"
+    },
+    "** ERROR **": {
+        "chi": "错误"
+    },
+    "** STARTING ELEVATOR INSTEAD **": {
+        "chi": "启动电梯"
+    },
+    "** ATTEMPTING TO RESTART GEARS **": {
+        "chi": "正在尝试重新启动齿轮"
+    },
+    "** MAIN GEAR IS BACK ONLINE **": {
+        "chi": "主齿轮重新上线"
+    },
+    "** ALL GEARS IN SECTION 1 IS ACTIVATED  **": {
+        "chi": "第一关的齿轮已全部激活"
+    },
+    "** MOVING TO SECTION 2 **": {
+        "chi": "正在移动到第二关"
+    },
+    "** ACTIVATING trigger_hurt ON SECTION 1 **": {
+        "chi": "激活第一关的处死"
+    },
+    "** ENGINE: OFFLINE. **": {
+        "chi": "引擎：离线."
+    },
+    "** ENGINE: OFFLINE.. **": {
+        "chi": "引擎：离线.."
+    },
+    "** ENGINE: OFFLINE... **": {
+        "chi": "引擎：离线..."
+    },
+    "** OPENING DOOR 1 **": {
+        "chi": "打开门1"
+    },
+    "** STARTING ENGINE 1 **": {
+        "chi": "启动引擎1"
+    },
+    "** OPENING DOOR 2 **": {
+        "chi": "打开门2"
+    },
+    "** STARTING ENGINE 2 **": {
+        "chi": "启动引擎2"
+    },
+    "** OPENING DOOR 3 **": {
+        "chi": "打开门3"
+    },
+    "** TRAIN WILL START IN 30 SECONDS **": {
+        "chi": "火车将在30秒后启动"
+    },
+    "** STARTING ENGINE 3 **": {
+        "chi": "启动引擎3"
+    },
+    "** ATTEMPTING TO START GEARS. **": {
+        "chi": "尝试启动齿轮."
+    },
+    "** ATTEMPTING TO START GEARS.. **": {
+        "chi": "尝试启动齿轮.."
+    },
+    "** ATTEMPTING TO START GEARS... **": {
+        "chi": "尝试启动齿轮..."
+    },
+    "** 3/3 POWER ACTIVATED **": {
+        "chi": "3/3电源激活"
+    },
+    "** ADDING 200 HP TO EACH PLAYER **": {
+        "chi": "为每个玩家增加200HP"
+    },
+    "** DORMIENTIS **": {
+        "chi": "** DORMIENTIS **"
+    },
+    "** EXPERRECTUS **": {
+        "chi": "** EXPERRECTUS **"
+    },
+    "** SPLENDOR PRAETERITUM **": {
+        "chi": "** SPLENDOR PRAETERITUM **"
+    },
+    "** NE MEMINERIS **": {
+        "chi": "** NE MEMINERIS **"
+    },
+    "** INCIPIENS **": {
+        "chi": "** INCIPIENS **"
+    },
+    "** PRIMI MOTUS **": {
+        "chi": "** PRIMI MOTUS **"
+    },
+    "** MUNDUS IN DOLORE **": {
+        "chi": "** MUNDUS IN DOLORE **"
+    },
+    "** REANIMATE **": {
+        "chi": "** REANIMATE **"
+    },
+    "** WEAK **": {
+        "chi": "** WEAK **"
+    },
+    "** I AM NOT DONE YET **": {
+        "chi": "我还没有完成"
+    },
+    "** ALL GEARS IN SECTION 2 IS ACTIVATED  **": {
+        "chi": "第二关齿轮已全部激活"
+    },
+    "** MOVING TO SECTION 3 **": {
+        "chi": "正在移动到第三关"
+    },
+    "** ACTIVATING trigger_hurt ON SECTION 2 **": {
+        "chi": "激活第二关的处死"
+    },
+    "** OPENING DOOR IN 30 SECONDS **": {
+        "chi": "门30秒后打开"
+    },
+    "** TRAIN WILL START IN 10 SECONDS **": {
+        "chi": "火车10秒后启动"
+    },
+    "** I AM BACK MORTAL **": {
+        "chi": "我回来了 凡人"
+    },
+    "** MY MINION WILL TAKE THE REST **": {
+        "chi": "我的仆人将拿其余的"
+    },
+    "** YOU ARE SO WEAK MORTAL **": {
+        "chi": "你是如此软弱的凡人"
+    },
+    "** HA HA HA **": {
+        "chi": "HA HA HA "
+    },
+    "** ZOMBIE TP IN 10 SECONDS **": {
+        "chi": "**僵尸将在10秒后传送"
+    },
+    "** OPENING DOOR IN 10 SECONDS **": {
+        "chi": "门在10秒后开启"
+    },
+    "** GEARS: STARTING. **": {
+        "chi": "齿轮：启动中."
+    },
+    "** GEARS: STARTING.. **": {
+        "chi": "齿轮：启动中..."
+    },
+    "** GEARS: STARTING... **": {
+        "chi": "齿轮：启动中..."
+    },
+    "** GEARS: STARTING IN 15 SECONDS **": {
+        "chi": "齿轮：15秒后启动"
+    },
+    "** PLATFORM WILL GO UP IN 15 SECONDS **": {
+        "chi": "平台将在15秒后上升"
+    },
+    "** TRAIN WILL START IN 20 SECONDS **": {
+        "chi": "火车将在20秒后启动"
+    },
+    "** ALL GEARS IN SECTION 3 IS ACTIVATED  **": {
+        "chi": "第三关齿轮已全部激活"
+    },
+    "** MOVING TO FINAL SECTION **": {
+        "chi": "正在移动到最后一关"
+    },
+    "** ACTIVATING trigger_hurt ON SECTION 3 **": {
+        "chi": "激活第三关的处死"
+    },
+    "**  SECTION 4 IS STILL UNDER CONSTRUCTION **": {
+        "chi": "第四关仍在建设中"
+    },
+    "**  HOW ABOUT WE RTV HUH? **": {
+        "chi": "我们RTV怎么样？"
+    },
+    "** TO BE CONTINUED. **": {
+        "chi": "未完待续"
+    }
+}

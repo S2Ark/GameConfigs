@@ -1,0 +1,132 @@
+{
+    "weapons": [
+        {
+            "knockback": 3.0,
+            "name": "Glock-18"
+        },
+        {
+            "knockback": 3.0,
+            "name": "P2000"
+        },
+        {
+            "knockback": 3.0,
+            "name": "USP-S"
+        },
+        {
+            "knockback": 3.0,
+            "name": "P250"
+        },
+        {
+            "knockback": 3.0,
+            "name": "Desert Eagle"
+        },
+        {
+            "knockback": 3.0,
+            "name": "Dual Berettas"
+        },
+        {
+            "knockback": 3.0,
+            "name": "Five-Seven"
+        },
+        {
+            "knockback": 3.0,
+            "name": "R8 Revolver"
+        },
+        {
+            "knockback": 3.0,
+            "name": "CZ75-Auto"
+        },
+        {
+            "knockback": 3.0,
+            "name": "Tec-9"
+        },
+        {
+            "knockback": 3.0,
+            "name": "MAC-10"
+        },
+        {
+            "knockback": 3.0,
+            "name": "MP9"
+        },
+        {
+            "knockback": 3.0,
+            "name": "PP-Bizon"
+        },
+        {
+            "knockback": 3.0,
+            "name": "MP7"
+        },
+        {
+            "knockback": 3.0,
+            "name": "MP5-SD"
+        },
+        {
+            "knockback": 3.0,
+            "name": "UMP-45"
+        },
+        {
+            "knockback": 3.0,
+            "name": "P90"
+        },
+        {
+            "knockback": 3.0,
+            "name": "sfsmg"
+        },
+        {
+            "knockback": 3.0,
+            "name": "deatheye"
+        },
+        {
+            "ammopack": 0,
+            "name": "m1887"
+        },
+        {
+            "ammopack": 0,
+            "name": "balrog11"
+        },
+        {
+            "ammopack": 0,
+            "name": "gatling"
+        },
+        {
+            "price": 1000,
+            "ammopack": 0,
+            "name": "kevlar",
+            "displayname": "护甲"
+        },
+        {
+            "price": 3500,
+            "ammopack": 2,
+            "name": "hegrenade"
+        },
+        {
+            "ammopack": 7,
+            "name": "smoke"
+        },
+        {
+            "ammopack": 0,
+            "name": "jump bomb"
+        },
+        {
+            "ammopack": 0,
+            "name": "infect bomb"
+        },
+        {
+            "ammopack": 0,
+            "name": "antidote"
+        },
+        {
+            "damagemode": 0,
+            "damagevalue": 10000.0,
+            "name": "zombie claw",
+            "view": "",
+            "world": "",
+            "soundevent": ""
+        },
+        {
+            "damagemode": 1,
+            "damagevalue": 400.0,
+            "name": "Knife"
+        }
+    ]
+}

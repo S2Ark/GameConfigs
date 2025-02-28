@@ -1,0 +1,41 @@
+{
+    "<<< MAP BY =LIROY= >>>": {
+        "chi": "<<< 作者 LIROY 汉化 萌爱 >>>"
+    },
+    "DOOR OPENING IN 40 SEC": {
+        "chi": "大门40秒后打开"
+    },
+    "ZOMBIES ARE GONE ! GO TO THE DOOR !": {
+        "chi": "僵尸已被禁锢 ! 前往下一个点 !"
+    },
+    "DOOR OPENING IN 30 SEC": {
+        "chi": "大门30秒后打开"
+    },
+    "DEFEND ZOMBIES 40 SEC": {
+        "chi": "防守40秒"
+    },
+    "DOOR OPENING IN 60 SEC": {
+        "chi": "大门60秒后打开"
+    },
+    "SURVIVE 60 SEC": {
+        "chi": "生存60秒"
+    },
+    "DOOR OPENING IN 20 SEC": {
+        "chi": "大门20秒后打开"
+    },
+    "BOSS USE ELECTRO !!!": {
+        "chi": "BOSS使用电流脉冲 !!!"
+    },
+    "LOOK UP !!!!": {
+        "chi": "BOSS使用星光坠落 !!!!"
+    },
+    "LOOK DOWN !!!!": {
+        "chi": "BOSS使用终结之地 !!!!"
+    },
+    "BOSS USE LASERS !!!": {
+        "chi": "BOSS使用光刃!!!"
+    },
+    "BOSS USE WIND !!!": {
+        "chi": "BOSS使用暴风!!!"
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "**This is a map based on the game STALKER**": {
+        "chi": "**这是一张以饼饼为原型的地图**"
+    },
+    "**The map isn't eazy. It needs good ZE skills and good teamplay**": {
+        "chi": "**这张地图需要ze技巧和好的团队！**"
+    },
+    "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E": {
+        "chi": "制作者 gleb_erilov(Headshooter.SC) 特别感谢 HaRyDe POMKA 汉化 bilibili韭菜墨@GO社区服"
+    },
+    "Type in console mat_colorcorrection 1 for dynamic effects!!": {
+        "chi": "输入控制台MAT_COLRECTRATION 1以获得动态效果！！"
+    },
+    "A player picked up meatchunk": {
+        "chi": "一位玩家捡起了肉块"
+    },
+    "Lab door 2 will open in 13 seconds": {
+        "chi": "实验室2号门将在13秒后打开"
+    },
+    "Lab door 1 will open in 11 seconds": {
+        "chi": "实验室1号门将在11秒后打开"
+    },
+    "Lab door 2 will open for zombies in 18 seconds": {
+        "chi": "实验室门2将在18秒内为僵尸打开"
+    },
+    "Lab door 1 will open for zombies in 18 seconds": {
+        "chi": "实验室门1将在18秒内为僵尸打开"
+    },
+    "THE LIFT 2 WILL LEAVE IN 9 SECONDS": {
+        "chi": "电梯2号将在9秒后离开"
+    },
+    "Zombie shield is activated. You have 15 seconds.": {
+        "chi": "僵尸护盾被激活。你有15秒的时间。"
+    },
+    "A player picked up a piece of flesh": {
+        "chi": "一名玩家捡起一块肉！"
+    },
+    "Zombie shield is disabled.": {
+        "chi": "僵尸护盾被禁用。"
+    },
+    "***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***": {
+        "chi": "***如果你想打开大门，就把电源打开！***"
+    },
+    "***The electricity in on. You can push the panels to open the gates***": {
+        "chi": "***通电了。你可以推着面板打开大门。***"
+    },
+    "The gate 1 will open in 30 seconds": {
+        "chi": "1号门将在30秒后打开"
+    },
+    "Hold this position for 10 seconds!!": {
+        "chi": "保持这个姿势10秒钟！！"
+    },
+    "The Chernobyl gate will open in 20 seconds.": {
+        "chi": "切尔诺贝利大门将在20秒后打开。"
+    },
+    "Zombie sheld is activated for 30 seconds!!": {
+        "chi": "僵尸盾牌被激活30秒！！"
+    },
+    "Survive for 70 seconds": {
+        "chi": "与嘉然一起存活70秒！！！"
+    },
+    "The emission will be in 50 seconds. Find the bunker and hide in it!!!": {
+        "chi": "发射时间将在50秒后。找到掩体，藏在里面！"
+    },
+    "**15 SECONDS LEFT**": {
+        "chi": "**还剩15秒**"
+    },
+    "A player picked up fireball": {
+        "chi": "一名玩家捡起火球！"
+    },
+    "A player picked up flash": {
+        "chi": "一个玩家拿起了闪光灯"
+    },
+    "**Hold the place for 25 seconds**": {
+        "chi": "**守住这个地方25秒**"
+    },
+    "***Break the spheres to escape***": {
+        "chi": "***打破球体逃跑！***"
+    },
+    "**5 SECONDS LEFT**": {
+        "chi": "**还剩5秒！！**"
+    },
+    "**You win the round!!You unlock the hard mode.**": {
+        "chi": "**你赢了这一轮！你解锁了困难模式！**"
+    },
+    "**AUTO-SLAYER ENABLED**": {
+        "chi": "**已启用自动清除！**"
+    },
+    "THE LIFT 1 WILL LEAVE IN 4 SECONDS": {
+        "chi": "电梯1号将在4秒后离开"
+    },
+    "***OH NO WHO IS IT? WE MUST KILL IT!***": {
+        "chi": "***哦，不，是谁？我们必须杀了它！***"
+    },
+    "**You did it!! You have completed stage 2!!**": {
+        "chi": "**你做到了！！你已经完成了第二阶段！！**"
+    },
+    "**now is the time to see something new**": {
+        "chi": "**现在是看茉莉姐姐的时候了！**"
+    },
+    "**UNKNOWN ARTEFACT** QUEST COMPLETED": {
+        "chi": "**未知艺术品**任务完成"
+    },
+    "**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE": {
+        "chi": "**奖励**你在这个舞台上又获得了一个饼饼"
+    },
+    "Bloodsucker is watching you...": {
+        "chi": "吸血鬼在看着你...."
+    },
+    "**Bloodsucker have been defeated**": {
+        "chi": "**吸血鬼已经被打败了....**"
+    },
+    "**Your items got more power**": {
+        "chi": "**你的物品变得更有力量了**"
+    },
+    "**Wait until the debris break**": {
+        "chi": "**等碎片碎了再说**"
+    },
+    "**OPENING THE GATES (10 SECONDS)**": {
+        "chi": "**打开大门(10秒)**"
+    },
+    "**The door wil open in 10 seconds**": {
+        "chi": "**再过10秒钟，门就会打开**"
+    },
+    "**Hold this way for 10 seconds**": {
+        "chi": "**这样保持10秒钟**"
+    },
+    "**It's dead. Good job**": {
+        "chi": "**它死了。做得好**"
+    },
+    "**1 PLAYER have to go to the command room to take documents**": {
+        "chi": "**1名玩家必须到指挥室拿文件..**"
+    },
+    "**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**": {
+        "chi": "**关卡失败了**僵尸让它走到了第二条路**"
+    },
+    "A player picked up nightstar": {
+        "chi": "一名玩家拿起了夜星"
+    },
+    "A player picked up spikeball": {
+        "chi": "一名玩家拿起了迷你排球"
+    },
+    "**The documents are here!**We are too close!**": {
+        "chi": "**文件到了！**我们离得太近了！**"
+    },
+    "**Defend a bit**The door will explode in a few seconds!**": {
+        "chi": "**防守一下**几秒钟后门就会爆炸！**"
+    },
+    "**RUN RUN RUN!!!**": {
+        "chi": "**跑跑跑！！！！！**"
+    },
+    "**Good job!! You won stage 3!! New area opened!**": {
+        "chi": "**干得好！！你赢了第三阶段！！新区开张了！**"
+    },
+    "**GO INTO THE TELEPORTER***": {
+        "chi": "**走进传送器***"
+    },
+    "***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***": {
+        "chi": "***你有时间搜索一些隐藏的物品***"
+    },
+    "***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**": {
+        "chi": "***然后撤退，等待栅栏打开**"
+    },
+    "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**": {
+        "chi": "**所有挂机和速度慢的玩家都被传送**"
+    },
+    "**Hold here for 25 seconds**": {
+        "chi": "**在这里等25秒**"
+    },
+    "**And then go to the pool**": {
+        "chi": "**然后去游泳池**"
+    },
+    "**..We founded something unusial..**": {
+        "chi": "**..我们发现了一些不重要的东西**"
+    },
+    "**.. Is it a new anomaly?!..**": {
+        "chi": "**.. 这是新的异常点吗？！..*"
+    },
+    "**NOW WE ARE READY TO GO**": {
+        "chi": "**现在我们准备好出发了！**"
+    },
+    "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**": {
+        "chi": "**boss在控制你的大脑！！这地方不是真的！！**"
+    },
+    "**You have defeated controller!!! Good job**": {
+        "chi": "**你打败了控制器！做得好**"
+    },
+    "**Now go away to the coast**": {
+        "chi": "**现在去海边吧！**"
+    },
+    "**The blowout is comming**": {
+        "chi": "**井喷即将到来！**"
+    },
+    "**Prepare for ultimate survival. Fight for your life!!**": {
+        "chi": "**为最终的生存做好准备。为你的生命而战！**"
+    },
+    "**FIREBALL GOT MAXIMUM POWER**": {
+        "chi": "**火球获得最大能量！**"
+    },
+    "**YOU DID IT!!!**GOOD LUCK!!**": {
+        "chi": "**你做到了！**祝你好运！**"
+    },
+    "**Prepare to FIGHT**": {
+        "chi": "*准备战斗吧！！*"
+    },
+    "**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**": {
+        "chi": "**当饼饼想茉莉姐姐时，您的物品获得最大功率**使用**"
+    },
+    "**PREPARE TO MOVE IN 10 SECONDS!**": {
+        "chi": "**10秒后准备行动！**"
+    },
+    "**GO!!**GO!!**GO!!**": {
+        "chi": "**GO!!**GO!!**GO!!**"
+    },
+    "**DON'T LET HIM TO FAIL US!!**": {
+        "chi": "**别让他让我们失望！！**"
+    },
+    "**PLAY AS YOU CAN**": {
+        "chi": "**尽你所能发挥作用**"
+    },
+    "**YOU HAVE FAILED**": {
+        "chi": "**你失败了！**"
+    },
+    "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**": {
+        "chi": "**你离胜利太近了**继续坚持**"
+    },
+    "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**": {
+        "chi": "**他们想杀了我们！尽你所能射击他们**"
+    },
+    "**HE IS DEAD!!NICE WORK!!**": {
+        "chi": "**他死了！！干得好！！**"
+    },
+    "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**": {
+        "chi": "**你们赢得了地图！！你们才是真正的夹心糖！！！**"
+    }
+}

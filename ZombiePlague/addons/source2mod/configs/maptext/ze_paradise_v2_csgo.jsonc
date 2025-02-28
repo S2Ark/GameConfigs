@@ -1,0 +1,38 @@
+{
+    "HINT: Break your way out!": {
+        "chi": "提示：打破船舱就是你的出路！"
+    },
+    "** Tram leaving in 15 seconds **": {
+        "chi": "** 电车15秒后离开 **"
+    },
+    "HINT: 'Crouch' into the hang gliders and then stand up inside.": {
+        "chi": "提示：你可以使用滑翔翼。"
+    },
+    "HINT: Cut the boat cable!": {
+        "chi": "提示：切断船缆"
+    },
+    "** Helicopter leaving in 15 seconds! **": {
+        "chi": "** 直升机将在15秒后离开 **"
+    },
+    "HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!": {
+        "chi": "提示：你可以沿着水流方向游到幻想之域"
+    },
+    "** Missile launched! You will have to jump! **": {
+        "chi": "** 导弹发射了！你要赶紧跳了！ **"
+    },
+    "** Boat leaving in 10 seconds! **": {
+        "chi": "** 船还有10秒出发 **"
+    },
+    "** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **": {
+        "chi": "** 鲨鱼正在追向我们！快攻击它！ **"
+    },
+    "** Magma chamber charges detonated. Wilmekea Peak has become unstable! **": {
+        "chi": "** 世界正在崩塌。快进入幻想之域！ **"
+    },
+    "** Wilmekea has gone critical. 10 seconds until eruption! **": {
+        "chi": "** 距离世界崩塌还有10秒 **"
+    },
+    "** Jungle bus out of fuel! **": {
+        "chi": "** 公交车没有燃料了！ **"
+    }
+}

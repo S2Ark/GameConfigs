@@ -1,0 +1,134 @@
+{
+    "<--A human has picked Health Ball-->": {
+        "chi": "一位人类玩家拾取了【治疗】球"
+    },
+    "<--A human has picked White Knight-->": {
+        "chi": "一位人类玩家拾取了【白色高达骑士】"
+    },
+    "<--Map Made By Color-->": {
+        "chi": "地图作者: 酸奶 汉化:Tastysaw&Hanz7@GO社区服"
+    },
+    "<--A human has picked Fire Ball-->": {
+        "chi": "一位人类玩家拾取了【火】球"
+    },
+    "<--Wood door will break in 45s-->": {
+        "chi": "木门将在45秒后破裂, 在这坚守住!"
+    },
+    "<--Wood door will break in 15s-->": {
+        "chi": "木门将在15秒后破裂, 在这坚守住!"
+    },
+    "<--Wood door will break in 5s-->": {
+        "chi": "木门将在5秒后破裂"
+    },
+    "<--A human has picked Snowstorm Ball-->": {
+        "chi": "一位玩家拾取了【暴风雪】球"
+    },
+    "<--Touch 2 beams-->": {
+        "chi": "快去触碰2个发红光的光柱, 来激活机关"
+    },
+    "<--5s left-->": {
+        "chi": "还剩5秒"
+    },
+    "<--What...it's a dragon-->": {
+        "chi": "什么…那是一条巨龙?!"
+    },
+    "<--It comes...-->": {
+        "chi": "WDNMD, 它朝我们飞来了, 寄?!"
+    },
+    "<--Grenade can damage dragon-->": {
+        "chi": "手雷可以伤害巨龙"
+    },
+    "<--Balls can damage dragon except beam ball-->": {
+        "chi": "除了光束球以外的元素球可以伤害巨龙"
+    },
+    "<--Dragon uses black hole-->": {
+        "chi": "巨龙使用了【黑洞】, 注意按住方向键不被吸引!"
+    },
+    "<--Dragon uses meteor-->": {
+        "chi": "巨龙使用【流星】, 注意头顶上方掉落的巨石"
+    },
+    "<--Dragon uses fire-->": {
+        "chi": "巨龙使用了【烈火】, 不要身陷火海中"
+    },
+    "<--Wait for 45s-->": {
+        "chi": "<-- 等待45秒 -->"
+    },
+    "<--Wait for 30s-->": {
+        "chi": "<-- 等待30秒 -->"
+    },
+    "<--Hold for last 25s-->": {
+        "chi": "<-- 在这里坚守最后的25秒 -->"
+    },
+    "<--Wait for 15s-->": {
+        "chi": "<-- 等待15秒 -->"
+    },
+    "<--Wait for 20s-->": {
+        "chi": "<-- 等待20秒 -->"
+    },
+    "<--Collect 3 glow balls-->": {
+        "chi": "收集3个发绿光的球, 它们散布在城堡附近"
+    },
+    "<--Wait for 40s-->": {
+        "chi": "<--等待40秒-->"
+    },
+    "<--Wait for 10s-->": {
+        "chi": "<--等待10秒-->"
+    },
+    "<--Shoot waha's head if possible-->": {
+        "chi": "尽量射击它的头部"
+    },
+    "<--Hold for 15s-->": {
+        "chi": "<-- 守住15秒 -->"
+    },
+    "<--A zombie has picked Health Ball-->": {
+        "chi": "<-- 一个僵尸捡取到了【治愈】球 -->"
+    },
+    "<--A human has picked Beam Ball-->": {
+        "chi": "<-- 一个人类捡取到了【光】球 -->"
+    },
+    "<--A zombie has picked Blackhole Ball-->": {
+        "chi": "<-- 一个僵尸捡取到了【黑洞】球 -->"
+    },
+    "<--Zombies are in the room-->": {
+        "chi": "<-- 僵尸侵入了安全屋 -->"
+    },
+    "<--Failed-->": {
+        "chi": "<-- 失败 -->"
+    },
+    "<--A zombie has picked Alacrity Ball-->": {
+        "chi": "<-- 一个僵尸捡取到了【迅捷】球 -->"
+    },
+    "<--A human has picked Lightning Ball-->": {
+        "chi": "<--一个人类获得了电-->"
+    },
+    "<--A human has picked Water Ball-->": {
+        "chi": "<--一个人类获得了水墙-->"
+    },
+    "<--A zombie has picked Poison Ball-->": {
+        "chi": "<--A zombie has picked Poison Ball-->"
+    },
+    "<--Hold for 40s-->": {
+        "chi": "<--Hold for 40s-->"
+    },
+    "<--Shoot zombies into the water-->": {
+        "chi": "<--Shoot zombies into the water-->"
+    },
+    "<--Hold for 35s-->": {
+        "chi": "<--Hold for 35s-->"
+    },
+    "<--Hold for last 30s-->": {
+        "chi": "<--Hold for last 30s-->"
+    },
+    "<--4s left-->": {
+        "chi": "<--4s left-->"
+    },
+    "<--3s left-->": {
+        "chi": "<--3s left-->"
+    },
+    "<--2s left-->": {
+        "chi": "<--2s left-->"
+    },
+    "<--1s left-->": {
+        "chi": "<--1s left-->"
+    }
+}

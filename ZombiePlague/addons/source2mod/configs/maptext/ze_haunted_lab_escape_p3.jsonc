@@ -1,0 +1,59 @@
+{
+    "* * * The Water is Electric so dont swim! * * *": {
+        "chi": "* * * 水里有电，不要当水鬼!!!. * * *"
+    },
+    "* * Break the iron planks to enter the doors! * *": {
+        "chi": "* * 清除障碍物!!! * *"
+    },
+    "* * * Zombie Shield Activated in 20 Seconds!": {
+        "chi": "* * * 僵尸防御系统将在20秒后启动!"
+    },
+    "* * * The Gate Door Will Open in 5 Seconds! * * *": {
+        "chi": "* * * 大门5秒后打开! * * *"
+    },
+    "* * * Zombie Shield Disable in 20 Seconds! * * *": {
+        "chi": "* * * 僵尸防御系统20秒后失效 * * *"
+    },
+    "* * Zombie Shield Activated! * *": {
+        "chi": "* * 僵尸防御系统已被激活! * *"
+    },
+    "* * * Zombie Shield Disabled! * * *": {
+        "chi": "* * * 僵尸防御系统已失效!!! * * *"
+    },
+    "* * * Get on the Train! * * *": {
+        "chi": "* * * 上车!  * * *"
+    },
+    "* * * Train is leaving in 15 seconds! * * *": {
+        "chi": "* * * 车在15秒后离开! * * *"
+    },
+    "* * The Electric Water will be disabled in 15 seconds! * *": {
+        "chi": "* * 水里的电15秒后消失! * *"
+    },
+    "* * * Electric Water is Disabled * * *": {
+        "chi": "* * * 水里的电流消失了 * * *"
+    },
+    "* * * Get up on the rescue spot! * * *": {
+        "chi": "* * * 前面是啥???* * *"
+    },
+    "* * Pull the Lever to charge the Teleport! * * *": {
+        "chi": "* * 拉动电闸给传送门充能! * * *"
+    },
+    "* * * Teleport is Charged in 30 Seconds! * * *": {
+        "chi": "* * * 传送门30秒后充能完毕! * * *"
+    },
+    "* * * Break the DOOR to Enter! * * *": {
+        "chi": "* * * 清除障碍物! * * *"
+    },
+    "* * * Run to the Safe Room! * * *": {
+        "chi": "* * * 进入安全屋! 嘉然小姐会保护我们!* * *"
+    },
+    "* * * LAST DOOR CLOSING IN 40 SECONDS! * * *": {
+        "chi": "* * * 防守40秒后大门关闭! * * *"
+    },
+    "* * * Zombie Nervegas Activated in 5 Seconds! * * *": {
+        "chi": "* * * 嘉然小姐吃掉了僵尸???! * * *"
+    },
+    "* * * The Gate Door Will Open in 10 Seconds! * * *": {
+        "chi": "* * *  10秒后门开!  * * *"
+    }
+}

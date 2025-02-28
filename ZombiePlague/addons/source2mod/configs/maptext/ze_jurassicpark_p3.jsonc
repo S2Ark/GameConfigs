@@ -1,0 +1,23 @@
+{
+    "** Wait for other survivors 25  seconds **": {
+        "chi": "** 生存25秒 **"
+    },
+    "** Get Ready **": {
+        "chi": "** 准备好了吗 **"
+    },
+    "** Run! **": {
+        "chi": "** 快跑! **"
+    },
+    "** Call the mainland - Tell them to send the damn helicopters! **": {
+        "chi": "** 接通电话  呼叫直升机! **"
+    },
+    "** SECURE THE LZ ** ": {
+        "chi": "** 先在这里生存下来 ** "
+    },
+    "** Biosyn Huey inbound - ETA 15 seconds **": {
+        "chi": "** 直升机即将入站 还剩15秒 **"
+    },
+    "** Nerve gas released ** ": {
+        "chi": "** 释放毒气 ** "
+    }
+}

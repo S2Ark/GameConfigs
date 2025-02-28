@@ -1,0 +1,44 @@
+{
+    "Auther:Black_Rock！ Thank you for your visit": {
+        "chi": "地图制作:黑岩 感谢你的游玩"
+    },
+    "After 20 seconds, the platform descends": {
+        "chi": "平台将于20秒后下降，不上来的就没了"
+    },
+    "Open in 20 seconds": {
+        "chi": "20秒开启，坚持下"
+    },
+    "Connect the road in 25 seconds": {
+        "chi": "25秒后连接通道，别急着贴门会假摔"
+    },
+    "After 10 seconds, the transmission door starts": {
+        "chi": "10秒后，黑叔叔会打开传送门，记得跳进去"
+    },
+    "After 30 seconds, the platform descends": {
+        "chi": "30秒后电梯平台下降，别在平台下会被压死"
+    },
+    "10": {
+        "chi": "黑岩说等待10秒"
+    },
+    "Open the door in 10 seconds": {
+        "chi": "防守10秒后开门"
+    },
+    "After 10 seconds, the zombie portal opens": {
+        "chi": "10秒后僵尸传送门打开"
+    },
+    "Broken teleport crystal, open in 30 seconds": {
+        "chi": "水晶已被破坏，传送30秒后打开"
+    },
+    "Broken damage crystal!": {
+        "chi": "抑制水晶已被破坏！"
+    },
+    "20": {
+        "chi": "黑岩说等待20秒"
+    },
+    "Gateway triggered": {
+        "chi": "下层路的门已触发,25秒后开启"
+    },
+    "Open the last door of the main road in 15 seconds": {
+        "chi": "上层路的最后一道门将在15秒后打开"
+    }
+}

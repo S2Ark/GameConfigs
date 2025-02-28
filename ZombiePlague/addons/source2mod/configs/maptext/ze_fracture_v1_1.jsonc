@@ -1,0 +1,104 @@
+{
+    ">> Admin set to Sunrise Phase <<": {
+        "chi": ">> 管理员选择Sunrise关 <<"
+    },
+    "** The sun is going down... **": {
+        "chi": "** 太阳要下山了... **"
+    },
+    ">> Failed <<": {
+        "chi": ">> 失败 <<"
+    },
+    ">> Hold 25 seconds <<": {
+        "chi": ">> Hold 25 seconds <<"
+    },
+    ">> 5 seconds left <<": {
+        "chi": ">> 5 seconds left <<"
+    },
+    ">> Admin set to Lunar Phase <<": {
+        "chi": ">> 管理员选择Lunar关 <<"
+    },
+    ">> Admin set to Black Phase <<": {
+        "chi": ">> 管理员选择黑关 <<"
+    },
+    ">> Hold 20 seconds <<": {
+        "chi": ">> Hold 20 seconds <<"
+    },
+    ">> Zombie teleport in 10 seconds <<": {
+        "chi": ">> Zombie teleport in 10 seconds <<"
+    },
+    ">> Hold 30 seconds <<": {
+        "chi": ">> Hold 30 seconds <<"
+    },
+    ">> Zombies reached the door <<": {
+        "chi": ">> 僵尸已贴门 <<"
+    },
+    ">> Press the buttons at the same time <<": {
+        "chi": ">> 同时按下按钮 <<"
+    },
+    ">> Hold 35 seconds <<": {
+        "chi": ">> Hold 35 seconds <<"
+    },
+    ">> Core activating... <<": {
+        "chi": ">> 成功！核心正在激活... <<"
+    },
+    ">> Power restored! <<": {
+        "chi": ">> 能量恢复! <<"
+    },
+    ">> Hold 50 seconds <<": {
+        "chi": ">> Hold 50 seconds <<"
+    },
+    "** Go to the main door **": {
+        "chi": "** 去正门 **"
+    },
+    "** Both cores are activated **": {
+        "chi": "** 两个核心都已激活 **"
+    },
+    "** Did you make it back to reality...? **": {
+        "chi": "** 你回到现实了吗...? **"
+    },
+    "** ...Something is coming...? **": {
+        "chi": "** ...有东西来了...? **"
+    },
+    "** Sunrise Phase Completed **": {
+        "chi": "** Sunrise关完成 **"
+    },
+    "** Lunar Phase Completed **": {
+        "chi": "** Lunar关完成 **"
+    },
+    ">> falltp update in 10 seconds <<": {
+        "chi": ">> falltp update in 10 seconds <<"
+    },
+    ">> Hold 10 seconds <<": {
+        "chi": ">> Hold 10 seconds <<"
+    },
+    ">> Shoot the Crystal <<": {
+        "chi": ">> 射击水晶 <<"
+    },
+    "** We need to activate the core... **": {
+        "chi": "** 我们需要激活核心... **"
+    },
+    "** Go to the left door **": {
+        "chi": "** 去左边的门 **"
+    },
+    ">> Hold 70 seconds <<": {
+        "chi": ">> Hold 70 seconds <<"
+    },
+    "** Into the Shadow... **": {
+        "chi": "** 走进阴影... **"
+    },
+    ">> Hold 15 seconds <<": {
+        "chi": ">> Hold 15 seconds <<"
+    },
+    ">> Admin set to White Phase <<": {
+        "chi": ">> 管理员选择白关 <<"
+    },
+    ">> Restart round... <<": {
+        "chi": ">> 重启回合... <<"
+    },
+    ">> Hold 45 seconds <<": {
+        "chi": ">> Hold 45 seconds <<"
+    },
+    ">> Success! Core activating... <<": {
+        "chi": ">> 成功！核心正在激活... <<"
+    }
+}

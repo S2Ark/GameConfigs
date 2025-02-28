@@ -1,0 +1,74 @@
+{
+    "<< Fix by : Lishang >>": {
+        "chi": "<< 修复 by : Lishang >>"
+    },
+    "<< Test server : ZombiEden Server  >>": {
+        "chi": "<< 测试服务器 : ZombiEden Server  >>"
+    },
+    "<< Open Path at 10 sec >>": {
+        "chi": "<< 道路10秒后开放 >>"
+    },
+    "<< ze_surf_virtus >>": {
+        "chi": "<< ze_surf_virtus >>"
+    },
+    "<< Defend for 30 sec >>": {
+        "chi": "<< 防守30秒后传送 >>"
+    },
+    "<< Teleport Activate >>": {
+        "chi": "<< 传送开启 >>"
+    },
+    "<< Zombie block Disable at 15 sec >>": {
+        "chi": "<< 僵尸15秒后出笼 >>"
+    },
+    "<< Survive for 65 seconds !!! >>": {
+        "chi": "<< 苟活65秒后传送 !!! >>"
+    },
+    "<< 35 seconds >>": {
+        "chi": "<< 剩余35秒 >>"
+    },
+    "<< 15 seconds >>": {
+        "chi": "<< 剩余15秒 >>"
+    },
+    "<< Secret teleport Enable >>": {
+        "chi": "<< 神秘传送已激活 >>"
+    },
+    "<< All human teleport >>": {
+        "chi": "<< 传送所有人类 >>"
+    },
+    "<< Human Teleport Enable >>": {
+        "chi": "<< 人类传送开启 >>"
+    },
+    "<< Zombie come at 5 sec >>": {
+        "chi": "<< 僵尸5秒后出笼 >>"
+    },
+    "<< Teleport gate activate at 30 sec >>": {
+        "chi": "<< 传送30秒后开启 >>"
+    },
+    "*** Player select ' Normal Laser ' ***": {
+        "chi": "*** 跳刀选择：mako彩虹刀 ***"
+    },
+    "*** Player select ' two high speed laser ***": {
+        "chi": "*** 跳刀选择：西沙红刀 ***"
+    },
+    "<< Survive for 75 seconds !!! >>": {
+        "chi": "<< 存活75秒 !!! >>"
+    },
+    "<< Watch out Lasers >> ": {
+        "chi": "<< 看前面，小心跳刀 >> "
+    },
+    "<< Shoooooooot !!!! >> ": {
+        "chi": "<< Shoooooooot !!!! >> "
+    },
+    "<< Dead >>": {
+        "chi": "<< 它被我们干碎了 >>"
+    },
+    "<< Last Surf open at 30 sec >>": {
+        "chi": "<< 最后的滑翔30秒后开放 >>"
+    },
+    "<< Open >>": {
+        "chi": "<< 已开放 >>"
+    },
+    "<< Nuke Enable >>": {
+        "chi": "<< 是不是太简单了... >>"
+    }
+}

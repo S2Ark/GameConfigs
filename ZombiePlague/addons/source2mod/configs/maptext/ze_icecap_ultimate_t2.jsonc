@@ -1,0 +1,344 @@
+{
+    "*AGAINST...*": {
+        "chi": "*正在选择神器...*"
+    },
+    "*DOHVA!*": {
+        "chi": "*大卫!*"
+    },
+    "*MECH!*": {
+        "chi": "*重型机甲!*"
+    },
+    "*ALUCARD!*": {
+        "chi": "*阿尔卡特!*"
+    },
+    "*ROCKET CANNON!*": {
+        "chi": "*火箭筒!*"
+    },
+    "*HERDER CANNON!*": {
+        "chi": "*推力枪!*"
+    },
+    "*WIND!*": {
+        "chi": "*风!*"
+    },
+    "*MINIGUN CANNON!*": {
+        "chi": "*机关枪!*"
+    },
+    "*GRAVITY!*": {
+        "chi": "*黑洞!*"
+    },
+    "*ULTIMATE!*": {
+        "chi": "*终极!*"
+    },
+    "*SHADOW KNIGHT!*": {
+        "chi": "*黑暗高达!*"
+    },
+    "*NAMELESS KING!*": {
+        "chi": "*青蛙王子!*"
+    },
+    "*BLADE KEEPER!*": {
+        "chi": "*剑神!*"
+    },
+    "*BENDER!*": {
+        "chi": "*长条怪!*"
+    },
+    "*GIANT!*": {
+        "chi": "*巨人!*"
+    },
+    "*WHITE KNIGHT!*": {
+        "chi": "*白骑士!*"
+    },
+    "*A player has skip the Warmup...*": {
+        "chi": "*卧槽有权男*"
+    },
+    "**Detect remaining Skin Player..**": {
+        "chi": "*选择玩家皮肤*"
+    },
+    "**Knife Fight will begin after they all die B)**": {
+        "chi": "*刀战即将开始*"
+    },
+    "*GET READY FOR THE PARTY XD*": {
+        "chi": "*萌爱正在为你们选择模式*"
+    },
+    "**Wow,You did it,Without yek or trim...**": {
+        "chi": "**哇哦，我们做到了!我们是冠军...**"
+    },
+    "**I think..?.**": {
+        "chi": "*？？？？？*"
+    },
+    "**Oh shit,A Zombie.**": {
+        "chi": "卧槽僵尸隐身"
+    },
+    "**YOU FUCKED!!!**": {
+        "chi": "*艹*"
+    },
+    "**Hell yea,It's YEK TIMEEEEE!**": {
+        "chi": "*准备迎接挑战吧*"
+    },
+    "***PLAYER PICKED UP ITEM - ROCKET CANNON***": {
+        "chi": "火箭炮已被拾取"
+    },
+    "Light falls,Shadow rise...": {
+        "chi": "光与暗的骑士已加入游戏"
+    },
+    "Bladekeeper's Judgement Begins.": {
+        "chi": "*剑神已加入游戏!*"
+    },
+    "Balrog Gonna Melt Everthing Down..": {
+        "chi": "*火焰魔兽加入游戏!*"
+    },
+    "The Ultimate Weapon Has Join the Game!": {
+        "chi": "终极元素"
+    },
+    "The fallen one still seeking for the light...*": {
+        "chi": "*恶魔高达加入游戏!*"
+    },
+    "Prepare To Face The God Of Thunder...The pepe king?": {
+        "chi": "青蛙王子已加入游戏"
+    },
+    "Gabranth fall from the sky!": {
+        "chi": "*伽布拉斯已加入游戏*"
+    },
+    "**SEPHIROTH DOWN,GET IN THERE AND SOLOOOO!**": {
+        "chi": "*是萨菲罗斯!准备solooooooo*"
+    },
+    "**BAHAMUT'S ULTIMATE BRUST IN 20 SEC!**": {
+        "chi": "*巴哈姆特20秒后释放终极*"
+    },
+    "**BAHAMUT DOWN,KEEP RUNNING!**": {
+        "chi": "*巴哈姆特死了，快跑！!*"
+    },
+    "**Bahamut has casted ultimate inside the reactor**": {
+        "chi": "*巴哈姆特终极已经释放!*"
+    },
+    "**The whole place will blow up,We got to move now!**": {
+        "chi": "*我们快离开这里!*"
+    },
+    "**Final gate open in 35 sec**": {
+        "chi": "大门35秒后打开"
+    },
+    "*Console has slay the player Sephiroth*": {
+        "chi": "已消灭萨菲罗斯"
+    },
+    "***THE PIZZA IS AGGRESSIVE***": {
+        "chi": "美味的披萨"
+    },
+    "*A PLAYER HAS EQUIN THE WIND MATERIA*": {
+        "chi": "*风已被拾取"
+    },
+    "*A PLAYER HAS EQUIN THE ULTIMA MATERIA*": {
+        "chi": "*终极已被拾取*"
+    },
+    "*A PLAYER HAS EQUIN THE HEAL MATERIA*": {
+        "chi": "治疗已被拾取*"
+    },
+    "*A PLAYER HAS EQUIN THE EARTH MATERIA*": {
+        "chi": "*土已被拾取*"
+    },
+    "*A PLAYER HAS EQUIN THE ICE MATERIA*": {
+        "chi": "卧槽冰"
+    },
+    "*A PLAYER HAS EQUIN THE GRAVITY MATERIA*": {
+        "chi": "黑洞已被拾取"
+    },
+    "*A PLAYER HAS EQUIN THE FIRE MATERIA*": {
+        "chi": "*火已被拾取*"
+    },
+    "*A PLAYER HAS EQUIN THE ELECTRO MATERIA*": {
+        "chi": "电已被拾取"
+    },
+    "Sephiroth is here,Beware your head...": {
+        "chi": "*萨菲罗斯加入游戏*"
+    },
+    "***SOCRATES IS FAKE***": {
+        "chi": "*是苏格拉底*"
+    },
+    "***SOCRATES NEVER EXIST***": {
+        "chi": "*苏格拉底不存在.*"
+    },
+    "***SOCRATES IS SANTA'S LIES***": {
+        "chi": "苏格拉底是圣诞老人的谎言"
+    },
+    "***YOU HAVE DONE IT!***": {
+        "chi": "*你做到了*"
+    },
+    "***BUT YOU KNOW,IT'S JUST AN ILLUSION***": {
+        "chi": "*这是幻觉*"
+    },
+    "***IT'S NOT THE REAL SANTASSINATION***": {
+        "chi": "*这不是真正的圣诞老人*"
+    },
+    "***GO ON,DON'T STOP HERE..***": {
+        "chi": "不要停在这里"
+    },
+    "***YOUR LEGEND STILL HAVE TO CONTINUE***": {
+        "chi": "你们是永恒的传奇"
+    },
+    "***BUT SOMEHOW...***": {
+        "chi": "但是"
+    },
+    "***YOU PROVED YOUR STRENGTH***": {
+        "chi": "*你证明了自己的实力"
+    },
+    "**- TRUE SANTA -**": {
+        "chi": "真正的圣诞老人"
+    },
+    "***SANTA USE SOCRATES TO COVER HIS SINS***": {
+        "chi": "圣诞老人利用苏格拉底来掩盖他的罪行"
+    },
+    "***PICK THEM UP***": {
+        "chi": "把他们捡起来"
+    },
+    "***FIGHT FOR THE TRUE..WHATEVER IT TAKES***": {
+        "chi": "为真理而战……不惜一切代价"
+    },
+    "**AND YES THERE IS NO SPEEDER CUZ I ATE IT**": {
+        "chi": "吃掉，全部吃掉"
+    },
+    "***PLAYER PICKED UP ITEM - BEAM CANNON***": {
+        "chi": "光束加农炮已被拾取"
+    },
+    "***PLAYER PICKED UP ITEM - MINI CANNON***": {
+        "chi": "机关枪已被拾取"
+    },
+    "***PLAYER PICKED UP ITEM - HERDER***": {
+        "chi": "推力枪已被拾取"
+    },
+    "***PLAYER PICKED UP ITEM - HEALING SHITBOX***": {
+        "chi": "玩家拾取屎疗"
+    },
+    "*FUCKING OPEN IN 15 SEC*": {
+        "chi": "15秒后开门"
+    },
+    "*SOCRATES WILL SHOW THE PATH IN 30 SEC*": {
+        "chi": "*苏格拉底将在30秒后开启道路*"
+    },
+    "*SOCRATES IS MOURNING*": {
+        "chi": "苏格拉底在哀悼"
+    },
+    "*SOCRATES IN PAIN*": {
+        "chi": "苏格拉底在痛苦"
+    },
+    "*GO NOW..AND SURVIVE 20 SEC..*": {
+        "chi": "还需20秒"
+    },
+    "*SOMETHING WILL HAPPEN...GET READY...*": {
+        "chi": "准备好"
+    },
+    "*A Player Has Equip The Serum*": {
+        "chi": "准备好血针"
+    },
+    "*Stay beside him to immunize the damage*": {
+        "chi": "在彩虹圈身边可以免疫伤害"
+    },
+    "*YOU ARE THE TURE KING OF KINFE!*": {
+        "chi": "你是真正的国王"
+    },
+    "**BIOSHOCK MODE**": {
+        "chi": "彩虹圈模式"
+    },
+    "**SANTASSINATION MODE**": {
+        "chi": "狮子王模式"
+    },
+    "**MAKO MODE**": {
+        "chi": "魔光炉模式"
+    },
+    "*I suggest do not hide in water,Because..*": {
+        "chi": "不要躲在水里面"
+    },
+    "*Water will be poison in 5 sec*": {
+        "chi": "水里被下了毒药"
+    },
+    "**ALL STAR BATTLE MODE**": {
+        "chi": "全神器模式"
+    },
+    "**DUEL MODE**": {
+        "chi": "决斗模式"
+    },
+    "***Gate opening in 60secs.***": {
+        "chi": "大门60秒后开启"
+    },
+    "***Gate opening in 5secs.***": {
+        "chi": "大门5秒后打开"
+    },
+    "***Gate opening in 30secs.***": {
+        "chi": "大门30秒后开启"
+    },
+    "***Start up the Helicopter.***": {
+        "chi": "准备上飞机"
+    },
+    "***Ice Wall breaking in 20secs.***": {
+        "chi": "冰墙20秒后破碎"
+    },
+    "***Boat 2 leaving in 5secs.***": {
+        "chi": "二船5秒后离开"
+    },
+    "***Boat 1 leaving in 10secs.***": {
+        "chi": "一船10秒后离开"
+    },
+    "***Tram leaving in 10secs.***": {
+        "chi": "缆车10秒后出发"
+    },
+    "***Bobsled leaving in 5secs.***": {
+        "chi": "雪橇5秒后出发"
+    },
+    "***Boat 4 leaving in 10secs.***": {
+        "chi": "四船10秒后出发"
+    },
+    "***Boat 3 leaving in 10secs.***": {
+        "chi": "三船10秒后出发"
+    },
+    "***...WashTub leaving in 3secs...***": {
+        "chi": "澡盆3秒后出发"
+    },
+    "***Nuke in 10secs.***": {
+        "chi": "核爆10秒后降临"
+    },
+    "***Final Boat leaving in 60secs.***": {
+        "chi": "小船60秒后出发"
+    },
+    "***WashTub leaving in 30secs.***": {
+        "chi": "澡盆30秒后出发"
+    },
+    "***WashTub leaving in 5secs.***": {
+        "chi": "澡盆5秒后出发"
+    },
+    "***Final Boat leaving in 30secs.***": {
+        "chi": "小船30秒后出发"
+    },
+    "***Final Boat leaving in 5secs.***": {
+        "chi": "小船5秒后出发"
+    },
+    "***WashTub leaving in 50secs.***": {
+        "chi": "澡盆50秒后出发"
+    },
+    "***Helicopter leaving in 5secs.***": {
+        "chi": "飞机5秒后离开"
+    },
+    "***...WashBucket leaving in 5secs...Seriously?***": {
+        "chi": "洗脸桶5秒后离开"
+    },
+    "***Armory open.***": {
+        "chi": "弹药库已开启"
+    },
+    "***First shortcuts opening in 20secs.***": {
+        "chi": "第一条捷径20秒后开放"
+    },
+    "***Second shortcuts opening in 20secs.***": {
+        "chi": "第二条捷径20秒后开放"
+    },
+    "***Begining teleport has enable!***": {
+        "chi": "传送门已启动"
+    },
+    "*Use your damn knife,Its not that hard!*": {
+        "chi": "准备好刀战了吗"
+    },
+    "*Fuck it,Just end already.*": {
+        "chi": "就这样结束吧"
+    },
+    "*Still going,REALLY?*": {
+        "chi": "还继续吗"
+    },
+    "*Guess who is it...B)*": {
+        "chi": "猜猜是谁"
+    }
+}

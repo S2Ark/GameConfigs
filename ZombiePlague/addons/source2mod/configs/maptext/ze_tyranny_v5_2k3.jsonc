@@ -1,0 +1,353 @@
+{
+    ">>> NOOB TRASHED <<<": {
+        "chi": ">>> 你个菜B死了吧哈哈哈 <<<"
+    },
+    ">>> AFK TELEPORT IN 3 SECONDS <<<": {
+        "chi": ">>> 僵尸3秒后传送 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 1 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 1 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 2 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 2 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 3 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 3 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 4 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 4 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 5 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 5 <<<"
+    },
+    ">>> FAIL ROUND <<<": {
+        "chi": ">>> 回合失败 <<<"
+    },
+    ">>> STAGE 1 COMPLETED <<<": {
+        "chi": ">>> STAGE 1 完成 <<<"
+    },
+    ">>> STAGE 4 COMPLETED <<<": {
+        "chi": ">>> STAGE 4 完成 <<<"
+    },
+    ">>> STAGE 5 COMPLETED <<<": {
+        "chi": ">>> STAGE 5 完成 <<<"
+    },
+    ">>> STAGE 2 COMPLETED <<<": {
+        "chi": ">>> STAGE 2 完成 <<<"
+    },
+    ">>> STAGE 3 COMPLETED <<<": {
+        "chi": ">>> STAGE 3 完成 <<<"
+    },
+    ">>> ADMIN PRESSED KILL ALL BUTTON <<<": {
+        "chi": ">>> 管理员处死所有玩家 <<<"
+    },
+    ">>> BREAK STATUE TO GET ITEM <<<": {
+        "chi": ">>> 打碎雕像获取里面的神器 <<<"
+    },
+    ">>> HOLD 15 SECONDS <<<": {
+        "chi": ">>> 守住15秒 <<<"
+    },
+    ">>> HOLD 35 SECONDS <<<": {
+        "chi": ">>> 守住35秒 <<<"
+    },
+    ">>> ADMIN CHANGED TO STAGE 6 <<<": {
+        "chi": ">>> 管理员设置关卡 STAGE 6 (ZM感染)<<<"
+    },
+    ">>> STAGE 6 COMPLETED <<<": {
+        "chi": ">>> STAGE 6 完成 <<<"
+    },
+    ">>> STAGE 1 <<<": {
+        "chi": ">>> STAGE 1 (左边路)<<<"
+    },
+    ">>> Map by Moray <<<": {
+        "chi": ">>> 地图作者 Moray 汉化 Tastysaw <<<"
+    },
+    ">>> Thanks to nano (Help & Ideas) <<<": {
+        "chi": ">>> 感谢 nano (帮助 & 想法) (感谢 饼饼@GO社区服)<<<"
+    },
+    ">>> ENTRANCE DOOR OPENING <<<": {
+        "chi": ">>> 入口大门开启 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP PUSH <<<": {
+        "chi": ">>> 有玩家捡到了风 <<<"
+    },
+    ">>> HOLD 25 SECONDS <<<": {
+        "chi": ">>> 守住25秒 <<<"
+    },
+    ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": ">>> 僵尸10秒后传送 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP HEAL <<<": {
+        "chi": ">>> 有玩家捡到了奶 <<<"
+    },
+    ">>> HOLD 20 SECONDS <<<": {
+        "chi": ">>> 守住20秒 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP FIRE <<<": {
+        "chi": ">>> 有玩家捡到了火 <<<"
+    },
+    ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+        "chi": ">>> 僵尸5秒后传送 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ICE <<<": {
+        "chi": ">>> 有玩家捡到了冰 <<<"
+    },
+    ">>> HOLD 10 SECONDS <<<": {
+        "chi": ">>> 守住10秒 <<<"
+    },
+    ">>> HOLD 5 SECONDS <<<": {
+        "chi": ">>> 守住5秒 <<<"
+    },
+    ">>> SPIDER IS COMING <<<": {
+        "chi": ">>> 蜘蛛出现了 <<<"
+    },
+    ">>> SPIDER USED POISON <<<": {
+        "chi": ">>> 蜘蛛使用了剧毒浓痰 <<<"
+    },
+    ">>> SPIDER IS DEFEATED <<<": {
+        "chi": ">>> 蜘蛛被打败了 <<<"
+    },
+    ">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<": {
+        "chi": ">>> 传送器20秒后启动 <<<"
+    },
+    ">>> DOOR CLOSING <<<": {
+        "chi": ">>> 大门关闭 <<<"
+    },
+    ">>> STAGE 2 <<<": {
+        "chi": ">>> STAGE 2 (右边路)<<<"
+    },
+    ">>> PLAYER HAS PICKED UP LIGHTNING <<<": {
+        "chi": ">>> 有玩家捡到了电 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP AMMO <<<": {
+        "chi": ">>> 有玩家捡到了无限子弹 <<<"
+    },
+    ">>> TROLL IS COMING <<<": {
+        "chi": ">>> 饼饼召唤一只巨魔 <<<"
+    },
+    ">>> TROLL IS DEFEATED <<<": {
+        "chi": ">>> 巨魔被打败了 <<<"
+    },
+    ">>> IT'S DRAGON <<<": {
+        "chi": ">>> 那是巨龙 <<<"
+    },
+    ">>> DRAGON IS DEFEATED <<<": {
+        "chi": ">>> 巨龙被打败了 <<<"
+    },
+    ">>> STAGE 3 <<<": {
+        "chi": ">>> STAGE 3 (左边路)<<<"
+    },
+    ">>> HOLD 30 SECONDS <<<": {
+        "chi": ">>> 守住30秒<<<"
+    },
+    ">>> PLAYER HAS PICKED UP HEDGE <<<": {
+        "chi": ">>> 有玩家捡到了墙 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP KILLER <<<": {
+        "chi": ">>> 有玩家捡到了终极 <<<"
+    },
+    ">>> DRAGON IS COMING <<<": {
+        "chi": ">>> 巨龙出现了 <<<"
+    },
+    ">>> DRAGON USED FIRE <<<": {
+        "chi": ">>> 巨龙使用了火焰喷射 <<<"
+    },
+    ">>> DRAGON USED POISON <<<": {
+        "chi": ">>> 巨龙使用了剧毒浓痰 <<<"
+    },
+    ">>> DRAGON USED PUSH <<<": {
+        "chi": ">>> 巨龙使用了狂风之息 <<<"
+    },
+    ">>> DRAGON USED WATER <<<": {
+        "chi": ">>> 巨龙使用了口水喷射 <<<"
+    },
+    ">>> DRAGON USED GRAVITY <<<": {
+        "chi": ">>> 巨龙使用了绝对引力 <<<"
+    },
+    ">>> GATE OPENING IN 5 SECONDS <<<": {
+        "chi": ">>> 大门5秒后开启 <<<"
+    },
+    ">>> 5 SECONDS REMAINING. DON'T DELAY <<<": {
+        "chi": ">>> 还剩5秒 别发呆了 <<<"
+    },
+    ">>> RUN <<<": {
+        "chi": ">>> 跑 <<<"
+    },
+    ">>> GARGANTUA IS COMING KEEP RUNNING <<<": {
+        "chi": ">>> 饼饼召唤了怪兽 快跑 <<<"
+    },
+    ">>> SHOOT DRAGON <<<": {
+        "chi": ">>> 开枪打那条龙 <<<"
+    },
+    ">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<": {
+        "chi": ">>> 传送器10秒后启动 <<<"
+    },
+    ">>> STAGE 4 <<<": {
+        "chi": ">>> STAGE 4 (左边路)<<<"
+    },
+    ">>> GARGANTUA IS COMING <<<": {
+        "chi": ">>> 怪兽出现了 <<<"
+    },
+    ">>> GARGANTUA USED KILLER. GO SIDE <<<": {
+        "chi": ">>> 怪兽使用了终极. 去场地边缘 <<<"
+    },
+    ">>> GARGANTUA USED ICE <<<": {
+        "chi": ">>> 怪兽使用了冰 <<<"
+    },
+    ">>> GARGANTUA USED GRAVITY <<<": {
+        "chi": ">>> 怪兽使用了绝对引力 <<<"
+    },
+    ">>> GARGANTUA USED FIRE <<<": {
+        "chi": ">>> 怪兽使用了火焰喷射 <<<"
+    },
+    ">>> GARGANTUA USED PUSH <<<": {
+        "chi": ">>> 怪兽使用了狂风之息 <<<"
+    },
+    ">>> GARGANTUA IS DEFEATED <<<": {
+        "chi": ">>> 怪兽被打败了 <<<"
+    },
+    ">>> GATE OPENING IN 10 SECONDS <<<": {
+        "chi": ">>> 大门10秒后开启 <<<"
+    },
+    ">>> HOLD 40 SECONDS <<<": {
+        "chi": ">>> 守住40秒 <<<"
+    },
+    ">>> HOLD 15 SECONDS<<<": {
+        "chi": ">>> 守住15秒<<<"
+    },
+    ">>> BRIDGE IS BROKEN <<<": {
+        "chi": ">>> 桥断了 <<<"
+    },
+    ">>> ALL ZM ITEMS IS DISABLED <<<": {
+        "chi": ">>> 禁用所有僵尸神器 <<<"
+    },
+    ">>> IT'S BALROG <<<": {
+        "chi": ">>> 那是炎魔 <<<"
+    },
+    ">>> BALROG IS ESCAPED <<<": {
+        "chi": ">>> 炎魔跑了 <<<"
+    },
+    ">>> GARGANTUA USED POISON <<<": {
+        "chi": ">>> 怪兽使用了剧毒浓痰 <<<"
+    },
+    ">>> STAGE 5 <<<": {
+        "chi": ">>> STAGE 5 (中间传送器路)<<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+        "chi": ">>> 有僵尸捡到了黑洞 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
+        "chi": ">>> 有玩家捡到了黑洞 <<<"
+    },
+    ">>> BALROG IS COMING <<<": {
+        "chi": ">>> 炎魔出现了 <<<"
+    },
+    ">>> BALROG USED GRAVITY <<<": {
+        "chi": ">>> 炎魔使用了绝对引力 <<<"
+    },
+    ">>> BALROG USED POISON <<<": {
+        "chi": ">>> 炎魔使用了剧毒浓痰 <<<"
+    },
+    ">>> BALROG USED SHIELD <<<": {
+        "chi": ">>> 炎魔沉默人类神器 <<<"
+    },
+    ">>> BALROG USE LASER <<<": {
+        "chi": ">>> 炎魔使用了二连高刀(蹲下) <<<"
+    },
+    ">>> BALROG USED PUSH <<<": {
+        "chi": ">>> 炎魔使用了狂风之息 <<<"
+    },
+    ">>> BALROG USED HEAL <<<": {
+        "chi": ">>> 炎魔奶了自己一下 <<<"
+    },
+    ">>> BALROG USED FIRE <<<": {
+        "chi": ">>> 炎魔使用了半场火 <<<"
+    },
+    ">>> BALROG USED KILLER <<<": {
+        "chi": ">>> 炎魔使用了终极(去场地最后面) <<<"
+    },
+    ">>> BALROG IS DEFEATED <<<": {
+        "chi": ">>> 炎魔被打败了 <<<"
+    },
+    ">>> DRAGON IS DEFEATED KEEP RUNNING <<<": {
+        "chi": ">>> 炎魔被打败了 快跑 <<<"
+    },
+    ">>> HOLD 45 SECONDS <<<": {
+        "chi": ">>> 守住45秒 <<<"
+    },
+    ">>> SHOOT GARGANTUA <<<": {
+        "chi": ">>> 开枪打前面的怪兽(打慢了有终极) <<<"
+    },
+    ">>> BALROG IS BACK <<<": {
+        "chi": ">>> 饼饼又把炎魔召唤回来了 <<<"
+    },
+    "*** Defeat the boss within 20 seconds! ***": {
+        "chi": "*** 20秒内打败BOSS! ***"
+    },
+    "*** Defeat the boss within 10 seconds! ***": {
+        "chi": "*** 10秒内打败BOSS! ***"
+    },
+    "*** failed to defeat the boss ***": {
+        "chi": "*** 你失败了 ***"
+    },
+    ">>> STAGE 6 <<<": {
+        "chi": ">>> STAGE 6 (ZM感染)<<<"
+    },
+    ">>> SURVIVE 4 MINUTES <<<": {
+        "chi": ">>> 生存240秒 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+        "chi": ">>> 有僵尸捡到了治疗 <<<"
+    },
+    ">>> 3 MINUTES LEFT <<<": {
+        "chi": ">>> 还剩180秒 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<": {
+        "chi": ">>> 有僵尸捡到了火 <<<"
+    },
+    ">>> 2 MINUTES LEFT <<<": {
+        "chi": ">>> 还剩120秒 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<": {
+        "chi": ">>> 有僵尸捡到了隐身 <<<"
+    },
+    ">>> 1 MINUTES LEFT <<<": {
+        "chi": ">>> 还剩60秒 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<": {
+        "chi": ">>> 有僵尸捡到了秒杀 <<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<": {
+        "chi": ">>> 有僵尸捡到了毒 <<<"
+    },
+    ">>> 30 SECONDS LEFT <<<": {
+        "chi": ">>> 还剩30秒 <<<"
+    },
+    ">>> 20 SECONDS LEFT <<<": {
+        "chi": ">>> 还剩20秒 <<<"
+    },
+    ">>> 10 SECONDS LEFT <<<": {
+        "chi": ">>> 还剩10秒 <<<"
+    },
+    ">>> 5 <<<": {
+        "chi": ">>> 5 <<<"
+    },
+    ">>> 4 <<<": {
+        "chi": ">>> 4 <<<"
+    },
+    ">>> 3 <<<": {
+        "chi": ">>> 3 <<<"
+    },
+    ">>> 2 <<<": {
+        "chi": ">>> 2 <<<"
+    },
+    ">>> 1 <<<": {
+        "chi": ">>> 1 <<<"
+    },
+    ">>> TELEPORTED TO CASTLE GET OUT<<<": {
+        "chi": ">>> 传送所有玩家到城堡<<<"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<": {
+        "chi": ">>> 有僵尸捡到了致盲 <<<"
+    }
+}

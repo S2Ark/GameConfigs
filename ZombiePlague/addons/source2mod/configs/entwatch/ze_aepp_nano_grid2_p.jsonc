@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Ice Arrow",
+        "shortname": "Ice",
+        "hammerid": "202",
+        "message": true,
+        "ui": true,
+        "color": "blue",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1374"
+            },
+            {
+                "hammerid": "210",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 4,
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Star Arrow",
+        "shortname": "Star",
+        "hammerid": "187",
+        "message": true,
+        "ui": true,
+        "color": "yellow",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1376"
+            },
+            {
+                "hammerid": "195",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 4,
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Fire Arrow",
+        "shortname": "Fire",
+        "hammerid": "54",
+        "message": true,
+        "ui": true,
+        "color": "red",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1362"
+            },
+            {
+                "hammerid": "50",
+                "event": "OnPass",
+                "mode": 2,
+                "cooldown": 4,
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Double Jump",
+        "shortname": "Jump",
+        "hammerid": "570",
+        "message": true,
+        "ui": true,
+        "color": "green",
+        "triggers": ["254"],
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "572",
+                "event": "OnPressed",
+                "mode": 2,
+                "cooldown": 4,
+                "message": false,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Dash Hoop 1",
+        "shortname": "Dash 1",
+        "hammerid": "27",
+        "message": true,
+        "ui": true,
+        "color": "grey",
+        "triggers": ["1457"]
+    },
+    {
+        "name": "Dash Hoop 2",
+        "shortname": "Dash 2",
+        "hammerid": "21",
+        "message": true,
+        "ui": true,
+        "color": "grey",
+        "triggers": ["1459"]
+    }
+]

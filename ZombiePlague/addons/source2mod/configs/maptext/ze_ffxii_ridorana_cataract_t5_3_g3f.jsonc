@@ -1,0 +1,254 @@
+{
+    "**ZE_FFXII_RIDORANA_CATARACT**": {
+        "chi": "**最终幻想12黎铎亚纳大瀑布**"
+    },
+    "**Map by Headshooter.SC & HaRyDe**": {
+        "chi": "**地图作者 Headshooter.SC 和 HaRyDe 汉化 萌爱 重置 已死之人**"
+    },
+    "**NORMAL MODE**": {
+        "chi": "**Normal 模式**"
+    },
+    "**The gates will open in 20 seconds**": {
+        "chi": "**大门20秒后开启**"
+    },
+    "**The gates will open in 30 seconds**": {
+        "chi": "**大门30秒后开启**"
+    },
+    "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**": {
+        "chi": "**一位玩家拾取黑洞**(1级黑洞)**"
+    },
+    "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**": {
+        "chi": "**一位玩家拾取风**( 1级风)**"
+    },
+    "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**": {
+        "chi": "**一位玩家拾取火**(1级火)**"
+    },
+    "**The gates will open in 15 seconds**": {
+        "chi": "**大门15秒后开启**"
+    },
+    "**The gates will open in 25 seconds**": {
+        "chi": "**大门25秒后开启**"
+    },
+    "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**": {
+        "chi": "**一位玩家拾取电**( 1级电)**"
+    },
+    "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**": {
+        "chi": "**一位玩家拾取冰**( 1级冰)**"
+    },
+    "**Hold here for 20 seconds**": {
+        "chi": "**防守20秒**"
+    },
+    "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**": {
+        "chi": "**一位玩家拾取奶**(1级奶)**"
+    },
+    "**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**": {
+        "chi": "**有僵尸捡到了黑洞**(1级黑洞)**"
+    },
+    "**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**": {
+        "chi": "**有僵尸捡到了奶**(1级奶)**"
+    },
+    "**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**": {
+        "chi": "**有僵尸捡到了秒杀**(1级秒杀)**"
+    },
+    "**Hold here for 15 seconds**": {
+        "chi": "**防守15秒**"
+    },
+    "**To activate the gates you need to break the crystals in the side rooms**": {
+        "chi": "**打碎两边的水晶，触发BOSS房大门**"
+    },
+    "**1/2 crystals broken**": {
+        "chi": "**1/2 水晶已打破**"
+    },
+    "**You got it! The gates will open in 20 seconds**": {
+        "chi": "**干得漂亮! 大门20秒后开启**"
+    },
+    "**The Zalera is defeated!**": {
+        "chi": "**死亡天使扎鲁埃拉被打败了!**"
+    },
+    "**The end gates will close in 20 seconds. Keep defending!**": {
+        "chi": "**最后的大门20秒后关闭!保持火力**"
+    },
+    "** You have beaten NORMAL MODE! Congratulations! **": {
+        "chi": "** 你们通过了 Normal 模式! 祝贺你们! **"
+    },
+    "**HARD MODE**": {
+        "chi": "**Hard 模式**"
+    },
+    "**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**": {
+        "chi": "**有僵尸捡到了秒杀**(2级秒杀)**"
+    },
+    "**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**": {
+        "chi": "**有僵尸捡到了烈火**(1级火)**"
+    },
+    "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**": {
+        "chi": "**有玩家捡到了火**( 2级火)**"
+    },
+    "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**": {
+        "chi": "**有玩家捡到了奶**( 2级奶)**"
+    },
+    "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**": {
+        "chi": "**有玩家捡到了黑洞**( 2级黑洞)**"
+    },
+    "**The Hydro is defeated** **Keep running**": {
+        "chi": "**尸龙亥伊多被打败了**跑**"
+    },
+    "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**": {
+        "chi": "**有玩家捡到了冰**( 2级冰)**"
+    },
+    "**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**": {
+        "chi": "**有僵尸捡到了黑洞**(2级黑)**"
+    },
+    "**The door will open in 25 seconds**": {
+        "chi": "**大门25秒后打开**"
+    },
+    "**Hold here for 10 seconds**": {
+        "chi": "**防守10秒**"
+    },
+    "**Wait before the airflow starts**": {
+        "chi": "**等待气流上升**"
+    },
+    "**The arena gates will open in 20 seconds**": {
+        "chi": "**竞技场大门20秒后打开**"
+    },
+    "**Oh no the sword disappeared..We will be back there next time..**": {
+        "chi": "**圣剑消失了？**"
+    },
+    "** Zombie items have been disabled for the duration of the boss fight! **": {
+        "chi": "** 僵尸神器已被禁用! **"
+    },
+    "**Famfrit is defeated! Now get ready to escape this place..**": {
+        "chi": "**暗黑之云珐姆弗里特已被击败**"
+    },
+    "** Zombie items have been enabled! **": {
+        "chi": "** 僵尸神器已被启用! **"
+    },
+    "**The final gates will open in 30 seconds**": {
+        "chi": "**最后的大门30秒后打开**"
+    },
+    "**Hydro is dead! Run to to the platform!**": {
+        "chi": "**尸龙亥伊多被击败了!快润!**"
+    },
+    "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**": {
+        "chi": "**有玩家捡到了风**( 2级风)**"
+    },
+    "**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**": {
+        "chi": "**有僵尸捡到了奶**(2级奶)**"
+    },
+    "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**": {
+        "chi": "**有玩家捡到了火**( 3级火)**"
+    },
+    "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**": {
+        "chi": "**有玩家捡到了电**(2级电)**"
+    },
+    "**Is this over...or not?...**": {
+        "chi": "**结束了?...吗?**"
+    },
+    "** You have beaten HARD MODE! Congratulations! **": {
+        "chi": "** 你们通过了困难难度! 祝贺你们! **"
+    },
+    "**EXTREME MODE**": {
+        "chi": "**Extreme 模式**"
+    },
+    "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**": {
+        "chi": "**有玩家捡到了奶**(  3级奶)**"
+    },
+    "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**": {
+        "chi": "**有玩家捡到了黑洞**( 3级黑洞)**"
+    },
+    "**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**": {
+        "chi": "**有僵尸捡到了火**(2级火)**"
+    },
+    "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**": {
+        "chi": "**有玩家捡到了风**( 3级风)**"
+    },
+    "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**": {
+        "chi": "**有玩家捡到了冰**(3级冰)**"
+    },
+    "**Both ways will open in 25 seconds**": {
+        "chi": "**道路25秒后打开**"
+    },
+    "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**": {
+        "chi": "**有玩家捡到了电**( 3级电)**"
+    },
+    "**The arena entrance will open in 30 seconds**": {
+        "chi": "**竞技场30秒后开放**"
+    },
+    "**The Hashmel is defeated!**": {
+        "chi": "**BOSS被击败了!**"
+    },
+    "**Defend this way for 25 seconds**": {
+        "chi": "**继续防守25秒**"
+    },
+    "**The final gates will open in 20 seconds**": {
+        "chi": "**最后的大门20秒后打开**"
+    },
+    "**CHAOS MODE**": {
+        "chi": "**Chaos 模式**"
+    },
+    "**ZM MODE**": {
+        "chi": "**ZM 模式**"
+    },
+    "**Gabranth has stolen the crystal. We need to stop him**": {
+        "chi": "**幽幽子:没错!很好!寻找你的斗志!重拾起你的盾牌!为你死去的队友而战!**"
+    },
+    "****You are late..****": {
+        "chi": "**你们太慢了**"
+    },
+    "**YOU MUST KILL ALL THE ZOMBIES TO WIN**": {
+        "chi": "**消灭剩余僵尸**"
+    },
+    "**Cactus found. The player who found it was given 1 level**": {
+        "chi": "**你发现了仙人掌**"
+    },
+    "*Someone is trying to interfere us**": {
+        "chi": "**有人想要干涉我们**"
+    },
+    "**The Pharos is under attack!**": {
+        "chi": "**灯塔受到攻击**"
+    },
+    "**A PLAYER HAS PICKED UP THE ULTIMA SWORD**": {
+        "chi": "**有玩家捡到了创世之剑（弹药）**"
+    },
+    "** You have beaten CHAOS MODE! Congratulations you beat the map! **": {
+        "chi": "**恭喜你们，你们征服了这张地图**"
+    },
+    "**Gabranth is using the power of the crystal and blocking the Legendary Sword**": {
+        "chi": "**幽幽子:你的盾牌残破不堪!你的誓言毒害了你所守护之人!**"
+    },
+    "**The guard is dead! Run to to the platform!**": {
+        "chi": "**幽幽子:要么挣扎着哭喊着击败我!要么被我粉碎!**"
+    },
+    "**The Zargabaath is down**": {
+        "chi": "**裁判长扎尔伽巴斯被打败了**"
+    },
+    "**The Bergan is down**": {
+        "chi": "**裁判长贝甘被打败了**"
+    },
+    "** You have beaten EXTREME MODE! Congratulations! **": {
+        "chi": "** 你通过了 EXTREME 模式! 祝贺! **"
+    },
+    "**Someone is trying to interfere us**": {
+        "chi": "**有人想阻挡我们**"
+    },
+    "**You are too slow..**": {
+        "chi": "**你太他妈慢了..**"
+    },
+    "**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**": {
+        "chi": "**有僵尸捡到了奶**(3级奶)**"
+    },
+    "**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**": {
+        "chi": "**有僵尸捡到了黑洞**(3级黑洞)**"
+    },
+    "**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**": {
+        "chi": "**有僵尸捡到了烈火**(3级火)**"
+    },
+    "**You have failed**": {
+        "chi": "**你失败了**"
+    },
+    "**WARMUP ROUND**": {
+        "chi": "**热身局**"
+    },
+    "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**": {
+        "chi": "**有管理员调关**"
+    }
+}

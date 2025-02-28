@@ -1,0 +1,251 @@
+{
+    "*** Player has picked up Heal ***": {
+        "chi": "有玩家拿到了奶神器"
+    },
+    "***ZM TP IN 5 SEC***": {
+        "chi": "僵尸将在 5 秒后传送"
+    },
+    "***DEFEND THIS ROOM 30 SEC***": {
+        "chi": "防守房间 30 秒"
+    },
+    "***DOOR CLOSING IN 10 SEC***": {
+        "chi": "大门将在 10 秒后关闭"
+    },
+    "***SURVIVE 60 SECONDS***": {
+        "chi": "存活 60 秒！"
+    },
+    "***20 SECONDS LEFT***": {
+        "chi": "还剩 20 秒！"
+    },
+    "***ELEVATOR LEAVING IN 30 SEC***": {
+        "chi": "电梯将在 30 秒后离开"
+    },
+    "***ELEVATOR LEAVING IN 10 SEC***": {
+        "chi": "电梯将在 10 秒后离开"
+    },
+    "***GET ON IT FAST***": {
+        "chi": "快上去！"
+    },
+    "***TELPORTING ZM***": {
+        "chi": "僵尸传送中"
+    },
+    "***JUMP DOWN***": {
+        "chi": "跳下去！"
+    },
+    "***TELEPORTING ZM IN 10 SEC***": {
+        "chi": "僵尸将会在 10 秒后传送！"
+    },
+    "***LADDER FALLING DOWN IN 20 SEC***": {
+        "chi": "梯子在 20 秒后倒塌"
+    },
+    "***10 SEC LEFT***": {
+        "chi": "剩余时间 10 秒"
+    },
+    "***TELPORTING ZM IN 5 SEC***": {
+        "chi": "僵尸将在 5 秒后传送"
+    },
+    "***OPENING IN 30 SEC***": {
+        "chi": "大门将在 30 秒后打开"
+    },
+    "***OPENING IN 10 SEC***": {
+        "chi": "大门将在 10 秒后打开"
+    },
+    "***PLATFORMS ARE COMING SOON***": {
+        "chi": "平台即将到来"
+    },
+    "***PLATFORMS ARE ON THE WAY***": {
+        "chi": "平台在路上了"
+    },
+    "***OPENING IN 5 SEC***": {
+        "chi": "大门将在 5 秒后打开"
+    },
+    "***GET INSIDE***": {
+        "chi": "快进去"
+    },
+    "***YOU DEFEATED HIM***": {
+        "chi": "你打败了他！"
+    },
+    "***KILL THE ZOMBIES***": {
+        "chi": "杀掉僵尸！"
+    },
+    "***CONGRATS***": {
+        "chi": "恭喜！"
+    },
+    "***GET INSIDE THE SHIP FAST***": {
+        "chi": "快进飞船！"
+    },
+    "***WE ARE UNDER ATTACK***": {
+        "chi": "我们受到攻击"
+    },
+    "***DEFEND UNTIL WE REACH DOOKU***": {
+        "chi": "坚守直到我们到达杜库！"
+    },
+    "***GOOD JOB***": {
+        "chi": "干得漂亮"
+    },
+    "***LETS CATCH UP DOOKU NOW***": {
+        "chi": "让我们现在赶上杜库"
+    },
+    "***Stage 2 - Attack of the Clones***": {
+        "chi": "关卡二-克隆人的进攻"
+    },
+    "***Stage 1 - The Phantom Menace***": {
+        "chi": "关卡一-幽灵的威胁"
+    },
+    "***DEDICATED TO MAPEADORES***": {
+        "chi": "献给：mapeadores"
+    },
+    "***MAP BY RAPHI***": {
+        "chi": "地图作者：RAPHI 地图翻译：托儿索 感谢：苏妲 c1m @top游廊"
+    },
+    "***I THINK HE IS DEAD***": {
+        "chi": "我想他已经死了"
+    },
+    "***ZOMBIES ARE COMING***": {
+        "chi": "僵尸来了！"
+    },
+    "***PLATFORM LEAVING IN 20 SEC***": {
+        "chi": "站台 20 秒后离开"
+    },
+    "***YOU'VE DEFEATED ANAKIN!!!***": {
+        "chi": "你打败了阿纳金!!"
+    },
+    "***CONGRATS FOR BEATING THE MAP***": {
+        "chi": "祝贺你们获胜了！"
+    },
+    "***MADE BY RAPHI***": {
+        "chi": "地图作者：RAPHI 地图翻译：托儿索 感谢：苏妲 c1m @top游廊"
+    },
+    "***HIS ANGER BECOMES UNCONTROLABLE***": {
+        "chi": "他的愤怒变得无法控制"
+    },
+    "***IT LOOKS HOT WAIT A MOMENT***": {
+        "chi": "看起来很热，等一下"
+    },
+    "***WAIT 10 MORE SECONDS***": {
+        "chi": "再等 10 秒"
+    },
+    "***THE WAY SEEMS CLEAR***": {
+        "chi": "道路似乎很清晰"
+    },
+    "***DEFEND UNTIL SOME HELP ARRIVE***": {
+        "chi": "防守直到有人来帮忙"
+    },
+    "***PLATFORM LEAVING IN 15 SEC***": {
+        "chi": " 15 秒后离开站台"
+    },
+    "***WHAT IS GOING ON???***": {
+        "chi": "发生了什么事???"
+    },
+    "***ZOMBIES !!***": {
+        "chi": "有僵尸正在向我们逼近！！"
+    },
+    "***YOU'VE ESCAPED ANAKIN***": {
+        "chi": "你逃过了阿纳金的魔掌"
+    },
+    "***Hope he is dead...***": {
+        "chi": "希望他已经死了"
+    },
+    "***HOLD ON***": {
+        "chi": "坚持住"
+    },
+    "***WHAT IS GOING ON***": {
+        "chi": "发生了什么事?"
+    },
+    "***ATTACK: DOWN LIGHT SABER THROW***": {
+        "chi": "攻击:向下投掷光剑"
+    },
+    "***ATTACK: FORCE ATTRACTION***": {
+        "chi": "攻击:原力吸引"
+    },
+    "***ATTACK: DEFENSIVE POSITION***": {
+        "chi": "攻击:防守位置"
+    },
+    "***ATTACK: UP LIGHT SABER THROW***": {
+        "chi": "攻击:举起光剑投掷"
+    },
+    "***PLATFORM LEAVING IN 5SEC***": {
+        "chi": "倒计时 5 秒后站台离开"
+    },
+    "***ANAKIN IS CONSUMED BY THE DARK SIDE***": {
+        "chi": ""
+    },
+    "***STAY BACK AND SHOOT***": {
+        "chi": "阿纳金被黑暗势力吞噬了"
+    },
+    "***OUTSIDE DOOR OPEN IN 45 SEC***": {
+        "chi": "倒计时 45 秒后打开外层门"
+    },
+    "***INSIDE DOOR OPEN IN 15 SEC***": {
+        "chi": "内门在 15 秒内打开"
+    },
+    "***INSIDE DOOR OPEN IN 5 SEC***": {
+        "chi": "内门在 5 秒内打开"
+    },
+    "***OUTSIDE DOOR OPEN IN 20 SEC***": {
+        "chi": "倒计时 20 秒后打开外层门"
+    },
+    "***OUTSIDE DOOR OPEN IN 5 SEC***": {
+        "chi": "倒计时 5 秒后打开外层门"
+    },
+    "***GET ON THE PLATFORM***": {
+        "chi": "到站台上去"
+    },
+    "***DOOR OPEN IN 30 SEC***": {
+        "chi": "大门在 30 秒内打开"
+    },
+    "***DOOR OPEN IN 10 SEC***": {
+        "chi": "大门在 10 秒内打开"
+    },
+    "***DOOR OPEN IN 45 SEC***": {
+        "chi": "大门在 45 秒内打开"
+    },
+    "***DOOR OPEN IN 20 SEC***": {
+        "chi": "大门在 20 秒内打开"
+    },
+    "***DOOR OPEN IN 5 SEC***": {
+        "chi": "大门在 5 秒内打开"
+    },
+    "***DOOR CLOSE IN 5 SEC***": {
+        "chi": "大门在 5 秒内关闭"
+    },
+    "***LEDGE BREAK IN 40 SEC***": {
+        "chi": "倒计时 40 秒后墙壁破碎"
+    },
+    "***LEDGE BREAK IN 20 SEC***": {
+        "chi": "倒计时 20 秒后墙壁破碎"
+    },
+    "***LEDGE BREAK IN 10 SEC***": {
+        "chi": "倒计时 10 秒后墙壁破碎"
+    },
+    "***YOU DEFEATED DARTH MAUL***": {
+        "chi": "你打败了达斯·摩尔"
+    },
+    ">>>> 30 sec <<<<": {
+        "chi": "倒计时 30 秒"
+    },
+    ">>>> 10 sec <<<<": {
+        "chi": "倒计时 10 秒"
+    },
+    ">>>> FALL BACK <<<<": {
+        "chi": "快润！"
+    },
+    ">>>> 20 sec <<<<": {
+        "chi": "倒计时 20 秒"
+    },
+    ">>>> 40 sec <<<<": {
+        "chi": "倒计时 40 秒"
+    },
+    ">>>> GET INSIDE <<<<": {
+        "chi": "快进去！"
+    },
+    ">>>> 5 sec <<<<": {
+        "chi": "倒计时 5 秒"
+    },
+    ">>>> 15 sec <<<<": {
+        "chi": "倒计时 15 秒"
+    },
+    "Elevator will leave in 30 sec": {
+        "chi": "电梯将在 30 秒后离开"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++": {
+        "chi": "嘉然还需要120秒解锁大门"
+    },
+    "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++": {
+        "chi": "嘉然还需要60秒解锁大门"
+    },
+    "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++": {
+        "chi": "嘉然还需要30秒解锁大门"
+    },
+    "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+        "chi": "嘉然还需要10秒解锁第一层大门"
+    },
+    "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+        "chi": "嘉然还需要10秒解锁第二层大门"
+    },
+    "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+        "chi": "嘉然还需要10秒解锁第三层大门"
+    },
+    "++ ALL FLOORS ARE UNLOCKED ++": {
+        "chi": "嘉然解锁了所有大门"
+    },
+    "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++": {
+        "chi": "嘉然快要挡不住僵尸了"
+    },
+    "++ 15 seconds to choose ++": {
+        "chi": "嘉然给了你15秒的时间选择"
+    },
+    "++ Wrong button! ++": {
+        "chi": "错误密码！"
+    },
+    "++ HELICOPTER ON THE WAY ++": {
+        "chi": "嘉然的小飞机在来的路上"
+    },
+    "++ 30 SECONDS UNTIL ARRIVAL ++": {
+        "chi": "守住30秒"
+    },
+    "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++": {
+        "chi": "嘉然的小飞机还有20秒离开"
+    },
+    "++ HELICOPTER IS LEAVING ++": {
+        "chi": "嘉然的小飞机正在离开"
+    },
+    "++ NUKE IN 10 SECONDS ++": {
+        "chi": "嘉然将在10秒后释放核弹"
+    },
+    "++ 60 seconds until the secret is disabled ++": {
+        "chi": "60秒的解密时间直到密码被禁用"
+    }
+}

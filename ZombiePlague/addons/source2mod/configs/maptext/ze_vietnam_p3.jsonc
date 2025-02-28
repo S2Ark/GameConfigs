@@ -1,0 +1,29 @@
+{
+    ">Door will break in 30 sec<": {
+        "chi": ">木门30秒后开启<"
+    },
+    ">Wing will break in 30 sec<": {
+        "chi": ">飞机30秒后断裂<"
+    },
+    ">Wing will break in 10 sec<": {
+        "chi": ">还剩10秒<"
+    },
+    ">Bars will break in 30 sec<": {
+        "chi": ">栅栏30秒后破碎<"
+    },
+    ">Boat leaving in 60 sec<": {
+        "chi": ">小船60秒后出发<"
+    },
+    ">Get in the boat!!!<": {
+        "chi": ">小船出发啦!!!<"
+    },
+    "> Use the console to launch nuke <": {
+        "chi": "> 按下按钮召唤圣嘉然 <"
+    },
+    "> NUKE exploding in 50 sec<": {
+        "chi": "> 嘉然的制裁60秒后降临c<"
+    },
+    "> NUKE exploding in 10 sec<": {
+        "chi": "> 还剩10 秒<"
+    }
+}

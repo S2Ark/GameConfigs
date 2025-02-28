@@ -1,0 +1,491 @@
+{
+    "Level 1: MISTY!": {
+        "chi": "关卡 1: 米提! | c1M   Nightmares翻译 有问题请联系top游廊管理团队"
+    },
+    "OAK: When I was young, I was a serious POKEMON TRAINER.": {
+        "chi": "奥克：当我年轻的时候，我是一个专业的宝可梦教练。"
+    },
+    "But now, in my old age, I have only these three left.": {
+        "chi": "但现在，我已经老了，我只剩下这三个"
+    },
+    "You can have one. Go on choose!": {
+        "chi": "你可以拥有一个 去选一个吧！"
+    },
+    ">>To choose your starter POKEMON<<": {
+        "chi": ">>选择你的宝可梦<<"
+    },
+    ">>Stand on the platform with your desired POKEMON's name on it!<<": {
+        "chi": ">>站在平台上，上面有您想要的宝可梦的名字！<<"
+    },
+    "OAK: I see! BULBASAUR is your choice, It's very easy to raise.": {
+        "chi": "奥克：我明白了！妙蛙种子是您的选择，它很容易饲养."
+    },
+    "This POKEMON is really quite energetic!": {
+        "chi": "这个宝可梦真的很有活力！"
+    },
+    "HUMAN's received the BULBASAUR from PROF. OAK!": {
+        "chi": "人类收到了奥克教授的妙蛙种子！"
+    },
+    ">>TRAINER TIPS<<": {
+        "chi": ">>培训师提示<<"
+    },
+    ">>Catch POKEMON and expand your collection.<<": {
+        "chi": ">>抓住宝可梦并扩大您的收藏.<<"
+    },
+    ">>For now you only have 1 Pokeball.<<": {
+        "chi": ">>现在你只有一个精灵球。<<"
+    },
+    ">>Drop a Pokeball on POKEMON marked with a white arrow to catch them!<<": {
+        "chi": ">>将一个标有白色箭头的精灵球扔到宝可梦上，从而抓住他们！<<"
+    },
+    "Our adventure begins now!": {
+        "chi": "我们的冒险现在开始！"
+    },
+    "The pathway for our adventure will open in 20 seconds!": {
+        "chi": "我们的冒险之路将在20秒内开启！"
+    },
+    ">>Look out for signposts with arrows!<<": {
+        "chi": ">>观察带有箭头的路标！<<"
+    },
+    ">>They will provide hints on where to go next!<<": {
+        "chi": ">>他们将提供下一步去哪里的提示！<<"
+    },
+    ">>POKEMON hide in tall grass.<<": {
+        "chi": ">>宝可梦躲在高高的草丛中.<<"
+    },
+    ">>Zigzag through grassy areas to flush them out.<<": {
+        "chi": ">>穿过草地，寻觅它的踪迹.<<"
+    },
+    "Hold for 30 seconds.": {
+        "chi": "防守30秒."
+    },
+    "A sleeping POKEMON blocks the way!": {
+        "chi": "睡着的宝可梦挡住了路!"
+    },
+    "Hold for 30 seconds!": {
+        "chi": "防守30秒!"
+    },
+    ">>You can't catch a POKEMON that belongs to someone else.<<": {
+        "chi": ">>你抓不到属于别人的宝可梦.<<"
+    },
+    "The sleeping POKEMON left!": {
+        "chi": "睡着的POKEMON离开了!"
+    },
+    ">>Throw POKE BALLS only at wild POKEMON to catch them.<<": {
+        "chi": ">>只向野生POKEMON投掷精灵球以捕捉它们.<<"
+    },
+    "Hold for 15 seconds.": {
+        "chi": "防守15秒."
+    },
+    ">>All POKEMON are unique.<<": {
+        "chi": ">>所有POKEMON都是独一无二的.<<"
+    },
+    ">>Even POKEMON of the same POKEMON and level grow at different rates.<<": {
+        "chi": ">>即使是相同的宝可梦也有不同的等级差距.<<"
+    },
+    ">>Look, look!<<": {
+        "chi": ">>快看!<<"
+    },
+    ">>Look to the left of that post!<<": {
+        "chi": ">>往那根柱子的左边看!<<"
+    },
+    "HUMANS have caught PSYDUCK!": {
+        "chi": "人类抓住了可达鸭!"
+    },
+    "Hold for 15 seconds!": {
+        "chi": "防守15秒!"
+    },
+    "MISTY: Hi, you're a new face!": {
+        "chi": "米提：嗨，你是个新面孔!"
+    },
+    "Only those TRAINERS who have a policy about POKEMON can turn pro.": {
+        "chi": "只有拥有策略的的宝可梦训练师才能成为职业选手。"
+    },
+    "What is your approach when you catch and train POKEMON?": {
+        "chi": "当你抓住并训练宝可梦时，你的方法是什么？"
+    },
+    "My policy is an all-out offensive with WATER-type POKEMON!": {
+        "chi": "我的政策是对水系宝可梦进行全面进攻!"
+    },
+    "Go! STARYU!": {
+        "chi": "去吧!海星星!"
+    },
+    "Go! BULBASAUR!": {
+        "chi": "去吧! 妙蛙种子!"
+    },
+    "Enemy STARYU used WATERGUN!": {
+        "chi": "敌人 海星星 使用了 水枪!"
+    },
+    "BULBSAUR used TACKLE!": {
+        "chi": "妙蛙种子 使用了 普通攻击!"
+    },
+    "BULBASAUR used LEECH SEED!": {
+        "chi": "妙蛙种子 使用了 寄生种子!"
+    },
+    "Enemy POKEMON was seeded!": {
+        "chi": "敌方宝可梦已被寄生!"
+    },
+    "LEECH SEED saps Enemy POKEMON!": {
+        "chi": "寄生种子 消耗了 敌方 宝可梦!"
+    },
+    "BULBASAUR used VINE WHIP!": {
+        "chi": "妙蛙种子 使用了 藤蔓鞭!"
+    },
+    "Enemy STARYU used TACKLE!": {
+        "chi": "敌方 海星星 使用了 普通攻击"
+    },
+    "Enemy POKEMON evaded attack!": {
+        "chi": "敌方 宝可梦 使用了 普通攻击!"
+    },
+    "Enemys POKEMON fainted!": {
+        "chi": "敌方宝可梦晕倒了!"
+    },
+    "ZOMBIES are out of useable POKEMON!": {
+        "chi": "僵尸已用完宝可梦！"
+    },
+    "HUMAN's defeated MISTY!": {
+        "chi": "人类打败了MISTY！"
+    },
+    "MISTY: Wow! You're too much!": {
+        "chi": "MISTY: 哇！你太过分了！"
+    },
+    "You really beat me!": {
+        "chi": "你真的打败了我!"
+    },
+    "HUMAN's got $800 for winning!": {
+        "chi": "人类赢了800美元!"
+    },
+    "Level 2: BROCK!": {
+        "chi": "关卡 2: BROCK!"
+    },
+    "OAK: Hm! SQUIRTLE is your choice, It's one worth raising.": {
+        "chi": "OAK: 你选择了杰尼龟，这是一个值得饲养的宝可梦."
+    },
+    "HUMAN's received the SQUIRTLE from PROF. OAK!": {
+        "chi": "人类得到了奥克教授的杰尼龟!"
+    },
+    ">>You have 1 Pokeball!<<": {
+        "chi": ">>你拥有一个精灵球<<"
+    },
+    ">>The battle moves of POKEMON are limited by their POWER POINTS, PP<<": {
+        "chi": ">>POKEMON的战斗招式受到其力量点PP的限制<<"
+    },
+    ">>To replenish PP, rest your tired POKEMON at a POKEMON CENTER<<": {
+        "chi": ">>要补充PP，请在POKEMON中心休息疲惫的POKEMON<<"
+    },
+    "HUMANS have caught MACHOP!": {
+        "chi": "人类抓住了腕力!"
+    },
+    "BROCK: My rock-hard willpower is evident in my POKEMON.": {
+        "chi": "BROCK: 我的岩石怪是一个优秀的宝可梦."
+    },
+    "My POKEMON are all rock-hard, and have true-grit determination.": {
+        "chi": "我的POKEMON都坚如磐石，有真正的毅力."
+    },
+    "Fuhaha! You're going to challenge me knowing that you'll lose?": {
+        "chi": "哈哈！你要挑战我? 你知道你会输的"
+    },
+    "Fine, then! Show me your best!": {
+        "chi": "那好! 就让我看看你最好的一面"
+    },
+    "Go! SQUIRTLE!": {
+        "chi": "去吧! 杰尼龟!"
+    },
+    "SQUIRTLE used WATERGUN!": {
+        "chi": "杰尼龟 使用了 水枪!"
+    },
+    "It's super effective!": {
+        "chi": "效果拔群!"
+    },
+    "Enemy GEODUDE used ROCK THROW!": {
+        "chi": "敌人 小拳石 使用了 落石!"
+    },
+    "The attack missed...": {
+        "chi": "攻击未命中"
+    },
+    "Enemy GEODUDE used TACKLE!": {
+        "chi": "敌人 小拳石 使用了撞击!"
+    },
+    "Go! WEEDLE!": {
+        "chi": "去吧！独角虫!"
+    },
+    "Enemy WEEDLE used BUG BITE!": {
+        "chi": "敌人 独角虫使用了虫咬!"
+    },
+    "Go! MACHOP!": {
+        "chi": "去吧! 腕力!"
+    },
+    "Enemy WEEDLE used POISON STING!": {
+        "chi": "敌人 独角虫使用了毒针!"
+    },
+    "It's not very effective...": {
+        "chi": "不是很有效。。。"
+    },
+    "HUMAN's POKEMON has been poisoned!": {
+        "chi": "敌方宝可梦中毒了!"
+    },
+    "MACHOP used KARATE CHOP!": {
+        "chi": "腕力 使用了空手劈!"
+    },
+    "HUMAN POKEMON is hurt by poison!": {
+        "chi": "人类宝可梦以为中毒受伤了!"
+    },
+    "Enemy WEEDLE used TACKLE!": {
+        "chi": "敌人 独角虫使用了撞击!"
+    },
+    "HUMAN's defeated BROCK!": {
+        "chi": "人类打败了BROCK!"
+    },
+    "BROCK: I took you for granted.": {
+        "chi": "BROCK: 我认可你了."
+    },
+    "Congratulations on your victory": {
+        "chi": "恭喜你胜利"
+    },
+    "Level 3: GARY!": {
+        "chi": "第3关: GARY!"
+    },
+    "HUMANS have caught WEEDLE!": {
+        "chi": "人类已经抓到独角虫!"
+    },
+    ">>All POKEMON that appear in battle,<<": {
+        "chi": ">>所有出现在战斗中的宝可梦<<"
+    },
+    ">>however briefly, earn EXP Points.<<": {
+        "chi": ">>无论多么短暂，都可以赚取经验值积分。<<"
+    },
+    ">>Zombies now get 1 Pokeball!<<": {
+        "chi": ">>僵尸拿到了一个精灵球!<<"
+    },
+    ">>ZOMBIES: Get close to indicated POKEMON and press E to catch them!<<": {
+        "chi": ">>僵尸：靠近指示的宝可梦并按 E 抓住它们！<<"
+    },
+    "Hold for 25 seconds!": {
+        "chi": "防守25秒!"
+    },
+    "GARY: Hey!": {
+        "chi": "GARY: 嘿!"
+    },
+    "You've finally arrived.": {
+        "chi": "你终于到了."
+    },
+    "OAK: Ah! CHARMANDER is your choice. You should raise it patiently.": {
+        "chi": "OAK: 啊！小火龙是你的选择。你应该耐心的养它."
+    },
+    "HUMAN's received the CHARMANDER from PROF. OAK!": {
+        "chi": "人类从宝可梦博士OAK处收到了小火龙.!"
+    },
+    "Alright Zombies, you can pick a starter aswell!": {
+        "chi": "好吧，僵尸，你也可以选择一个入门宝可梦!"
+    },
+    ">>You have 2 Pokeballs!<<": {
+        "chi": ">>你拥有两个精灵球<<"
+    },
+    "GARY: I'll take this one, then!": {
+        "chi": "GARY: 我要拿走这个!"
+    },
+    "GARY received the SQUIRTLE from PROF. OAK!": {
+        "chi": "GARY 从宝可梦博士OAK收到杰尼龟!"
+    },
+    ">>Zombies now get 2 Pokeballs!<<": {
+        "chi": ">>僵尸现在拥有两个精灵球<<"
+    },
+    "HUMANS have caught DIGLETT!": {
+        "chi": "人类抓住了地鼠!"
+    },
+    "ZOMBIES have caught SPEAROW!": {
+        "chi": "僵尸抓住了烈雀!"
+    },
+    "I've been catching and training my POKEMON!": {
+        "chi": "我一直在捕捉和训练我的宝可梦!"
+    },
+    "And now...": {
+        "chi": "然后现在。。。"
+    },
+    "We are going to defeat you!": {
+        "chi": "我们要打败你!"
+    },
+    "Go! CHARMANDER!": {
+        "chi": "去吧！小火龙!"
+    },
+    "Go! DIGLETT!": {
+        "chi": "去吧！地鼠!"
+    },
+    "Enemy SQUIRTLE used WATERGUN!": {
+        "chi": "敌人 杰尼龟使用了 水枪!"
+    },
+    "DIGLETT used MUD SLAP!": {
+        "chi": "地鼠 使用了掷泥 !"
+    },
+    "Go! PSYDUCK!": {
+        "chi": "去吧！可达鸭!"
+    },
+    "Enemy MACHOP used FOCUS ENERGY!": {
+        "chi": "敌人 腕力使用了 聚气!"
+    },
+    "MACHOP's CRIT, CHANCE rose!": {
+        "chi": "腕力的暴击率上升!"
+    },
+    "PSYDUCK used CONFUSION!": {
+        "chi": "可达鸭使用了念力!"
+    },
+    "Go! SPEAROW!": {
+        "chi": "去吧!烈雀！"
+    },
+    "Enemy SPEAROW used PECK!": {
+        "chi": "敌人烈雀 使用了啄!"
+    },
+    "Enemys POKEMON has been confused!": {
+        "chi": "敌人宝可梦已经混乱了!"
+    },
+    "Enemys POKEMON hurt itself in confusion!": {
+        "chi": "敌人宝可梦因为混乱伤害了自己!"
+    },
+    "PSYDUCK used SCRATCH!": {
+        "chi": "可达鸭使用了抓!"
+    },
+    "CHARMANDER used EMBER!": {
+        "chi": "小火龙使用了火花!"
+    },
+    "CHARMANDER used SCRATCH!": {
+        "chi": "小火龙 使用了抓!"
+    },
+    "HUMANs POKEMON fainted!": {
+        "chi": "人类的宝可梦晕倒了!"
+    },
+    "Enemys POKEMON snapped out of confusion!": {
+        "chi": "敌人宝可梦已经从混乱中挣脱出来!"
+    },
+    "HUMAN's defeated GARY!": {
+        "chi": "人类打败了 GARY!"
+    },
+    "GARY: You.. You beat me?!": {
+        "chi": "GARY: 你。。。你击败了我?!"
+    },
+    "Aww! You just lucked out!": {
+        "chi": "嗷!你只是运气好！"
+    },
+    "HUMAN's got $900 for winning!": {
+        "chi": "人类得到获胜奖励$900!"
+    },
+    "Level X: Open World PKMN Battle!": {
+        "chi": "X关卡：开放世界宝可梦战斗!"
+    },
+    "Once both teams have picked a starter we will begin the countdown!": {
+        "chi": "一旦双方队伍捡起了初始宝可梦我们将开始倒计时!"
+    },
+    "You'll have 60 seconds to find your desired POKEMON before the battle begins!": {
+        "chi": "在战斗开始之前，您将有 60 秒的时间找到您想要的宝可梦!"
+    },
+    "Make sure you grab some pokeballs!": {
+        "chi": "确保你拿到一些精灵球!"
+    },
+    "Don't worry if you dont catch something, you'll be given a random pokemon to fill the slot!": {
+        "chi": "如果你没有抓住宝可梦，不要担心，你会得到一个随机的宝可梦来填补这个位置!"
+    },
+    "The timer begins now!! You have 60 seconds to catch POKEMON!": {
+        "chi": "倒计时开始!! 你有60秒抓捕宝可梦!"
+    },
+    "50 SECONDS LEFT": {
+        "chi": "倒计时50秒"
+    },
+    "HUMANS have caught SPEAROW!": {
+        "chi": "人类抓住了烈雀!"
+    },
+    "40 SECONDS LEFT": {
+        "chi": "倒计时40秒"
+    },
+    "30 SECONDS LEFT": {
+        "chi": "倒计时30秒"
+    },
+    "20 SECONDS LEFT": {
+        "chi": "倒计时20秒"
+    },
+    "10 SECONDS LEFT": {
+        "chi": "倒计时10秒"
+    },
+    "9 SECONDS LEFT": {
+        "chi": "倒计时9秒"
+    },
+    "8 SECONDS LEFT": {
+        "chi": "倒计时8秒"
+    },
+    "7 SECONDS LEFT": {
+        "chi": "倒计时7秒"
+    },
+    "6 SECONDS LEFT": {
+        "chi": "倒计时6秒"
+    },
+    "5 SECONDS LEFT": {
+        "chi": "倒计时5秒"
+    },
+    "4 SECONDS LEFT": {
+        "chi": "倒计时4秒"
+    },
+    "3 SECONDS LEFT": {
+        "chi": "倒计时3秒"
+    },
+    "2 SECONDS LEFT": {
+        "chi": "倒计时2秒"
+    },
+    "1 SECONDS LEFT": {
+        "chi": "倒计时1秒"
+    },
+    "THE BATTLE BEGINS!": {
+        "chi": "战斗开始!"
+    },
+    "SPEAROW used PECK!": {
+        "chi": "烈雀使用了啄!"
+    },
+    "Enemy DIGLETT used MUD SLAP!": {
+        "chi": "敌人地鼠使用了掷泥!"
+    },
+    "SPEAROW used LEER!": {
+        "chi": "烈雀 使用了瞪眼!"
+    },
+    "Enemys POKEMON's DEFENSE fell!": {
+        "chi": "敌方宝可梦防御力下降!"
+    },
+    "CHARMANDER used GROWL!": {
+        "chi": "小火龙 使用了叫声!"
+    },
+    "Enemys POKEMON's ATTACK fell!": {
+        "chi": "地方宝可梦攻击力下降!"
+    },
+    "Enemy SQUIRTLE used TACKLE!": {
+        "chi": "E敌人 杰尼龟 使用了撞击!"
+    },
+    "Enemy DIGLETT used GROWL!": {
+        "chi": "敌人地鼠使用了叫声!"
+    },
+    "HUMANs POKEMON's ATTACK fell!": {
+        "chi": "人类宝可梦攻击力下降!"
+    },
+    "HUMAN's defeated ZOMBIES": {
+        "chi": "人类打败了僵尸"
+    },
+    "ZOMBIES have caught HORSEA!": {
+        "chi": "僵尸抓到了墨海马!"
+    },
+    "Enemy SPEAROW used LEER!": {
+        "chi": "敌人烈雀 使用了瞪眼!"
+    },
+    "HUMANs POKEMON's DEFENSE fell!": {
+        "chi": "人类宝可梦防御力下降!"
+    },
+    "WEEDLE used BUG BITE!": {
+        "chi": "独角虫 使用了虫咬!"
+    },
+    "Critical hit!": {
+        "chi": "暴击!"
+    },
+    "WEEDLE used POISON STING!": {
+        "chi": "独角虫 使用了毒针!"
+    },
+    "Go! HORSEA!": {
+        "chi": "去吧！墨海马 !"
+    },
+    "Enemy HORSEA used WATERGUN!": {
+        "chi": "敌人 墨海马 使用水枪!"
+    }
+}

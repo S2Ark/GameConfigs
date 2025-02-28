@@ -1,0 +1,95 @@
+{
+    "<< A player has picked up earth magic >>": {
+        "chi": "<< 一位玩家捡到了墙 >>"
+    },
+    "<< A zombie has picked up killer magic >>": {
+        "chi": "<< 一位僵尸捡到了秒杀 >>"
+    },
+    "<< A zombie has picked up gravity magic >>": {
+        "chi": "<< 一位僵尸捡到了黑洞 >>"
+    },
+    "<< A zombie has picked up Doom Desire >>": {
+        "chi": "<< 一位僵尸捡到了幻境毁灭 >>"
+    },
+    "<< A player has picked up wind magic >>": {
+        "chi": "<< 一位玩家捡到了风 >>"
+    },
+    "<< A zombie has picked up heal magic >>": {
+        "chi": "<< 一位僵尸捡到了治疗 >>"
+    },
+    "<< A player has picked up water magic >>": {
+        "chi": "<< 一位玩家捡到了水 >>"
+    },
+    "<< Pressure >>": {
+        "chi": "<< 压力(蹲下) >>"
+    },
+    "<< Sinister Omen >>": {
+        "chi": "<< 噩梦降临(去边缘) >>"
+    },
+    "<< Pure Fury >>": {
+        "chi": "<< 召唤仆从(释放僵尸) >>"
+    },
+    "<< Fallen Sky >>": {
+        "chi": "<< 天坠(看头顶) >>"
+    },
+    "<< Mirror Coat >>": {
+        "chi": "<< 镜面折射(停枪 反伤) >>"
+    },
+    "<< Tornado Blade >>": {
+        "chi": "<< 旋转激光刀(听指挥的) >>"
+    },
+    "<< Demon Cage >>": {
+        "chi": "<< 恶魔牢笼(看左右两侧躲) >>"
+    },
+    "<< Ominous Wind >>": {
+        "chi": "<< 风(四周随机推力) >>"
+    },
+    "<< It seems that something is awakening >>": {
+        "chi": "<< 真正的恶魔正在苏醒 >>"
+    },
+    "<< Keep your fantasy in your mind !!! >>": {
+        "chi": "<< 守住你最后的幻想 别被吞噬 !!! >>"
+    },
+    "<< This is not the end...... >>": {
+        "chi": "<< 才刚刚开始...... >>"
+    },
+    "<< defeat the boss in 130 seconds >>": {
+        "chi": "<< 恶魔130秒后吞噬你的幻想 >>"
+    },
+    "<< Earth Power >>": {
+        "chi": "<< 地面沉降(站在没下降的地面上) >>"
+    },
+    "<< Rotating Blade >>": {
+        "chi": "<< 审判之剑(看头顶躲刀) >>"
+    },
+    "<< Aurora Veil >>": {
+        "chi": "<< 极光弹幕(躲正前方的板子) >>"
+    },
+    "<< Tri Crystal >>": {
+        "chi": "<< 三重水晶(紫吸绿推红蹲) >>"
+    },
+    "<< TIPS: Shooting 8 buttons >>": {
+        "chi": "<< 提示: 射击8个按钮 >>"
+    },
+    "<< Flash Cannon >>": {
+        "chi": "<< 暗影加农炮(别站特效前面) >>"
+    },
+    "<< zombie can move in 8 seconds >>": {
+        "chi": "<< 僵尸8秒后释放 >>"
+    },
+    "<< A player has picked up heal magic >>": {
+        "chi": "<< 一位玩家捡到了奶 >>"
+    },
+    "<< A player has picked up fire magic >>": {
+        "chi": "<< 一位玩家捡到了火 >>"
+    },
+    "<< A player has picked up holy magic >>": {
+        "chi": "<< 一位玩家捡到了神圣 >>"
+    },
+    "<< A player has picked up fantasy crystal >>": {
+        "chi": "<< 一位玩家捡到了幻想水晶 >>"
+    },
+    "<< Creation Shield >>": {
+        "chi": "<< 反伤护盾(停枪) >>"
+    }
+}

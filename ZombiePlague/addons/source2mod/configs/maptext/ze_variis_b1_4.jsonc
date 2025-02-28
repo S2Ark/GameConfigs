@@ -1,0 +1,62 @@
+{
+    "ze_variis": {
+        "chi": "地图:影之人之谜"
+    },
+    "creat by : Amaya": {
+        "chi": "作者:Amaya 翻译:黑岩"
+    },
+    "mapping help , brush make help : fubukifox": {
+        "chi": "地图测试帮助:fubukifox"
+    },
+    "GateOpen : 10": {
+        "chi": "10秒后开门"
+    },
+    "Teleport gate open : 20": {
+        "chi": "传送门将于20秒后开启"
+    },
+    "gate open : 15": {
+        "chi": "15秒后开门"
+    },
+    "under path open : 15": {
+        "chi": "15秒后开启路径"
+    },
+    "wood door break : 15": {
+        "chi": "15秒后开启木门"
+    },
+    "Back Back": {
+        "chi": "撤退撤退!"
+    },
+    "A : hello": {
+        "chi": "A:你好啊,小伙子"
+    },
+    "A attack choice": {
+        "chi": "A:正在选择攻击方式"
+    },
+    "A : hm ... okay next door open": {
+        "chi": "A:好吧,给你们开隔壁门"
+    },
+    "B : hi": {
+        "chi": "B:嗨,铁汁"
+    },
+    "B attack choice": {
+        "chi": "B:正在选择攻击方式"
+    },
+    "B : whaaaaaa!!!!": {
+        "chi": "B:我焯??????"
+    },
+    "B : im defeat ... ?": {
+        "chi": "B:我就这么狗带了?"
+    },
+    "Defend : 15": {
+        "chi": "防守15秒"
+    },
+    "rote door : 20": {
+        "chi": "20秒后开门"
+    },
+    "nuke": {
+        "chi": "[圣光降临]"
+    },
+    "B attack : zpush": {
+        "chi": "B:僵尸退散"
+    }
+}

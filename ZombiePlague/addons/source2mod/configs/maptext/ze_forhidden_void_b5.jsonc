@@ -1,0 +1,110 @@
+{
+    "The right access door will open in 20 seconds": {
+        "chi": "右侧大门将在20秒后打开"
+    },
+    "After 30 seconds, the iron door will open": {
+        "chi": "拉杆拉下,等待30秒后开门"
+    },
+    "**Laser Ready** **Zombie tp 15 second**": {
+        "chi": "**准备跳刀** **十五秒后僵尸传送**"
+    },
+    "It takes 40 seconds to open the door": {
+        "chi": "即将步入禁地,门栏打开需要等待40秒"
+    },
+    "** A player has picked up Heal**": {
+        "chi": "** A player has picked up Heal**"
+    },
+    "Turn on in 30 seconds left": {
+        "chi": "30秒后开启传送"
+    },
+    "**Find the white crystal and break it**": {
+        "chi": "**找到白色水晶并打碎它**"
+    },
+    "** A player has picked up Ice Wind**": {
+        "chi": "** A player has picked up Ice Wind**"
+    },
+    "The door lock is damaged, and it will rise after 20 seconds to release the blocking": {
+        "chi": "门锁的封印被破坏,20秒后解锁"
+    },
+    "The defector's phantom is defeated. Open the portal in 30 seconds": {
+        "chi": "叛逃者的幻影被击退,30秒后开启传送"
+    },
+    "**Barrier closed**": {
+        "chi": "**屏障关闭**"
+    },
+    "The mechanism will be released soon. Open the door in 20 seconds": {
+        "chi": "石板已复原,20秒后开启大门"
+    },
+    "The mechanism starts and the axle will rise in 30 seconds": {
+        "chi": "4块石板已复原,桥将在30秒后合并"
+    },
+    "The power of crystal disappears. Transfer it after 30 seconds": {
+        "chi": "封印水晶的力量已消散,30秒后将开启传送"
+    },
+    "--------  60s --------": {
+        "chi": "--------  净化-60秒 --------"
+    },
+    "《第一关已通关，5秒后处死所有僵尸》": {
+        "chi": "《第一关已通关，5秒后处死所有僵尸》"
+    },
+    "The lift access door will open in 30 seconds": {
+        "chi": "左侧门30秒后打开"
+    },
+    "Crystal has been picked up! Turn on the transfer after 30 seconds": {
+        "chi": "水晶已被捡起,30秒后传送"
+    },
+    "Wait for the seal crystal to be released, 30 seconds": {
+        "chi": "等待密封水晶释放 防守30秒"
+    },
+    "Looking for white crystals to pick up!": {
+        "chi": "寻找白色晶体!"
+    },
+    "The crystal is destroyed! After 30 seconds, the axle will rise": {
+        "chi": "水晶已摧毁！35秒后道路完全升起"
+    },
+    "The portal will open in 30 seconds. Defend": {
+        "chi": "入口将在30秒后打开。防御"
+    },
+    "The barrier disappears after 30 seconds": {
+        "chi": "屏障在30秒后消失"
+    },
+    "**Lower left** crystal pickup": {
+        "chi": "**左下** 晶体已拾取"
+    },
+    "**Lower right** crystal pickup": {
+        "chi": "**右下**晶体已拾取"
+    },
+    "**Top left** crystal pickup": {
+        "chi": "**左上**晶体拾取器"
+    },
+    "**Top right** crystal pickup": {
+        "chi": "**右上**晶体已拾取"
+    },
+    "All crystals have been collected. The seal will be removed in 30 seconds": {
+        "chi": "所有晶体都已收集,迷宫将在30秒内移除"
+    },
+    "**A barrier to the exit is removed**": {
+        "chi": "**出口的障碍物被移除**"
+    },
+    "After 20 seconds, the stone gate opens": {
+        "chi": "20秒后，石门打开"
+    },
+    "After 30 seconds, the stone gate opens": {
+        "chi": "30秒后，石门打开"
+    },
+    "《地图已通关，10秒后处死所有僵尸》": {
+        "chi": "《地图已通关，10秒后处死所有僵尸》"
+    },
+    "Wait 30 seconds and turn on the transfer": {
+        "chi": "30秒后人类传送 40秒后全体传送"
+    },
+    "**Zombies touch the altar and fail**": {
+        "chi": "**僵尸触碰祭坛 人类失败**"
+    },
+    "僵尸还有10秒传送": {
+        "chi": "僵尸还有10秒传送"
+    },
+    "《EX模式已通关，10秒后处死所有僵尸》": {
+        "chi": "《EX模式已通关，10秒后处死所有僵尸》"
+    }
+}

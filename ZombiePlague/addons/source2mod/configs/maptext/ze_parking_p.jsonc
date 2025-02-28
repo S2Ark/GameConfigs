@@ -1,0 +1,161 @@
+{
+    ">>>MAP BY LeGrem<<<": {
+        "chi": "地图作者 LeGrem 汉化 四叶草"
+    },
+    ">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<": {
+        "chi": "***守住30s直到C4爆炸***"
+    },
+    ">>COVER THE ELEVATORS ENTRY 30 SECONDS<<": {
+        "chi": "***守住电梯30s***"
+    },
+    ">>COVER THE EVACUATION AREA 45 SECONDS<<": {
+        "chi": "***守住45s***"
+    },
+    ">>FLOOR UNSTABLE ! TAKE CARE !<<": {
+        "chi": "***地板会碎！小心！***"
+    },
+    ">>ELEVATORS OPEN ! 15 SECONDS LEFT<<": {
+        "chi": "***电梯15s后离开***"
+    },
+    ">>ELEVATORS LEAVING !<<": {
+        "chi": "***电梯离开***"
+    },
+    ">>AFK TELEPORT<<": {
+        "chi": "***AFK传送***"
+    },
+    ">>>EXTREME MODE ACTIVATED<<<": {
+        "chi": "***EX难度开启***"
+    },
+    ">>>LEVEL 3 : EVACUATION POINT : ROOF<<<": {
+        "chi": "***屋顶***"
+    },
+    ">>>LEVEL 2 : EVACUATION POINT : STREET<<<": {
+        "chi": "***街道***"
+    },
+    ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<": {
+        "chi": "***电梯***"
+    },
+    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<": {
+        "chi": "*你到达最后的守点，下一回合从第2关开始*"
+    },
+    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<": {
+        "chi": "**你到达最后的守点，下一回合从第1关开始**"
+    },
+    ">>>RESTART AT NORMAL LEVEL 1<<<": {
+        "chi": "***重启第1关***"
+    },
+    ">>>RESET ROUND<<<": {
+        "chi": "**重置回合**"
+    },
+    ">>>KILLING EVERYONE<<<": {
+        "chi": "***杀死所有人***"
+    },
+    ">>RUN<<": {
+        "chi": "**快跑**"
+    },
+    ">>PREPARE TO RUN IN 5 SECONDS<<": {
+        "chi": "***5s后开始***"
+    },
+    ">>ZOMBIES TAKE THE STAIRS<<": {
+        "chi": "**僵尸走楼梯**"
+    },
+    ">>TAKE THE ELEVATORS<<": {
+        "chi": "**乘坐电梯**"
+    },
+    ">>ELEVATOR LEAVING IN 5 SECONDS<<": {
+        "chi": "**电梯5s后离开**"
+    },
+    ">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<": {
+        "chi": "**箱子后面有僵尸**"
+    },
+    ">>EXPLOSION IN 5 SECONDS<<": {
+        "chi": "***5s后爆炸***"
+    },
+    ">>CHOPPER LEAVING IN 15 SECONDS<<": {
+        "chi": "**直升机15s后离开**"
+    },
+    ">>5 SECONDS LEFT<<": {
+        "chi": "**5s后离开**"
+    },
+    ">>COVER UNTIL CHOPPER ARRIVE<<": {
+        "chi": "***掩护直到直升机到达***"
+    },
+    ">>CHOPPER ON WAY<<": {
+        "chi": "**直升机在路上**"
+    },
+    ">>THIS IS THE LAST CHOPPER<<": {
+        "chi": "**这是最后的直升机**"
+    },
+    ">>YOU ARE THE LAST SURVIVORS<<": {
+        "chi": "**你是最后的幸存者**"
+    },
+    ">>EVERYONE HAVE BEEN EVACUATED<<": {
+        "chi": "***所有人都逃离了***"
+    },
+    ">>>>Flamethrower has been picked<<<<": {
+        "chi": "**有玩家拿到了喷火器**"
+    },
+    ">>>>Grenade Launcher has been picked<<<<": {
+        "chi": "***有玩家拿到了榴弹发射器***"
+    },
+    ">>>>Minigun has been picked<<<<": {
+        "chi": "**有玩家拿到了加特林**"
+    },
+    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<": {
+        "chi": "**你到达最后一个守点，下一回合从第3关开始**"
+    },
+    ">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<": {
+        "chi": "**下一回合开始EX模式**"
+    },
+    ">>Let's go ! but be carefull ! there are still some zombies around us<<": {
+        "chi": "**走吧！但是要小心！我们周围还有一些丧尸**"
+    },
+    ">>But they won't wait for long time !<<": {
+        "chi": "**但是他们不会等待很久**"
+    },
+    ">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<": {
+        "chi": "*军队的最后信息邀请我们撤离到市中心的停车场*"
+    },
+    ">>You are the last survivors of the zombie infection<<": {
+        "chi": "***你是最后的幸存者***"
+    },
+    ">>>Thx to JorisCeoen for help with models<<<": {
+        "chi": "**感谢JorisCeoen对模型的帮助***"
+    },
+    ">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<": {
+        "chi": "**获得特殊武器:金匕首**"
+    },
+    ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<": {
+        "chi": "**人类胜利获得特殊武器**"
+    },
+    ">>>>Proxi Mine has been picked<<<<": {
+        "chi": "***有玩家拿到了地雷***"
+    },
+    ">>>>Only 15 Proxi Mines<<<<": {
+        "chi": "***只有15发***"
+    },
+    ">>>>Electro Gun has been picked<<<<": {
+        "chi": "***有玩家拿到了终极***"
+    },
+    ">>>>Only one Shot - 10s of loading<<<<": {
+        "chi": "***只有1发，触发10s后爆炸***"
+    },
+    ">>>>Electro Gun shoot in 10s<<<<": {
+        "chi": "***终极10s后爆炸***"
+    },
+    ">>>>Ammo Dispenser has been picked<<<<": {
+        "chi": "有玩家拿到了弹药"
+    },
+    ">>>>Only one use<<<<": {
+        "chi": "***只能使用一次***"
+    },
+    ">>>>UAV has been picked<<<<": {
+        "chi": "***有玩家拿到了无人机***"
+    },
+    ">>UAV Launched<<": {
+        "chi": "***无人机发射***"
+    },
+    ">> RETURN TO COVER THE DOOR <<<": {
+        "chi": "***守住门口***"
+    }
+}

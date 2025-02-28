@@ -1,0 +1,221 @@
+{
+    "* *The bomb will explode in 15 seconds* *": {
+        "chi": "炸弹15秒后爆炸"
+    },
+    "* *DON'T LET THE ZOMBIES GO INSIDE THE BASEMENT* *": {
+        "chi": "不要让僵尸进入地下室"
+    },
+    "* *ZOMBIES BROKE THE BARRICADES! * *": {
+        "chi": "僵尸已入侵"
+    },
+    "* *BOATS START AT 30 SECONDS* *": {
+        "chi": "小船30秒后出发"
+    },
+    "* *1/4 documents found* *": {
+        "chi": "* *1/4 的文件已找到* *"
+    },
+    "* *2/4 documents found* *": {
+        "chi": "* *2/4 的文件已找到* *"
+    },
+    "* *3/4 documents found* *": {
+        "chi": "* *3/4 的文件已找到* *"
+    },
+    "* *4/4 documents found* *": {
+        "chi": "* *4/4 的文件已找到* *"
+    },
+    "* *You found all the secrets Good Job* *": {
+        "chi": "你找到了所有文件"
+    },
+    "* *1/6 documents found* *": {
+        "chi": "* *1/6 的文件已找到* *"
+    },
+    "* *2/6 documents found* *": {
+        "chi": "* *2/6 的文件已找到* *"
+    },
+    "* *3/6 documents found* *": {
+        "chi": "* *3/6 的文件已找到* *"
+    },
+    "* *4/6 documents found* *": {
+        "chi": "* *4/6 的文件已找到* *"
+    },
+    "* *5/6 documents found* *": {
+        "chi": "* *5/6 的文件已找到* *"
+    },
+    "* *6/6 documents found* *": {
+        "chi": "* *6/6 的文件已找到* *"
+    },
+    "* *DEFEND 15 SECONDS* *": {
+        "chi": "防守15秒"
+    },
+    "* *BILLY IS DEAD, FALL BACK!* *": {
+        "chi": "比利王被我们干碎了"
+    },
+    "* *A PLAYER HAS PICKED UP DICK* *": {
+        "chi": "一名玩家拾取大鸟"
+    },
+    ">>> PLAYER HAS PICKED UP ZM_FIRE_ITEM <<<": {
+        "chi": "僵尸拾取火焰"
+    },
+    ">>> PLAYER HAS PICKED UP HANDYCAM <<<": {
+        "chi": "人类拾取摄影机"
+    },
+    "* *DEFEND 10 SECONDS* *": {
+        "chi": "防守10秒"
+    },
+    "* *GO TO BUNKER FAST!* *": {
+        "chi": "前往地堡"
+    },
+    "* *CONGRATULATIONS STAGE 2 COMPLETE* *": {
+        "chi": "第二关已完成 汉化 萌爱"
+    },
+    "* *YOU LOSE ZOMBIE WIN* *": {
+        "chi": "僵尸胜利"
+    },
+    "* *BILLY USE ULTIMATE DONT STAY MIDDLE* *": {
+        "chi": "比利王使用终极大炮，不要站中间"
+    },
+    "* *BILLY HAVE HUGE SPEED NOW* *": {
+        "chi": "比利王的右手正在疯狂加速"
+    },
+    "* *WE DIDN'T STOP HIM PREPARING FOR BATTLE!* *": {
+        "chi": "准备战斗"
+    },
+    "**NADES DO MORE DAMAGE**": {
+        "chi": "手雷能造成更多伤害"
+    },
+    "* *BILLY HAS BEEN DEFEATED, GET OUT* *": {
+        "chi": "比利王被我们干碎了"
+    },
+    "* *DOOR OPEN AT 5 SECONDS* *": {
+        "chi": "大门5秒后打开"
+    },
+    "* *THE ROOM IS DISINFECTED WAIT 10 SECONDS* *": {
+        "chi": "房间已消毒，防守10秒"
+    },
+    "* *GO BACK TO BILLY* *": {
+        "chi": "去和比利王击剑"
+    },
+    "* *DEFEND 30 SECONDS* *": {
+        "chi": "防守30秒"
+    },
+    "* *DEFEND 5 SECONDS* *": {
+        "chi": "防守5秒"
+    },
+    "* *SURVIVE 50 SECONDS* *": {
+        "chi": "存活50秒"
+    },
+    "* *RUN BACK NEW DOORS ARE NOW OPEN!* *": {
+        "chi": "快跑，大门已打开"
+    },
+    "* *TURN OFF THE VALVE FOR THE LIFE SUPPORT FLUID RESERVOIR* *": {
+        "chi": "关闭阀门"
+    },
+    "* *DEFEND 20 SECONDS* *": {
+        "chi": "防守20秒"
+    },
+    "* *THE REACTOR DOOR WILL OPEN AT 10 SECONDS* *": {
+        "chi": "反应室10秒后后打开"
+    },
+    ">>> PLAYER HAS PICKED UP HEAL <<<": {
+        "chi": "玩家拾取治疗"
+    },
+    "* *AFK TELEPORT IN 10 SECONDS* *": {
+        "chi": "挂机玩家10秒后传送"
+    },
+    "* *FIND BILLY IN THE MAIN LABARATORY* *": {
+        "chi": "在实验室找到比利王"
+    },
+    "* *CHRIS WALKER DEFEATED NOW GO BACK* *": {
+        "chi": "克里斯-沃克已被击败"
+    },
+    "* *THIS IS CHRIS WALKER KILL HIM FASTER!* *": {
+        "chi": "是克里斯-沃克，消灭它"
+    },
+    "* *THIS IS A GHOST, RUN FROM HIM!!!* *": {
+        "chi": "卧槽有鬼，快绕开他"
+    },
+    "* *ZOMBIE SHORTCUT OPEN* *": {
+        "chi": "僵尸侧路已打开"
+    },
+    "**WARMUP 5 SEC**": {
+        "chi": "**热身还有 5 秒**"
+    },
+    "**WARMUP ROUND 60 SEC**": {
+        "chi": "热身还有60秒"
+    },
+    "* *SECRET DOOR OPEN* *": {
+        "chi": "* *密道已打开* *"
+    },
+    "* *TRAP DISABLE* *": {
+        "chi": "陷阱已被触发"
+    },
+    "* *FIND A BACKUP GENERATOR IN THE BASEMENT* *": {
+        "chi": "找到备用发电机"
+    },
+    "* *RIGHT BUTTON PRESSED* *": {
+        "chi": "右边按钮按下"
+    },
+    "* *GO BACK TO SERVER ROOM* *": {
+        "chi": "返回服务器机房"
+    },
+    "* *MIDDLE BUTTON UNLOCK* *": {
+        "chi": "中间按钮已解锁"
+    },
+    "* *LEFT BUTTON PRESSED* *": {
+        "chi": "左边按钮已按下"
+    },
+    "* *DEFEND DOOR 30 SECOND* *": {
+        "chi": "防守30秒"
+    },
+    "* *CONGRATULATIONS STAGE 1 COMPLETE* *": {
+        "chi": "第一关已通过 汉化 萌爱"
+    },
+    "* *FIRST PRESS 2 BUTTONS IN PUMPS ROOMS* *": {
+        "chi": "按下两个按钮"
+    },
+    "* *DON'T TRY TO FIGHT HIM, HIDE IN THE LOCKER* *": {
+        "chi": "躲在储物柜里"
+    },
+    "* *Zombies are already open* *": {
+        "chi": "僵尸已释放"
+    },
+    "* *WAIT 10 SECONDS HERE* *": {
+        "chi": "等待10秒"
+    },
+    "* *OKAY LETS GO* *": {
+        "chi": "可以出发了"
+    },
+    "* *DEFEND DOOR 5 MORE SECOND* *": {
+        "chi": "最后5秒"
+    },
+    "* *NOW GO BACK TO SERVER ROOM* *": {
+        "chi": "前往安全屋"
+    },
+    "* *A PLAYER HAS PICKED UP BOMB* *": {
+        "chi": "玩家拾取炸弹"
+    },
+    "* *The bomb will explode in 30 seconds* *": {
+        "chi": "炸弹30秒后爆炸"
+    },
+    "* *The bomb will explode in 5 seconds* *": {
+        "chi": "炸弹5秒后爆炸"
+    },
+    "* *FIND THE BOMB AND PLANT IT  ON THE WINDOW* *": {
+        "chi": "找到炸弹，并安放在合适位置"
+    },
+    "* *AFK TELEPORT IN 5 SECONDS* *": {
+        "chi": "挂机玩家5秒后传送"
+    },
+    "* *DOOR IS LOCKED FIND THE KEY* *": {
+        "chi": "大门需要钥匙才能打开"
+    },
+    "* *DEFEND FOR 15 SECONDS* *": {
+        "chi": "防守15秒"
+    },
+    "**Stage 1**": {
+        "chi": "第一关"
+    },
+    "**Stage 2**": {
+        "chi": "第二关"
+    }
+}

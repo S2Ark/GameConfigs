@@ -1,0 +1,44 @@
+{
+    "20": {
+        "chi": "20"
+    },
+    "Flamethrower Item is ready": {
+        "chi": "推力cd好叻！"
+    },
+    "40": {
+        "chi": "40"
+    },
+    "30": {
+        "chi": "30"
+    },
+    "Lift will rise in 30": {
+        "chi": "电梯传送倒计时 30 秒"
+    },
+    "15": {
+        "chi": "15"
+    },
+    "60": {
+        "chi": "60"
+    },
+    "25": {
+        "chi": "25"
+    },
+    "PHASE ONE has been beaten": {
+        "chi": "第一个 Boss 已被击败"
+    },
+    "Heal is ready": {
+        "chi": "奶cd好了"
+    },
+    "PHASE TWO has been beaten": {
+        "chi": "第二个 Boss 已被击败"
+    },
+    "Platform will rise in 15s": {
+        "chi": "15秒后平台上升"
+    },
+    "Auto kill prevented": {
+        "chi": "触发核爆设置"
+    },
+    "PHASE THREE has been beaten, an auto kill has been prevented": {
+        "chi": "第三个 Boss 已被击败，正在触发核爆"
+    }
+}

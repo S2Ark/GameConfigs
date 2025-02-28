@@ -1,0 +1,50 @@
+{
+    "***MAP BY LUFFAREN***": {
+        "chi": "***MAP BY LUFFAREN | TRANSLATE BY C1M ***"
+    },
+    "***BETA VERSION - MORE THINGS TO COME***": {
+        "chi": "***有问题请联系TOP游廊管理团队***"
+    },
+    "***GENERATING LAYOUT...***": {
+        "chi": "***地形正在生成***"
+    },
+    "***BOMB PLANTED***": {
+        "chi": "***炸弹已安放 20秒后爆炸***"
+    },
+    "***FALL BACK***": {
+        "chi": "***撤退***"
+    },
+    "***FINAL DOOR CLOSING IN 60 SECONDS***": {
+        "chi": "***最终的大门60秒后关闭***"
+    },
+    "***FINAL DOOR CLOSING IN 30 SECONDS***": {
+        "chi": "***最终的大门30秒后关闭***"
+    },
+    "***FINAL DOOR CLOSING IN 15 SECONDS***": {
+        "chi": "***最终的大门15秒后关闭***"
+    },
+    "***FINAL DOOR CLOSING IN 10 SECONDS***": {
+        "chi": "***最终的大门10秒后关闭***"
+    },
+    "***FINAL DOOR CLOSING IN 5 SECONDS***": {
+        "chi": "***最终的大门5秒后关闭***"
+    },
+    "***FINAL DOOR CLOSING IN 4 SECONDS***": {
+        "chi": "***4***"
+    },
+    "***FINAL DOOR CLOSING IN 3 SECONDS***": {
+        "chi": "***3***"
+    },
+    "***FINAL DOOR CLOSING IN 2 SECONDS***": {
+        "chi": "***2***"
+    },
+    "***FINAL DOOR CLOSING IN 1 SECONDS***": {
+        "chi": "***1***"
+    },
+    "***FINAL DOOR IS CLOSING***": {
+        "chi": "***大门正在关闭***"
+    },
+    "***STAGE COMPLETED***": {
+        "chi": "***阶段已通过***"
+    }
+}

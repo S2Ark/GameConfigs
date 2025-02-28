@@ -1,0 +1,44 @@
+{
+    "### ZOMBIES USE THE LEFT LADDER INSTEAD ###": {
+        "chi": "### 僵尸用左边的梯子 ###"
+    },
+    "### STAY AWAY FROM CONTAMINATE AREAS ###": {
+        "chi": "### 远离被污染的区域 ###"
+    },
+    "### !! BOTH GATES OPEN  !! ###": {
+        "chi": "### !! 两个大门已经开启  !! ###"
+    },
+    "### FENCE GATES ARE CLOSING ### ": {
+        "chi": "### 栅栏门正在关闭 ### "
+    },
+    "### 10 SECONDS REMAINING ###": {
+        "chi": "### 还有10秒 ###"
+    },
+    "### PRESS THE CONTROLER ###": {
+        "chi": "### 按下控制按钮 ###"
+    },
+    "### TO DESTROY THE BRIDGE ###": {
+        "chi": "### 破坏这座桥 ###"
+    },
+    "### USE OFFICE DOOR INSTEAD !! ###": {
+        "chi": "### 用办公室门 !! ###"
+    },
+    "### LADDER DOOR OPENS ###": {
+        "chi": "### 梯子路开启 ###"
+    },
+    "### DEFEND THE LADDER NOW ###": {
+        "chi": "### 现在守住梯子 ###"
+    },
+    "### IN 10 SECONDS ###": {
+        "chi": "### 还有10秒 ###"
+    },
+    "### ELEVATOR IS LEAVING ###": {
+        "chi": "### 电梯正在离开 ###"
+    },
+    "### !!! USE THE LEFT EXIT !! ###": {
+        "chi": "### !!! 走左边的出口 !! ###"
+    },
+    "## POISON GAS HAS BEEN RELEASED !! ##": {
+        "chi": "## 毒气已被释放 !! ##"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Open the door in 10 seconds": {
+        "chi": "门10秒后打开"
+    },
+    "Obstacles break in 10 seconds": {
+        "chi": "障碍物10秒后破碎"
+    },
+    "Transfer the hanger in 35 seconds": {
+        "chi": "电梯35秒后离开"
+    },
+    "30 seconds later the elevator starts": {
+        "chi": "30秒后电梯启动"
+    },
+    "Hanger Transfer": {
+        "chi": "移动障碍物"
+    },
+    "The switch is dead. We have to switch on again.": {
+        "chi": "开关已关闭。我们需要重新开启。"
+    },
+    "The generator is behind the left": {
+        "chi": "发电机在左边"
+    },
+    "Okay, now we can press the elevator button.": {
+        "chi": "好，现在我们可以开启电梯按钮。"
+    },
+    "The elevator will start in 30 seconds.": {
+        "chi": "电梯30秒后上升"
+    },
+    "Oh, no gas leaks. We have to squat through this area.": {
+        "chi": "小心，有毒气。我们需要蹲着走过去。"
+    },
+    "There is a switch at the end to turn off the gas.": {
+        "chi": "后面有一个可以关闭毒气的开关"
+    },
+    "The ventilation pipe is closed. Come on.": {
+        "chi": "毒气被关闭了。快走。"
+    },
+    "Open the underground warehouse door in 30 seconds": {
+        "chi": "30秒后开启安全屋的门"
+    },
+    "Close the door after 25 seconds": {
+        "chi": "安全屋的门25秒后关闭"
+    },
+    "45 seconds after the knife jump": {
+        "chi": "45秒后跳刀"
+    }
+}

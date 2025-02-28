@@ -1,0 +1,197 @@
+{
+    "<Turn on after 25 seconds of teleport>": {
+        "chi": "<黑岩将在25秒后打开禁地传送,我们将讨伐拉法库巴>"
+    },
+    "** A player has picked up Frost Path**": {
+        "chi": "**一位玩家拾取神器：冰霜之剑**"
+    },
+    "** The purification of crystal has been unsealed **": {
+        "chi": "** 水晶的净化已解封 **"
+    },
+    "**A player becomes an elves**": {
+        "chi": "**一位玩家抢走了黑岩的精灵法师**"
+    },
+    "**a monster grzzly has awakened**": {
+        "chi": "**一位玩家唤醒了黑岩的雷沃尔熊人**"
+    },
+    "**zombie has picked up Circle of Winter**": {
+        "chi": "**一只僵尸拿到了恶魔黑岩的冰环**"
+    },
+    "** Hunting begins **": {
+        "chi": "** 愚蠢的人类,我将撕碎你们,狩猎开始！！！ **"
+    },
+    "** A secret concealed in a corpse (1x) **": {
+        "chi": "** 有人发现了隐藏在尸体中的秘密 (1x) **"
+    },
+    "** A player has picked up Heal**": {
+        "chi": "** 一位玩家拾取神器：圣域**"
+    },
+    "<The forhidden gate will open in 60 seconds>": {
+        "chi": "<禁地大门将在60秒后开启>"
+    },
+    "** A player has picked up Ice Barrier **": {
+        "chi": "** 一位玩家拾取神器：冰垒 **"
+    },
+    "<We need to destroy the weak areas of the rock>": {
+        "chi": "<我们需要摧毁岩石的薄弱部分才可通过>"
+    },
+    "<Maybe the ice barrier can help us>": {
+        "chi": "<冰垒能在地图中给予我们更多的帮助>"
+    },
+    "<The forhidden gate will close in 5 seconds>": {
+        "chi": "<禁地大门将在5秒后关闭>"
+    },
+    "** A player has picked up Shield**": {
+        "chi": "**一位玩家拾取神器：圣盾壁障**"
+    },
+    "**The shield is broken**": {
+        "chi": "**圣盾壁障被破坏了**"
+    },
+    "<Open the stone door in 20 seconds>": {
+        "chi": "<黑岩让我们等待20秒后开启石门>"
+    },
+    "<Wait for the blockade to be lifted...>": {
+        "chi": "<等待门锁解除...>"
+    },
+    "<The blockade is lifted and we can move forward!>": {
+        "chi": "<黑岩解锁了石门,咱们可以通过了>"
+    },
+    "** A player has picked up Blizzard**": {
+        "chi": "**一位玩家拾取神器：暴风雪法杖**"
+    },
+    "** A player has picked up Ice Wind**": {
+        "chi": "**一位玩家拾取神器：寒风法杖**"
+    },
+    "<The gate will open in 40 seconds>": {
+        "chi": "黑岩让我们等待40秒后开启大门"
+    },
+    "** A secret concealed in a corpse (2x) **": {
+        "chi": "** 有人发现了隐藏在尸体中的秘密 (2x) **"
+    },
+    "***Grizzly have been wiped out***": {
+        "chi": "***雷沃尔熊人被杀死了！***"
+    },
+    "**zombie has picked up Life Tap**": {
+        "chi": "**一只僵尸拿到了恶魔黑岩的生命分离**"
+    },
+    "<left door open>": {
+        "chi": "<峡谷左边的大门开启>"
+    },
+    "<right door open >": {
+        "chi": "<峡谷右边的大门开启>"
+    },
+    "<The gate will be destroyed in 50 seconds>": {
+        "chi": "靠北啦,黑叔叔让我们守住50秒"
+    },
+    "<The bomb will detonate in 20 seconds>": {
+        "chi": "炸弹将在20秒内引爆,贴门就死"
+    },
+    "<The gate will be destroyed in 30 seconds>": {
+        "chi": "<守住30秒,等待大门破坏>"
+    },
+    "<The door will open in 30 seconds>": {
+        "chi": "<防守30秒以便黑岩打开大门>"
+    },
+    "<Turn on after 20 seconds of teleport>": {
+        "chi": "<坚持20秒,黑叔叔就能把我们传送走啦>"
+    },
+    "** A secret concealed in a corpse (3x) **": {
+        "chi": "** 有人发现了隐藏在尸体中的秘密 (3x) **"
+    },
+    "** The crystal was destroyed and the surrounding air began to condense **": {
+        "chi": "** 冰水晶被破坏了,周围的空气开始凝结 **"
+    },
+    "<Blast the rock in 40 seconds>": {
+        "chi": "这岩石破坏需要该死的40秒"
+    },
+    "** A secret concealed in a corpse (4x) **": {
+        "chi": "** 有人发现了隐藏在尸体中的秘密 (4x) **"
+    },
+    "** A player has picked up Devilian**": {
+        "chi": "** 一位玩家拾取了彩蛋神器：恶魔黑岩的契约**"
+    },
+    "<The glass in the tower will break in 5 seconds>": {
+        "chi": "瞭望塔的玻璃将在5秒后破碎"
+    },
+    "<Will enter the inside of slicoo in 45 seconds>": {
+        "chi": "黑叔让我们守住,还有45秒我们就能进去斯狄科内部了"
+    },
+    "<Shortcut open>": {
+        "chi": "<捷径梯子已打开>"
+    },
+    "<The door opens after 35 seconds>": {
+        "chi": "<大门将在35秒后开启,坚持住>"
+    },
+    "<Something unexpected happened!!!>": {
+        "chi": "<我焯,发生了意料之外的事,涨水了！>"
+    },
+    "** The crystals are destroyed and the surrounding air becomes abnormal **": {
+        "chi": "** 风水晶被摧毁,周围的空气变得异常 **"
+    },
+    "** The crystals are destroyed and the surrounding air becomes violent **": {
+        "chi": "** 火水晶被摧毁,周围的空气变得灼热 **"
+    },
+    "<The door opens after 40 seconds>": {
+        "chi": "<给我守住,40秒后才开门呢!>"
+    },
+    "<The door opens after 50 seconds>": {
+        "chi": "<这破门被卡住了,要守50秒啊!>"
+    },
+    "<The door opens after 15 seconds>": {
+        "chi": "<黑叔说这门15秒后开启>"
+    },
+    "** A player signs a contract with the Devil**": {
+        "chi": "** 一位玩家拾取神器:岩魔契约**"
+    },
+    "<20s!!>": {
+        "chi": "<20s!!>"
+    },
+    "<15s!!>": {
+        "chi": "<15s!!>"
+    },
+    "<Close the forbidden area gate in 70 seconds>": {
+        "chi": "<禁地大门将在70秒后关闭,快TM润!>"
+    },
+    "<Meet the final battle in 20 seconds>": {
+        "chi": "<即将进入最终决战时刻,20秒>"
+    },
+    "** Atmospheric burst **": {
+        "chi": "** 大气爆发(按住W抵抗) **"
+    },
+    "** Reflective ice shield **": {
+        "chi": "** 反伤冰盾 **"
+    },
+    "** Foggy area **": {
+        "chi": "** 雾化(惩罚全场伤害) **"
+    },
+    "** Frost Growth **": {
+        "chi": "** 霜冻生长(跑到石头上) **"
+    },
+    "** Negative Pressure **": {
+        "chi": "** 负压强 **"
+    },
+    "** Tail Transversely Hit + Atomization **": {
+        "chi": "** 尾部扫击+雾化(按住W抵抗) **"
+    },
+    "** Gradually Frozen **": {
+        "chi": "** 渐冻(禁枪,全场伤害) **"
+    },
+    "** Winter roar **": {
+        "chi": "** 冬之咆哮(全场伤害) **"
+    },
+    "** Heavy Snowstorm **": {
+        "chi": "** 大暴雪(躲进熊洞避难) **"
+    },
+    "** Cold Snap **": {
+        "chi": "** 寒流(在场地低洼地段蹲下) **"
+    },
+    "** Atmosphere + Windage **": {
+        "chi": "** 大气+风伤(按W抵抗push后躲后场) **"
+    },
+    "** ice wind **": {
+        "chi": "** 寒风 **"
+    },
+    "** Find the partially dim magic crystal **": {
+        "chi": "** 彩蛋任务:找到部分昏暗的魔法水晶,触发艾洛斯挑战 **"
+    }
+}

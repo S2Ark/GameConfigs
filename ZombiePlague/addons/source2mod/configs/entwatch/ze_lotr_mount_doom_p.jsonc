@@ -1,0 +1,60 @@
+[
+    {
+        "name": "The Ring",
+        "shortname": "Ring",
+        "hammerid": "683",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "yellow"
+    },
+    {
+        "name": "Light of Eärendil",
+        "shortname": "Light",
+        "hammerid": "724",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "white",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "995"
+            },
+            {
+                "hammerid": "997",
+                "event": "OnEqualTo",
+                "mode": 2,
+                "cooldown": 55,
+                "maxuses": 0,
+                "message": true,
+                "ui": true
+            }
+        ]
+    },
+    {
+        "name": "Radio",
+        "shortname": "Radio",
+        "hammerid": "892",
+        "message": true,
+        "ui": true,
+        "transfer": true,
+        "color": "purple",
+        "handlers": [
+            {
+                "type": "button",
+                "hammerid": "1011"
+            }
+        ]
+    },
+    {
+        "name": "Zombie Nazgul",
+        "shortname": "ZM Nazgul",
+        "hammerid": "355",
+        "message": true,
+        "ui": true,
+        "transfer": false,
+        "color": "darkred",
+        "triggers": ["865"]
+    }
+]

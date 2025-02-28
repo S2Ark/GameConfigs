@@ -1,0 +1,71 @@
+{
+    "<< RTV2 >>": {
+        "chi": "<< RTV2 >>"
+    },
+    "<< RTV3 >>": {
+        "chi": "<< RTV3 >>"
+    },
+    "<< World 1st Winner is coming!!! >>": {
+        "chi": "恭喜你们！通关了一周目"
+    },
+    "<< End in 120 seconds >>": {
+        "chi": "最后剩余120秒"
+    },
+    "<< Warning: 20 seconds left >>": {
+        "chi": "热身时间 20s"
+    },
+    "<< Hold for 20 seconds >>": {
+        "chi": "防守20秒"
+    },
+    "<< Hold for 30 seconds >>": {
+        "chi": "防守30秒"
+    },
+    "<< Hold for 35 seconds>>": {
+        "chi": "防守35秒"
+    },
+    "<< RTV plz >>": {
+        "chi": "<< RTV plz >>"
+    },
+    "<< reverse...... >>": {
+        "chi": "反转"
+    },
+    "<< quiet before the storm...... >>": {
+        "chi": "这是暴风雨前的宁静"
+    },
+    "<< Hold for 15 seconds >>": {
+        "chi": "防守15秒"
+    },
+    "<< STAGE COMPLETE >>": {
+        "chi": "关卡通过"
+    },
+    "<< 10 seconds >>": {
+        "chi": "剩余10秒"
+    },
+    "<< Hold for 25 seconds >>": {
+        "chi": "防守25秒"
+    },
+    "<< Hold for 60 seconds >>": {
+        "chi": "防守60秒"
+    },
+    "<< Platform will move in 8 seconds >>": {
+        "chi": "平台8秒后移动"
+    },
+    "<< Shooting the square to recharge the power of the lift >>": {
+        "chi": "往前开枪为电梯充电"
+    },
+    "<< The lift will RE-recharge if the power is more than 100 >>": {
+        "chi": "如果功率大于100，电梯将重新充电"
+    },
+    "<< TIPS: red square will get 10 power >>": {
+        "chi": "<< TIPS: 红色需要10的电能 >>"
+    },
+    "<< TIPS: green square will get 20 power >>": {
+        "chi": "<< TIPS: 绿色需要20的电能 >>"
+    },
+    "<< TIPS: blue square will get 30 power >>": {
+        "chi": "<< TIPS: 蓝色需要30的电能>>"
+    },
+    "<< TIPS: white square will refresh other square >>": {
+        "chi": "TIPS：白色方块将刷新其他方块"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "***WELCOME TO MAGAMDRAKE TOWER***": {
+        "chi": "***欢迎来到炎龙塔***"
+    },
+    "***MAP MADE BY THE REAL LUFFAREN (holy shit)***": {
+        "chi": "*** 这是张纯正的卤粉图 | C1M翻译 欢迎联系修改***"
+    },
+    "***IT IS VERY HOT CLIMB THE TOWER***": {
+        "chi": "***这将是一场灼热的旅程***"
+    },
+    "***PICKED UP MAGMA-PUSH***": {
+        "chi": "***获取地图神器：推力***"
+    },
+    "[ITEM] magmapush CD: 50s": {
+        "chi": "[神器提示] 推力 CD: 50s"
+    },
+    "***ZOMBIE BRIDGE IS FAST NOW***": {
+        "chi": "***复活点push已开启***"
+    },
+    "***PICKED UP ZOMBIE-FLAME***": {
+        "chi": "***僵尸获取地图神器：ZM火***"
+    },
+    "[ITEM] zombie-flame CD: 40s": {
+        "chi": "[神器提示] ZM火 CD: 40s"
+    },
+    "***DELAYERS DETECTED***": {
+        "chi": "***延缓型检测***"
+    },
+    "***ZOMBIES CAN NOW BOOST FROM SPAWN***": {
+        "chi": "***已解锁僵尸捷径限制***"
+    },
+    "***ACTIVATE BUTTON/PROGRESS TO DISABLE BOOST***": {
+        "chi": "***按钮激活 禁用捷径***"
+    },
+    "[ITEM] human picked up HealOrb": {
+        "chi": "[地图神器] 获得地图神器：治疗"
+    },
+    "***ASCEND IN 30 SECONDS***": {
+        "chi": "***30秒后开启通路***"
+    },
+    "***ASCENDING ELEVATOR DESCENDING!***": {
+        "chi": "***电梯下降!***"
+    },
+    "***ASCEND IN 10 SECONDS***": {
+        "chi": "***10秒后开启通路***"
+    },
+    "***GET ON THE RISING SUN!!!***": {
+        "chi": "***即将登上太阳！！！!***"
+    },
+    "***3...***": {
+        "chi": "***3...***"
+    },
+    "***2...***": {
+        "chi": "***2...***"
+    },
+    "***1...***": {
+        "chi": "***1...***"
+    },
+    "***ASCEND NOW FROM THE BORISH BOTTOM***": {
+        "chi": "***地面捷径已解锁***"
+    },
+    "***ASCEND IN 20 SECONDS***": {
+        "chi": "***20秒后开启通路***"
+    },
+    "***SHORTCUT NOW FROM THE BORISH BOTTOM***": {
+        "chi": "***可以使用地面上的捷径***"
+    },
+    "***ASCEND IN 5 SECONDS***": {
+        "chi": "***5秒后开启通路***"
+    },
+    "***ASCEND NOW FROM THE CUTE LITTLE TOWER***": {
+        "chi": "***现在从一旁的的小塔绕行***"
+    },
+    "***ASCEND NOW FROM THE SIDE THAT IS NOT THE OTHER***": {
+        "chi": "***或许路在另一侧？谁知道呢***"
+    },
+    "***ASCEND SHORTCUT IS CREEPING AHEAD***": {
+        "chi": "***捷径开启***"
+    },
+    "***PROCEEDING IN 20 SECONDS***": {
+        "chi": "***20秒后继续***"
+    },
+    "***PROCEEDING IN 10 SECONDS***": {
+        "chi": "***10秒钟后继续***"
+    },
+    "***PROCEEDING IN 5 SECONDS***": {
+        "chi": "***5秒钟后继续***"
+    },
+    "***PROCEEDING UPWARDS AS INTENDED***": {
+        "chi": "***按计划向上行进***"
+    },
+    "***ONE MUST TREAD CAREFULLY TO ALLOW THE TEAM TO PROCEED***": {
+        "chi": "***每个人都必须小心行事才能让队伍继续前进***"
+    },
+    "***ASCEND IN 25 SECONDS***": {
+        "chi": "***25秒后开启通路***"
+    },
+    "***ASCEND NOW FROM THE BIG BOY PILLARS***": {
+        "chi": "***现在绕行另一侧的小塔***"
+    },
+    "***PROCEEDING IN 30 SECONDS***": {
+        "chi": "***30秒后继续***"
+    },
+    "***PROCEEDING TO THE UPPER BOUNDS OF THE WORLD!***": {
+        "chi": "***我们将登上世界之巅！!***"
+    },
+    "***JUMP CAREFULLY!***": {
+        "chi": "***小心点跳!别假摔！***"
+    },
+    "***THE SNEAKY ZOMBIE JUMP IS ACTIVATING SOON'tm***": {
+        "chi": "***僵尸跳台马上就要开启了***"
+    },
+    "***THE SNEAKY ZOMBIE JUMP IS ACTIVATING NOW'tm***": {
+        "chi": "***僵尸跳台现已开启~***"
+    },
+    "***YOU MUST FIND THE HIGHS AND LOWS***": {
+        "chi": "***你必须触发高和低两处按钮***"
+    },
+    "***ONLY THEN YOU MAY GOWS...***": {
+        "chi": "***那你才有机会...***"
+    },
+    "***THE SECOND SNEAKY ZOMBIE JUMP IS ACTIVATING NOW'tm***": {
+        "chi": "***第二段僵尸跳台已开启~***"
+    },
+    "***1/2 EVIL BUTTONS HAVE BEEN PRESSED!***": {
+        "chi": "***1/2 按钮触发!***"
+    },
+    "***WASH OUT IS THE REAL DRAGON***": {
+        "chi": "***这就是炎龙吗***"
+    },
+    "***SHOOT IT HAS LOTS OF HP!!!***": {
+        "chi": "***开枪打它!!!***"
+    },
+    "***DEFEND IN MEANTIME DODGE FIREBALLS TOO***": {
+        "chi": "***防守僵尸 同时躲避滚烫的火球***"
+    },
+    "***DRAGON IS DEAD YOU GOTTA DEFEND!!!***": {
+        "chi": "***炎龙已经倒下 守住最后的守点!!!***"
+    },
+    "***THE END IS NEAR!***": {
+        "chi": "***终局将至!***"
+    },
+    "***DEFEND HARDER***": {
+        "chi": "***坚定守住！***"
+    },
+    "***WHAT IS THAT ABOVE US?***": {
+        "chi": "***上面是什么东西?***"
+    },
+    "***OH NO WASH OUT IS THE REALER DRAGON!!!***": {
+        "chi": "***我去，这才是真正的炎龙!!!***"
+    },
+    "***IT HAS A LOT MORE HP SHOT SHOOT SHOOOT!***": {
+        "chi": "***他的生命力异常顽强!开枪开枪开枪！***"
+    },
+    "***DRAGON DEAD DEFEND 40 SECONDS***": {
+        "chi": "***炎龙终于倒下了！ 防守40秒***"
+    },
+    "***DEFEND 20 SECONDS***": {
+        "chi": "***防守20秒***"
+    },
+    "***DEFEND 10 SECONDS***": {
+        "chi": "***防守10秒***"
+    },
+    "***DEFEND 5 SECONDS***": {
+        "chi": "***防守5秒***"
+    },
+    "***JUMP NOW!!!***": {
+        "chi": "***信仰之跃！!!!***"
+    },
+    "***TOWER WENT BOOM***": {
+        "chi": "***炎龙塔正在分崩离析***"
+    },
+    "***MAP BY LUFFAREN***": {
+        "chi": "***地图制作：LUFFAREN***"
+    },
+    "***THE REAL MAGMADRAKE IS NOT HERE YET***": {
+        "chi": "***不过这不是真正的炎龙高塔 让我们期待共同期待CS2  ***"
+    },
+    "***2/2 EVIL BUTTONS HAVE BEEN PRESSED!***": {
+        "chi": "***2/2 按钮触发!***"
+    },
+    "***ASCEND IN 40 SECONDS***": {
+        "chi": "***40秒后开启通路***"
+    },
+    "***ASCEND NOW FROM THE FANCY EDGE***": {
+        "chi": "***现在从外围上去***"
+    },
+    "***ASCEND IN 15 SECONDS***": {
+        "chi": "***15秒后开启通路***"
+    },
+    "***ASCEND NOW TO THE TOP***": {
+        "chi": "***我们将登峰造极！！***"
+    },
+    "***FINISH THE FIGHT!***": {
+        "chi": "***终局之战！!***"
+    },
+    "[ITEM] human picked up DragonSlayer": {
+        "chi": "[地图神器] 人类获取神器 龙剑"
+    },
+    "[ITEM] human picked up Piggyback": {
+        "chi": "[地图神器] 人类获取神器 背人系统"
+    },
+    "[ITEM] zombie picked up Fling": {
+        "chi": "[地图神器] 僵尸获取神器 震荡"
+    }
+}

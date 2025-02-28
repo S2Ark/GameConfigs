@@ -1,0 +1,80 @@
+{
+    "10 SECOND | EVERYTHING TELEPORT": {
+        "chi": "10秒|全体传送|共20层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 1": {
+        "chi": "20秒|生存|1层"
+    },
+    "special items are from mapeadores": {
+        "chi": "特殊物品来自mapeadores"
+    },
+    "20 SECOND | SURVIVAL | ARENA 2": {
+        "chi": "20秒|生存|2层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 3": {
+        "chi": "20秒|生存|3层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 4": {
+        "chi": "20秒|生存|4层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 5": {
+        "chi": "20秒|生存|5层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 6": {
+        "chi": "20秒|生存|6层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 7": {
+        "chi": "20秒|生存|7层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 8": {
+        "chi": "20秒|生存|8层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 9": {
+        "chi": "20秒|生存|9层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 10": {
+        "chi": "20秒|生存|10层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 11": {
+        "chi": "20秒|生存|11层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 12": {
+        "chi": "20秒|生存|12层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 13": {
+        "chi": "20秒|生存|13层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 14": {
+        "chi": "20秒|生存|14层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 15": {
+        "chi": "20秒|生存|15层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 16": {
+        "chi": "20秒|生存|16层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 17": {
+        "chi": "20秒|生存|17层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 18": {
+        "chi": "20秒|生存|18层"
+    },
+    "20 SECOND | SURVIVAL | ARENA 19": {
+        "chi": "20秒|生存|19层"
+    },
+    "!rcon sv_airaccelerate 999": {
+        "chi": "!rcon sv_airaccelerate 999"
+    },
+    "!rcon sv_accelerate 10": {
+        "chi": "!rcon sv_accelerate 10"
+    },
+    "10 SECOND | STAY RED IN SURVIVAL | ARENA 20": {
+        "chi": "10秒|在红色区域内生存|20层"
+    },
+    "10 SECOND | HUMANS WIN": {
+        "chi": "10秒|人类获胜"
+    },
+    "EVERYONE RTV | MAP FINISH": {
+        "chi": "地图通关 | 按Y输入RTV"
+    }
+}

@@ -1,0 +1,218 @@
+{
+    ">>> Stage1 <<<": {
+        "chi": ">>> Stage1 <<<"
+    },
+    ">>> Map by Moray and nano <<<": {
+        "chi": ">>> 地图作者 Moray and nano 汉化 Tastysaw@GO社区服<<<"
+    },
+    ">>> Ammo Unlocked <<<": {
+        "chi": ">>> 无限子弹解锁 <<<"
+    },
+    ">>> Ballista Unlocked <<<": {
+        "chi": ">>> 弩炮解锁 <<<"
+    },
+    ">>> Bible Unlocked <<<": {
+        "chi": ">>> 圣经解锁 <<<"
+    },
+    ">>> Sacred Staff Unlocked <<<": {
+        "chi": ">>> 神圣解锁 <<<"
+    },
+    ">>> Right Door Opening in 15 Seconds <<<": {
+        "chi": ">>> 右侧大门15秒后开启 <<<"
+    },
+    ">>> Player has picked up Venom Staff <<<": {
+        "chi": ">>> 有玩家捡到了毒 <<<"
+    },
+    ">>> Hold 20 Seconds <<<": {
+        "chi": ">>> 守住20秒 <<<"
+    },
+    ">>> AFK Teleport in 10 Seconds <<<": {
+        "chi": ">>> 僵尸10秒后传送 <<<"
+    },
+    ">>> Player has picked up Tornado Staff <<<": {
+        "chi": ">>> 有玩家捡到了风 <<<"
+    },
+    ">>> Hold 15 Seconds <<<": {
+        "chi": ">>> 守住15秒 <<<"
+    },
+    ">>> Player has picked up Meteor Staff <<<": {
+        "chi": ">>> 有玩家捡到了流星 <<<"
+    },
+    ">>> Hold 30 Seconds <<<": {
+        "chi": ">>> 守住30秒 <<<"
+    },
+    ">>> Player has picked up Crystal Staff <<<": {
+        "chi": ">>> 有玩家捡到了水晶 <<<"
+    },
+    ">>> Player has picked up Heal Staff <<<": {
+        "chi": ">>> 有玩家捡到了奶 <<<"
+    },
+    ">>> Hold 10 Seconds <<<": {
+        "chi": ">>> 守住10秒 <<<"
+    },
+    ">>> Spider is Coming <<<": {
+        "chi": ">>> 饼饼召唤了一只蜘蛛 <<<"
+    },
+    ">>> Spider has been Defeated <<<": {
+        "chi": ">>> 蜘蛛被打败了 <<<"
+    },
+    ">>> Door Closing in 15 Seconds <<<": {
+        "chi": ">>> 大门15秒后关闭 <<<"
+    },
+    ">>> Stage1 Completed <<<": {
+        "chi": ">>> Stage1 完成 <<<"
+    },
+    ">>> Stage2 <<<": {
+        "chi": ">>> Stage2 <<<"
+    },
+    ">>> Player has picked up Ballista <<<": {
+        "chi": ">>> 有玩家捡到了弩炮 <<<"
+    },
+    ">>> Player has picked up Bible <<<": {
+        "chi": ">>> 有玩家捡到了圣经 <<<"
+    },
+    ">>> Player has picked up Ammo <<<": {
+        "chi": ">>> 有玩家捡到了无限子弹 <<<"
+    },
+    ">>> Left Door Opening in 15 Seconds <<<": {
+        "chi": ">>> 左侧大门15秒后开启 <<<"
+    },
+    ">>> Player has picked up Sacred Staff <<<": {
+        "chi": ">>> 有玩家捡到了神圣 <<<"
+    },
+    ">>> AFK Teleport 10 Seconds <<<": {
+        "chi": ">>> 僵尸10秒后传送 <<<"
+    },
+    ">>> Hold 25 Seconds <<<": {
+        "chi": ">>> 守住25秒 <<<"
+    },
+    ">>> Troll is Coming <<<": {
+        "chi": ">>> 饼饼召唤了一只巨魔 <<<"
+    },
+    ">>> Troll has been Defeated <<<": {
+        "chi": ">>> 巨魔被打败了 <<<"
+    },
+    ">>> Zombie Teleport in 10 Seconds <<<": {
+        "chi": ">>> 僵尸10秒后传送 <<<"
+    },
+    ">>> Stage2 Completed <<<": {
+        "chi": ">>> Stage2 完成 <<<"
+    },
+    ">>> Shade Staff Unlocked <<<": {
+        "chi": ">>> 暗影解锁 <<<"
+    },
+    ">>> Stage3 <<<": {
+        "chi": ">>> Stage3 <<<"
+    },
+    ">>> Left Door Opening in 20 Seconds <<<": {
+        "chi": ">>> 左侧大门20秒后开启 <<<"
+    },
+    ">>> Dragon is Coming <<<": {
+        "chi": ">>> 饼饼召唤了一只巨龙 <<<"
+    },
+    ">>> Dragon has been Defeated <<<": {
+        "chi": ">>> 巨龙被打败了 <<<"
+    },
+    ">>> 10 Seconds Left <<<": {
+        "chi": ">>> 还剩10秒 <<<"
+    },
+    ">>> 5 Seconds Left <<<": {
+        "chi": ">>> 还剩5秒 <<<"
+    },
+    ">>> Fall Back <<<": {
+        "chi": ">>> 撤退 <<<"
+    },
+    ">>> Don't Delay <<<": {
+        "chi": ">>> 别回头 <<<"
+    },
+    ">>> Rakiora is Coming <<<": {
+        "chi": ">>> 饼饼在后面召唤了拉基奥拉 <<<"
+    },
+    ">>> Zombies Teleport in 10 Seconds <<<": {
+        "chi": ">>> 僵尸10秒后传送 <<<"
+    },
+    ">>> Stage3 Completed <<<": {
+        "chi": ">>> Stage3 完成 <<<"
+    },
+    ">>> Stage4 <<<": {
+        "chi": ">>> Stage4 <<<"
+    },
+    ">>> Middle Door Opening in 20 Seconds <<<": {
+        "chi": ">>> 中间大门20秒后开启 <<<"
+    },
+    ">>> Player has picked up Shade Staff <<<": {
+        "chi": ">>> 有玩家捡到了暗影 <<<"
+    },
+    ">>> Library Route Opened <<<": {
+        "chi": ">>> 图书馆路开启 <<<"
+    },
+    ">>> Meeting Room Route Opened <<<": {
+        "chi": ">>> 会议室路开启 <<<"
+    },
+    ">>> Gargantua is Coming <<<": {
+        "chi": ">>> 饼饼召唤了一只怪兽 <<<"
+    },
+    ">>> Gargantua has been Defeated <<<": {
+        "chi": ">>> 怪兽被打败了 <<<"
+    },
+    ">>> Hold 35 Seconds <<<": {
+        "chi": ">>> 守住35秒 <<<"
+    },
+    ">>> Diablo is Coming <<<": {
+        "chi": ">>> 饼饼召唤了迪亚波罗 <<<"
+    },
+    ">>> Stage4 Completed <<<": {
+        "chi": ">>> Stage4 完成 <<<"
+    },
+    ">>> Stage5 <<<": {
+        "chi": ">>> Stage5 <<<"
+    },
+    ">>> Stage1 Activated <<<": {
+        "chi": ">>> 管理员设置下关为Stage1 <<<"
+    },
+    ">>> Hold 5 Seconds <<<": {
+        "chi": ">>> 守住5秒 <<<"
+    },
+    "Noob Trashed": {
+        "chi": "饼饼认为你是个菜B"
+    },
+    ">>> Diablo has been Defeated <<<": {
+        "chi": ">>> 迪亚波罗被打败了 <<<"
+    },
+    ">>> Angra has been Defeated <<<": {
+        "chi": ">>> 安格拉被打败了 <<<"
+    },
+    ">>> Stage5 Completed <<<": {
+        "chi": ">>> Stage5 完成 <<<"
+    },
+    ">>> Stage2 Activated <<<": {
+        "chi": ">>> 管理员设置下关为Stage2 <<<"
+    },
+    ">>> Player has picked up Blood Orb  <<<": {
+        "chi": ">>> 有僵尸捡到了鲜血 <<<"
+    },
+    ">>> Stage3 Activated <<<": {
+        "chi": ">>> 管理员设置下关为Stage3 <<<"
+    },
+    ">>> Player has picked up Explosive Barrel  <<<": {
+        "chi": ">>> 有僵尸捡到了炸药桶  <<<"
+    },
+    ">>> Stage4 Activated <<<": {
+        "chi": ">>> 管理员设置下关为Stage4 <<<"
+    },
+    ">>> Player has picked up Necromancy  <<<": {
+        "chi": ">>> 有僵尸捡到了巫术  <<<"
+    },
+    ">>> Stage5 Activated <<<": {
+        "chi": ">>> 管理员设置下关为Stage5 <<<"
+    },
+    ">>> Player has picked up Guillotine  <<<": {
+        "chi": ">>> 有僵尸捡到了断头台  <<<"
+    },
+    ">>> Player has picked up Abyss  <<<": {
+        "chi": ">>> 有僵尸捡到了深渊之力  <<<"
+    },
+    ">>> Bible has been Found <<<": {
+        "chi": ">>> 有玩家找到了圣经 <<<"
+    }
+}

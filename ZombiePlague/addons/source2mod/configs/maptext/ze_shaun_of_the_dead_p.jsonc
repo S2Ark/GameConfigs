@@ -1,0 +1,155 @@
+{
+    "***BOAT ROUTE***": {
+        "chi": "***船路线***"
+    },
+    "***OFFICE ROUTE***": {
+        "chi": "***办公室路线***"
+    },
+    "***GET GAS FOR THE BOAT***": {
+        "chi": "***给船加汽油***"
+    },
+    "***LOOK IN THE SUPPLY SHED***": {
+        "chi": "***看看补给仓库***"
+    },
+    "***UNDERGROUND ROUTE***": {
+        "chi": "***地铁路线***"
+    },
+    "***A PLAYER NEEDS TO GO INSIDE THE VENT***": {
+        "chi": "***需要一个玩家进入通风管道***"
+    },
+    "***GAS CANS HAVE BEEN COLLECTED***": {
+        "chi": "***已经拿到煤气罐了***"
+    },
+    "***RUN BACK TO THE BOAT***": {
+        "chi": "***跑回船上去***"
+    },
+    "***BOAT REFUELING***": {
+        "chi": "***正在给船加油***"
+    },
+    "***BOAT LEAVES IN 5 SECONDS!***": {
+        "chi": "***船在5秒后出发!***"
+    },
+    "***ZOMBIES TAKE THE BRIDGE***": {
+        "chi": "***僵尸已经占领了大桥***"
+    },
+    "***A PLAYER NEEDS TO ACTIVATE THE GATE": {
+        "chi": "***需要激活大门"
+    },
+    "***LOCK GATE 1 OPENING***": {
+        "chi": "***1号闸门开启***"
+    },
+    "***SOMEONE NEEDS TO UP THE WATER LEVELS***": {
+        "chi": "***需要有人把水位调高***"
+    },
+    "***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***": {
+        "chi": "***利用这些管道进入控制室***"
+    },
+    "***GET OUT OF THE BOAT AND HOLD!***": {
+        "chi": "***快下船，稳住别掉水里!***"
+    },
+    "***TRY TO HOLD THE BOXES***": {
+        "chi": "***试着拿走这些箱子***"
+    },
+    "***WATER LEVELS RISING***": {
+        "chi": "***水位上升***"
+    },
+    "***LOCK GATE 2 OPENING***": {
+        "chi": "***2号闸门开启***"
+    },
+    "***DOOR OPENS IN 10 SECONDS***": {
+        "chi": "***门在10秒后打开***"
+    },
+    "***DOOR OPENS IN 5 SECONDS***": {
+        "chi": "***门在5秒内打开***"
+    },
+    "***FALL BACK***": {
+        "chi": "***撤退***"
+    },
+    "***HOLD THE WINDOWS***": {
+        "chi": "***守住窗户***"
+    },
+    "***HOLD 20 SECONDS***": {
+        "chi": "***坚持20秒***"
+    },
+    "***HOLD 10 SECONDS***": {
+        "chi": "***坚持10秒***"
+    },
+    "***HOLD 5 SECONDS***": {
+        "chi": "***坚持5秒***"
+    },
+    "***ENTER THE SEWERS***": {
+        "chi": "***进入下水道***"
+    },
+    "***TRUCKS LEAVE IN 20 SECONDS***": {
+        "chi": "***卡车20秒后出发***"
+    },
+    "***TRUCKS LEAVE IN 10 SECONDS***": {
+        "chi": "***卡车10秒后出发***"
+    },
+    "***HUMANS STAY ON THE BLUE TRUCK***": {
+        "chi": "***人类呆在蓝色卡车上***"
+    },
+    "***GET TO THE SAFETY OF THE WINCHESTER***": {
+        "chi": "***去温彻斯特酒吧，哪里安全***"
+    },
+    "***COVER THE DOOR***": {
+        "chi": "***守住大门***"
+    },
+    "***AFK TELE 10 SECONDS***": {
+        "chi": "***AFK的玩家将在10秒后被传送***"
+    },
+    "***ESCAPE ROUTE: ROOFTOP***": {
+        "chi": "***逃跑路线:屋顶***"
+    },
+    "***RESTORE THE POWER***": {
+        "chi": "***恢复电力***"
+    },
+    "***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***": {
+        "chi": "***小心后门的僵尸***"
+    },
+    "***FALL BACK UPSTAIRS***": {
+        "chi": "***撤退，上顶楼***"
+    },
+    "***DOORS OPENS IN 30 SECONDS***": {
+        "chi": "***门在30秒后打开***"
+    },
+    "***DOORS OPENS IN 20 SECONDS***": {
+        "chi": "***门在20秒后打开***"
+    },
+    "***DOORS OPENS IN 10 SECONDS***": {
+        "chi": "***门在10秒后打开***"
+    },
+    "***DOORS OPENS IN 5 SECONDS***": {
+        "chi": "***门在5秒后打开***"
+    },
+    "***ELEVATOR ON THE WAY***": {
+        "chi": "***电梯马上就来***"
+    },
+    "***ELEVATOR IS HERE***": {
+        "chi": "***电梯门开了，快进来***"
+    },
+    "***FLOOD GATE OPENING***": {
+        "chi": "***防洪闸开启***"
+    },
+    "***ELEVATOR LEAVING 15 SECONDS***": {
+        "chi": "***电梯15秒后离开***"
+    },
+    "***ESCAPE ROUTE: CELLAR***": {
+        "chi": "***逃跑路线:地下室***"
+    },
+    "***FALL BACK BEHIND THE BAR***": {
+        "chi": "***撤退到吧台里面***"
+    },
+    "***WAIT FOR HATCH TO OPEN***": {
+        "chi": "***等待地下室门打开***"
+    },
+    "***HATCH IS OPEN FALL BACK***": {
+        "chi": "***门开了，快跑***"
+    },
+    "***LIFT LEAVING IN 15 SECONDS***": {
+        "chi": "***电梯15秒后离开***"
+    },
+    "***LIFT LEAVING IN 5 SECONDS***": {
+        "chi": "***电梯5秒后离开***"
+    }
+}

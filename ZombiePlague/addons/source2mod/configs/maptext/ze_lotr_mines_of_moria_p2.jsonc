@@ -1,0 +1,71 @@
+{
+    "**Zombies have been alerted!**": {
+        "chi": "**奥克们要来了!**"
+    },
+    "**Humans have reached Balin's tomb! Resist 55 s**": {
+        "chi": "**护戒小队已经到达巴林的墓穴! 守住55秒**"
+    },
+    "**Resist 30 s**": {
+        "chi": "**守住30秒**"
+    },
+    "**Resist 15 s**": {
+        "chi": "**守住15秒**"
+    },
+    "**Go to the Khazad-Dum bridge!**": {
+        "chi": "**去卡扎督姆桥!**"
+    },
+    "** Moria is unstable! Run towards the stairs in  **": {
+        "chi": "** 莫瑞亚矿坑要塌了! 去楼梯那里  **"
+    },
+    "** Protection ring will close in 15 s **": {
+        "chi": "** 圣光15秒后消散 **"
+    },
+    "**Balin's door closing in 10 s**": {
+        "chi": "**巴林墓穴大门10秒后关闭**"
+    },
+    "**(Zombies) The door to Khazad-Dum bridge is now open**": {
+        "chi": "**(奥克) 通往卡扎督姆桥的大门已经开启**"
+    },
+    "**Gandalf in the middle**": {
+        "chi": "**甘道夫站在桥中间**"
+    },
+    "**Protect Gandalf during 35s! He must break the bridge! **": {
+        "chi": "**保护甘道夫35秒! 他正在dawds摧毁桥梁! **"
+    },
+    "**Gandalf is dead!**": {
+        "chi": "**甘道夫被干碎了!**"
+    },
+    "** MAP BY HANNIBAL [SPA] (Rafuron) **": {
+        "chi": "** 地图作者 HANNIBAL [SPA] (Rafuron) 汉化 Tastysaw 专有名词汉化来自魔戒中文维基百科**"
+    },
+    "**Bring the ring to Khazad-Dum bridge to win easily**": {
+        "chi": "**护戒小队需要护送至尊戒前往卡扎督姆桥**"
+    },
+    "**Map by: Hannibal [SPA] (Rafuron)**": {
+        "chi": "**地图作者 Hannibal [SPA] (Rafuron) 汉化 Tastysaw 专有名词汉化来自魔戒中文维基百科**"
+    },
+    "**Stay in the circle! Zombies can't go in!**": {
+        "chi": "**站在光环中间! 僵尸进不来!**"
+    },
+    "**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**": {
+        "chi": "**炎魔15秒后摧毁出生点洞穴和梯子**"
+    },
+    "**Balrog coming to BALIN AND COLUMN ZONE in 15s**": {
+        "chi": "**炎魔15秒后摧毁巴林的墓穴**"
+    },
+    "**Balrog coming to SUPERIOR STAIRS ZONE in 15s**": {
+        "chi": "**炎魔15秒后摧毁楼梯**"
+    },
+    "**The ring has been picked!**": {
+        "chi": "**至尊戒已被拾起!**"
+    },
+    "**Saruman staff has been picked!**": {
+        "chi": "**有小队成员捡到了萨茹曼法杖!**"
+    },
+    "**Gandalf staff has been picked!**": {
+        "chi": "**有小队成员捡到了甘道夫法杖!**"
+    },
+    "**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**": {
+        "chi": "**祝贺! 护戒小队完成任务! 木桥已被摧毁**"
+    }
+}

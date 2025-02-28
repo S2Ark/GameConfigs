@@ -1,0 +1,293 @@
+{
+    "** A player has adquired ULTIMA MATERIA **": {
+        "chi": "** 有玩家捡到了终极 **"
+    },
+    "** A player has adquired ICE MATERIA **": {
+        "chi": "** 有玩家捡到了冰 **"
+    },
+    "** A player has adquired FIRE MATERIA **": {
+        "chi": "** 有玩家捡到了火 **"
+    },
+    "** A player has adquired WIND MATERIA **": {
+        "chi": "** 有玩家捡到了风 **"
+    },
+    "** A player has adquired EARTH MATERIA **": {
+        "chi": "** 有玩家捡到了土 **"
+    },
+    "** A player has adquired HEAL MATERIA **": {
+        "chi": "** 有玩家捡到了奶 **"
+    },
+    "** A player has adquired ELECTRO MATERIA **": {
+        "chi": "** 有玩家捡到了电 **"
+    },
+    "** A player has adquired GRAVITY MATERIA **": {
+        "chi": "** 有玩家捡到了黑洞 **"
+    },
+    "**Door is opening in 10 seconds**": {
+        "chi": "**第三道门10秒后开启**"
+    },
+    "**Door is open**": {
+        "chi": "**门开了**"
+    },
+    "**Elevator is leaving in 10s**": {
+        "chi": "**电梯10秒后离开**"
+    },
+    "** We have reached the core  ...**": {
+        "chi": "** 我们已经到达魔光炉反应核心  ...**"
+    },
+    "** ... Cloud is planting the bomb ** ": {
+        "chi": "** ... 克劳德正在安放炸弹 ** "
+    },
+    "** Bomb has been planted  **  Run **": {
+        "chi": "** 炸弹已安放  **  快跑 **"
+    },
+    "**Door is opening in 5**": {
+        "chi": "**门5秒后打开**"
+    },
+    "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **": {
+        "chi": "** 大门35秒后打开 ** 去控制室尝试提前打开大门 **"
+    },
+    "** Door is opening in 7 seconds **": {
+        "chi": "** 舞台场大门7秒后打开 **"
+    },
+    "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
+        "chi": "**祝贺 ! 你通关了NORMAL模式! 加载HARD模式 ! **"
+    },
+    "** RUN! **": {
+        "chi": "** 跑! **"
+    },
+    "** ZOMBIES HAVE INFECTED THE BUNKER **": {
+        "chi": "** 僵尸已经到达地堡 **"
+    },
+    "**Door opening in 10 seconds**": {
+        "chi": "**卷帘门10秒后打开**"
+    },
+    "** DOOR OPENS IN 5 s **": {
+        "chi": "** 中央大门5秒后开启 **"
+    },
+    "**Superior door opening in 30 seconds**": {
+        "chi": "**中央大门30秒后开启**"
+    },
+    "** ADMIN PRESSED KILL ALL BUTTON **": {
+        "chi": "** 管理员处死全体玩家 **"
+    },
+    "**Its dead ** Go go! Run upstairs ! **": {
+        "chi": "**它被干死了 ** 跑! 回到上面 ! **"
+    },
+    "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**": {
+        "chi": "** 当前难度已开启视觉污染 ** 控制台输入 mat_colorcorrection 0 关闭**"
+    },
+    "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
+        "chi": "**当前难度 ** >> EXTREME II << **"
+    },
+    "** NO MORE COWBELL BONUS **": {
+        "chi": "** NO MORE COWBELL BONUS **"
+    },
+    "** HUMAN VICTORY IN 20 SECONDS **": {
+        "chi": "** 人类20秒后胜利 **"
+    },
+    "**CURRENT DIFFICULTY ** >> HARD << **": {
+        "chi": "**当前难度 ** >> HARD << **"
+    },
+    "**CURRENT DIFFICULTY ** >> EXTREME << **": {
+        "chi": "**当前难度 ** >> EXTREME << **"
+    },
+    "** Server settings initialized **": {
+        "chi": "** 服务器设置已初始化 **"
+    },
+    "**** MAP BY: Hannibal[SPA] (Rafuron) ****": {
+        "chi": "**** 地图作者: Hannibal[SPA] (Rafuron) 汉化 Bilibili ZE-Tastysaw @ VRT汉化组 ****"
+    },
+    "** Tips and Adjustements: Maese Danielot **": {
+        "chi": "** 提示和修正: Maese Danielot **"
+    },
+    "** Optimization and Helping: Kaemon **": {
+        "chi": "** 意见和帮助: Kaemon (感谢:饼饼@GO社区服)**"
+    },
+    "**CURRENT DIFFICULTY ** >> NORMAL << **": {
+        "chi": "**当前难度 ** >> NORMAL << **"
+    },
+    "*** MATERIAS AT LVL 1 ***": {
+        "chi": "*** 神器等级 LVL 1 ***"
+    },
+    "**Keep shooting ! We dont know what it can do **": {
+        "chi": "**继续开枪 ! 我们不知道他要干什么 **"
+    },
+    "** The monster is going to attack ! **": {
+        "chi": "** 它们要进攻了 ! **"
+    },
+    "** EXPLOSION IN 145 SECONDS **": {
+        "chi": "** 魔光炉145秒后爆炸 **"
+    },
+    "**  110 SECONDS LEFT **": {
+        "chi": "**  还剩110秒 **"
+    },
+    "**  100 SECONDS LEFT **": {
+        "chi": "**  还剩100秒 **"
+    },
+    "**  90 SECONDS LEFT **": {
+        "chi": "**  还剩90秒 **"
+    },
+    "**  80 SECONDS LEFT **": {
+        "chi": "**  还剩80秒 **"
+    },
+    "** Well done! Door is opening in 10 seconds **": {
+        "chi": "** 干得漂亮! 门将在10秒后打开 **"
+    },
+    "**  70 SECONDS LEFT **": {
+        "chi": "**  还剩70秒 **"
+    },
+    "**  60 SECONDS LEFT **": {
+        "chi": "**  还剩60秒 **"
+    },
+    "**  50 SECONDS LEFT **": {
+        "chi": "**  还剩50秒 **"
+    },
+    "**  40 SECONDS LEFT **": {
+        "chi": "**  还剩40秒 **"
+    },
+    "**  30 SECONDS LEFT **": {
+        "chi": "**  还剩30秒 **"
+    },
+    "** Go to the control room and try to open it earlier **": {
+        "chi": "** 去控制室尝试提前开启大门 **"
+    },
+    "**  10 SECONDS LEFT **": {
+        "chi": "**  还剩10秒 **"
+    },
+    "**  20 SECONDS LEFT **": {
+        "chi": "**  还剩20秒 **"
+    },
+    "** EXPLOSION IN 120 SECONDS **": {
+        "chi": "** 魔光炉120秒后爆炸 **"
+    },
+    "** EXPLOSION IN 130 SECONDS **": {
+        "chi": "** 魔光炉130秒后爆炸 **"
+    },
+    "** 30 SECONDS LEFT **": {
+        "chi": "** 还剩30秒 **"
+    },
+    "**  120 SECONDS LEFT **": {
+        "chi": "**  还剩120秒 **"
+    },
+    "** 20 SECONDS LEFT **": {
+        "chi": "** 还剩20秒 **"
+    },
+    "** 10 SECONDS LEFT **": {
+        "chi": "** 还剩10秒 **"
+    },
+    "** DOOR OPENS IN 35 S **": {
+        "chi": "** 大门35秒后开启 **"
+    },
+    "** Dont stop shooting ! Dont let him attack !": {
+        "chi": "** 继续开枪 ! 不要让他攻击 !"
+    },
+    "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
+        "chi": "** 提示: 手雷可以造成更多伤害 ** 丢雷炸它 **"
+    },
+    "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
+        "chi": "** 巴哈姆特要释放核子打击了 !! 快开枪 !! **"
+    },
+    "** Bahamut is in attack position ** Keep firing !! **": {
+        "chi": "** 巴哈姆特准备攻击 ** 继续开枪 !! **"
+    },
+    "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **": {
+        "chi": "** 巴哈姆特要干死我们 ! 继续开枪 **"
+    },
+    "** BAHAMUT IS CASTING ** PREPARE YOURSELF **": {
+        "chi": "** 巴哈姆特正在选择技能 ** 准备好 **"
+    },
+    "** BAHAMUT HAS CAST FIRE! **": {
+        "chi": "** 巴哈姆特使用了火! **"
+    },
+    "** BAHAMUT HAS CAST ICE **": {
+        "chi": "** 巴哈姆特使用了冰 **"
+    },
+    "** BAHAMUT HAS CAST ELECTRO! **": {
+        "chi": "** 巴哈姆特使用了电! **"
+    },
+    "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
+        "chi": "** 巴哈姆特使用了土 ** 开枪打碎它! **"
+    },
+    "** BAHAMUT HAS CAST WIND **": {
+        "chi": "** 巴哈姆特使用了风 **"
+    },
+    "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **": {
+        "chi": "** 警告! 巴哈姆特使用了红色终极 ** 准备用奶抵挡 ++ **"
+    },
+    "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
+        "chi": "** 终极10秒后爆炸 **"
+    },
+    "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **  ": {
+        "chi": "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **  "
+    },
+    "** BAHAMUT HAS CAST GRAVITY **": {
+        "chi": "** 巴哈姆特使用了黑洞 **"
+    },
+    "** 3 COWBELLS LEFT! **": {
+        "chi": "** 3 COWBELLS LEFT! **"
+    },
+    "** 2 COWBELLS LEFT! **": {
+        "chi": "** 2 COWBELLS LEFT! **"
+    },
+    "** 1 COWBELLS LEFT!!! **": {
+        "chi": "** 1 COWBELLS LEFT!!! **"
+    },
+    "*** MATERIAS AT LVL 2 ***": {
+        "chi": "*** 神器等级 LVL 2 ***"
+    },
+    "*** MATERIAS AT LVL 3 ***": {
+        "chi": "*** 神器等级 LVL 3 ***"
+    },
+    "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** ": {
+        "chi": "** 你做到了 ! 你通关了HARDEST难度 ** 加载EXTREME难度 ** 祝你好运 ! ** "
+    },
+    "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
+        "chi": "**巴哈姆特被打败了 ! ** 快跑! 回到上面 ! **"
+    },
+    "**Nice done! You interrumped Sephiroth s attack**": {
+        "chi": "**干得漂亮! 你粉碎了萨菲罗斯的攻击**"
+    },
+    "** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** ": {
+        "chi": "** 你做到了! 你通关了EXTREME ! 原来你才是炸炉子高手! ** "
+    },
+    "** HUMAN VICTORY IN 4 MINUTES **": {
+        "chi": "** 人类240秒后胜利 ** "
+    },
+    "** YOU ARE THE MASTERS OF MAKO REACTOR! ** ": {
+        "chi": "** 你过关了 我愿称你为魔光炉大师 ** "
+    },
+    "** Zombie Cage Has Been Blocked **": {
+        "chi": "** 尸笼已关闭 **"
+    },
+    "** BAHAMUT HAS HEALED 300 HIT POINTS**": {
+        "chi": "** 巴哈姆特回复300HP**"
+    },
+    "** BAHAMUT HAS HEALED 600 HIT POINTS**": {
+        "chi": "** 巴哈姆特回复600HP**"
+    },
+    "**No Fake Laser & High Laser Can't Crouchjump Over it**": {
+        "chi": "**无假刀 和 高刀禁止大跳**"
+    },
+    "** CURRENT DIFFICULTY ** >> EXTREME II SPECIAL << **": {
+        "chi": "** 当前难度 ** >> 极限 II 特殊模式 << **"
+    },
+    "** SPECIAL LASERS AT THE END **": {
+        "chi": "** 结尾彩虹刀 **"
+    },
+    "** CURRENT DIFFICULTY ** >> EXTREME III << **": {
+        "chi": "** 当前难度 ** >> 极限 III << **"
+    },
+    "** HELLZ VERSION **": {
+        "chi": "** HELLZ 版本 **"
+    },
+    "** BAHAMUT IS DEFEATED ** KEEP RUNNING **": {
+        "chi": "** 巴哈姆特已倒下 ** 准备跳刀 **"
+    },
+    "** BAHAMUT IS DEAD ** KEEP RUNNING **": {
+        "chi": "** 巴哈姆特已倒下 ** 准备跳刀 **"
+    },
+    "**Shutter Door opening in 10 seconds**": {
+        "chi": "**卷帘门10秒后打开**"
+    }
+}

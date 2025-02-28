@@ -1,0 +1,89 @@
+{
+    "+++ 60 SECONDS OF COOLDOWN. +++": {
+        "chi": "+++ 60秒冷却 +++"
+    },
+    "+++  MAP MADE BY GARGANTUA +++": {
+        "chi": "+++制作者 GARGANTUA 汉化 幽魂谷@GO社区服 +++"
+    },
+    "+++ FIXED BY CISNEROS +++": {
+        "chi": "+++ 由 CISNEROS 修复 +++"
+    },
+    "+++ THE DOOR IS OPENING IN 45 SECONDS+++": {
+        "chi": "+++门45秒后开启+++"
+    },
+    "+++ RESIST IN THIS ZONE +++": {
+        "chi": "+++在这个区域抵抗+++"
+    },
+    "+++ THE DOOR IS OPENING IN 25 SECONDS +++": {
+        "chi": "+++门25秒后开启+++"
+    },
+    "+++ THE DOOR IS OPENING IN 5 SECONDS +++": {
+        "chi": "+++门5秒后开启+++"
+    },
+    "+++ THE DOOR IS OPEN +++": {
+        "chi": "+++门开了+++"
+    },
+    "+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++": {
+        "chi": "+++推力枪已捡起.按E使用+++"
+    },
+    "+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++": {
+        "chi": "+++第一堵墙15秒后破碎+++"
+    },
+    "+++ THE FIRST WALL IS BROKEN +++": {
+        "chi": "+++第一堵墙破碎了+++"
+    },
+    "+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++": {
+        "chi": "+++电梯10秒后离开+++"
+    },
+    "+++ THE DOOR IS OPENING IN 100 SECONDS  +++": {
+        "chi": "+++门100秒后开启+++"
+    },
+    "+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++": {
+        "chi": "+++准备在这片区域找个地方生存下来+++"
+    },
+    "+++ THE DOOR IS OPENING IN 10 SECONDS  +++": {
+        "chi": "+++门10秒后开启+++"
+    },
+    "+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++": {
+        "chi": "+++僵尸17秒后释放+++"
+    },
+    "+++ THE WALL IS BREAKING IN 35 SECONDS +++": {
+        "chi": "+++墙35秒后破碎+++"
+    },
+    "+++ THE WALL IS BROKEN +++": {
+        "chi": "+++墙破碎了+++"
+    },
+    "++ ACTIVATE THE EYE ++": {
+        "chi": "++激活眼睛++"
+    },
+    "++ ESCAPE DOOR OPENING IN 50 SECONDS ++": {
+        "chi": "++逃生舱50秒后开门++"
+    },
+    "++ ESCAPE DOOR OPENING IN 30 SECONDS ++": {
+        "chi": "++逃生舱30秒后开门++"
+    },
+    "++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++": {
+        "chi": "++逃生舱10秒后开门++"
+    },
+    "++ ESCAPE DOOR IS OPEN!! ++": {
+        "chi": "++逃生舱门开启了！！++"
+    },
+    "++ ESCAPE DOORS CLOSING!! ++": {
+        "chi": "++逃生舱门关闭了！！++"
+    },
+    "+++ THE DOOR IS OPENING IN 35 SECONDS +++": {
+        "chi": "+++ THE DOOR IS OPENING IN 35 SECONDS +++"
+    },
+    "++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++": {
+        "chi": "++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
+    },
+    "++ LIGHTBRIDGE ACTIVATED ++": {
+        "chi": "++ LIGHTBRIDGE ACTIVATED ++"
+    },
+    "++ TELEPORT LIFT LEAVING IN 5 SECONDS ++": {
+        "chi": "++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+    },
+    "++ LIGHTBRIDGE DEACTIVATED ++": {
+        "chi": "++ LIGHTBRIDGE DEACTIVATED ++"
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "<< Mapper is in the server >>": {
+        "chi": "<< 作者在服务器里！ >>"
+    },
+    "<< A player has picked up heal magic >>": {
+        "chi": "<< 一位玩家获得了治疗 >>"
+    },
+    "<< Do not be a coward!!! >>": {
+        "chi": "<< 不要做一个懦夫！ >>"
+    },
+    "<< Admin select EASY MODE >>": {
+        "chi": "<< 管理员选择了EASY模式 >>"
+    },
+    "<< Admin select NORMAL MODE >>": {
+        "chi": "<< 管理员选择了NORMAL模式 >>"
+    },
+    "<< Admin select HARD MODE >>": {
+        "chi": "<< 管理员选择了HARD模式 >>"
+    },
+    "<< Admin select LUNATIC MODE >>": {
+        "chi": "<< 管理员选择了LUNATIC模式 >>"
+    },
+    "<< Admin select OVERDRIVE MODE >>": {
+        "chi": "<< 管理员选择了OVERDRIVE模式 >>"
+    },
+    "<< Admin select EXTRA MODE >>": {
+        "chi": "<< 管理员选择了EXTRA模式 >>"
+    },
+    "<< Misaka: I want to make another ending of this map at first >>": {
+        "chi": "<< Misaka: I want to make another ending of this map at first >>"
+    },
+    "<< Misaka: But I am lazy..... >>": {
+        "chi": "<< Misaka: But I am lazy..... >>"
+    },
+    "<< Misaka: So I will delete this button...... >>": {
+        "chi": "<< Misaka: So I will delete this button...... >>"
+    },
+    "<< ZE_PALACE_OF_MINOLILA >>": {
+        "chi": "<< ZE_PALACE_OF_MINOLILA >>"
+    },
+    "<< Map by Misaka >>": {
+        "chi": "<< Map by Misaka >>"
+    },
+    "<< The story after ze_ruin_of_black_stone >>": {
+        "chi": "<< 黑石废墟之后的故事 >>"
+    },
+    "<< Map based on ze_sky_fantasy >>": {
+        "chi": "<< 地图基于ze_sky_fantasy >>"
+    },
+    "<< Hard Mode Complete >>": {
+        "chi": "<< HARD模式通关 >>"
+    },
+    "### Dr.X: Not too bad.....I hope you can survive before we meet next time ###": {
+        "chi": "### Dr.X: 还有点本事.....下次希望你能从我的手中逃走 ###"
+    },
+    "<< Hold for final 20 seconds >>": {
+        "chi": "<< 坚守20秒 >>"
+    },
+    "### Its Dr.X!!! Kill him immediately!!! ###": {
+        "chi": "### 是X博士，快杀了他！！！###"
+    },
+    "<< Door will open in 15 seconds >>": {
+        "chi": "<< 大门将在15s后打开 >>"
+    },
+    "<< Door will open in 20 seconds >>": {
+        "chi": "<< 大门将在20s后打开 >>"
+    },
+    "<< Door will open in 10 seconds >>": {
+        "chi": "<< 大门将在10s后打开 >>"
+    },
+    "<< Stand in the middle and continue defending >>": {
+        "chi": "<< 站在传送器中间继续防守 >>"
+    },
+    "<< We will teleport back in 30 seconds >>": {
+        "chi": "<< 我们将在30s后传送回去 >>"
+    },
+    "<< WTF...... Final 10 seconds!!! Hold on!!! >>": {
+        "chi": "<< WTF....最后十秒！！！撑住！！ >>"
+    },
+    "<< EASY Mode Complete >>": {
+        "chi": "<< EASY模式通关 >>"
+    },
+    "<< Zombie has escaped!!! Try again... >>": {
+        "chi": "<< 僵尸进入了大门！通关失败！ >>"
+    },
+    "<< Defend for 35 seconds, I will open the door >>": {
+        "chi": "<< 继续防守35s 我将为你打开大门！ >>"
+    },
+    "<< Door will close in 10 seconds! Do not let zomebies out!!! >>": {
+        "chi": "<< 大门将在十秒后关闭！不要让僵尸进来！ >>"
+    },
+    "<< Door will open in 25 seconds >>": {
+        "chi": "<< 大门将在25后打开 >>"
+    },
+    "<< Teleporter will enable in 15 seconds >>": {
+        "chi": "<< 传送将在15s后激活 >>"
+    },
+    "<< A zombie has picked up touching infection >>": {
+        "chi": "<< 一位僵尸获得了接触感染 >>"
+    },
+    "<< A zombie has picked up heal magic >>": {
+        "chi": "<< 一位僵尸获得了治疗 >>"
+    },
+    "<< A zombie has picked up ice magic >>": {
+        "chi": "<< 一名僵尸获得了冰 >>"
+    },
+    "<< A zombie has picked up gravity magic >>": {
+        "chi": "<< 一名僵尸获得了黑洞 >>"
+    },
+    "<< A player has picked up earth magic >>": {
+        "chi": "<< 一名玩家获得了土 >>"
+    },
+    "<< A player has picked up wind magic >>": {
+        "chi": "<< 一名玩家获得了风 >>"
+    },
+    "<< A player has picked up snow magic >>": {
+        "chi": "<< 一名玩家获得了雪 >>"
+    },
+    "<< Hold for 10 seconds >>": {
+        "chi": "<< 防守10s >>"
+    },
+    "<< Hold for 15 seconds >>": {
+        "chi": "<< 防守15s >>"
+    },
+    "<< Well Done!!! >>": {
+        "chi": "<< 干得漂亮！！！ >>"
+    },
+    "<< It seems that there is collapsing now!!! >>": {
+        "chi": "<<这看起来这里要崩塌了!!! >>"
+    },
+    "<< Fall back now!!! >>": {
+        "chi": "<< 快撤退！！ >>"
+    },
+    "### It seems that there is the laboratory of that mayor ###": {
+        "chi": "### 这里看起来就是那个市长的实验室了 ###"
+    },
+    "### I think we'd better destroy this laboratory ###": {
+        "chi": "### 我认为我们最好快点摧毁掉这个实验室！ ###"
+    },
+    "### I will plant the bomb! Then we should leave there immediately! ###": {
+        "chi": "### 我会安放炸弹！我们必须立刻撤退 ###"
+    },
+    "<< Wait for 30 seconds  >>": {
+        "chi": "<< 等待30s  >>"
+    },
+    "<< Hold for 30 seconds >>": {
+        "chi": "<< 防守30s >>"
+    },
+    "<< Hold for 20 seconds >>": {
+        "chi": "<<防守20s >>"
+    },
+    "<< Door will open in 5 seconds >>": {
+        "chi": "<< 大门将在5s后打开 >>"
+    },
+    "<< A player has picked up gravity magic >>": {
+        "chi": "<<一位玩家获得了黑洞 >>"
+    },
+    "<< A player has picked up electro magic >>": {
+        "chi": "<< 一位玩家获得了电 >>"
+    },
+    "<< Elevator will move in 15 seconds >>": {
+        "chi": "<< 电梯将在15s后上升 >>"
+    },
+    "<< Lunatic Mode Complete >>": {
+        "chi": "<< LUNATIC模式通关！ >>"
+    },
+    "<< ZOMBIE HAS ESCAPED..... YOU FAIL... >>": {
+        "chi": "<< 僵尸进入了大门，失败........ >>"
+    },
+    "<< NORMAL Mode Complete >>": {
+        "chi": "<< NORMAL模式通关 >>"
+    },
+    "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>": {
+        "chi": "<< 没有路可以走了！我将安放C4炸开这堵墙！！继续防守！ >>"
+    },
+    "<< c4 will explode in 20 seconds >>": {
+        "chi": "<< C4将在20后爆炸！ >>"
+    },
+    "<< Next door will open in 5 seconds >>": {
+        "chi": "<< 下一扇门将在5s后打开 >>"
+    },
+    "### Whats happening... ###": {
+        "chi": "### 发生什么了.... ###"
+    },
+    "### It is the energy core!!! Destroy it immediately!!! ###": {
+        "chi": "### 这是神殿的能量核心！快摧毁它！ ###"
+    },
+    "<< Be careful! Zombies will be released in 120 seconds >>": {
+        "chi": "<< 小心！X博士将会在120后释放僵尸 >>"
+    },
+    "<< Push >>": {
+        "chi": "<< 推力 >>"
+    },
+    "<< Pull >>": {
+        "chi": "<< 吸力 >>"
+    },
+    "### Who is that...... ###": {
+        "chi": "### 那是谁.... ###"
+    },
+    "### ???: Welcome to my laboratory!!! ###": {
+        "chi": "### ???: 欢迎来到我的实验室！ ###"
+    },
+    "### ???: It's the first time...no, second time to see you ###": {
+        "chi": "### ???: 这是第一次？不 这是第二次见面了 ###"
+    },
+    "### ???: Do you forget me? We have meet at the ruin of black stone~ ###": {
+        "chi": "### ???: 你忘记我了吗？我们曾在黑石废墟见过 ###"
+    },
+    "### ???: Thats right, I'm Dr.X, the mayor of the black stone city ###": {
+        "chi": "### ???: 很好 我是X博士，黑石城的市长 ###"
+    },
+    "### Dr.X: I never think that you can survive from that ruin ###": {
+        "chi": "### X博士: 我想不到你们能从黑石废墟中活下来 ###"
+    },
+    "### Dr.X: I'm more and more interested in you, so try hard to avoid the attack from me!!! ###": {
+        "chi": "### X博士: 我越发地对你感兴趣了，努力从我的攻击下活下来吧 ###"
+    },
+    "<< Dr.X will release zombies in 150 seconds!!! >>": {
+        "chi": "<< X博士将在150s后释放僵尸！ >>"
+    },
+    "<< Dr.X is using DATA DELETE >>": {
+        "chi": "<< X博士使用了数据清除 >>"
+    },
+    "### Dr.X: We will meet later.... ###": {
+        "chi": "### X博士:我们下次还会见面... ###"
+    },
+    "<< A player has picked up Frostmourn >>": {
+        "chi": "<< 一名玩家捡起了霜之哀伤 >>"
+    },
+    "### Welcome to the world of re_creation!!! ###": {
+        "chi": "### 欢迎来到复刻世界！！！ ###"
+    },
+    "### ...... ###": {
+        "chi": "### ...... ###"
+    },
+    "### It seems that I am in wrong set...... ###": {
+        "chi": "### 我好像走错地方了... ###"
+    },
+    "### I'm sorry and I will get out of there >_< ###": {
+        "chi": "### 对不起啦，我现在就走 >_< ###"
+    },
+    "### ???: Who are you...... ###": {
+        "chi": "### ???: 你是谁.... ###"
+    },
+    "### ???: Let me guess who you are ###": {
+        "chi": "### ???: 让我猜猜 ###"
+    },
+    "### ???: You must be the team who survived from the ruin of black stone ###": {
+        "chi": "### ???: 你就是那只从黑石废墟幸存下来的小队吧 ###"
+    },
+    "### ???: I know you want to arrest the mayor ###": {
+        "chi": "### ???: 我知道你想要的去逮捕市长 ###"
+    },
+    "### ???: My name is MINOLILA. the mayor that you want to arrest is my father ###": {
+        "chi": "### ???: 我的名字是米诺莉拉。你们要逮捕的市长是我的父亲 ###"
+    },
+    "### Minolila: Do not worry, I will not stop you from arresting him ###": {
+        "chi": "### 米诺莉拉: 不要担心，我不会阻止你去逮捕他的 ###"
+    },
+    "### Minolila: He did a lot of zombie experiments there ###": {
+        "chi": "### 米诺莉拉: 他在这里做了许多人体试验 ###"
+    },
+    "### Minolila: And he imprisoned his own daughter in this palace so that no one will know what he did ### ": {
+        "chi": "### 米诺莉拉: 不仅如此，他还把我囚禁在这里,这样就没人知道他做了什么 ### "
+    },
+    "### Minolila: So this is my request ###": {
+        "chi": "### 米诺莉拉: 所以这是我的请求 ###"
+    },
+    "### Minolila: Arrest him now ###": {
+        "chi": "### 米诺莉拉: 请去逮捕他 ###"
+    },
+    "### Minolila: However, I do not know how many power you have ###": {
+        "chi": "### 米诺莉拉: 不过，逮捕他需要一定的实力，而我不知道你到底有多少实力 ###"
+    },
+    "### Minolila: Try to defeat me, and I will lead you to arrest him if you win this test!!! ###": {
+        "chi": "### 米诺莉拉: 尝试击败我吧，如果你从这个测试中胜利，我将会引领你去真正的地方!!! ###"
+    },
+    "<< Blue [ The Jumping Hell ]  >>": {
+        "chi": "<< 蓝 [跃动的地狱]  >>"
+    },
+    "<< Pink [ The Voice of Revenge ] >>": {
+        "chi": "<< 粉 [复仇之音] (尸笼) >>"
+    },
+    "<< Black [ The Substitute of the Diablo ]  >>": {
+        "chi": "<< 黑 [黑暗破坏神的替身]  >>"
+    },
+    "<< Red [ The Standstill World ] >>": {
+        "chi": "<< 红 [静止的世界] >>"
+    },
+    "<< Green [ The Mystic Tornado with the Unknown Direction ] >>": {
+        "chi": "<< 绿 [妖风] >>"
+    },
+    "<< Yellow [ The Forbidden Arrow ]  >>": {
+        "chi": "<< 黄 [禁忌之箭]  >>"
+    },
+    "### Minolila: You are stronger than I thought ###": {
+        "chi": "### 米诺莉拉:你比我想象中的要强大许多 ###"
+    },
+    "### Minolila: Fall back now, and I will lead you to the place where you should go ###": {
+        "chi": "### 米诺莉拉:原路返回吧，我会带你去你该去的地方 ###"
+    },
+    "<< The final door will open in 90 seconds >>": {
+        "chi": "<< 最后的大门将在90s开启 >>"
+    },
+    "### Minolila: I still can not believe you ###": {
+        "chi": "### 米诺莉拉: 我还是不能相信你 ###"
+    },
+    "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ### ": {
+        "chi": "### 米诺莉拉: 很抱歉又一次测试了你，接下来我会带你去这座宫殿真正的核心！ ### "
+    },
+    "### I do not know why Minolila want to kill us ###": {
+        "chi": "### 我不知道为什么米诺莉拉要杀了我们 ###"
+    },
+    "### Anyway, it should be safe here...... ###": {
+        "chi": "### 但不管怎么说，这里应该是安全了吧 ###"
+    },
+    "<< No one expected that we would met the nightmare here at that time >>": {
+        "chi": "<<那个时候还没有人会预料到我们将会遇到的幻想噩梦 >>"
+    },
+    "<< But that is another story >>": {
+        "chi": "<< 但那就是另外一个故事了... >>"
+    },
+    "<< Congratulation!!! >>": {
+        "chi": "<< 恭喜！！ >>"
+    },
+    "<< You have beaten OverDrive Mode!!! >>": {
+        "chi": "<< OverDrive模式通关！ >>"
+    },
+    "<< Teleporter will activate in 15 seconds >>": {
+        "chi": "<< 传送将在15s后激活 >>"
+    },
+    "<< Hold for 25 seconds >>": {
+        "chi": "<< 坚守25s >>"
+    },
+    "<< It seems that this button is broken...... >>": {
+        "chi": "<< 看起来这个按钮已经坏掉了 >>"
+    },
+    "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>": {
+        "chi": "<< 小心！不要再碰这个开关了！尝试去寻找另外一个开关！>>"
+    },
+    "### Minolila: I've already prepared the teleporter for you, Good Luck! ###": {
+        "chi": "### 米诺莉拉:我已经为你们准备好了传送器！祝你们好运！ ###"
+    },
+    "<< Teleporter will activate in 20 seconds >>": {
+        "chi": "<< 传送将在20s后激活 >>"
+    },
+    "### Dr.X: I didn't expect you to find it here ###": {
+        "chi": "### X博士:我没有想到你们能找到这里 ###"
+    },
+    "### Dr.X: You really want to arrest me? ###": {
+        "chi": "### X博士:想要逮捕我的怨念已经这么深了吗 ###"
+    },
+    "### Dr.X: Fuhahaha, do you think that I am standing here without any protect? ###": {
+        "chi": "### X博士:哈哈哈哈，你觉得我会这么蠢得站在这里让你们逮捕我? ###"
+    },
+    "### Dr.X: Come Out, my MASTERPIECE!!! ###": {
+        "chi": "### Dr.X: 出来吧，我的杰作！！！ ###"
+    },
+    "### Dr.X: I've reformed Tesla for a long time, and now its time to test it ###": {
+        "chi": "### X博士:我已经改造特斯拉很久了，现在是时候测试一下它的威力了！ ###"
+    },
+    "### Dr.X: Try more hard, and I hope we can meet again~ ###": {
+        "chi": "### Dr.X: 加把劲吧，不然就没意思了~ ###"
+    },
+    "<< Boss is using Gravity!!! >>": {
+        "chi": "<< Boss使用了黑洞！ >>"
+    },
+    "<< Boss is activating a crystal >>": {
+        "chi": "<< Boss激活了正中央的水晶！ >>"
+    },
+    "<< Tesla activate a pink crystal >>": {
+        "chi": "<< Boss激活了一个粉色水晶 >>"
+    },
+    "<< The temperature is rising!!! Find a way to lower the temperature before we die!!! >>": {
+        "chi": "<< 温度正在升高，在我们被烤熟之前找到一个办法让温度下降！ >>"
+    },
+    "<< Lava is Rising!!! >>": {
+        "chi": "<< 岩浆正在上升！！ >>"
+    },
+    "<< Be Careful! Zombies are coming! >>": {
+        "chi": "<< 小心！特斯拉释放了僵尸！ >>"
+    },
+    "<< Boss is using Aurora Veil >>": {
+        "chi": "<< Boss使用了极光幕 >>"
+    },
+    "<< It is really a tough guy >>": {
+        "chi": "<< 真是个硬家伙... >>"
+    },
+    "<< Dr.X can not run too far!!! Hurry up, it is the time to arrest him!!! >>": {
+        "chi": "<< X博士身上还有伤，跑不了多远！ >>"
+    },
+    "<< The final door will open in 45 seconds >>": {
+        "chi": "<< 最后的大门将在45s后开启 >>"
+    },
+    "<< 10 seconds left >>": {
+        "chi": "<< 剩余10s >>"
+    },
+    "### Its Dr.X Again!!! Keep Shooting!!! ###": {
+        "chi": "### 是X博士！！！直接杀了他！ ###"
+    },
+    "### Dr.X has died!!! ###": {
+        "chi": "### X博士不行了！ ###"
+    },
+    "### Minolila??? ###": {
+        "chi": "### 米诺莉拉？？？ ###"
+    },
+    "<< Extra Mode Complete!!! >>": {
+        "chi": "<< Extra模式通关！ >>"
+    },
+    "<< You are the legend of this map!!! >>": {
+        "chi": "<< 你是此地图的传奇！ >>"
+    },
+    "<< Survive for 180 seconds >>": {
+        "chi": "<< 生存180s >>"
+    },
+    "<< You should select one area to go, or you will tele to zombie area >>": {
+        "chi": "<< 选择一个区域，否则你会传送至尸笼 >>"
+    }
+}

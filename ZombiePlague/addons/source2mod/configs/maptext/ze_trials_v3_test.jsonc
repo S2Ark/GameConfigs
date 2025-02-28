@@ -1,0 +1,230 @@
+{
+    "<<< Lift leaves in 45 seconds! >>>": {
+        "chi": "倒计时 45 秒"
+    },
+    "<<< Lift leaves in 10 seconds! >>>": {
+        "chi": "倒计时 10 秒"
+    },
+    "<<< Zombies teleport in 15 seconds! >>>": {
+        "chi": "僵尸将在 15 秒后传送!"
+    },
+    "<<< Door opens in 45 seconds! >>>": {
+        "chi": "大门将在 45 秒后开!"
+    },
+    "<<< Door opens in 30 seconds! >>>": {
+        "chi": "大门将在 30 秒后开!"
+    },
+    "<<< Zombies teleport in 30 seconds! >>>": {
+        "chi": "僵尸将在 30 秒后传送!"
+    },
+    "<<< Portal active in 45 seconds! >>>": {
+        "chi": "传送门将在 45 秒后启动!"
+    },
+    "<<< Doors open in 20 seconds! >>>": {
+        "chi": "大门将在 20 秒后开!"
+    },
+    "<<< Final Trial >>>": {
+        "chi": "最后的审判"
+    },
+    "<<< Door opens in 60 seconds! >>>": {
+        "chi": "大门将在 60 秒后开!"
+    },
+    "<<< LOOK UP! >>>": {
+        "chi": "抬头看，上面有托儿索！"
+    },
+    "<<< Trial 4 complete! >>>": {
+        "chi": "关卡4完成!"
+    },
+    "<<< Glass breaks in 30 seconds! >>>": {
+        "chi": "玻璃在 30 秒后破碎!"
+    },
+    "<<< Zombies teleport in 10 seconds! >>>": {
+        "chi": "僵尸将在 10 秒后传送!"
+    },
+    "<<< Portal active! >>>": {
+        "chi": "请活跃起来！"
+    },
+    "<<< Door breaks in 30 seconds! >>>": {
+        "chi": "门将在 30 秒后破裂!"
+    },
+    "<<< Gate opens in 40 seconds! >>>": {
+        "chi": "大门 40 秒后开启!"
+    },
+    "<<< Door closing in 15 seconds! >>>": {
+        "chi": "大门 15 秒后关闭!"
+    },
+    "<<< Temple door opens in 15 seconds! >>>": {
+        "chi": "神殿的门将在 15 秒后打开!"
+    },
+    "<<< Tomb door opens in 15 seconds! >>>": {
+        "chi": "墓门 15 秒后打开!"
+    },
+    "<<< Door opens in 50 seconds! >>>": {
+        "chi": "大门 50 秒后开启!"
+    },
+    "<<< Door closes in 15 seconds! >>>": {
+        "chi": "大门 15 秒后关闭!"
+    },
+    "<<< Zombies teleport in 20 seconds! >>>": {
+        "chi": "僵尸将在 20 秒后传送!"
+    },
+    "<<< Zombies teleport in 5 seconds! >>>": {
+        "chi": "僵尸将在 5 秒后传送!"
+    },
+    "<<< Doors open in 30 seconds! >>>": {
+        "chi": "大门 30 秒后开启!"
+    },
+    "<<< Elevator leaves in 30 seconds! >>>": {
+        "chi": "电梯 30 秒后离开!"
+    },
+    "<<< Ice breaking in 30 seconds! >>>": {
+        "chi": "冰面将会在 30 秒后破碎!"
+    },
+    "<<< Ice has been picked up! >>>": {
+        "chi": "冰神器也被拾取！"
+    },
+    "<<< Press e to use, 50 second cooldown! >>>": {
+        "chi": "按e键使用，50秒冷却时间!"
+    },
+    "<<< Elevator leaves in 35 seconds! >>>": {
+        "chi": "电梯 35 秒后离开!"
+    },
+    "<<< Zombie has speed! >>>": {
+        "chi": "僵尸获得了加速神器!"
+    },
+    "<<< Walk backwards and press e to use, 80 second cooldown! >>>": {
+        "chi": "后退并按e键使用，80秒冷却时间!"
+    },
+    "<<< Zombie used speed! >>>": {
+        "chi": "僵尸使用了加速神器！"
+    },
+    "<<< Elevator leaves in 45 seconds! >>>": {
+        "chi": "电梯将在 45 秒后离开！"
+    },
+    "<<< Light Beam >>>": {
+        "chi": "<<< 光束 >>>"
+    },
+    "<<< Pillar >>>": {
+        "chi": "<<< 支柱 >>>"
+    },
+    "<<< Falling Sky >>>": {
+        "chi": "<<< 天坠 >>>"
+    },
+    "<<< Blades >>>": {
+        "chi": "<<< 叶片 >>>"
+    },
+    "<<< Electric Cut >>>": {
+        "chi": "<<< 电能切割 >>>"
+    },
+    "<<< Almighty Pull >>>": {
+        "chi": "<<< 吸力 >>>"
+    },
+    "<<< Defend for 20 seconds! >>>": {
+        "chi": "坚守 20 秒！"
+    },
+    "<<< Trial 3 Complete! >>>": {
+        "chi": "关卡三完成！"
+    },
+    "<<< Heal has been picked up! >>>": {
+        "chi": "奶神器已被拾取！"
+    },
+    "<<< Heal used! >>>": {
+        "chi": "奶神器已使用！"
+    },
+    "<<< Door opens in 20 seconds! >>>": {
+        "chi": "大门将在 20 秒后打开！"
+    },
+    "<<< Castle gate opens in 45 seconds! >>>": {
+        "chi": "城堡大门 45 秒后开启!"
+    },
+    "<<< Wand has been picked up! >>>": {
+        "chi": "风神器已被拾取！"
+    },
+    "<<< Wand used! >>>": {
+        "chi": "风神器已使用！"
+    },
+    "<<< Wall used! >>>": {
+        "chi": "墙神器已被使用！"
+    },
+    "<<< Zombies teleported to top! >>>": {
+        "chi": "僵尸传送到顶层了!"
+    },
+    "<<< Boxes break in 35 seconds! >>>": {
+        "chi": "箱子 35 秒后打破!"
+    },
+    "<<< Box break in 35 seconds! >>>": {
+        "chi": "箱子 35 秒后打破!"
+    },
+    "<<< Light activates in 30 seconds! >>>": {
+        "chi": "光在 30 秒后激活!"
+    },
+    "<<< Zombies teleport to sky in 15 seconds! >>>": {
+        "chi": "僵尸在 15 秒内传送到天空!"
+    },
+    "<<< Trial 2 Complete! >>>": {
+        "chi": "关卡二完成！"
+    },
+    "<<< Zombies teleport to entrance of castle in 30 seconds! >>>": {
+        "chi": "僵尸在 30 秒内传送到城堡入口!"
+    },
+    "<<< Door closing in 25 seconds! >>>": {
+        "chi": "大门将在 25 秒后关闭！"
+    },
+    "<<< Trial 1 Complete! >>>": {
+        "chi": "关卡一完成！"
+    },
+    "<<< Fence opens in 30 seconds! >>>": {
+        "chi": "栅栏 30 秒后打开!"
+    },
+    "<<< Zombies teleport in 25 seconds! >>>": {
+        "chi": "僵尸在 25 秒内传送!"
+    },
+    "<<< Defend for 10 more seconds! >>>": {
+        "chi": "再坚守 10 秒！"
+    },
+    "<<< You got the sky scroll! >>>": {
+        "chi": "你有天空卷轴!"
+    },
+    "<<< Trial 1 >>>": {
+        "chi": "<<< 关卡一 >>>"
+    },
+    "<<< Trial 2 >>>": {
+        "chi": "<<< 关卡二 >>>"
+    },
+    "<<< Trial 3 >>>": {
+        "chi": "<<< 关卡三 >>>"
+    },
+    "<<< Trial 4 >>>": {
+        "chi": "<<< 关卡四 >>>"
+    },
+    "<<< Door_opens in 30 seconds! >>>": {
+        "chi": "大门将在 30 秒后打开！"
+    },
+    "<<< Doors open in 15 seconds! >>>": {
+        "chi": "大门将在 15 秒后打开！"
+    },
+    "<<< Bridge breaks in 10 seconds! >>>": {
+        "chi": "桥将在 10 秒后断裂!"
+    },
+    "<<< Wall has been picked up! >>>": {
+        "chi": "墙神器已被拾取！"
+    },
+    "<<< Zombies teleport in 40 seconds! >>>": {
+        "chi": "僵尸还有 40 秒传送！"
+    },
+    "<<< Map by Jllaneras >>>": {
+        "chi": "地图作者：Jllaneras 地图翻译：托儿索 感谢苏妲 @top游廊！"
+    },
+    "<<< Spinning Pushing Bolts >>>": {
+        "chi": "旋压螺栓"
+    },
+    "<<< Ominous Wind >>>": {
+        "chi": "不祥的风"
+    },
+    "<<< Ramming Bolts >>>": {
+        "chi": "敲打螺栓"
+    },
+    "<<< Ultra Beam >>>": {
+        "chi": "超光束"
+    }
+}

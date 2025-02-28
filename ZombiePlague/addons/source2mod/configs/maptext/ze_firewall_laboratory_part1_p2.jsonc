@@ -1,0 +1,101 @@
+{
+    "Map by FW -=LightningZLaser=-": {
+        "chi": "制作者 FW -=LightningZLaser=- 汉化 幽魂谷@GO社区服"
+    },
+    "www.FireWaLLCS.net/forums": {
+        "chi": "www.FireWaLLCS.net/forums"
+    },
+    "Door opening in 15 seconds...": {
+        "chi": "门15秒后开启"
+    },
+    "Door opening in 5 seconds...": {
+        "chi": "门5秒后开启"
+    },
+    "Heaven Teleporter generators initiating...": {
+        "chi": "天堂传送器的发动机已开启"
+    },
+    "Gate opening in 15 seconds...": {
+        "chi": "大门15秒后开启"
+    },
+    "Gate opening in 5 seconds...": {
+        "chi": "大门5秒后开启"
+    },
+    "Notice! <Insert Player Name Here> is going to heaven!": {
+        "chi": "注意！有玩家去了天堂！"
+    },
+    "Doors to Test Laboratory G opening in 15 seconds.": {
+        "chi": "G实验室的大门15秒后开启"
+    },
+    "Doors to Test Laboratory G opening in 5 seconds.": {
+        "chi": "G实验室的大门5秒后开启"
+    },
+    "Doors to Test Laboratory G has opened!": {
+        "chi": "G实验室的大门已开启！"
+    },
+    "Panel Walk has been activated. Doors will open in 20 seconds.": {
+        "chi": "行走板激活。门20秒后开启"
+    },
+    "Doors opening in 10 seconds.": {
+        "chi": "门10秒后开启"
+    },
+    "Zombies are blocked for 10 seconds!": {
+        "chi": "僵尸被阻挡10秒！"
+    },
+    "Panel Walk retracting...": {
+        "chi": "行走板缩回"
+    },
+    "[TIP] Use your head to go across the Headclimber!": {
+        "chi": "【提示】你可以利用上面的铁网"
+    },
+    "Panels retracting in 7 seconds.": {
+        "chi": "攀爬网7秒后缩回"
+    },
+    "[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!": {
+        "chi": "【提示】人类有特制的防护服可以无视风扇的影响！"
+    },
+    "Cable Car leaving in 5 seconds!": {
+        "chi": "电车5秒后离开！"
+    },
+    "Activate the self-destruction sequence in the emergency room!": {
+        "chi": "启动自爆系统！"
+    },
+    "WARNING! Facility emergency self-destruction sequence activated.": {
+        "chi": "警报！设施自爆系统已启动！！"
+    },
+    "===100 seconds remaining to detonation===": {
+        "chi": "100秒后核爆！！"
+    },
+    "===90 seconds remaining to detonation===": {
+        "chi": "90秒后核爆！！"
+    },
+    "===80 seconds remaining to detonation===": {
+        "chi": "80秒后核爆！！"
+    },
+    "===70 seconds remaining to detonation===": {
+        "chi": "70秒后核爆！！"
+    },
+    "===60 seconds remaining to detonation===": {
+        "chi": "60秒后核爆！！"
+    },
+    "===50 seconds remaining to detonation===": {
+        "chi": "50秒后核爆！！"
+    },
+    "===40 seconds remaining to detonation===": {
+        "chi": "40秒后核爆！！"
+    },
+    "WARNING===30 seconds remaining to detonation===": {
+        "chi": "警告！30秒后核爆！！"
+    },
+    "WARNING===20 seconds remaining to detonation===": {
+        "chi": "警告！20秒后核爆！！"
+    },
+    "WARNING===10 seconds remaining to detonation===": {
+        "chi": "警告！10秒后核爆！！"
+    },
+    "WARNING- BLAST DOORS CLOSING": {
+        "chi": "警告！防爆门关闭！！"
+    },
+    "EMERGENCY WARNING===5 seconds remaining to detonation===": {
+        "chi": "警告！5秒后核爆！！"
+    }
+}

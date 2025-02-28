@@ -1,0 +1,257 @@
+{
+    "***5s left!***": {
+        "chi": "***5秒之后开始***"
+    },
+    "***Map Made By Color!***": {
+        "chi": "***地图的作者:Color! 汉化 夢終乄壹***"
+    },
+    "***Stage 1***": {
+        "chi": "***第一关***"
+    },
+    "***Hold for 35s!***": {
+        "chi": "***防守35秒!***"
+    },
+    "***Wood door will break in 10s!***": {
+        "chi": "***木门将在10秒后破碎！***"
+    },
+    "***All zombies will be teleported in 9s!*** ": {
+        "chi": "***AFK玩家将在9秒后传送!*** "
+    },
+    "***Hold for 45s!***": {
+        "chi": "***防守45秒!***"
+    },
+    "***Hold for 30s!***": {
+        "chi": "***防守30秒!***"
+    },
+    "***Rock monster will appear in 20s!***": {
+        "chi": "***BOSS将在20秒后登场！***"
+    },
+    "***Shoot rock monster between two eyes!(use m249 or negev)***": {
+        "chi": "***在两只眼睛之间攻击BOSS！(使用 m249 或 negev)***"
+    },
+    "***Rock monster will attack in 5s!***": {
+        "chi": "***BOSS将在5秒后发起攻击！***"
+    },
+    "***Rock monster uses blast!(move to the edge of the platform)***": {
+        "chi": "***BOSS使用了爆炸攻击！(移动到平台的边缘)***"
+    },
+    "***Rock monster has been defeated!Go!***": {
+        "chi": "***BOSS已被击败！快Run！***"
+    },
+    "***Hold for 25s!***": {
+        "chi": "***防守25秒!***"
+    },
+    "***Do not allow zombies to enter the safe room!***": {
+        "chi": "***不要让僵尸进入安全室！***"
+    },
+    "***Enter the safe room!The nuke will launch in 10s!***": {
+        "chi": "***进入安全室！10秒后核爆！***"
+    },
+    "***Stage completed!***": {
+        "chi": "***关卡胜利!***"
+    },
+    "***Next Stage:[Race]***": {
+        "chi": "***下一关:卡丁车大赛***"
+    },
+    "***Race***": {
+        "chi": "***卡丁车大赛***"
+    },
+    "***Winners will have access to get special items in next stage!***": {
+        "chi": "***获胜者将有机会在下一关获得特殊物品！***"
+    },
+    "***Zombies will come in 12s!***": {
+        "chi": "***僵尸将会在12秒后出现！***"
+    },
+    "***Great!Hold for 60s!***": {
+        "chi": "***太棒了！再坚持60秒！***"
+    },
+    "***Next Stage:[Stage 2]***": {
+        "chi": "***下一关：[第二关]***"
+    },
+    "***Stage 2***": {
+        "chi": "***第二关***"
+    },
+    "***The wood door will break in 25s!***": {
+        "chi": "***木门将在25秒后破碎！***"
+    },
+    "***Keep care of zombies!***": {
+        "chi": "***继续防守僵尸***"
+    },
+    "***All zombies will be teleported in 9s!***": {
+        "chi": "***AFK玩家将在9秒后传送***"
+    },
+    "***A human has picked up fire!***": {
+        "chi": "***有人捡起了火***"
+    },
+    "***A human has picked up rock!***": {
+        "chi": "***有人捡起了墙***"
+    },
+    "***Rock monster uses right fire(move to left)!***": {
+        "chi": "***BOSS使用了右半场火焰攻击(向左移动)!***"
+    },
+    "***Rock monster uses lightning!(crouch)***": {
+        "chi": "***BOSS使用了闪电攻击(蹲下)***"
+    },
+    "***Rock monster uses left fire(move to right)!***": {
+        "chi": "***BOSS使用了左半场火焰攻击(向右移动)!***"
+    },
+    "***Rock monster uses water!(go to the end of the platform)***": {
+        "chi": "***BOSS使用了水元素攻击！(移动到平台最后）***"
+    },
+    "***Boss will destroy us in 5s!***": {
+        "chi": "***BOSS的终极还有5秒***"
+    },
+    "***A zombie has picked up accelerate!***": {
+        "chi": "***有僵尸捡起了加速***"
+    },
+    "***Next Stage:[Laser]***": {
+        "chi": "***下一关：[跳刀大赛]***"
+    },
+    "***Laser race will begin later!***": {
+        "chi": "***跳刀大赛即将开始！***"
+    },
+    "***Laser***": {
+        "chi": "***跳刀大赛***"
+    },
+    "***Some tips!***": {
+        "chi": "***给大家一些小提示***"
+    },
+    "***Tip1:Red laser can add health!***": {
+        "chi": "***提示1：红刀会增加你的生命值！***"
+    },
+    "***Tip2:Blue laser can hurt!***": {
+        "chi": "***提示2：蓝刀会对你造成伤害！***"
+    },
+    "***Tip3:Purple laser can reduce speed infinitely!***": {
+        "chi": "***提示3：紫刀会降低你的移动速度！***"
+    },
+    "***Tip4:Green laser can teleport!***": {
+        "chi": "***提示4：绿刀会将你传送会传送点！***"
+    },
+    "***Laser slash will appear in 5s***": {
+        "chi": "***刀将在5秒后出现***"
+    },
+    "***Next Stage:[Stage 3]***": {
+        "chi": "***下一关：[第三关]***"
+    },
+    "***Stage 3***": {
+        "chi": "***第三关***"
+    },
+    "***Some barriers disappeared!***": {
+        "chi": "***一些障碍物消失了！***"
+    },
+    "***Color lasers are activated!***": {
+        "chi": "***彩虹被激活！***"
+    },
+    "***A human will shine the roof!***": {
+        "chi": "***人类终将照亮屋顶！***"
+    },
+    "***The ultimate will start in 14s!***": {
+        "chi": "***终极在14秒后爆炸！***"
+    },
+    "***A human has picked up health!***": {
+        "chi": "***有人捡起了奶***"
+    },
+    "***Hold here for 25s!***": {
+        "chi": "***守住这里25秒!***"
+    },
+    "***Resist for 25s!***": {
+        "chi": "***守住25s!***"
+    },
+    "***Rock monster uses skyfire!***": {
+        "chi": "***BOSS使用了天火技能！***"
+    },
+    "***Rock monster will use backward-push in 3s!***": {
+        "chi": "***BOSS将在3秒后产生推力！(WWWWW)***"
+    },
+    "***Rock monster will use forward-push in 3s!***": {
+        "chi": "***BOSS将在3秒后产生吸力！(SSSSS)***"
+    },
+    "***A zombie has picked up fireball! ***": {
+        "chi": "***有僵尸捡起了火球！ ***"
+    },
+    "***A human has picked up lightning!***": {
+        "chi": "***有人捡起了闪电！***"
+    },
+    "***Next Stage:[Surf]***": {
+        "chi": "***下一关：[滑翔大赛]***"
+    },
+    "***Surf***": {
+        "chi": "***滑翔大赛***"
+    },
+    "***Find a place to hold for 45s! ***": {
+        "chi": "***找个地方躲45秒！ ***"
+    },
+    "***Teleport all players in 20s! ***": {
+        "chi": "***将会在20秒后传送所有玩家 ***"
+    },
+    "***Zombies will come in 20s!***": {
+        "chi": "***僵尸在20秒后出现***"
+    },
+    "***Hold here for 35s!***": {
+        "chi": "***在这里守住35秒***"
+    },
+    "***Complete the surf and you will award 100 scores and a molotov!***": {
+        "chi": "***完成滑翔大赛，您将获得100分和一个燃烧瓶！***"
+    },
+    "***All zombies will come in 20s!***": {
+        "chi": "***所有僵尸将会在20秒后出现！***"
+    },
+    "***Hold here for 25s or complete last surf!***": {
+        "chi": "***在这里防守25秒或完成最后一次滑翔！***"
+    },
+    "***Jump above the chicken!***": {
+        "chi": "***跳到那个鸡上***"
+    },
+    "***Hold the chicken for last 35s!***": {
+        "chi": "***在那个鸡上守住最后的35秒！***"
+    },
+    "***Next Stage:[Stage 4]***": {
+        "chi": "***下一关：[第四关]***"
+    },
+    "***Stage 4***": {
+        "chi": "***第四关***"
+    },
+    "***Constant skyfire will appear in some areas!***": {
+        "chi": "***持续不断的天谴会出现在某些区域！***"
+    },
+    "***Wood door will break in 30s!***": {
+        "chi": "***木门将在30秒后破碎***"
+    },
+    "***Find the green glow to activate the wood bed!***": {
+        "chi": "***找到绿色的光芒来激活木床！***"
+    },
+    "***The wood bed will move in 10s!***": {
+        "chi": "***木床将在10秒后上升！***"
+    },
+    "***Rock monster will use right-push in 3s!***": {
+        "chi": "***BOSS将在3秒后使用向右推力！AAAAA***"
+    },
+    "***Rock monster will use left-push in 3s!***": {
+        "chi": "***BOSS将在3秒后使用向左推力！DDDDD***"
+    },
+    "***25s left!***": {
+        "chi": "***最后的25秒***"
+    },
+    "***Next Stage:[Wind]***": {
+        "chi": "***下一关：[赌狗大赛]***"
+    },
+    "***Wind***": {
+        "chi": "***赌狗大赛***"
+    },
+    "***Oh!You are shining the roof!***": {
+        "chi": "***恭喜你成功完成了屋顶大冒险全部关卡！***"
+    },
+    "***Choice begins in 20s!***": {
+        "chi": "***在20秒后选择关卡***"
+    },
+    "***Choose a stage!***": {
+        "chi": "***选择一个关卡***"
+    },
+    "***Zombie infection!Enjoy yourself!***": {
+        "chi": "***僵尸感染！保护好自己！***"
+    },
+    "***Hold for 150s!***": {
+        "chi": "*** 躲藏150秒!***"
+    }
+}

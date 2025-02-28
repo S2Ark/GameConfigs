@@ -1,0 +1,80 @@
+{
+    "[INFO] Control room door openning": {
+        "chi": "控制室已打开"
+    },
+    "[INFO] Closing in 20 sec": {
+        "chi": "大门20秒后关闭"
+    },
+    "[INFO] Closing in 5 sec": {
+        "chi": "大门5秒后关闭"
+    },
+    "[INFO] Door opening in 20 sec": {
+        "chi": "大门20秒后打开"
+    },
+    "[INFO] Door opening in 5 sec": {
+        "chi": "大门5秒后打开"
+    },
+    "Map by Raphi": {
+        "chi": "作者 Raphi 汉化 萌爱"
+    },
+    "Made for the Mapeadores Zombie Apocalypse Contest": {
+        "chi": "此图为比赛地图"
+    },
+    "[INFO] 3rd crank has been set up": {
+        "chi": "已按下第三个开关"
+    },
+    "[INFO] 2nd crank has been set up": {
+        "chi": "已按下第二个开关"
+    },
+    "[INFO] 1st crank has been set up": {
+        "chi": "已按下第一个开关"
+    },
+    "[INFO] 4th crank has been set up": {
+        "chi": "已按下第四个开关"
+    },
+    "[INFO] Closing door in 10 sec": {
+        "chi": "大门10秒后关闭"
+    },
+    "[INFO] Explosion in 10 sec": {
+        "chi": "剩余10秒"
+    },
+    "[INFO] Explosion in 30 sec": {
+        "chi": "剩余30秒"
+    },
+    "[INFO] Explosion in 1 minute": {
+        "chi": "剩余60秒"
+    },
+    "[INFO] Explosion in 2 minutes": {
+        "chi": "剩余120秒"
+    },
+    "[INFO] Explosion in 3 minutes": {
+        "chi": "剩余180秒"
+    },
+    "[INFO] Door openning in 10 sec": {
+        "chi": "大门10秒后开启"
+    },
+    "[INFO] Ladder going down": {
+        "chi": "梯子正在下降"
+    },
+    "[INFO] Tractor Beam enabled in 30 sec": {
+        "chi": "光束30秒后启用"
+    },
+    "[INFO] Tractor Beam enabled in 10 sec": {
+        "chi": "光束10秒后启用"
+    },
+    "[INFO] Spaceships unlocked": {
+        "chi": "宇宙飞船解锁"
+    },
+    "[INFO] Door closing in 20 sec": {
+        "chi": "大门20秒后关闭"
+    },
+    "[INFO] Platforms enabled in 20 sec": {
+        "chi": "平台20秒后移动"
+    },
+    "[INFO] Platforms enabled in 5 sec": {
+        "chi": "平台5秒后移动"
+    },
+    "[INFO] Door opening in 15 sec": {
+        "chi": "大门15秒后打开"
+    }
+}

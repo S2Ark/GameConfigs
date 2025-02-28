@@ -1,0 +1,77 @@
+{
+    ">> Auto Secret Trigger Disabled <<": {
+        "chi": ">> 触发器已禁用 <<"
+    },
+    ">> Auto Secret Trigger Enabled <<": {
+        "chi": ">> 触发器已启用 <<"
+    },
+    ">> Auto Secret Trigger is enabled. <<": {
+        "chi": ">> 自动触发已启用 <<"
+    },
+    ">> Upper side open, watch out! <<": {
+        "chi": ">> 上方已打开，小心! <<"
+    },
+    ">> Failed <<": {
+        "chi": ">> 失败 <<"
+    },
+    ">> Secret Enabled <<": {
+        "chi": ">> 密码已启用 <<"
+    },
+    ">> Secret Disabled <<": {
+        "chi": ">> 密码已禁用 <<"
+    },
+    ">> Secret has been disabled. <<": {
+        "chi": ">> 解密已禁用 <<"
+    },
+    ">> 20 second left <<": {
+        "chi": ">> 防守20秒 <<"
+    },
+    ">> 50 seconds <<": {
+        "chi": ">> 防守50秒 <<"
+    },
+    ">> 5 seconds left <<": {
+        "chi": ">> 剩余5秒 <<"
+    },
+    ">> Zombie tp in 15 seconds <<": {
+        "chi": ">> 僵尸15秒后传送 <<"
+    },
+    ">> Reverse <<": {
+        "chi": ">> 反转开始 <<"
+    },
+    ">> laser coming! <<": {
+        "chi": ">> 刀光来临! <<"
+    },
+    ">> 10 seconds <<": {
+        "chi": ">> 剩余10秒 <<"
+    },
+    ">> 20 seconds <<": {
+        "chi": ">> 防守20秒 <<"
+    },
+    ">> Jump <<": {
+        "chi": ">> 跳起来 <<"
+    },
+    ">> Zombie push has been disabled <<": {
+        "chi": "僵尸推力已消失"
+    },
+    ">> 34 seconds <<": {
+        "chi": ">>防守34秒 <<"
+    },
+    ">> 15 seconds <<": {
+        "chi": ">> 防守15秒 <<"
+    },
+    ">> Shoot the Crystal! <<": {
+        "chi": ">> 射击水晶! <<"
+    },
+    ">> 35 seconds <<": {
+        "chi": ">> 防守35秒 <<"
+    },
+    ">> Go back to the entrance <<": {
+        "chi": ">> 回到入口 <<"
+    },
+    ">> 30 seconds <<": {
+        "chi": ">> 防守30秒 <<"
+    },
+    ">> ... <<": {
+        "chi": ">>隐藏关已触发<<"
+    }
+}

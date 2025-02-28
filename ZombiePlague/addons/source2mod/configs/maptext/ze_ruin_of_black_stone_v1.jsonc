@@ -1,0 +1,419 @@
+{
+    "<< Zombies have escaped! YOU FAIL! >>": {
+        "chi": "<< 僵尸逃走了!你失败了! >>"
+    },
+    "<< Maybe we should investigate it later......>>": {
+        "chi": "也许我们稍后应该调查一下......"
+    },
+    "<< What's that...... >>": {
+        "chi": "这是什么。。。。"
+    },
+    "<< ???: What? You've killed my pet?! >>": {
+        "chi": "???:什么?你杀了我的宠物?!"
+    },
+    "<< Got it!!! Tesla has died!!! >>": {
+        "chi": "特斯拉已经死去！！"
+    },
+    "<< Admin has selected Chapter I >>": {
+        "chi": "管理员设置关卡为 Chapter I"
+    },
+    "<< Admin has selected Chapter II >>": {
+        "chi": "管理员设置关卡为 Chapter II"
+    },
+    "<< Admin has selected Chapter IV >>": {
+        "chi": "管理员设置关卡为 Chapter IV"
+    },
+    "<< Admin has selected Chapter III >>": {
+        "chi": "管理员设置关卡为 Chapter III"
+    },
+    "<< A player has picked up poison magic >>": {
+        "chi": "一位玩家学会了毒魔法"
+    },
+    "<< A player has picked up holy magic >>": {
+        "chi": "玩家已经掌握了神圣魔法！"
+    },
+    "<< A zombie has picked up gravity magic >>": {
+        "chi": "僵尸获得了黑洞魔法"
+    },
+    "<< A zombie has picked up poison magic >>": {
+        "chi": "僵尸学会了毒药魔法"
+    },
+    "<< A zombie has picked up heal magic >>": {
+        "chi": "僵尸获得了治疗魔法"
+    },
+    "<< A zombie has picked up ice magic >>": {
+        "chi": "僵尸学会了冰魔法"
+    },
+    "<< A player has picked up earth magic >>": {
+        "chi": "一名玩家学会了大地魔法"
+    },
+    "<< A player has picked up snow magic >>": {
+        "chi": "一名玩家学会了雪魔法"
+    },
+    "<< A player has picked up wind magic >>": {
+        "chi": "一名玩家学会了风魔法"
+    },
+    "<< A player has picked up heal magic >>": {
+        "chi": "一名玩家学会了治愈魔法"
+    },
+    "<< A player has picked up electro magic >>": {
+        "chi": "一名玩家学会了电魔法"
+    },
+    "<< Congratulations! >>": {
+        "chi": "恭喜你!"
+    },
+    "<< You've win all the chapters!!! >>": {
+        "chi": "你通关了所有关卡！！！"
+    },
+    "<< Map by SilverCrew, reworked by Misaka >>": {
+        "chi": "地图由SilverCrew制作，Misaka重置 翻译：托儿索"
+    },
+    "<< It's Tesla again! Kill him this time!!! Do Not let it escape again!!! >>": {
+        "chi": "又是特斯拉!这次杀了他!!不要让它再逃跑了!!"
+    },
+    "<< Hold for 5 seconds >>": {
+        "chi": "坚守 5 秒！"
+    },
+    "<< Get out of there immediately!!! >>": {
+        "chi": "马上离开那里!!"
+    },
+    "<< Tesla has disappeared.... >>": {
+        "chi": "特斯拉消失了...."
+    },
+    "<< Tesla Disappeared again!!! >>": {
+        "chi": "特斯拉又消失了!!"
+    },
+    "<< The ruin starts to collapse!!! >>": {
+        "chi": "废墟开始倒塌了!!"
+    },
+    "<< I've already prepared a teleporter at the ruin of black stone >>": {
+        "chi": "我已经在黑石废墟准备了传送器!"
+    },
+    "<< Hurry up!!! Get out of there!!! >>": {
+        "chi": "快点!!快离开那里!!"
+    },
+    "<< Tesla is using Gravity!!! >>": {
+        "chi": "特斯拉正在使用重力!!"
+    },
+    "<< Tesla is using Fallen Fire!!! >>": {
+        "chi": "特斯拉正在使用堕落之火!!"
+    },
+    "<< Tesla is using Fire Power!!! >>": {
+        "chi": "特斯拉正在使用火之力量!!"
+    },
+    "<< Tesla is using Flame Field!!! >>": {
+        "chi": "特斯拉正在使用火焰场!!"
+    },
+    "<< Field will activate in 8 seconds>>": {
+        "chi": "力场将在 8 秒后启动"
+    },
+    "<< Tesla is activating a fire area >>": {
+        "chi": "特斯拉正在激活一个火灾区域"
+    },
+    "<< ???: Hahahahah, Welcome to the hell >>": {
+        "chi": "???: Hahahahah,欢迎来到地狱！"
+    },
+    "<< ???: It seems that you all know why I entrusted you >>": {
+        "chi": "???:看来你们都知道我为什么信任你们了"
+    },
+    "<< ???: You should have died when you activated the lever in the city >>": {
+        "chi": "???:你在城市里启动控制杆的时候就该死了"
+    },
+    "<< ???: But you are alive and you defeated my pet for three times >>": {
+        "chi": "???:但你还活着，并且三次打败了我的宠物"
+    },
+    "<< ???: I'm proud of your bravery to come here and find the truth >>": {
+        "chi": " ???: 我为你来这里寻找真相的勇气感到骄傲"
+    },
+    "<< ???: So you gonna die now and I will bury you all out!!! >>": {
+        "chi": "???: 所以你们现在要去死，我要把你们都埋了!!"
+    },
+    "<< BGM from ze_ffvii_cosmo_canyon >>": {
+        "chi": "BGM来源：ze_ffvii_cosmo_canyon"
+    },
+    "<< Hold for 20 seconds >>": {
+        "chi": "坚守 20 秒"
+    },
+    "<< Hold for 35 seconds >>": {
+        "chi": "坚守 35 秒"
+    },
+    "<< The rock will break in 25 seconds >>": {
+        "chi": "岩石将在 25 秒后破碎"
+    },
+    "<< Tips: find all lever and pull it to go ahead >>": {
+        "chi": "提示:找到所有的杠杆并拉动它前进！"
+    },
+    "<< We can not fall back now! Go Ahead !!! >>": {
+        "chi": "我们现在不能后退!继续前进!!"
+    },
+    "<< Why so quiet here...... >>": {
+        "chi": "为什么这里这么安静......"
+    },
+    "<< I'm sure here is the ruin of black stone >>": {
+        "chi": "我敢肯定这里是黑石废墟"
+    },
+    "<< No one is here...... >>": {
+        "chi": "这里没人......"
+    },
+    "<< defend until the rock broken! >>": {
+        "chi": "坚守到岩石破碎!"
+    },
+    "<< It's the end of this cave >>": {
+        "chi": "这是这个洞穴的尽头！"
+    },
+    "<< Hold for 30 seconds >>": {
+        "chi": "坚守 30 秒！"
+    },
+    "<< He is still not there...... >>": {
+        "chi": "他还没到......"
+    },
+    "<< Go Ahead!!! >>": {
+        "chi": "继续! !"
+    },
+    "<< The door of the ruin will break in 35 seconds >>": {
+        "chi": "废墟的门将在 35 秒后破裂"
+    },
+    "<< The rescue team is waitng for us!!! >>": {
+        "chi": "救援队正在等我们!!"
+    },
+    "<< Teleporter will activate in 45 seconds >>": {
+        "chi": "传送器将在 45 秒后启动"
+    },
+    "<< Mission: Activate the nuke lever >>": {
+        "chi": "任务:启动核弹控制杆！"
+    },
+    "<< Chapter I >>": {
+        "chi": ""
+    },
+    "<< We are getting closer to Black Stone City >>": {
+        "chi": "我们离黑石城越来越近了"
+    },
+    "<< The mayor of that city entrust us to push the lever to activate the nuke to kill zomebies >>": {
+        "chi": "那座城市的市长委托我们推动控制杆激活核弹来杀死僵尸！"
+    },
+    "<< There are a lot of zombies near the city >>": {
+        "chi": "城市附近有很多僵尸"
+    },
+    "<< Finish this mission as fast as we can! >>": {
+        "chi": "尽快完成这个任务!"
+    },
+    "<< Mission: HEAD-TO-HEAD >>": {
+        "chi": ""
+    },
+    "<< Chapter III >>": {
+        "chi": ""
+    },
+    "<< I never hear that we will fight with Tesla >>": {
+        "chi": "我从没听说过我们会和特斯拉打架"
+    },
+    "<< I think we should ask the mayor about this >>": {
+        "chi": "我觉得我们应该问问市长"
+    },
+    "<< Go to the City again! >>": {
+        "chi": "再到城里去吧!"
+    },
+    "<< Mission: visit the ruin of black stone >>": {
+        "chi": "任务:搜寻黑石废墟"
+    },
+    "<< Chapter II >>": {
+        "chi": ""
+    },
+    "<< The mayor wants to meet us at the ruin of black stone >>": {
+        "chi": "市长想在黑石的废墟上见我们"
+    },
+    "<< He said that he wants to honour our contribution >>": {
+        "chi": "他说他想表彰我们的贡献！"
+    },
+    "<< Go through the canyon to get to the ruin! >>": {
+        "chi": "穿过峡谷到达废墟!"
+    },
+    "<< Chapter IV >>": {
+        "chi": ""
+    },
+    "<< Mission: Kill Tesla and Escape from the ruin >>": {
+        "chi": "任务:杀死特斯拉并逃离废墟"
+    },
+    "<< I've already known the truth >>": {
+        "chi": "我已经知道真相了"
+    },
+    "<< The mayor wants to kill us by the hands of others >>": {
+        "chi": "市长想借别人之手杀了我们"
+    },
+    "<< No matter the lever or Tesla >>": {
+        "chi": "不管是杠杆还是特斯拉"
+    },
+    "<< So now, its time for us to counterattack >>": {
+        "chi": "所以，现在是我们反击的时候了"
+    },
+    "<< Kill Tesla and arrest the mayor!!! >>": {
+        "chi": "干掉特斯拉，逮捕市长!!"
+    },
+    "<< Shit! Tesla do not die!!! Keep shooting!!! >>": {
+        "chi": "Shit！特斯拉还没死！！保持射击！！！"
+    },
+    "<< Tesla disappeared again... >>": {
+        "chi": "特斯拉又消失了…"
+    },
+    "<< Maybe we can get the answer at the ruin >>": {
+        "chi": "也许我们能在废墟上找到答案"
+    },
+    "<< Get back to the elevator to leave there, we should go to the ruin again >>": {
+        "chi": "回到电梯那里离开，我们应该再去一次废墟"
+    },
+    "<< Elevator leaves in 25 seconds >>": {
+        "chi": "电梯 25 秒后离开"
+    },
+    "<< Chapter Finish >>": {
+        "chi": ""
+    },
+    "<< Prepare for the coming truth...... >>": {
+        "chi": "为即将到来的真相做好准备......"
+    },
+    "<< zombie has escaped!!! >>": {
+        "chi": "僵尸逃走了!!"
+    },
+    "<< Its Tesla Again!!! Kill him before he kills us!!! >>": {
+        "chi": "Its Tesla Again!!! Kill him before he kills us!!!"
+    },
+    "<< Tesla is using Fire Ball >>": {
+        "chi": "特斯拉正在使用火球"
+    },
+    "<< Tesla is using Gravity >>": {
+        "chi": "特斯拉正在使用重力！"
+    },
+    "<< Tesla release zombies >>": {
+        "chi": "特斯拉释放僵尸"
+    },
+    "<< Tesla is using Rock Slide! >>": {
+        "chi": "特斯拉正在使用岩石滚动!"
+    },
+    "<< Tesla is using Fire Power >>": {
+        "chi": "特斯拉正在使用火场"
+    },
+    "<< Tesla Disappear...... >>": {
+        "chi": "特斯拉消失……"
+    },
+    "<< The final door will open in 30 seconds >>": {
+        "chi": "最终之门将在 30 秒后打开！"
+    },
+    "<< Door will open in 5 seconds >>": {
+        "chi": "大门将在 5 秒后打开！"
+    },
+    "<< The button on the top will unlock in 5 seconds >>": {
+        "chi": "顶部的按钮将在 5 秒后解锁"
+    },
+    "<< Door will open in 40 seconds >>": {
+        "chi": "大门将在 40 秒后打开！"
+    },
+    "<< The door will open in 20 seconds >>": {
+        "chi": "大门将在 20 秒后打开！"
+    },
+    "<< Hold for 15 seconds >>": {
+        "chi": "坚守 15 秒！"
+    },
+    "<< The teleporter will close in 5 seconds >>": {
+        "chi": "传送器将在 5 秒后关闭"
+    },
+    "<< The teleporter at the entrance start working!!! >>": {
+        "chi": "入口的传送器开始工作了!!"
+    },
+    "<< Hurry up!!! Get back to the entrance of the town!!! >>": {
+        "chi": "快点! !回到镇门口去!!"
+    },
+    "<< Warning: Nuke in 180 seconds >>": {
+        "chi": "警告: 180 秒后核弹"
+    },
+    "<< The lever has been pushed >>": {
+        "chi": "杠杆已被推过"
+    },
+    "<< Okay...... >>": {
+        "chi": "好吧……"
+    },
+    "<< Hold for 10 seconds >>": {
+        "chi": "坚守 10 秒"
+    },
+    "<< We should spend a little time to activate it...... >>": {
+        "chi": "我们应该花一点时间来激活它....."
+    },
+    "<< It seems that this lever can activate the nuke >>": {
+        "chi": "看来这个杠杆可以激活核弹"
+    },
+    "<< Where is there...... >>": {
+        "chi": "哪里有......"
+    },
+    "<< Wait.......What happened????? >>": {
+        "chi": "等等……发生了什么事? ?"
+    },
+    "<< It's the monster of lava - Tesla!!! >>": {
+        "chi": "这是熔岩怪兽——特斯拉!!"
+    },
+    "<< kill Tesla before it kills us!!! >>": {
+        "chi": "在特斯拉干掉我们之前干掉它!!"
+    },
+    "<< Fall Back!!! The safe house is opening!!! >>": {
+        "chi": "撤退!!安全屋要打开了!!"
+    },
+    "<< The zombies have escaped!!! >>": {
+        "chi": "僵尸逃脱了! !"
+    },
+    "<< The zombie has escaped!!! >>": {
+        "chi": "僵尸逃脱了! !"
+    },
+    "<< The way will be able to pass in 30 seconds >>": {
+        "chi": "这条路可以在 30 秒后通过！"
+    },
+    "<< Give me some time to break this huge stone >>": {
+        "chi": "给我点时间，让我打碎这块巨石！"
+    },
+    "<< The door will break in 20 seconds >>": {
+        "chi": "门会在 20 秒后破裂"
+    },
+    "<< Wait for 10 seconds >>": {
+        "chi": "等待 10 秒"
+    },
+    "<< All levers have been pulled >>": {
+        "chi": "所有的杠杆都拉过了"
+    },
+    "<< Door will open in 30 seconds >>": {
+        "chi": "大门将在 30 秒后打开"
+    },
+    "<< door will close in 5 seconds >>": {
+        "chi": "门将在 5 秒后关闭"
+    },
+    "<< Zombies escape!!! You fail!!! >>": {
+        "chi": "僵尸逃脱了!!你失败了! !"
+    },
+    "<< The abandoned storeroom is opened >>": {
+        "chi": "废弃的储藏室打开了"
+    },
+    "<< The main entrance is opened >>": {
+        "chi": "正门打开了！"
+    },
+    "<< wait for 20 seconds >>": {
+        "chi": "等待 20 秒"
+    },
+    "<< The fence will break in 20 seconds >>": {
+        "chi": "栅栏将在 20 秒后断裂"
+    },
+    "<< Hold for 40 seconds >>": {
+        "chi": "坚持 40 秒！"
+    },
+    "<< Hold for 25 seconds >>": {
+        "chi": "坚持 25 秒！"
+    },
+    "<< Wait for 5 seconds >>": {
+        "chi": "等待 5 秒！"
+    },
+    "<< The door will open in 25 seconds >>": {
+        "chi": "门将在 25 秒后打开！"
+    },
+    "<< this button of this storeroom is broken >>": {
+        "chi": "这个储藏室的这个按钮坏了"
+    },
+    "<< Wait for 15 seconds until we break the door! >>": {
+        "chi": "等 15 秒，我们就能破门而入!"
+    },
+    "<< Door will open in 25 seconds >>": {
+        "chi": "大门将在 25 秒后打开"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Map : ze_surf_shonyudo": {
+        "chi": " 幽谷滑翔"
+    },
+    "Who : Hmn": {
+        "chi": "地图作者:Hmn  | C1M翻译"
+    },
+    ">> Destroy the rock 30 SECONDS <<": {
+        "chi": ">>岩石30秒后破碎 <<"
+    },
+    ">> Laser_Lv -- Carnage -- <<": {
+        "chi": ">> 跳刀难度 -- 挑战 -- <<"
+    },
+    ">> Destroy the rock 10 SECONDS <<": {
+        "chi": ">> 岩石10秒后破碎 <<"
+    },
+    ">> Fixing the elevator 30 SECONDS <<": {
+        "chi": ">> 30秒后电梯启动 <<"
+    },
+    ">> Fixing the elevator 10 SECONDS <<": {
+        "chi": ">> 10秒后电梯启动 <<"
+    },
+    ">> Laser_Lv -- ??? -- <<": {
+        "chi": ">> 跳刀难度 -- ??? -- <<"
+    },
+    ">> GOOD LUCK <<": {
+        "chi": ">> 祝你好运 <<"
+    },
+    ">> RUN! <<": {
+        "chi": ">> 快上船! <<"
+    },
+    ">> Escape The World !! 40 SECONDS  <<": {
+        "chi": ">> 30秒后船开 守住  <<"
+    },
+    ">> Escape The World !! 10 SECONDS  <<": {
+        "chi": ">> 10秒后核爆 <<"
+    },
+    ">> ORE NO KATI  <<": {
+        "chi": ">> ORE NO KATI  <<"
+    },
+    ">> Laser_Lv -- Godlike -- <<": {
+        "chi": ">> 跳刀难度 -- Godlike -- <<"
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "Map by XXPohmian/XXMochi": {
+        "chi": "作者 XXPohmian/XXMochi 汉化:萌爱&黑岩"
+    },
+    "Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG": {
+        "chi": "特别感谢 .YuukiAsuna. Gopa Rulucy Sesame BalG"
+    },
+    "Thanks for testing *Domain VasyaPupkin other testers": {
+        "chi": "感谢 VasyaPupkin 的测试"
+    },
+    "Ported by isa": {
+        "chi": "移植: isa"
+    },
+    "[Normal Mode]": {
+        "chi": "[普通难度]"
+    },
+    "*** The LeftGate is unlocked ***": {
+        "chi": "*** 左边大门有些松动了 ***"
+    },
+    "***The LeftGate is going to open***": {
+        "chi": "***左边大门正在开启***"
+    },
+    "< ??? >": {
+        "chi": "< ??? >"
+    },
+    "***Hold 25seconds***": {
+        "chi": "***防守25秒***"
+    },
+    "***Keep Defending***": {
+        "chi": "***守住这里***"
+    },
+    "***The Gate is going to close. Defend***": {
+        "chi": "***大门关闭，嘉然降下制裁***"
+    },
+    "***You won Normal Mode***": {
+        "chi": "***你们通过了普通难度***"
+    },
+    "[Hard Mode]": {
+        "chi": "[困难难度]"
+    },
+    "*** The RightGate is unlocked ***": {
+        "chi": "*** 右边大门有些松动了 ***"
+    },
+    "***The RightGate is going to open***": {
+        "chi": "***右边大门正在打开***"
+    },
+    "*A player has picked up Heal Magic*": {
+        "chi": "*一位玩家拾起奶*"
+    },
+    "***Hold 30seconds***": {
+        "chi": "***防守30秒***"
+    },
+    "***Hold 15seconds***": {
+        "chi": "***防守15秒***"
+    },
+    "***The MetalGate is going to break in 20seconds***": {
+        "chi": "***铁门20秒后破碎***"
+    },
+    "***Defend more 15seconds***": {
+        "chi": "***坚守15秒***"
+    },
+    "***Defend 35seconds***": {
+        "chi": "***继续防守35秒***"
+    },
+    "*A player has picked up Ancient Earth Magic*": {
+        "chi": "*一位玩家拾取土*"
+    },
+    "***Defend 25seconds***": {
+        "chi": "***防守25秒***"
+    },
+    "***Last Defend***": {
+        "chi": "***这是最后的防守了***"
+    },
+    "*** Its getting dark.... ***": {
+        "chi": "*** 永恒的黑暗.... ***"
+    },
+    "***You won Hard Mode***": {
+        "chi": "***你们通过了困难难度***"
+    },
+    "[Soul Mode]": {
+        "chi": "[灵魂难度]"
+    },
+    "*** It going to break ***": {
+        "chi": "*** 这些可以被打碎... ***"
+    },
+    "*** The vents are going to open ***": {
+        "chi": "*** 地下通道开启 ***"
+    },
+    "*** The Gates are going to open ***": {
+        "chi": "*** 大门已开启 ***"
+    },
+    "*A player has picked up Wind Magic*": {
+        "chi": "*一位玩家拾取风*"
+    },
+    "*A player has picked up Fire Magic*": {
+        "chi": "*一位玩家拾取火*"
+    },
+    "*A player has picked up Ice Magic*": {
+        "chi": "*一位玩家拾取冰*"
+    },
+    "***Defend 20seconds***": {
+        "chi": "***防守20秒***"
+    },
+    "***Defend 15seconds***": {
+        "chi": "***防守15秒***"
+    },
+    "*** The Soul was killed ***": {
+        "chi": "*** 灵魂球溃灭了 ***"
+    },
+    "***Defend 30seconds***": {
+        "chi": "***防守30秒***"
+    },
+    ">>> Failed <<<": {
+        "chi": ">>> 失败了 <<<"
+    },
+    "*** Golem Ahglan Defeated ***": {
+        "chi": "*** 傀儡被击败了 ***"
+    },
+    "***You won Soul Mode***": {
+        "chi": "***你们通过了灵魂难度***"
+    },
+    "[TheLast Mode]": {
+        "chi": "[终极难度]"
+    },
+    "*** Ancient Elculous Defeated ***": {
+        "chi": "*** 噬影魔龙被击败了 ***"
+    },
+    "***Hold 20seconds***": {
+        "chi": "***防守20秒***"
+    },
+    "*** 30 ***": {
+        "chi": "*** 30秒后开启BOSS战 ***"
+    },
+    "*** 10 ***": {
+        "chi": "*** 10 ***"
+    },
+    "*** Hand Attack ***": {
+        "chi": "*** 单臂锤击 ***"
+    },
+    "*** Gravity ***": {
+        "chi": "*** 黑洞 ***"
+    },
+    "*** Wind ***": {
+        "chi": "*** 风 ***"
+    },
+    "*** Earth Queak ***": {
+        "chi": "*** 地震 ***"
+    },
+    "*** Double Hands Stamp ***": {
+        "chi": "*** 双臂锤击 ***"
+    },
+    "*** Escape ***": {
+        "chi": "*** 逃离这里 ***"
+    },
+    "***The Last gates will open in 190seconds***": {
+        "chi": "***最后的大门 190秒后开启***"
+    },
+    "*** 180seconds ***": {
+        "chi": "*** 还剩180秒 ***"
+    },
+    "*** Open in 10seconds ***": {
+        "chi": "*** 大门10秒后开启 ***"
+    },
+    "*** Open in 20seconds ***": {
+        "chi": "*** 大门20秒后开启 ***"
+    },
+    "*** 100seconds ***": {
+        "chi": "*** 还剩100秒 ***"
+    },
+    "*** 50seconds ***": {
+        "chi": "*** 还剩50秒 ***"
+    },
+    "*** 10seconds ***": {
+        "chi": "*** 10 ***"
+    },
+    "*** 5 ***": {
+        "chi": "*** 5 ***"
+    },
+    "*** 4 ***": {
+        "chi": "*** 4 ***"
+    },
+    "*** 3 ***": {
+        "chi": "*** 3 ***"
+    },
+    "*** 2 ***": {
+        "chi": "*** 2 ***"
+    },
+    "*** 1 ***": {
+        "chi": "*** 1 ***"
+    },
+    "*** Grim Reaper defeated ***": {
+        "chi": "*** 死神被击败了 ***"
+    },
+    "*** Defend ***": {
+        "chi": "*** 守住最后的阵地 ***"
+    },
+    "*** !? ***": {
+        "chi": "*** !? ***"
+    },
+    "***You won Thelast Mode***": {
+        "chi": "***你们通过了终极难度***"
+    },
+    "< Survive in 180 seconds  >": {
+        "chi": "< 生存180秒  >"
+    },
+    "*** Admin Selected ThelastMode ***": {
+        "chi": "*** Admin Selected ThelastMode ***"
+    },
+    "[Zombies Mode]": {
+        "chi": "[ZM模式]"
+    },
+    "*** A zombie picked up Warp Magic ***": {
+        "chi": "*** 僵尸拾取秒杀 ***"
+    },
+    "*** A zombie picked up Ice Magic ***": {
+        "chi": "*** 僵尸拾取冰 ***"
+    },
+    "*** A zombie picked up Heal Magic ***": {
+        "chi": "*** 僵尸拾取奶 ***"
+    },
+    "***Failed***": {
+        "chi": "***失败***"
+    }
+}

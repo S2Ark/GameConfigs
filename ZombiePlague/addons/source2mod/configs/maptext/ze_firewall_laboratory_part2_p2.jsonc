@@ -1,0 +1,68 @@
+{
+    "Break the doors to exit the laboratory.": {
+        "chi": "打破大门离开实验室"
+    },
+    "Cable Car leaving in 7 seconds...": {
+        "chi": "缆车7秒后离开"
+    },
+    "Pole-Rider machine leaving in 9 seconds...": {
+        "chi": "电车9秒后离开"
+    },
+    "Boat leaving in 6 seconds!": {
+        "chi": "船6秒后离开！"
+    },
+    "Truck leaving in 15 seconds!": {
+        "chi": "公交车15秒后离开！"
+    },
+    "Station doors will open in 25 seconds.": {
+        "chi": "车站门25秒后开启"
+    },
+    "Zombie outbreak has been detected.": {
+        "chi": "安全防护装置已激活"
+    },
+    "Emergency protection barriers activated.": {
+        "chi": "紧急保护装置已激活"
+    },
+    "Station doors have opened!": {
+        "chi": "车站门已开启"
+    },
+    "The gates will open in 25 seconds.": {
+        "chi": "大门25秒后开启"
+    },
+    "Hold out the zombies at the ticket gates!": {
+        "chi": "在检票口处守住僵尸！"
+    },
+    "The teleporters at the spawn area are now working!": {
+        "chi": "重生区的传送器正在运行！"
+    },
+    "Activate the emergency button!!!": {
+        "chi": "启动紧急按钮！！"
+    },
+    "Emergency button has been activated! Emergency doors closing...": {
+        "chi": "紧急按钮已触发！正在关门中！"
+    },
+    "Train arriving in approximately 35 seconds...": {
+        "chi": "地铁35秒后进站"
+    },
+    "Train arriving in approximately 20 seconds...": {
+        "chi": "地铁20秒后进站"
+    },
+    "The train has arrived and will leave in 10 seconds!": {
+        "chi": "地铁10秒后出发！"
+    },
+    "Train arriving at nuclear station...": {
+        "chi": "地铁到达核武器库"
+    },
+    "Beware of zombies coming from the back!": {
+        "chi": "小心从后面来的僵尸！"
+    },
+    "Missile Doors 1 Opening...": {
+        "chi": "防爆门1开启"
+    },
+    "Missile Doors 2 Opening...": {
+        "chi": "防爆门2开启"
+    },
+    "Nuclear missile has been launched!!!": {
+        "chi": "核导弹发射了！！"
+    }
+}

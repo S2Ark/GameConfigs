@@ -1,0 +1,887 @@
+{
+    ">> Second player have reached the end <<": {
+        "chi": ">> 第二名玩家已到达终点 <<"
+    },
+    ">> 1 more slot to go <<": {
+        "chi": ">>还有1个插槽<<"
+    },
+    ">> Starting Transmission Sequence <<": {
+        "chi": ">>启动传输序列<<"
+    },
+    ">> Establishing Connection <<": {
+        "chi": ">>建立连接<<"
+    },
+    ">> AFK teleport in 10 seconds <<": {
+        "chi": ">>AFK在10秒内传送<<"
+    },
+    ">> Checkpoint Saved <<": {
+        "chi": ">>检查点已保存<<"
+    },
+    ">> Auto picking completed <<": {
+        "chi": ">>自动分拣完成<<"
+    },
+    ">> Lone Wolves was selected <<": {
+        "chi": ">>孤狼队入选<<"
+    },
+    ">> War Ship was selected <<": {
+        "chi": ">>军舰被选中<<"
+    },
+    ">> Level 1 cutscene starts in 5 seconds <<": {
+        "chi": ">>一级过场5秒后开始<<"
+    },
+    ">> 4 <<": {
+        "chi": ">> 4 <<"
+    },
+    ">> 3 <<": {
+        "chi": ">> 3 <<"
+    },
+    ">> 2 <<": {
+        "chi": ">> 2 <<"
+    },
+    ">> 1 <<": {
+        "chi": ">> 1 <<"
+    },
+    ">> A and B point entrance has been cleared <<": {
+        "chi": ">>A和B点入口已被清除<<"
+    },
+    ">> Zombies fast TP enable <<": {
+        "chi": ">>僵尸快速TP启用<<"
+    },
+    ">> We need to get to the bridge <<": {
+        "chi": ">>我们需要到桥上去<<"
+    },
+    ">> Hold here until blast door close <<": {
+        "chi": ">>等着，直到防爆门关上<<"
+    },
+    ">> Vents open in 5 seconds <<": {
+        "chi": ">>通风口在5秒内打开<<"
+    },
+    ">> Survive for 3min <<": {
+        "chi": ">>存活3分钟<<"
+    },
+    ">> AFK teleport in 15s <<": {
+        "chi": ">>AFK传送15秒<<"
+    },
+    ">> Admin choose Extra Stages <<": {
+        "chi": ">>管理员选择EX关<<"
+    },
+    ">> Zombies shortcut teleport enable in 5 seconds <<": {
+        "chi": ">>僵尸快捷传送在5秒内启用<<"
+    },
+    ">> Marine at A and B point has been saved <<": {
+        "chi": ">>A点和B点的Marine已被保存<<"
+    },
+    ">> Rock to C point will explode in 10s <<": {
+        "chi": ">>岩石到C点将在10秒内爆炸<<"
+    },
+    ">> We need to defend C point to set a beacon for extraction <<": {
+        "chi": ">>我们需要保卫C点以设置提取信标<<"
+    },
+    ">> Find the way to repair the emitter <<": {
+        "chi": ">>找到修复发射器的方法<<"
+    },
+    ">> There are glowing button. Hold it for 3s to activate the sequence <<": {
+        "chi": ">>有发光的按钮。按住3秒钟以激活序列<<"
+    },
+    ">> Only Marine User can activate the sequence <<": {
+        "chi": ">>只有马润用户才能激活序列<<"
+    },
+    ">> Door open in 5 seconds <<": {
+        "chi": ">>门在5秒内打开<<"
+    },
+    ">> Cryo control room doors open in 10 seconds  <<": {
+        "chi": ">>低温控制室门在10秒内打开<<"
+    },
+    ">> Door open in 20 seconds <<": {
+        "chi": ">>门在20秒内打开<<"
+    },
+    ">> A player picked up MA5B Assault Rifle <<": {
+        "chi": ">>一名玩家拿起MA5B突击步枪<<"
+    },
+    ">> Hold here for 10 seconds <<": {
+        "chi": ">>在这里防守10秒<<"
+    },
+    ">> Exit door open in 20 seconds <<": {
+        "chi": ">>出口门在20秒内打开<<"
+    },
+    ">> A player have reached the end <<": {
+        "chi": ">>一名玩家已经到达终点<<"
+    },
+    ">> 2 more slots to go <<": {
+        "chi": ">>还有2个插槽<<"
+    },
+    ">> Auto Picking in 20s <<": {
+        "chi": ">>20秒后自动拾取<"
+    },
+    ">> Please choose which mode you want to play <<": {
+        "chi": ">>请选择游玩的模式<<"
+    },
+    ">> We found winner <<": {
+        "chi": ">>我们找到了赢家<<"
+    },
+    ">> Admin choose warmup level <<": {
+        "chi": ">>管理员选择热身回合<<"
+    },
+    ">> Right button pressed <<": {
+        "chi": ">>按下右侧按钮<<"
+    },
+    ">> Defend opening blast door <<": {
+        "chi": ">>防开启防爆门<<"
+    },
+    ">> Zombie used active camouflage <<": {
+        "chi": ">>僵尸使用主动伪装<<"
+    },
+    ">> Blast Door Closed. Opening Zombies shortcut <<": {
+        "chi": ">>防爆门关闭。打开僵尸捷径<<"
+    },
+    ">> Breaching door. Keep Holding <<": {
+        "chi": ">>正在破门，继续防守<<"
+    },
+    ">> AFK Teleport in 5s <<": {
+        "chi": ">>5秒AFK玩家传送<<"
+    },
+    ">> Doors open in 10secs <<": {
+        "chi": ">>门在10秒内打开<<"
+    },
+    ">> Heal Used <<": {
+        "chi": ">> 治疗已使用 <<"
+    },
+    ">> Front <<": {
+        "chi": ">> 前方 <<"
+    },
+    ">> Left <<": {
+        "chi": ">> 左侧 <<"
+    },
+    ">> Behind <<": {
+        "chi": ">> 后方 <<"
+    },
+    ">> Right <<": {
+        "chi": ">> 右侧 <<"
+    },
+    ">> Door open in 5s <<": {
+        "chi": ">>门在5秒内打开<<"
+    },
+    ">> Hold here for 5 seconds <<": {
+        "chi": ">>防守5秒钟<<"
+    },
+    ">> Right door open in 5 seconds <<": {
+        "chi": ">>右侧门5秒钟后打开<<"
+    },
+    ">> You missed one marine <<": {
+        "chi": ">>你错过了一位海军陆战队队员<<"
+    },
+    ">> Mission failed <<": {
+        "chi": ">>任务失败<<"
+    },
+    ">> No marine detected <<": {
+        "chi": ">>未检测到海军陆战队员<<"
+    },
+    ">> You failed <<": {
+        "chi": ">>你失败了<<"
+    },
+    ">> You did it. You have escape the Covenant <<": {
+        "chi": ">>你做到了，你已经逃离了星盟<<"
+    },
+    ">> Checking Cortana <<": {
+        "chi": ">>检查Cortana<<"
+    },
+    ">> ze Halo CE <<": {
+        "chi": ">>来自 ze Halo CE<<"
+    },
+    ">> Map by nuclear silo <<": {
+        "chi": ">> 地图制作： nuclear silo <<"
+    },
+    ">> Thank you for playing <<": {
+        "chi": ">> 感谢你的游玩 <<"
+    },
+    ">> No Cortana detected <<": {
+        "chi": ">>未检测到Cortana<<"
+    },
+    ">> You can't leave without her <<": {
+        "chi": ">>没有她你不能离开<<"
+    },
+    ">> The first 3 winner was found <<": {
+        "chi": ">>发现了前3名获胜者<<"
+    },
+    ">> Map starting in 3 seconds <<": {
+        "chi": ">>地图在3秒内启动<<"
+    },
+    ">> Power has restored <<": {
+        "chi": ">>电源已恢复<<"
+    },
+    ">> Door will open in 20s <<": {
+        "chi": ">>门将在20秒后打开<<"
+    },
+    ">> AFK teleport in 5 seconds <<": {
+        "chi": ">>AFK玩家在5秒内传送<<"
+    },
+    ">> Door opened. We need to go now <<": {
+        "chi": ">>门打开了。我们现在得走了<<"
+    },
+    ">> Blast Door Closed. Opening doors <<": {
+        "chi": ">>防爆门关闭。打开门<<"
+    },
+    ">> ze_halo_ce <<": {
+        "chi": ">> ze_halo_ce <<"
+    },
+    ">> Extra Stages <<": {
+        "chi": ">> EX关 <<"
+    },
+    ">> Please wait until the first ZM spawn <<": {
+        "chi": ">>请等待第一个ZM传送<<"
+    },
+    ">> Mothers ZM detected <<": {
+        "chi": ">>检测到母体ZM<<"
+    },
+    ">> Starting ZM race <<": {
+        "chi": ">>ZM关<<"
+    },
+    ">> Good luck racing to the portal <<": {
+        "chi": ">>祝你好运，冲向入口<<"
+    },
+    ">> Starting in <<": {
+        "chi": ">>开始<<"
+    },
+    ">> AFK teleport in 15 seconds <<": {
+        "chi": ">>AFK玩家15秒内传送<<"
+    },
+    ">> Third barrier has been activated <<": {
+        "chi": ">>第三道屏障已激活<<"
+    },
+    ">> Platform will raise in 20s <<": {
+        "chi": ">>平台将在20秒后升起<<"
+    },
+    ">> Final AFK teleport enable in 10s <<": {
+        "chi": ">>10秒后启用最终AFK传送<<"
+    },
+    ">> ALL player in warthog will be KILL in 10s <<": {
+        "chi": ">>warthog内的所有玩家将在10秒内被杀死<<"
+    },
+    ">> Afk teleport in 10 secs <<": {
+        "chi": "AFKTP"
+    },
+    ">> No more ZMs detected at playable area <<": {
+        "chi": ">>在可玩区域未检测到ZM<<"
+    },
+    ">> HM wins <<": {
+        "chi": ">> 人类胜利 <<"
+    },
+    ">> ZM wins <<": {
+        "chi": ">> 僵尸胜利 <<"
+    },
+    ">> No more HMs detected at playable area <<": {
+        "chi": ">>在可玩区域未检测到人类<<"
+    },
+    ">> That's the last of them <<": {
+        "chi": ">>这是最后一个<<"
+    },
+    ">> We found 2 winners <<": {
+        "chi": ">>我们找到了两个赢家<<"
+    },
+    ">> Preparing ZM sequence <<": {
+        "chi": ">>准备ZM序列<<"
+    },
+    ">> ZM incoming in 15s <<": {
+        "chi": ">>ZM在15秒后来袭<<"
+    },
+    ">> Keep holding until doors open <<": {
+        "chi": ">>防守直到门打开<<"
+    },
+    ">> Escape Lifeboat <<": {
+        "chi": ">>逃生救生艇<<"
+    },
+    ">> This is it <<": {
+        "chi": ">>就是这样<<"
+    },
+    ">> You only have 3.5 minutes to unlock the keycode <<": {
+        "chi": ">>您只有3.5分钟的时间解锁钥匙码<<"
+    },
+    ">> Help your teammate unlock the keypad to open the door <<": {
+        "chi": ">>帮助队友解锁键盘开门<<"
+    },
+    ">> Keycode will be printed on the wall <<": {
+        "chi": ">>钥匙码将印在墙上<<"
+    },
+    ">> Tell the typer correct code order to light appear <<": {
+        "chi": ">>告诉打字者正确的代码顺序以点亮显示<<"
+    },
+    ">> They are hacking Blast Door <<": {
+        "chi": ">>他们正在破解防爆门<<"
+    },
+    ">> Hold this position until we countered enemy attack <<": {
+        "chi": ">>守住这个阵地直到我们反击敌人的进攻<<"
+    },
+    ">> A player picked up fragmentation grenade <<": {
+        "chi": ">>一名玩家捡起碎片手榴弹<<"
+    },
+    ">> Starting War Ship preparation sequence <<": {
+        "chi": ">>启动战舰准备程序<<"
+    },
+    ">> Game starts in 30s <<": {
+        "chi": ">>游戏30秒后开始<<"
+    },
+    ">> Zombie incoming in 25s": {
+        "chi": ">>僵尸在25秒后来袭"
+    },
+    ">> Starting in 5s <<": {
+        "chi": ">>5秒后启动<<"
+    },
+    ">> Winner Choose War Ships mode <<": {
+        "chi": ">>获胜者选择战船模式<<"
+    },
+    ">> Winner Choose Lone Wolves mode <<": {
+        "chi": ">>获胜者选择孤狼模式<<"
+    },
+    ">> The bulding is out of power <<": {
+        "chi": ">>大楼没电了<<"
+    },
+    ">> Find the way to activate it <<": {
+        "chi": ">>找到激活它的方法<<"
+    },
+    ">>Button 2 unlock in 5s <<": {
+        "chi": ">>按钮2在5秒内解锁<<"
+    },
+    ">> The power is on but something is jammed <<": {
+        "chi": ">>电源开着，但有东西卡住了<<"
+    },
+    ">> Destroy the jammer <<": {
+        "chi": ">>摧毁干扰机<<"
+    },
+    ">> We can escape this cave in 25s <<": {
+        "chi": ">>我们可以在25秒内逃离这个洞穴<<"
+    },
+    ">> AFK teleport in 10s <<": {
+        "chi": "AFKTP"
+    },
+    ">> The first barrier has been activated <<": {
+        "chi": ">>第一道屏障已激活<<"
+    },
+    ">> Second barrier has been activated <<": {
+        "chi": ">>第二道屏障已激活<<"
+    },
+    ">> Shield Wall deactivate in 10s <<": {
+        "chi": ">>屏蔽墙在10秒内停用<<"
+    },
+    "***Zombie picked up OverShield - Level 1***": {
+        "chi": "***僵尸获得OverShield-1级***"
+    },
+    "***Zombie picked up OverShield - Level 2***": {
+        "chi": "***僵尸获得OverShield-2级***"
+    },
+    ">> Resist for 10 seconds <<": {
+        "chi": ">>抵抗10秒<<"
+    },
+    ">> Checkpointless Mode Enabled <<": {
+        "chi": ">>已启用无检查点模式<<"
+    },
+    ">> Right tunnel exit doors open in 5 seconds <<": {
+        "chi": ">>右侧隧道出口门5秒钟后打开<<"
+    },
+    ">> Defend the bridge for 30 seconds <<": {
+        "chi": ">>防守桥30秒<<"
+    },
+    ">> Do not let's zombies get inside <<": {
+        "chi": ""
+    },
+    ">> Watch your 6 <<": {
+        "chi": ""
+    },
+    ">> 10 seconds left <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Shield - Level 1 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Shield - Level 2 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Shield - Level 3 <<": {
+        "chi": ""
+    },
+    ">> Shoot the turret fast <<": {
+        "chi": ""
+    },
+    ">> AFK teleport in 20s <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Active Camouflage - Level 1 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Active Camouflage - Level 2 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Active Camouflage - Level 3 <<": {
+        "chi": ""
+    },
+    ">> Zombie now can share his camouflage for their teammates. <<": {
+        "chi": ""
+    },
+    ">> Doors open in 15 seconds  <<": {
+        "chi": ""
+    },
+    ">> Zombies will get teleport when door open  <<": {
+        "chi": ""
+    },
+    ">> 2 triggers hit <<": {
+        "chi": ""
+    },
+    ">> Doors open in 5s <<": {
+        "chi": ""
+    },
+    ">> Doors open in 10 seconds <<": {
+        "chi": ""
+    },
+    ">> Teleport enable in 7 seconds <<": {
+        "chi": ""
+    },
+    ">> Admin choose level 2 <<": {
+        "chi": ""
+    },
+    ">> Right way triggered  <<": {
+        "chi": ""
+    },
+    ">> Doors open in 10s <<": {
+        "chi": ""
+    },
+    ">> Do not doorhug <<": {
+        "chi": ""
+    },
+    ">> Left button pressed <<": {
+        "chi": ""
+    },
+    ">> Final Shield Cave Wall will break in 30s <<": {
+        "chi": ""
+    },
+    ">> Arbiter is summoning his minion <<": {
+        "chi": ""
+    },
+    ">> Arbiter Using Active Camouflage <<": {
+        "chi": ""
+    },
+    ">> Right way button unlock in 20seconds <<": {
+        "chi": ""
+    },
+    ">> Right way button can now be used <<": {
+        "chi": ""
+    },
+    ">> Zombies items are now disabled <<": {
+        "chi": ""
+    },
+    ">> Humans has accessed vents <<": {
+        "chi": ""
+    },
+    ">> Zombie TP in 20s <<": {
+        "chi": ""
+    },
+    ">> There're 2 buttons from 2 paths <<": {
+        "chi": ""
+    },
+    ">> Press one will trigger next one and opposite <<": {
+        "chi": ""
+    },
+    ">> Find your way to get out of mantainance vents <<": {
+        "chi": ""
+    },
+    ">> Zombies adrenaline injected <<": {
+        "chi": ""
+    },
+    ">> You have 100s to have all players escape maintenance way <<": {
+        "chi": ""
+    },
+    ">> You have 60s to have all players escape maintenance way <<": {
+        "chi": ""
+    },
+    ">> You have 30s to have all players escape maintenance way <<": {
+        "chi": ""
+    },
+    ">> You have 10s to have all players escape maintenance way <<": {
+        "chi": ""
+    },
+    ">> You have 5s to have all players escape maintenance way <<": {
+        "chi": ""
+    },
+    ">> Press them in correct order to open the stair. <<": {
+        "chi": ""
+    },
+    ">> There're 3 computer banks. <<": {
+        "chi": ""
+    },
+    ">> Solve the puzzle. <<": {
+        "chi": ""
+    },
+    ">> Overshield depleted <<": {
+        "chi": ""
+    },
+    ">> Overshield inbound <<": {
+        "chi": ""
+    },
+    ">> Arbiter using Overshield in 1s <<": {
+        "chi": ""
+    },
+    ">> Arbiter using Overshield in 2s <<": {
+        "chi": ""
+    },
+    ">> Arbiter using Overshield in 3s <<": {
+        "chi": ""
+    },
+    ">> Arbiter trying to use covenant shade turret <<": {
+        "chi": ""
+    },
+    ">> Get away from the middle <<": {
+        "chi": ""
+    },
+    ">> Prepare for battle <<": {
+        "chi": ""
+    },
+    ">> You have failed to input code 6 times <<": {
+        "chi": ""
+    },
+    ">> Loading Stage 2 Checkpoint <<": {
+        "chi": ""
+    },
+    ">> Generating Maps <<": {
+        "chi": ""
+    },
+    ">> Shield wall will break in 20s <<": {
+        "chi": ""
+    },
+    ">> Checking Zombie in lifeboat <<": {
+        "chi": ""
+    },
+    ">> You found C4 <<": {
+        "chi": ""
+    },
+    ">> Rock will break in 10s <<": {
+        "chi": ""
+    },
+    ">> Hold here until door opens <<": {
+        "chi": ""
+    },
+    ">> 25 seconds left <<": {
+        "chi": ""
+    },
+    ">> Wall will break in 15s <<": {
+        "chi": ""
+    },
+    ">> Admin has reset all player level <<": {
+        "chi": ""
+    },
+    ">> There're still human in maintenance way <<": {
+        "chi": ""
+    },
+    ">> Zombies Adrenaline has enable <<": {
+        "chi": ""
+    },
+    ">> AFK teleport in 10 seconds  <<": {
+        "chi": ""
+    },
+    ">> This is it. Final defense  <<": {
+        "chi": ""
+    },
+    ">> Defend lifeboats  <<": {
+        "chi": ""
+    },
+    ">> Defend for 40 seconds  <<": {
+        "chi": ""
+    },
+    ">> 20 seconds left  <<": {
+        "chi": ""
+    },
+    ">> 10 seconds left  <<": {
+        "chi": ""
+    },
+    ">> 5 seconds left  <<": {
+        "chi": ""
+    },
+    ">> Negev and all weapon are now allow to use  <<": {
+        "chi": ""
+    },
+    ">> All zombie items has been disabled  <<": {
+        "chi": ""
+    },
+    ">> Enable Zombie Speed in 10s  <<": {
+        "chi": ""
+    },
+    ">> Left way triggered  <<": {
+        "chi": ""
+    },
+    ">> Warmup round <<": {
+        "chi": ""
+    },
+    ">> Map start in 1 minute and 30 seconds <<": {
+        "chi": ""
+    },
+    ">> Enjoy KZ while waiting for other players <<": {
+        "chi": ""
+    },
+    ">> Reaching the end will give you a bonus on your item level <<": {
+        "chi": ""
+    },
+    ">> Map start in 1 minute <<": {
+        "chi": ""
+    },
+    ">> Map start in 30 seconds <<": {
+        "chi": ""
+    },
+    ">> Map start in 10 seconds <<": {
+        "chi": ""
+    },
+    ">> WARMUP <<": {
+        "chi": ""
+    },
+    ">> Wall will break in 5s <<": {
+        "chi": ""
+    },
+    ">> The Light Bridge will extend in 20s <<": {
+        "chi": ""
+    },
+    ">> All players in warthog must get off or you will get KILL <<": {
+        "chi": ""
+    },
+    ">> Temporary Give Warthog Immunity at this area <<": {
+        "chi": ""
+    },
+    ">> Removed Warthog Immunity <<": {
+        "chi": ""
+    },
+    ">> Way to bridge activation can be accessed in 10s <<": {
+        "chi": ""
+    },
+    ">> Wall will break in 10s <<": {
+        "chi": ""
+    },
+    ">> Lets move on <<": {
+        "chi": ""
+    },
+    ">> Zombies TP in 20s <<": {
+        "chi": ""
+    },
+    ">> Defend here until the rock explode in 25s <<": {
+        "chi": ""
+    },
+    ">> [DEBUG] Warthog max hit reached <<<": {
+        "chi": ""
+    },
+    ">> Doors open in 10 seconds <<<": {
+        "chi": ""
+    },
+    ">> Someone take the keycode control <<": {
+        "chi": ""
+    },
+    ">> The Light Bridge will extend in 15s <<": {
+        "chi": ""
+    },
+    ">> The Bridge has extended <<": {
+        "chi": ""
+    },
+    ">> Energy Wall depleted in 5s <<": {
+        "chi": ""
+    },
+    ">> The button will unlock in 5s <<": {
+        "chi": ""
+    },
+    ">> Cortana has been killed by the Covenant <<": {
+        "chi": ""
+    },
+    ">> Cortana is killed <<": {
+        "chi": ""
+    },
+    ">> You couldn't save her <<": {
+        "chi": ""
+    },
+    ">> Mission Failed <<": {
+        "chi": ""
+    },
+    ">> Cortana has been picked up <<": {
+        "chi": ""
+    },
+    ">> She must be brought to the end of the level <<": {
+        "chi": ""
+    },
+    ">> Zombie has invaded 1 of 3 lifeboats <<": {
+        "chi": ""
+    },
+    ">> Human will lost AR on next stage <<": {
+        "chi": ""
+    },
+    ">> Zombie has invaded 2 of 3 lifeboats <<": {
+        "chi": ""
+    },
+    ">> ALL NPC will be Elite <<": {
+        "chi": ""
+    },
+    ">> ALL ZM item will be max level <<": {
+        "chi": ""
+    },
+    ">> AFK teleport in 7s <<": {
+        "chi": ""
+    },
+    ">> ZM tp after door close <<": {
+        "chi": ""
+    },
+    ">> Doors close in 10 seconds <<": {
+        "chi": ""
+    },
+    ">> Doors opened <<": {
+        "chi": ""
+    },
+    ">> Stage 1 Final Checkpoint Saved <<": {
+        "chi": ""
+    },
+    ">> We can't take off if that Covenant bird is still alive <<": {
+        "chi": ""
+    },
+    ">> Take it down before it kill us ALL <<": {
+        "chi": ""
+    },
+    ">> Admin has upgrade all player level to 3 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Plasma Rifle - Level 1 <<": {
+        "chi": ""
+    },
+    ">> A zombie has picked up Plasma Rifle - Level 2 <<": {
+        "chi": ""
+    },
+    ">> Defend here for 120s or find another way to pass it <<": {
+        "chi": ""
+    },
+    ">> This map base from Halo CE and some part are not like in the game <<": {
+        "chi": ""
+    },
+    ">> Enemy spawn: advanced <<": {
+        "chi": ""
+    },
+    ">> Don't try to get door hug while it opens <<": {
+        "chi": ""
+    },
+    ">> Level 1: The Pillar of Autumn <<": {
+        "chi": ""
+    },
+    ">> Loading checkpoint <<": {
+        "chi": ""
+    },
+    ">> Loading Stage 1 final checkpoint <<": {
+        "chi": ""
+    },
+    ">> You have loaded stage 1 final Checkpoint <<": {
+        "chi": ""
+    },
+    ">> ALL zombie item level will be max level <<": {
+        "chi": ""
+    },
+    ">> Way will open soon. Keep holding <<": {
+        "chi": ""
+    },
+    ">> You did it <<": {
+        "chi": ""
+    },
+    ">> Left way button can now be used <<": {
+        "chi": ""
+    },
+    ">> Left way button will unlock in 20s <<": {
+        "chi": ""
+    },
+    ">> Keep holding <<": {
+        "chi": ""
+    },
+    ">> Door will open in 5s <<": {
+        "chi": ""
+    },
+    ">> Left tunnel doors open in 5s <<": {
+        "chi": ""
+    },
+    ">> Zombies items are now usable <<": {
+        "chi": ""
+    },
+    ">> Level 2 <<": {
+        "chi": ""
+    },
+    ">> Cave Entrance will disable in 10s <<": {
+        "chi": ""
+    },
+    ">> Emitter repairing sequence enabled <<": {
+        "chi": ""
+    },
+    ">> Repairing. Keep defending <<": {
+        "chi": ""
+    },
+    ">> Zombie has entered the code room <<": {
+        "chi": ""
+    },
+    ">> Stair can be accessed in 10 seconds <<": {
+        "chi": ""
+    },
+    ">> Zombies has get inside the bridge <<": {
+        "chi": ""
+    },
+    ">> Door will open in 15 seconds <<": {
+        "chi": ""
+    },
+    ">> We need to defend the opposite side <<": {
+        "chi": ""
+    },
+    ">> Shield wall will disable in 5s <<": {
+        "chi": ""
+    },
+    ">> Shield wall will disable in 20s <<": {
+        "chi": ""
+    },
+    ">> We've set the beacon at the emitter <<": {
+        "chi": ""
+    },
+    ">> Head to the crashed lifeboat to call for EVAC <<": {
+        "chi": ""
+    },
+    ">> We have called for EVAC transport. <<": {
+        "chi": ""
+    },
+    ">> Run back to spawn for EVAC. <<": {
+        "chi": ""
+    },
+    ">> Cortana must press the control panel in the lifeboat <<": {
+        "chi": ""
+    },
+    ">> Door will open in 15s <<": {
+        "chi": ""
+    },
+    ">> A player picked up heal - Recovery Level 1<<": {
+        "chi": ""
+    },
+    ">> A player picked up heal - Recovery Level 2<<": {
+        "chi": ""
+    },
+    ">> A player picked up heal - Recovery Level 3<<": {
+        "chi": ""
+    },
+    ">> We're trapped <<": {
+        "chi": ""
+    },
+    ">> We need to find another way <<": {
+        "chi": ""
+    },
+    ">> Mantainance way can be access in 5 seconds <<": {
+        "chi": ""
+    },
+    ">> Admin pressed nuke button <<": {
+        "chi": ""
+    },
+    ">> Admin choose level 1 <<": {
+        "chi": ""
+    },
+    ">> Cortana Knife has spawned <<": {
+        "chi": ""
+    },
+    ">> Admin want to play Checkpointless Mode <<": {
+        "chi": ""
+    },
+    ">> Please press again to confirm. Abort in 5s <<": {
+        "chi": ""
+    },
+    ">> Admin has enabled Checkpointless Mode. Please restart the round. <<": {
+        "chi": ""
+    },
+    ">> Admin has Disabled Checkpointless Mode. Please restart the round. <<": {
+        "chi": ""
+    }
+}

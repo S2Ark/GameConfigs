@@ -1,0 +1,125 @@
+{
+    "***Zombie tp in 10 seconds***": {
+        "chi": "僵尸10秒后传送"
+    },
+    "***FAILED***": {
+        "chi": "失败了呢"
+    },
+    "***The Lab door will open in 12 seconds***": {
+        "chi": "实验室门将在12秒内打开"
+    },
+    "***Zombie tp in 15 seconds***": {
+        "chi": "僵尸10秒后传送"
+    },
+    "***Gate will open in 15 seconds***": {
+        "chi": "大门将在15秒后打开"
+    },
+    "***HOLD***": {
+        "chi": "守住"
+    },
+    "***Something is about to happen***": {
+        "chi": "有些事情即将发生"
+    },
+    "***Thank you for playing***": {
+        "chi": "感谢你的游玩"
+    },
+    "***DEFEND 30 SECONDS***": {
+        "chi": "防守30秒"
+    },
+    "***WTF, WHY I CAN'T GET INSIDE?***": {
+        "chi": "WTF，为什么我不能进去？"
+    },
+    "***MAPPER, YOU ARE FUCKIN' RETARD!!!***": {
+        "chi": "沙比作者！！"
+    },
+    "***I think I should try to find some doctors around.***": {
+        "chi": "我想我应该试着找一些医生"
+    },
+    "***Why is the entire hospital so empty?***": {
+        "chi": "为什么整个医院都是空的？"
+    },
+    "***Damn, what kind of cats were they?***": {
+        "chi": "该死，它们是什么猫？"
+    },
+    "***We gotta get out of here fast.***": {
+        "chi": "我们得尽快离开这里"
+    },
+    "***I had just seen the way out of here before.***": {
+        "chi": "我以前刚刚看到离开这里的路"
+    },
+    "***Door will open in 10 seconds.***": {
+        "chi": "十秒后开门"
+    },
+    "***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***": {
+        "chi": "为什么天花板这么低？沙比作者！"
+    },
+    "***Fuck, these cats are everywhere.***": {
+        "chi": "淦，这些猫到处都是。"
+    },
+    "***The exit is closed. I guess I have to go through the window.***": {
+        "chi": "出口关闭。我想我得从窗户出去"
+    },
+    "***The door seems pretty strange. Maybe I need to shoot at it.***": {
+        "chi": "这扇门看起来很奇怪。也许我需要开枪。"
+    },
+    "***Welcome everyone. this is my first map (don't be harsh please)***": {
+        "chi": "欢迎大家。这是我的第一张地图（萌新制图轻喷）| c1m翻译"
+    },
+    "***Anyway I need to get out of here.***": {
+        "chi": "不管怎样，我需要离开这里。"
+    },
+    "***What the fuck happened? How did I even get here?***": {
+        "chi": "他妈的发生了什么事？我是怎么来的？"
+    },
+    "***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***": {
+        "chi": "如果你发现任何错误或任何使此地图无法游玩的东西，请随时联系我。"
+    },
+    "***You can find my info on the left side at spawn.***": {
+        "chi": "你可以在传送点的左边找到我的信息。"
+    },
+    "***Special thanks to Kotya for helping me with the most parts.***": {
+        "chi": "特别感谢Kotya帮我完成了大部分工作。"
+    },
+    "***Thanks to Champagne, NiceShot and memories for helping me***": {
+        "chi": "感谢Champagne、NiceShot和memories对我的帮助"
+    },
+    "***What the fuck is that thing behind the glass?***": {
+        "chi": "玻璃后面的那个东西他妈的是什么？"
+    },
+    "***Sewer door will open in 18 seconds***": {
+        "chi": "下水道门将在18秒后打开"
+    },
+    "***A Player has picked up Heal***": {
+        "chi": "一名玩家获得了治疗"
+    },
+    ">>> Player has picked up Explosive Barrel  <<<": {
+        "chi": "玩家已拿起炸药桶"
+    },
+    "***Doors open in 13 seconds.***": {
+        "chi": "13秒后开门"
+    },
+    "***Doors open in 15 seconds.***": {
+        "chi": "15秒后开门"
+    },
+    "dasdasdsa": {
+        "chi": ""
+    },
+    "***The laboratory doors open in 35 seconds.***": {
+        "chi": "实验室的门在35秒后打开。"
+    },
+    "***The entrance to the lab's hallway opens in 15 seconds.***": {
+        "chi": "实验室走廊的入口15秒后打开"
+    },
+    "***Doors close in 10 seconds.***": {
+        "chi": "门10秒后关闭"
+    },
+    "***What is that strange noise in the vents?***": {
+        "chi": "通风口里有什么奇怪的声音？"
+    },
+    "***Elevator comes in 30 seconds.***": {
+        "chi": "电梯30秒后到。"
+    },
+    "***Elevator doors close in 10 seconds.***": {
+        "chi": "电梯门10秒钟后关闭。"
+    }
+}

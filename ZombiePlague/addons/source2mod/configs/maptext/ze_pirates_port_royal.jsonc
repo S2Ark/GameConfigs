@@ -1,0 +1,293 @@
+{
+    ">>> DEFEND THE VILLAGE FOR 40 SEC! <<<": {
+        "chi": ">>> 保卫村庄40秒！ <<<"
+    },
+    "*** BUBBLES picked up ***": {
+        "chi": "*** 有人捡到泡泡 ***"
+    },
+    "Map made by Puklica": {
+        "chi": "制作者 Puklica 汉化 happy@G0社区服"
+    },
+    ">>> |LEVEL 1| <<<": {
+        "chi": ">>> |LEVEL 1| <<<"
+    },
+    ">>> GATE OPENS IN 20 SEC <<<": {
+        "chi": ">>> 大门20秒后打开 <<<"
+    },
+    ">>> GATE IS OPENING <<<": {
+        "chi": ">>> 大门开了 <<<"
+    },
+    ">>> GATE CLOSES IN 5 SEC <<<": {
+        "chi": ">>> 大门在5秒内关闭 <<<"
+    },
+    ">>> GATE IS CLOSING <<<": {
+        "chi": ">>> 大门关上了 <<<"
+    },
+    "*** WALL picked up ***": {
+        "chi": "*** 墙被捡起来了 ***"
+    },
+    "*** BARREL picked up ***": {
+        "chi": "*** 火药桶 ***"
+    },
+    ">>> 10 SECONDS REMAINING <<<": {
+        "chi": ">>> 还剩10秒 <<<"
+    },
+    ">>> RUN! <<<": {
+        "chi": ">>>跑 <<<"
+    },
+    ">>> DOOR CLOSES IN 25 SEC <<<": {
+        "chi": ">>>门25秒后关上 <<<"
+    },
+    ">>> DOOR CLOSES IN 5 SEC <<<": {
+        "chi": ">>> 门在5秒内关上 <<<"
+    },
+    "*** SWORD picked up ***": {
+        "chi": "*** 有人捡到了尚方宝剑 ***"
+    },
+    ">>> HORSES LEAVING IN 10 SEC <<<": {
+        "chi": ">>> 10秒后离开的马 <<<"
+    },
+    ">>> ALL CANNONS ACTIVATED <<<": {
+        "chi": ">>> 所有大炮都启动了 <<<"
+    },
+    ">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<": {
+        "chi": ">>> 等待黑珍珠号的射击 <<<"
+    },
+    ">>> RUN TO THE PRISON! <<<": {
+        "chi": ">>> 快去监狱 <<<"
+    },
+    ">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***": {
+        "chi": ">>> 保卫监狱 <<< *** 营救茉莉姐姐 ***"
+    },
+    ">>> RUN TO THE BLACK PEARL <<<": {
+        "chi": ">>> 快上黑珍珠号 <<<"
+    },
+    ">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<": {
+        "chi": ">>> 保卫黑珍珠号45秒 <<<"
+    },
+    ">>> LAST 10 SECONDS REMAINING <<<": {
+        "chi": ">>> 剩下的最后10秒 <<<"
+    },
+    "*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***": {
+        "chi": "*** 你已经挑战过了第一关，第二关再接再厉！ ***"
+    },
+    ">>> |LEVEL 2| <<<": {
+        "chi": ">>> |LEVEL 2| <<<"
+    },
+    ">>> DOOR CLOSES IN 20 SEC <<<": {
+        "chi": ">>> 门20秒后关上 <<<"
+    },
+    "|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***": {
+        "chi": "|行政室| ***管理员将难度改为5级海怪神 ***"
+    },
+    "|Admin Room| *** ADMIN SLAYING EVERYONE ***": {
+        "chi": "|行政室| *** 管理员杀了所有人 ***"
+    },
+    ">>> DOOR CLOSES IN 10 SEC <<<": {
+        "chi": ">>> 门在10秒内关上 <<<"
+    },
+    ">>> GATE IS CLOSING IN 25 SEC <<<": {
+        "chi": ">>>大门25秒后关闭 <<<"
+    },
+    ">>> GATE IS CLOSING IN 5 SEC <<<": {
+        "chi": ">>> 大门5秒后关闭 <<<"
+    },
+    ">>> GATE IS CLOSING! <<<": {
+        "chi": ">>> 大门关上了！ <<<"
+    },
+    "(CT) >>>--SHOOT CANNON--<<<": {
+        "chi": "(CT) >>>--快把大炮摧毁--<<<"
+    },
+    "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<": {
+        "chi": "(ZOMBIES) >>>--站在大炮旁边推它--<<<"
+    },
+    ">>> CANNON HAS BEEN DESTROYED <<<": {
+        "chi": ">>>大炮被摧毁了 <<<"
+    },
+    ">>> RUN TO THE ISLAND <<<": {
+        "chi": ">>> 跑到岛上去 <<<"
+    },
+    ">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<": {
+        "chi": ">>> 避难所的入口30秒后开放 <<<"
+    },
+    ">>> SHELTER OPENING <<<": {
+        "chi": ">>> 掩体打开了 <<<"
+    },
+    ">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<": {
+        "chi": ">>> 该岛将在25秒后被摧毁 <<<"
+    },
+    ">>> 5 SEC REMAINING <<<": {
+        "chi": ">>>还剩5秒 <<<"
+    },
+    ">>> SHELTER CLOSING <<<": {
+        "chi": ">>>庇护所关闭<<<"
+    },
+    "*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***": {
+        "chi": "***  你已经挑战过了第二关，第三关再接再厉！ ***"
+    },
+    ">>> |LEVEL 3| <<<": {
+        "chi": ">>> |LEVEL 3| <<<"
+    },
+    ">>> DOOR OPENS IN 25 sec <<<": {
+        "chi": ">>> 门在25秒内打开 <<<"
+    },
+    ">>> DOOR OPENS IN 10 SEC <<<": {
+        "chi": ">>> 门在10秒内打开 <<<"
+    },
+    ">>> DOOR OPENS IN 5 SEC <<<": {
+        "chi": ">>> 门在5秒内打开 <<<"
+    },
+    ">>> HOLD FOR 15 SEC <<<": {
+        "chi": ">>> 防守15秒 <<<"
+    },
+    ">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<": {
+        "chi": ">>> 站在方向盘旁边把桥拉下来 <<<"
+    },
+    ">>> BRIDGE IS DOWN. RUN! <<<": {
+        "chi": ">>> 桥倒了快跑 <<<"
+    },
+    ">>> GET ONTO THE SHIP <<<": {
+        "chi": ">>> 上船 <<<"
+    },
+    ">>> DOOR CLOSES IN 15 sec <<<": {
+        "chi": ">>> 门在15秒内关上 <<<"
+    },
+    ">>> DOOR IS OPEN! RUN!!! <<<": {
+        "chi": ">>>门开了快跑 <<<"
+    },
+    ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<": {
+        "chi": ">>> 是饼饼！在他杀你之前杀了他！ <<<"
+    },
+    ">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<": {
+        "chi": ">>> 手榴弹对他伤害很大。使用它们！ <<<"
+    },
+    ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<": {
+        "chi": ">>> 他死了，快跑到宝藏室去才能活命！ <<<"
+    },
+    ">>> HOLD ZOMBIES FOR 20 sec <<<": {
+        "chi": ">>> 守住僵尸20秒 <<<"
+    },
+    "***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***": {
+        "chi": "***  你已经挑战过了第三关，第四关再接再厉！ ***"
+    },
+    ">>> |LEVEL 4| <<<": {
+        "chi": ">>> |LEVEL 4| <<<"
+    },
+    "+++ BARBOSSA picked up +++": {
+        "chi": "+++ 韭菜墨船长复活了 +++"
+    },
+    "*** MEDALLION picked up ***": {
+        "chi": "*** 茉莉的胖次被捡起来了 ***"
+    },
+    "*** HEAL picked up***": {
+        "chi": "*** 茉莉姐姐的奶被人偷走了***"
+    },
+    ">>> HOLD THE CELLAR FOR 30 SEC <<<": {
+        "chi": ">>> 守住地下室30秒 <<<"
+    },
+    ">>> CELLAR OPENING IN 5 SEC <<<": {
+        "chi": ">>> 酒窖在5秒后打开 <<<"
+    },
+    ">>> RUN AWAY FROM THE ZOMBIES! <<<": {
+        "chi": ">>> 远离僵尸! <<<"
+    },
+    ">>> HOLD FOR 25 SEC <<<": {
+        "chi": ">>> 守住25秒 <<<"
+    },
+    ">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<": {
+        "chi": ">>> 尽可能长时间地压制住僵尸 <<<"
+    },
+    ">>> DOOR OPENS IN 30 SEC <<<": {
+        "chi": ">>> 30秒后开门 <<<"
+    },
+    ">>> BARBOSSA IS COMING IN 5 SEC <<<": {
+        "chi": ">>> 韭菜墨船长将在5秒后到达战场 <<<"
+    },
+    ">>> IT'S BARBOSSA. KILL HIM! <<<": {
+        "chi": ">>> 是韭菜墨船长杀了他！ <<<"
+    },
+    ">>> HE HAS DISAPPEARED. RUN! <<<": {
+        "chi": ">>> 他不见了追 <<<"
+    },
+    "***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***": {
+        "chi": "***  你已经挑战过了第四关，第五关再接再厉！ ***"
+    },
+    ">>> |LEVEL 5| <<<": {
+        "chi": ">>> |LEVEL 5| <<<"
+    },
+    ">>> GATE OPENING <<<": {
+        "chi": ">>> 大门开了 <<<"
+    },
+    ">>> HOLD FOR 45 SEC <<<": {
+        "chi": ">>> 守住45秒 <<<"
+    },
+    ">>> HOLD <<<": {
+        "chi": ">>>坚持<<<"
+    },
+    ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<": {
+        "chi": ">>> 海怪用海浪清理了道路 <<<"
+    },
+    ">>> HOLD FOR 35 SEC <<<": {
+        "chi": ">>> 保持35秒 <<<"
+    },
+    ">>> IT'S KRAKEN. KILL HIM! <<<": {
+        "chi": ">>> 是海怪。杀了他！ <<<"
+    },
+    ">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<": {
+        "chi": ">>> 手榴弹和物品对他造成很大伤害。使用它们！ <<<"
+    },
+    "||| KRAKEN HAS THROWN BARREL ON YOU |||": {
+        "chi": "|||海怪把火药桶扔过来了 |||"
+    },
+    "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||": {
+        "chi": "||| 海怪派出了一个会爆炸的僵尸 |||"
+    },
+    "||| KRAKEN HAS SENT A BUBBLES ON YOU |||": {
+        "chi": "||| 海怪向你吐了一个气泡 |||"
+    },
+    "||| KRAKEN HAS SENT A WAVE ON YOU |||": {
+        "chi": "||| 海怪拍了拍水面 W W W W W|||"
+    },
+    "||| KRAKEN HAS USED VORTEX |||": {
+        "chi": "||| 海怪使用了漩涡 S S S S S S|||"
+    },
+    ">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< ": {
+        "chi": ">>> 海怪死了。跳上木筏 <<< "
+    },
+    ">>> RUN TO THE CAVE <<<": {
+        "chi": ">>> 跑向山洞 <<<"
+    },
+    ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<": {
+        "chi": ">>>又是韭菜墨船长别让他活下来！  <<<"
+    },
+    "*** LAST MEDALLION picked up ***": {
+        "chi": "*** 捡到的最后一条茉莉姐姐的胖次 ***"
+    },
+    ">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<": {
+        "chi": ">>> 最后一条胖次已放回原位 <<<"
+    },
+    ">>> BARBOSSA IS DEAD <<<": {
+        "chi": ">>> 韭菜墨船长死了 <<<"
+    },
+    ">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< ": {
+        "chi": ">>> 恭喜你们通关了但是这只是简单的海怪 <<< "
+    },
+    ">>> |LEVEL 5 KRAKEN GOD!| <<<": {
+        "chi": ">>> |LEVEL 5 KRAKEN GOD!| <<<"
+    },
+    ">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<": {
+        "chi": ">>> 神圣的海怪用双波来清除路径 <<<"
+    },
+    ">>> KRAKEN GOD! <<<": {
+        "chi": ">>> 哦，天哪！ <<<"
+    },
+    "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
+        "chi": "||| 海怪向你扔了火药桶 |||"
+    },
+    ">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< ": {
+        "chi": ">>> 你杀了最强海怪，太NB了。 <<< "
+    },
+    ">>> YOU ARE A REAL PIRATE! <<< ": {
+        "chi": ">>> 你真是个传奇海盗<<< "
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "Captain.Li Hong:We have been tracking that pumpkin for a while.": {
+        "chi": "uuz：我们追踪那个南瓜已经有一段时间了"
+    },
+    "Captain.Li Hong:Intelligence indicates it's in a nearby town named Dreamer.": {
+        "chi": "pop子：情报显示它在附近一个叫梦想家的小镇上。"
+    },
+    "Doctor.He:It has destroyed several areas.": {
+        "chi": "仙客来：它已经杀头了几个玩家"
+    },
+    "Doctor.He:We must stop it.": {
+        "chi": "pop子：我们必须阻止它继续杀头"
+    },
+    "Captain.Li Hong:The road to the town all have been blocked.": {
+        "chi": "uuz：通往镇上的路都被堵死了"
+    },
+    "***The Door Will Open In 45 Seconds***": {
+        "chi": "***南瓜只因门将在 45 秒内打开***"
+    },
+    "Captain.Li Hong:I know a way under train station can go to the town,let's go!We don't have enough time!": {
+        "chi": "uuz：我知道火车站下面有路可以去镇上，我们走吧！这场战斗并非势均力敌！"
+    },
+    "***AFK TP Will Start In 10 Seconds***": {
+        "chi": "***南瓜僵尸传送 将在 10 秒后启动***"
+    },
+    "***The Door Will Open In 20 Seconds***": {
+        "chi": "***南瓜之门将在 20 秒内打开***"
+    },
+    "***The Barriers Will Break In 45 Seconds***": {
+        "chi": "***南瓜的障碍将在 45 秒内突破***"
+    },
+    "***The Door Will Open In 30 Seconds***": {
+        "chi": "***南瓜之门将在 30 秒内打开***"
+    },
+    "***The Door Will Close In 30 Seconds***": {
+        "chi": "***圣女之门将在 30 秒内关闭***"
+    },
+    "***Doctor.He:Fuck,This car is so bad***": {
+        "chi": "***pop子：他妈的,是圣女加速之车***"
+    },
+    "***Captain.Li Hong:I think it will be best......***": {
+        "chi": "***uuz：我这东西我在狮子王见过***"
+    },
+    "Captain.Li Hong:Looks like this town's been through a war.": {
+        "chi": "uuz：这个小镇经历了一场战争"
+    },
+    "Doctor.He:Yes,we must go fast.": {
+        "chi": "pop子：是的，我们必须走快点"
+    },
+    "***We Need 25 Seconds To Break The Wall***": {
+        "chi": "***我们需要25秒来打破南瓜墙壁***"
+    },
+    "***Find The Button To Open The TNT***": {
+        "chi": "***找到TNT的按钮，众神之父会保佑我们***"
+    },
+    "***Captain.Li Hong:It's here.Dreamer Town.***": {
+        "chi": "***uuz：我们来了，梦想家小镇***"
+    },
+    "***Zombie Will TP In 5 Seconds***": {
+        "chi": "***南瓜僵尸将在5秒内传送***"
+    },
+    "***Doctor.He:This is our last chance.Let's go!***": {
+        "chi": "***pop子：这是我们最后的机会了，我们走吧！***"
+    },
+    "***Boss Fight Start In 10 Seconds***": {
+        "chi": "***Boss战在10秒内开始***"
+    },
+    "***Pumpkin:You are finally here.***": {
+        "chi": "***南瓜：你终于来了蝼蚁***"
+    },
+    "***Pumpkin:Now prepare to face your end!***": {
+        "chi": "***南瓜：现在准备面对你的命运！***"
+    },
+    "***Pumpkin Use Wind***": {
+        "chi": "***南瓜放屁之风***"
+    },
+    "***Pumpkin Use Fire***": {
+        "chi": "***南瓜开团之火***"
+    },
+    "***Captain.Li Hong:It use teleport want to escape!***": {
+        "chi": "***uuz：它想利用瞬移逃跑！***"
+    },
+    "***Pumpkin:It is not the end......***": {
+        "chi": "***南瓜：还没完呢...***"
+    },
+    "***Doctor.He:Teleport field hasn't disappeared!***": {
+        "chi": "**pop子：瞬移效果没有消失！***"
+    },
+    "***Doctor.He:Let's go.Don't let it escape!***": {
+        "chi": "***pop子：快走，不要让它逃掉！***"
+    },
+    "***Zombie TP In 5 Seconds***": {
+        "chi": "***南瓜僵尸传送在5秒内***"
+    },
+    "***Captain.Li Hong:It's inside.I know a boat near by.***": {
+        "chi": "***uuz：我知道附近有一艘圣女船***"
+    },
+    "***The Door Will Open In 75 Seconds***": {
+        "chi": "***圣女门将在 75 秒内打开,obj守点开始!***"
+    },
+    "***Captain.Li Hong:If we beat it.We can use that boat to leave here***": {
+        "chi": "***uuz：如果我们打败它。我们可以用那艘船离开这里***"
+    },
+    "***Captain.Li Hong:Ha ha,I never believed that I would fail,once and now.***": {
+        "chi": "***uuz：哈哈，我从来不相信我会失败，不会的我必须守护这一切***"
+    },
+    "***Final Door Will Open In 30 Seconds***": {
+        "chi": "***最后一扇命运之门将在 30 秒内打开***"
+    },
+    "***Zombie Will TP In 25 Seconds***": {
+        "chi": "***南瓜僵尸将在25秒内传送***"
+    },
+    "***It's now kill it or we will die!!!***": {
+        "chi": "***现在杀了南瓜，否则我们就会死的!!!***"
+    },
+    "***The Boat Will Leave In 15 Seconds***": {
+        "chi": "***圣女船将在15秒内离开***"
+    },
+    "***Captain.Li Hong:We are winner,are't you?***": {
+        "chi": "***uuz：我们是赢了，不是吗？***"
+    },
+    "***Doctor.He:Yes,but our adventure will continue***": {
+        "chi": "***染血的茉莉：是的，但是为什么没有里世界呢，我们的冒险还会继续***"
+    },
+    "***Next map is making...***": {
+        "chi": "***本张地图由伟大的尼古拉斯倾情制作...汉化 萌爱 & 染血的茉莉***"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    ">> Hold 3 Seconds <<": {
+        "chi": ">> 升降梯防御 <<"
+    },
+    ">> Zombie Escaped <<": {
+        "chi": ">> 逃脱失败 <<"
+    },
+    ">> Door Will Open In 15 Seconds <<": {
+        "chi": ">> 追击23秒后开始 <<"
+    },
+    ">> Hold 25 Seconds <<": {
+        "chi": ">> 庭院入口防御 <<"
+    },
+    ">> Hold 12 Seconds <<": {
+        "chi": ">> 逃脱路防御 <<"
+    },
+    ">> Hold 5 Seconds <<": {
+        "chi": ">> 定点爆破 <<"
+    },
+    ">> This map is based on CSO ze_bloodcastle <<": {
+        "chi": ">> 这张地图是基于 CSO ze_bloodcastle 制作的 <<"
+    },
+    ">> Map by Hestia <<": {
+        "chi": ">> 地图作者:Hestia 汉化:萌爱ღ <<"
+    },
+    ">> Escape Success <<": {
+        "chi": ">> 逃脱成功 <<"
+    }
+}

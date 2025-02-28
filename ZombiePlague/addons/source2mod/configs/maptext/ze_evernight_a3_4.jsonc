@@ -1,0 +1,446 @@
+{
+    "**Admin change level to Act III**": {
+        "chi": "**管理员更改关卡为 Act III**"
+    },
+    "**Unlocking the first seal...**": {
+        "chi": "**第一道封印正在解锁...**"
+    },
+    "**Unlocking the second seal...**": {
+        "chi": "**第二道封印正在解锁...**"
+    },
+    "**Now get down to the ropeway platform**": {
+        "chi": "**现在前往索道平台**"
+    },
+    "**C4 has been planted**": {
+        "chi": "**C4炸弹已被安放**"
+    },
+    "**Get back!C4 is about to explode!**": {
+        "chi": "**退后!C4要爆炸了!**"
+    },
+    "**The way to the temple is blocked**": {
+        "chi": "**通往神殿的路被堵住了**"
+    },
+    "**Get ready for your C4 bomb**": {
+        "chi": "**准备个C4炸弹**"
+    },
+    "**Act I complete**": {
+        "chi": "**Act I 完成 **"
+    },
+    "**Admin change level to Act I**": {
+        "chi": "**管理员修改关卡为 Act I**"
+    },
+    "**Admin change level to Act II**": {
+        "chi": "**管理员修改关卡为 Act II**"
+    },
+    "**Hold 25 seconds**": {
+        "chi": "**守住25秒**"
+    },
+    "**The exit of the suqare is closed**": {
+        "chi": "**广场的出口已经关闭**"
+    },
+    "**try to find a way to open the gate**": {
+        "chi": "**尝试找个方法打开大门**"
+    },
+    "**Hold for a while till the gate open**": {
+        "chi": "**守住直到大门打开**"
+    },
+    "**The crystal has been smashed**": {
+        "chi": "**水晶已被打碎**"
+    },
+    "**Hang up your slide hook**": {
+        "chi": "**挂上索道**"
+    },
+    "**We'll set out when everyone is ready**": {
+        "chi": "**大家准备好了马上出发**"
+    },
+    "**Cover here till we open the gate**": {
+        "chi": "**守住这里直到我们打开大门**"
+    },
+    "**After three day of tracking Basil**": {
+        "chi": "**追踪巴吉尔三天之后**"
+    },
+    "**we arrived at the Frostwind Valley**": {
+        "chi": "**我们已经到达了寒风峡谷**"
+    },
+    "**According to the existing information**": {
+        "chi": "**根据已经查明的资料**"
+    },
+    "**and the Glimmer Fragment is likely to be kept in there**": {
+        "chi": "**微光之碎片很有可能被保存在那**"
+    },
+    "**There is not much time for us**": {
+        "chi": "**留给我们的时间不多了**"
+    },
+    "**let's get the Glimmer Fragment before Basil does**": {
+        "chi": "**我们要在巴吉尔行动之前拿走微光之碎片**"
+    },
+    "**Operation Evernight,mission start**": {
+        "chi": "**任务代号 永夜行动,任务开始**"
+    },
+    "**The evil one of blood and fire was born... **": {
+        "chi": "**血与火的邪恶产物已诞生... **"
+    },
+    "**A seal of thousands of years under the glacier has been broken through...**": {
+        "chi": "**千年冰川下的一道封印已被打破...**"
+    },
+    "**A player learn the Polar Storm (Ice Magick Lv.5)**": {
+        "chi": "**一位玩家学会了极光之风暴 (冰魔法 Lv.5)**"
+    },
+    "**A player learn the Frost Burst (Ice Magick Lv.4)**": {
+        "chi": "**一位玩家学会了寒冰飞舞 (冰魔法 Lv.4)**"
+    },
+    "**A player learn the Frost Burst (Ice Magick Lv.3)**": {
+        "chi": "**一位玩家学会了冰冻之伤 (冰魔法 Lv.3)**"
+    },
+    "**A player learn the Frostbite (Ice Magick Lv.2)**": {
+        "chi": "**一位玩家学会了冰冻结界 (冰魔法 Lv.2)**"
+    },
+    "**A player learn the Frostbite (Ice Magick Lv.1)**": {
+        "chi": "**一位玩家学会了寒冰领域 (冰魔法 Lv.1)**"
+    },
+    "**A player learn the Shadowbound (Shadow Magick Lv.1)**": {
+        "chi": "**一位玩家学会了暗影之门 (影魔法 Lv.1)**"
+    },
+    "**A player learn the Shadowbound (Shadow Magick Lv.2)**": {
+        "chi": "**一位玩家学会了暗影之界 (影魔法 Lv.2)**"
+    },
+    "**A player learn the Mega Pressure (Shadow Magick Lv.3)**": {
+        "chi": "**一位玩家学会了影之压力 (Shadow Magick Lv.3)**"
+    },
+    "**A player learn the Mega Pressure (Shadow Magick Lv.4)**": {
+        "chi": "**一位玩家学会了影之高压 (影魔法 Lv.4)**"
+    },
+    "**A player learn the Fiend's Grip (Shadow Magick Lv.5)**": {
+        "chi": "**一位玩家学会了恶魔之拥 (影魔法 Lv.5)**"
+    },
+    "**A player learn the Baptism (Light Magick Lv.1)**": {
+        "chi": "**一位玩家学会了圣光沐浴 (光魔法 Lv.1)**"
+    },
+    "**A player learn the Baptism (Light Magick Lv.2)**": {
+        "chi": "**一位玩家学会了圣光洗礼 (光魔法 Lv.2)**"
+    },
+    "**A player learn the Brilliant Circle (Light Magick Lv.3)**": {
+        "chi": "**一位玩家学会了明亮光环 (光魔法 Lv.3)**"
+    },
+    "**A player learn the Brilliant Circle (Light Magick Lv.4)**": {
+        "chi": "**一位玩家学会了闪亮光环 (光魔法 Lv.4)**"
+    },
+    "**A player learn the Divine Aegis (Light Magick Lv.5)**": {
+        "chi": "**一位玩家学会了神圣庇护 (光魔法 Lv.5)**"
+    },
+    "**Let's go to the inner part of the temple to find two main power cores and make them work**": {
+        "chi": "**让我们前往神殿内部 找到两个核心 激活它们**"
+    },
+    "**We have to use the main lift to go up,but it seems that the main lift is without power**": {
+        "chi": "**我们必须使用大厅的主电梯上去 但是它好像没有电**"
+    },
+    "**Kill remaining zombies**": {
+        "chi": "**杀死进来的僵尸**"
+    },
+    "**Sh*t!we have been found!shot it!shot it!**": {
+        "chi": "**妈的!我们被发现了!开枪打它!快开枪!**"
+    },
+    "'Seems some bugs follow me.'": {
+        "chi": "'看起来有些东西在跟着我.'"
+    },
+    "**That's the Evernight Temple**": {
+        "chi": "**这就是永夜神殿了**"
+    },
+    "**Let's get into it**": {
+        "chi": "**我们走**"
+    },
+    "**A player learn the Air Lash (Wind Magick Lv.1)**": {
+        "chi": "**一位玩家学会了空气流动 (风魔法 Lv.1)**"
+    },
+    "**A player learn the Thunderblast (Thunder Magick Lv.1)**": {
+        "chi": "**一位玩家学会了电火花 (电魔法 Lv.1)**"
+    },
+    "**A player learn the Storm Surge (Wind Magick Lv.3)**": {
+        "chi": "**一位玩家学会了风暴领域 (风魔法 Lv.3)**"
+    },
+    "**A player learn the Flameshot (Fire Magick Lv.1)**": {
+        "chi": "**一位玩家学会了火花射击 (火魔法 Lv.1)**"
+    },
+    "**A player learn the Dragon's Breath (Fire Magick Lv.3)**": {
+        "chi": "**一位玩家学会了龙之呼吸 (火魔法 Lv.3)**"
+    },
+    "**A player learn the Helltide (Fire Magick Lv.5)**": {
+        "chi": "**一位玩家学会了地狱浪潮 (火魔法 Lv.5)**"
+    },
+    "**A player learn the Flameshot (Fire Magick Lv.2)**": {
+        "chi": "**一位玩家学会了火焰之枪 (火魔法 Lv.2)**"
+    },
+    "**A player learn the Dragon's Breath (Fire Magick Lv.4)**": {
+        "chi": "**一位玩家学会了龙之吐息 (火魔法 Lv.4)**"
+    },
+    "**A player learn the Thunderblast (Thunder Magick Lv.2)**": {
+        "chi": "**一位玩家学会了雷暴 (电魔法 Lv.2)**"
+    },
+    "**A player learn the Arcbreak (Thunder Magick Lv.3)**": {
+        "chi": "**一位玩家学会了电弧涌动 (电魔法 Lv.3)**"
+    },
+    "**A player learn the Arcbreak (Thunder Magick Lv.4)**": {
+        "chi": "**一位玩家学会了电弧冲击 (电魔法 Lv.4)**"
+    },
+    "**A player learn the Celestial Smash (Thunder Magick Lv.5)**": {
+        "chi": "**一位玩家学会了天神粉碎 (电魔法 Lv.5)**"
+    },
+    "**A player learn the Air Lash (Wind Magick Lv.2)**": {
+        "chi": "**一位玩家学会了气流冲击 (风魔法 Lv.2)**"
+    },
+    "**A player learn the Storm Surge (Wind Magick Lv.4)**": {
+        "chi": "**一位玩家学会了暴风之潮 (风魔法 Lv.4)**"
+    },
+    "**A player learn the Atmosphere Turbulence (Wind Magick Lv.5)**": {
+        "chi": "**一位玩家学会了大气湍流 (风魔法 Lv.5)**"
+    },
+    "**That it Basil!Wait...with Gradyrat?**": {
+        "chi": "**那是巴吉尔!等等...和格拉迪亚特?**"
+    },
+    "**You can't defeat it...**": {
+        "chi": "**你们守不住的...**"
+    },
+    "**It's an image of Basil...**": {
+        "chi": "**那是巴吉尔的幻象...**"
+    },
+    "**We have to hurry up,let's move**": {
+        "chi": "**我们得快点了 我们走**"
+    },
+    "**Now we're in the Evernight Temple**": {
+        "chi": "**我们现在在永夜神殿里**"
+    },
+    "**The instrument shows that the fragment is over our heads**": {
+        "chi": "**设备显示微光之碎片在我们的上方**"
+    },
+    "**In order to prevent invaders**": {
+        "chi": "**为了防止入侵者**"
+    },
+    "**there're many seal doors**": {
+        "chi": "**这里有许多被封锁的门**"
+    },
+    "**The core must be...wait**": {
+        "chi": "**那一定是核心...等一下**"
+    },
+    "**there is something has been wakened!**": {
+        "chi": "**有什么东西被唤醒了!**"
+    },
+    "'I'm the watcher of the temple'": {
+        "chi": "'我是神殿的监视者'"
+    },
+    "'and the keeper of the Glimmer Fragment'": {
+        "chi": "'和微光之碎片的守卫者'"
+    },
+    "'You,the greedy thieves of humankind'": {
+        "chi": "'你,是贪婪的小偷'"
+    },
+    "'Now face me and feel my wrath!'": {
+        "chi": "'现在面对我的怒火吧!'"
+    },
+    "**It's the watcher system of the temple!**": {
+        "chi": "**它是神殿的监视者系统!**"
+    },
+    "**Ready for battle!**": {
+        "chi": "**准备战斗!**"
+    },
+    "**Make it stop before it kill us all!**": {
+        "chi": "**在它杀了我们杀了它!**"
+    },
+    "**Static Shock - crouch **": {
+        "chi": "**闪电冲击 - 蹲下 **"
+    },
+    "**Burning Field**": {
+        "chi": "**燃烧领域(随机出现火场)**"
+    },
+    "**The watcher is absorbing other additional cores!**": {
+        "chi": "**监视者正在吸收其他核心!**"
+    },
+    "**get close to the middle of field**": {
+        "chi": "**靠近场地中间**"
+    },
+    "**Ember Tornado**": {
+        "chi": "**火焰飓风之推力**"
+    },
+    "**Chaosbreak**": {
+        "chi": "**混乱毁灭(准备对BOSS按W)**"
+    },
+    "**Absolute Vacuum**": {
+        "chi": "**绝对真空之引力(按S)**"
+    },
+    "**Sidewind**": {
+        "chi": "**侧风**"
+    },
+    "**Celestial Smash - Go side**": {
+        "chi": "**天神粉碎 - 远离闪电去边缘白线**"
+    },
+    "**Aurora Shield - The Watcher is transform the damage we have done to it into healing,use the Thunder Magick to smash the shiel": {
+        "chi": "**极光领域 - 监视者正在转化我们的伤害来治疗自己,使用闪电魔法打碎领域"
+    },
+    "**Warning!**": {
+        "chi": "**警告!**"
+    },
+    "**Power is nearly to critical value!**": {
+        "chi": "**能量已到达临界值!**"
+    },
+    "**He is casting his last attack!**": {
+        "chi": "**它在准备最后一击!**"
+    },
+    "**It's our last chance!**": {
+        "chi": "**这是我们最后的机会!**"
+    },
+    "**We defeat it**": {
+        "chi": "**我们打败了它**"
+    },
+    "**Just hold for a while,we need a little time to light up the core**": {
+        "chi": "**稍等一下,我们需要一点时间启动核心**"
+    },
+    "**We have lit up the core successfully,keep defending till the core lift move upwards**": {
+        "chi": "**我们已经成功启动核心 守住直到电梯上升**"
+    },
+    "**This is our last hold**": {
+        "chi": "**这是我们最后的防守**"
+    },
+    "**Nicely done**": {
+        "chi": "**干得漂亮**"
+    },
+    "**Hold the position till the gate open**": {
+        "chi": "**守住这里直到我们打开大门**"
+    },
+    "**There're two invisible walls**": {
+        "chi": "**有两个隐形的墙**"
+    },
+    "**try to find a way to break through**": {
+        "chi": "**找个办法打破它**"
+    },
+    "**Act II complete**": {
+        "chi": "**Act II 完成 **"
+    },
+    "**First go to right**": {
+        "chi": "**我们先走右边**"
+    },
+    "**Freezing Breath**": {
+        "chi": "**寒冰呼吸**"
+    },
+    "**Meltdown - Silence human magick for 30 seconds (except for the Light Magick)**": {
+        "chi": "**核心熔毁 - 沉默人类神器30秒 (光魔法除外)**"
+    },
+    "**Lightning Storm**": {
+        "chi": "**闪电风暴**"
+    },
+    "**Blizzard**": {
+        "chi": "**暴风雪**"
+    },
+    "**Act III complete**": {
+        "chi": "**Act III 完成 **"
+    },
+    "**Next act coming soon**": {
+        "chi": "**下一章节将在不久后到来**"
+    },
+    "**Watch out!zombies are climbing the wall!**": {
+        "chi": "**小心!僵尸们正在爬墙!**"
+    },
+    "**There is no way to reach the other side**": {
+        "chi": "**这里没有路去对面**"
+    },
+    "**Maybe we could get some aids from the building?**": {
+        "chi": "**也许我们可以从建筑里得到一些帮助?**"
+    },
+    "**The sluice activated**": {
+        "chi": "**闸门已启动**"
+    },
+    "**Hold here till the water rises**": {
+        "chi": "**守住直到水面上升**"
+    },
+    "**Very luck,it seems the Watcher system is broken here**": {
+        "chi": "**很幸运,看起来监视者的系统坏掉了**"
+    },
+    "**We need a little time to light the core**": {
+        "chi": "**我们需要一点时间启动核心**"
+    },
+    "**OK,let's go**": {
+        "chi": "**好,我们走**"
+    },
+    "**It seems that we are in the ancient drainage of the temple**": {
+        "chi": "**看起来我们在神殿的老旧下水道里**"
+    },
+    "**Try to find a way to get the next core**": {
+        "chi": "**找一条路去下一个核心**"
+    },
+    "**Woe are us!The temple must needs a refurbishment!**": {
+        "chi": "**这座神殿需要翻新一下了!**"
+    },
+    "**There is no way...**": {
+        "chi": "**这里没有路...**"
+    },
+    "**We have no option but to through the waterway under our feet**": {
+        "chi": "**我们别无选择，只能通过脚下的水道**"
+    },
+    "**We must turn on the three switches to get through**": {
+        "chi": "**我们必须打开三个开关才能通过**"
+    },
+    "**We have lit up one of the cores successfully**": {
+        "chi": "**我们成功地启动了一个核心**"
+    },
+    "**Now we need go to left and light up the other one**": {
+        "chi": "**现在我们需要去左边启动另一个**"
+    },
+    "**Hold on,we are going to get the air**": {
+        "chi": "**守住,我们需要呼吸一下空气**"
+    },
+    "**Damn!Gradyrat is there!**": {
+        "chi": "**妈的!格拉迪亚特在这!**"
+    },
+    "**It must be summoned by Basil!**": {
+        "chi": "**它一定是被巴吉尔召唤来的!**"
+    },
+    "**he want a checkmate in this move!**": {
+        "chi": "**它想在这里杀死我们!**"
+    },
+    "**No time to waste,defeat it or be killed by it!**": {
+        "chi": "**不要浪费时间了,打败他否则它会杀了我们!**"
+    },
+    "**Prepare to fight!**": {
+        "chi": "**准备战斗!**"
+    },
+    "**Crystal Blast**": {
+        "chi": "**水晶爆破(远离BOSS)**"
+    },
+    "**Dark Subside**": {
+        "chi": "**黑暗退散(蹲下移动躲避头顶)**"
+    },
+    "**Poison Cloud**": {
+        "chi": "**剧毒之云(远离BOSS后面)**"
+    },
+    "**It's the control station of 'the Watcher' system!**": {
+        "chi": "**这里是监视者的控制系统!**"
+    },
+    "**Maybe we can use it to attack Gradyrat?**": {
+        "chi": "**也许我们可以用它去攻击格拉迪亚特?**"
+    },
+    "**Spitacid**": {
+        "chi": "**强酸溅射(远离BOSS正面)**"
+    },
+    "**Icicle Prod**": {
+        "chi": "**冰霜之刺(躲避脚下的攻击)**"
+    },
+    "**Curse of Weakness**": {
+        "chi": "**虚弱之诅咒(远离BOSS)**"
+    },
+    "**We don't have much time!**": {
+        "chi": "**我们没时间了!**"
+    },
+    "**Defeat it as quickly as possible!**": {
+        "chi": "**尽可能快的打败它!**"
+    },
+    "**You're too late..**": {
+        "chi": "**你太慢了..**"
+    },
+    "**Map by AsamiAteistia**": {
+        "chi": "**地图作者 AsamiAteistia 汉化 Tastysaw&Hanz7**"
+    },
+    "**Model help:Dakotec**": {
+        "chi": "**模型帮助:Dakotec (感谢 饼饼@GO社区服)**"
+    },
+    "**Early help:thas**": {
+        "chi": "**早期帮助:thas (感谢 鸣龙铁@GO社区服)**"
+    }
+}

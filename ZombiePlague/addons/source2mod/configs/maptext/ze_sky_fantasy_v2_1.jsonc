@@ -1,0 +1,176 @@
+{
+    "--- ze_sky_fantasy_v2 ---": {
+        "chi": "--- ze_sky_fantasy_v2 ---"
+    },
+    "--- Map by Misaka ---": {
+        "chi": "--- 地图作者 Misaka 汉化 19556345---"
+    },
+    "--- Rework by K.KID ---": {
+        "chi": "--- 重制作者 K.KID ---"
+    },
+    "<< Zombie ESCAPE!!! >>": {
+        "chi": "<< 有僵尸逃跑了!!! >>"
+    },
+    "<< STAGE COMPLETE >>": {
+        "chi": "<< 回合胜利 >>"
+    },
+    "<< STAGE Fail...... >>": {
+        "chi": "<< 回合失败...... >>"
+    },
+    "- MISAKA is blocking our way!!! -": {
+        "chi": "炮姐挡住了我们的路!!!（射击炮姐） -"
+    },
+    "--- Admin Select Extra Mode ---": {
+        "chi": "--- 管理员选择了EX模式---"
+    },
+    "--- Admin select NIGHTMARE Mode ---": {
+        "chi": "---管理员选择了Nightmare模式 ---"
+    },
+    "--- Admin select LUNATIC Mode ---": {
+        "chi": "--- 管理员选择了Lunatic模式 ---"
+    },
+    "--- Admin select HARD Mode ---": {
+        "chi": "--- 管理员选择了Hard模式 ---"
+    },
+    " --- Admin select NORMAL Mode ---": {
+        "chi": " --- 管理员选择了Normal模式 ---"
+    },
+    "--- Admin select EASY Mode ---": {
+        "chi": "--- 管理员选择了Easy模式 ---"
+    },
+    "--- Aurora Veil ---": {
+        "chi": "--- 极光面纱 ---"
+    },
+    "--- Fallen Star ---": {
+        "chi": "--- 星落（天坠） ---"
+    },
+    "--- Sinister Omen ---": {
+        "chi": "--- 不详预兆（去边缘） ---"
+    },
+    "--- Pressure ---": {
+        "chi": "--- 压力（蹲下） ---"
+    },
+    "--- Earth Power ---": {
+        "chi": "--- 大地之力（踩到上升地板） ---"
+    },
+    "--- Pure Fury ---": {
+        "chi": "--- 纯粹之怒（尸笼） ---"
+    },
+    "--- Ominous Wind ---": {
+        "chi": "--- 不祥之风 ---"
+    },
+    "--- Creation Shield ---": {
+        "chi": "--- 创世之盾（反伤） ---"
+    },
+    "--- Rotating Blade ---": {
+        "chi": "--- 旋转刀 ---"
+    },
+    "--- Rainbow Cage ---": {
+        "chi": "--- 彩虹牢笼 ---"
+    },
+    "--- Flash Cannon ---": {
+        "chi": "--- 加农炮 ---"
+    },
+    "--- Purple Core Recover 500 HP ---": {
+        "chi": "--- 紫色核心恢复500HP ---"
+    },
+    "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---": {
+        "chi": "--- BOSS正在使用终极火焰，使用水或奶来抵抗伤害!!! ---"
+    },
+    "--- Prepare to face the real FANTASY ---": {
+        "chi": "--- 准备面对真正的幻想吧 ---"
+    },
+    "--- Fail...... ---": {
+        "chi": "--- 失败...... ---"
+    },
+    "--- Map by Misaka, Rework by K.KID ---": {
+        "chi": "--- Map by Misaka, Rework by K.KID ---"
+    },
+    "--- You are the King of the FANTASY ---": {
+        "chi": "--- 你就是幻想之王 ---"
+    },
+    "--- Congratulations!!! ---": {
+        "chi": "--- Congratulations!!! ---"
+    },
+    "--- Do not trust the black laser!!! ---": {
+        "chi": "--- 不要相信黑色的刀!!!（高刀跳 低刀蹲） ---"
+    },
+    "<< A player has picked up fantasy crystal >>": {
+        "chi": "<< 一个玩家捡起了幻想水晶>>"
+    },
+    "<< A zombie has picked up nuke magic >>": {
+        "chi": "<< 一个僵尸捡起了秒杀 >>"
+    },
+    "<< A zombie has picked up heal magic >>": {
+        "chi": "<< 一个僵尸捡起了奶 >>"
+    },
+    "<< A zombie has picked up gravity magic >>": {
+        "chi": "<< 一个僵尸捡起了黑洞 >>"
+    },
+    "<< A zombie has picked up ice magic >>": {
+        "chi": "<< 一个僵尸捡起了冰神器 >>"
+    },
+    "<< A player has picked up holy magic >>": {
+        "chi": "<< 一个玩家捡起了终极 >>"
+    },
+    "<< A player has picked up earth magic >>": {
+        "chi": "<< 一个玩家捡起了土神器 >>"
+    },
+    "<< A player has picked up electro magic >>": {
+        "chi": "<< 一个玩家捡起了电神器 >>"
+    },
+    "<< A player has picked up heal magic >>": {
+        "chi": "<< 一个玩家捡起了奶神器 >>"
+    },
+    "<< A player has picked up water magic >>": {
+        "chi": "<< 一个玩家捡起了水神器 >>"
+    },
+    "<< A player has picked up wind magic >>": {
+        "chi": "<< 一个玩家捡起了风神器 >>"
+    },
+    "--- Tesla is ready to use poison ---": {
+        "chi": "--- Tesla 可以使用毒球了---"
+    },
+    "--- Tesla is ready to use Curse ---": {
+        "chi": "--- Tesla 可以使用诅咒了 ---"
+    },
+    "--- Tesla is using CURSE!!! The item effect will disappear soon!!! ---": {
+        "chi": "--- Tesla 正在使用诅咒!!! 神器效果消失了!!! ---"
+    },
+    "<< TESLA COMING >>": {
+        "chi": "<< TESLA 出现 >>"
+    },
+    "<< A player has picked up fire ball >>": {
+        "chi": "<< 一个玩家捡起了火球 >>"
+    },
+    "<< A human.... or a zombie?! >>": {
+        "chi": "<<是人类.... 还是僵尸?! >>"
+    },
+    "--- Survive for 180 seconds ---": {
+        "chi": "--- 生存180秒 ---"
+    },
+    "--- Round will fail if no one complete in 30 seconds ---": {
+        "chi": "--- 回合将会在30秒后结束 ---"
+    },
+    "--- zombie can go in 7 seconds ---": {
+        "chi": "--- 僵尸在7秒后可以移动 ---"
+    },
+    "--- 5 seconds ---": {
+        "chi": "--- 5 seconds ---"
+    },
+    "--- Its a TEAM WIN !!! ---": {
+        "chi": "--- 你也太TEAM了 !!! ---"
+    },
+    "--- Its a SOLO WIN !!! ---": {
+        "chi": "--- 你就是solo guer !!! ---"
+    },
+    "--- Tesla dead...... ---": {
+        "chi": "--- Tesla gg 了...... ---"
+    },
+    "--- Mapper Misakaaaaa is in the server ---": {
+        "chi": "--- Mapper Misakaaaaa is in the server ---"
+    },
+    "--- Mapper K.KID is in the server ---": {
+        "chi": "--- Mapper K.KID is in the server ---"
+    }
+}

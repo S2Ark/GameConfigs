@@ -1,0 +1,38 @@
+{
+    "you need hold 20s": {
+        "chi": "防守20秒"
+    },
+    "you need hold 40s": {
+        "chi": "防守40秒"
+    },
+    "wait for nuke hold 25s": {
+        "chi": "核爆25秒后降临"
+    },
+    "Don't let zombies get into the pipes": {
+        "chi": "不要让僵尸进来"
+    },
+    "you need hold 25s": {
+        "chi": "防守25秒"
+    },
+    "you need hold 30s": {
+        "chi": "防守30秒"
+    },
+    "Zombies reach the front line in 5 seconds (Zombie Teleport)": {
+        "chi": "僵尸5秒后传送"
+    },
+    "you need hold 35s": {
+        "chi": "防守35秒"
+    },
+    "***Finally come out***": {
+        "chi": "终于出来了"
+    },
+    "***Time to bomb the area is running out***": {
+        "chi": "时间不多了"
+    },
+    "***Go down this path and soon we will go to the next destruction point***": {
+        "chi": "沿着这条路走，我们前往下一个防守点"
+    },
+    "***Do n??t let the people above know that we are doing these things.***": {
+        "chi": "不要让别人知道我们在干嘛"
+    }
+}

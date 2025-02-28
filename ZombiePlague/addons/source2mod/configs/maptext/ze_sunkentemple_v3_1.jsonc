@@ -1,0 +1,134 @@
+{
+    ">>> BLUE <<<": {
+        "chi": ">>> 蓝色 <<<"
+    },
+    ">>> Gate will open in 20 seconds <<<": {
+        "chi": ">>> 大门将在20秒内打开 <<<"
+    },
+    ">>> Gate will close in 15 seconds <<<": {
+        "chi": ">>> 门将在15秒内关闭 <<<"
+    },
+    ">>> Gate will open in 40 seconds <<<": {
+        "chi": ">>> 大门将在40秒内打开 <<<"
+    },
+    ">>> Gate will close in 10 seconds <<<": {
+        "chi": ">>> 大门将在10秒内关闭 <<<"
+    },
+    "*** YOU KILLED THE BOSS ***": {
+        "chi": "*** 你击杀了BOSS ***"
+    },
+    ">>> Zombies will teleport in 20 seconds <<<": {
+        "chi": ">>> Zombies will teleport in 20 seconds <<<"
+    },
+    ">>> Drawbridge will open in 15 seconds <<<": {
+        "chi": ">>> 牵引桥将在15秒内打开 <<<"
+    },
+    ">>> Thanks for playing <<<": {
+        "chi": ">>> 感谢游玩 <<<"
+    },
+    ">>> Map made by Ripsaw <<<": {
+        "chi": ">>> Map made by Ripsaw <<<"
+    },
+    ">>> Thanks to Luffaren for the lever model <<<": {
+        "chi": ">>> 感谢Luffaren的lever model <<<"
+    },
+    ">>> Thanks to Syoudous & Enviolinador for help / Tips": {
+        "chi": ">>> 感谢Syoudous&Enviolinador的帮助/提示"
+    },
+    ">>> Door will open in 20 seconds <<<": {
+        "chi": ">>> 门将在20秒内打开 <<<"
+    },
+    ">>> Gate will open in 10 seconds <<<": {
+        "chi": ">>> 大门将在10秒后打开 <<<"
+    },
+    ">>> RED <<<": {
+        "chi": ">>> 红 <<<"
+    },
+    ">>> Pit will open in 25 seconds <<<": {
+        "chi": ">>> 矿坑将在25秒内开放 <<<"
+    },
+    ">>> Pit will open in 5 seconds <<<": {
+        "chi": ">>> 矿坑将在5秒内打开 <<<"
+    },
+    ">>> Zombies will teleport in 15 seconds <<<": {
+        "chi": ">>> 僵尸将在15秒内传送 <<<"
+    },
+    ">>> All levers has been pressed <<<": {
+        "chi": ">>> 所有操纵杆都已按下<<<"
+    },
+    ">>> Wall will break in 25 seconds <<<": {
+        "chi": ">>> 墙将在25秒内破裂 <<<"
+    },
+    ">>> PURPLE <<<": {
+        "chi": ">>> 紫色 <<<"
+    },
+    ">>> SLASH <<<": {
+        "chi": ">>> 刀光！ <<<"
+    },
+    ">>> GREEN <<<": {
+        "chi": ">>> 绿色 <<<"
+    },
+    ">>> YELLOW <<<": {
+        "chi": ">>> 黄色 <<<"
+    },
+    ">>> Zombies will teleport in 25 seconds <<<": {
+        "chi": ">>> 僵尸将在25秒内传送 <<<"
+    },
+    ">>> Zombies will teleport in 10 seconds <<<": {
+        "chi": ">>>僵尸将在10秒内传送<<<"
+    },
+    ">>> Fall pit will break in 20 seconds <<<": {
+        "chi": ">>> 坠落坑将在20秒内破碎 <<<"
+    },
+    ">>> Fall pit will break in 5 seconds <<<": {
+        "chi": ">>> 坠落坑将在5秒内破碎 <<<"
+    },
+    ">>> LFG SUNKENTEMPLE <<<": {
+        "chi": ">>> LFG SUNKENTEMPLE <<<"
+    },
+    ">>> Wall has been picked <<<": {
+        "chi": ">>> 墙已拾取 <<<"
+    },
+    ">>> Push has been picked <<<": {
+        "chi": ">>> 推力已拾取 <<<"
+    },
+    ">>> Heal has been picked <<<": {
+        "chi": ">>> 治疗已拾取 <<<"
+    },
+    ">>> Gate will open in 5 seconds <<<": {
+        "chi": ">>> 大门将在5秒内打开 <<<"
+    },
+    ">>> Gate will open in 15 seconds <<<": {
+        "chi": ">>> 大门将在15秒内打开 <<<"
+    },
+    ">>> Lower gate will open in 40 seconds <<<": {
+        "chi": ">>> 下闸门将在40秒内打开 <<<"
+    },
+    ">>> Lower gate will open in 10 seconds <<<": {
+        "chi": ">>>下闸门将在10秒内打开<<<"
+    },
+    ">>> Upper gate will open in 25 seconds <<<": {
+        "chi": ">>>上闸门将在25秒内打开 <<<"
+    },
+    ">>> Keep defending untill the gate closes <<<": {
+        "chi": ">>> 一直防守到大门关上 <<<"
+    },
+    ">>> FIND ANOTHER WAY  FAST <<<": {
+        "chi": ">>> 快速找到另一条路 <<<"
+    },
+    ">>> Try shooting the walls <<<": {
+        "chi": ">>>试着射击墙壁 <<<"
+    },
+    ">>> Split up and keep defending <<<": {
+        "chi": ">>> 分头防守 <<<"
+    },
+    ">>> Zombies teleport in 15 seconds <<<": {
+        "chi": ">>> 僵尸在15秒内传送<<<"
+    },
+    ">>> DEFEND <<<": {
+        "chi": ">>> 防御 <<<"
+    },
+    ">>> Gate is opening <<<": {
+        "chi": ">>> 闸门正在打开 <<<"
+    }
+}

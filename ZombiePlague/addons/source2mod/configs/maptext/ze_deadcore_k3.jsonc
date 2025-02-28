@@ -1,0 +1,50 @@
+{
+    "*** 30 seconds left ***": {
+        "chi": "*** 还剩 30 秒 ***"
+    },
+    "*** 20 seconds left ***": {
+        "chi": "*** 还剩20秒 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 还剩10秒 ***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 还剩5秒 ***"
+    },
+    "*** Hold 15 seconds ***": {
+        "chi": "*** 在此防守 15 秒 ***"
+    },
+    "*** 2 ***": {
+        "chi": "*** 2 ***"
+    },
+    "*** 1 ***": {
+        "chi": "*** 1 ***"
+    },
+    "*** D INSANE MODE ENABLED FOR NEXT ROUND ***": {
+        "chi": "*** D 模式将在下一局开启 ***"
+    },
+    "*** D INSANE MODE ENABLED ***": {
+        "chi": "*** D 模式 启动！ ***"
+    },
+    "*** ZOMBIE GOT INSIDE THE LIFT ***": {
+        "chi": "*** 僵尸进入电梯 ***"
+    },
+    "*** STAGE FAILED ***": {
+        "chi": "*** 回合失败 ***"
+    },
+    "*** ADMIN HAS SKIPPED STAGE B ***": {
+        "chi": "*** 权男跳过了 B 关***"
+    },
+    "*** ADMIN HAS SKIPPED STAGE A ***": {
+        "chi": "*** 权男跳过了 A 关***"
+    },
+    "*** ADMIN HAS SKIPPED STAGE C ***": {
+        "chi": "*** 权男跳过了 C 关***"
+    },
+    "*** ADMIN HAS RESET THE MAP ***": {
+        "chi": "*** 权男将卡关进度重置了 ***"
+    },
+    "*** RESTARTING ROUND IN 3 ***": {
+        "chi": "***  3 秒后重置回合***"
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "***Welcome***": {
+        "chi": "***欢迎来到希腊神殿***"
+    },
+    "***Map by Qahnaarin***": {
+        "chi": "***作者Qahnaarin 汉化:萌爱***"
+    },
+    "***Special thanks to: Luffaren***": {
+        "chi": "***特别感谢 Luffaren***"
+    },
+    "***Special thanks to: Leks***": {
+        "chi": "***特别感谢: Leks***"
+    },
+    "***Special thanks to: Jllaneras***": {
+        "chi": "***特别感谢 Jllaneras***"
+    },
+    "***Special thanks to: Moltard***": {
+        "chi": "***特别感谢: Moltard***"
+    },
+    "***Special thanks to: Onahole***": {
+        "chi": "***特别感谢: Onahole***"
+    },
+    "***Level: The Maze***": {
+        "chi": "***关卡1: 迷宫***"
+    },
+    "***Door will open in 40s***": {
+        "chi": "***大门40秒后打开***"
+    },
+    "***Door will open in 20s***": {
+        "chi": "***大门20秒后打开***"
+    },
+    "***Door will open in 5s***": {
+        "chi": "***大门5秒后打开***"
+    },
+    "***The door will open in 20s***": {
+        "chi": "***大门20秒后打开***"
+    },
+    "***The door will open in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "**Door is opening***": {
+        "chi": "**大门正在开启***"
+    },
+    "***All pillars have been activated***": {
+        "chi": "***所有开关已被激活***"
+    },
+    "***Teleporter will activate in 40s***": {
+        "chi": "***传送40秒后开启***"
+    },
+    "***Teleporter will activate in 20s***": {
+        "chi": "***传送还有20秒***"
+    },
+    "***Teleporter will activate in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "***Teleporter activated***": {
+        "chi": "***传送开启***"
+    },
+    "***Bridge ready in 30s***": {
+        "chi": "***大桥30秒后就位***"
+    },
+    "***The bridge will lower down soon, keep defending***": {
+        "chi": "***大桥正在构建  保持防守***"
+    },
+    "***Bridge ready in 15s***": {
+        "chi": "***大桥还有15秒***"
+    },
+    "***Fall back***": {
+        "chi": "***快溜***"
+    },
+    "***Button 1 is triggered***": {
+        "chi": "***按钮1已经触发***"
+    },
+    "***Button 2 is triggered***": {
+        "chi": "***按钮2已经触发***"
+    },
+    "***All buttons are pressed***": {
+        "chi": "***所有按钮都已触发***"
+    },
+    "***The door will open in 30s***": {
+        "chi": "***大门30秒后开启***"
+    },
+    "***The door will open in 15s***": {
+        "chi": "***大门15秒后开启***"
+    },
+    "***Door is opening***": {
+        "chi": "***大门正在打开***"
+    },
+    "***WELCOME TO THE MAZE***": {
+        "chi": "***欢迎来到死亡迷宫***"
+    },
+    "***AFK teleport in 10s***": {
+        "chi": "***AFK 玩家10秒后传送***"
+    },
+    "***Find the button to open the door***": {
+        "chi": "***找到按钮并打开大门***"
+    },
+    "***You found the button***": {
+        "chi": "***你找到了按钮***"
+    },
+    "***The door will open in 10s***": {
+        "chi": "***大门10秒后打开***"
+    },
+    "***Waiting for something to happen...***": {
+        "chi": "***再等一会儿........***"
+    },
+    "***A garden?**": {
+        "chi": "***花园???**"
+    },
+    "***The secret door is opening***": {
+        "chi": "***开启暗门***"
+    },
+    "***What is this?***": {
+        "chi": "***那是？***"
+    },
+    "***Teleporter activate in 20s***": {
+        "chi": "***传送还有20秒开启***"
+    },
+    "***Resist 20s***": {
+        "chi": "***防守 20秒***"
+    },
+    "***Door opened***": {
+        "chi": "***大门打开了***"
+    },
+    "***Zombie Teleport in 10s***": {
+        "chi": "***僵尸10秒后传送***"
+    },
+    "***Resist 30s***": {
+        "chi": "***防守30秒***"
+    },
+    "***Door is opened***": {
+        "chi": "***大门打开了***"
+    },
+    "***Defend the last platform for 45s***": {
+        "chi": "***在最后的平台防守45秒***"
+    },
+    "***Other platforms break in 20s***": {
+        "chi": "***平台20秒后崩毁***"
+    },
+    "***Other platforms break in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "***Path to the truth will open in 5s***": {
+        "chi": "***通往真理之路5秒后开启***"
+    },
+    "***Only the chosen one can live***": {
+        "chi": "***只有有价值的人才能存活***"
+    },
+    "***You are too weak***": {
+        "chi": "***你们都是祭品***"
+    },
+    "***Let's do a test***": {
+        "chi": "***准备好了吗***"
+    },
+    "***Show me your strength***": {
+        "chi": "***展现你们的价值***"
+    },
+    "***Beware***": {
+        "chi": "***要小心喽***"
+    },
+    "***Congratulation!!!!***": {
+        "chi": "***祝贺你们!!!!***"
+    },
+    "***Level: The Maze completed***": {
+        "chi": "***关卡1已完成***"
+    },
+    "***Level: The Underground activated***": {
+        "chi": "***关卡2: 地底***"
+    },
+    "***Level: The Underground***": {
+        "chi": "***关卡2 地底***"
+    },
+    "***Keep holding***": {
+        "chi": "***在这里防守住***"
+    },
+    "***The floor will break in 20s***": {
+        "chi": "***地板20秒后破碎***"
+    },
+    "***Jump into the hole***": {
+        "chi": "***跳进洞里***"
+    },
+    "***The brige will open in 20s***": {
+        "chi": "***大桥20秒后打开***"
+    },
+    "***The bridge will open in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "***The door will open in 40s***": {
+        "chi": "***大门40秒后打开***"
+    },
+    "***Door will open in 25s***": {
+        "chi": "***大门25秒后打开***"
+    },
+    "***I see Doorhugger...***": {
+        "chi": "***那是...***"
+    },
+    "***Doorhugger please defend...***": {
+        "chi": "***去吧...***"
+    },
+    "***Or you will die...***": {
+        "chi": "***你会死...***"
+    },
+    "***I have to do this....***": {
+        "chi": "***我必须那么做....***"
+    },
+    "***There is a hidden door!!!***": {
+        "chi": "***这里是隐藏的门!!!***"
+    },
+    "***Rest in Peace...***": {
+        "chi": "***安息吧..***"
+    },
+    "***Go to the hidden path!!!***": {
+        "chi": "***前往隐藏门!!!***"
+    },
+    "***The door is opened***": {
+        "chi": "***大门正在打开***"
+    },
+    "***Resist 5s***": {
+        "chi": "***防守5秒***"
+    },
+    "***The path is cleared***": {
+        "chi": "***道路已清空***"
+    },
+    "***Shoot the wall to go outside! Hurry !!!***": {
+        "chi": "***快点射击墙壁 !!!***"
+    },
+    "***Shoot the wall to go inside***": {
+        "chi": "***快射击墙壁出去***"
+    },
+    "***Final escape door open in 10s***": {
+        "chi": "***最后的门10秒后开启***"
+    },
+    "***The platform is leaving in 25s***": {
+        "chi": "***平台25秒后起飞***"
+    },
+    "***The platform is leaving in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "***Congratulations!!!***": {
+        "chi": "***祝贺你们!!!***"
+    },
+    "***You won Level: The Underground***": {
+        "chi": "***你们通过了地底世界***"
+    },
+    "***Level: The Necromanteion activated***": {
+        "chi": "***关卡3: 对抗妖神***"
+    },
+    "***Level: The Necromanteion***": {
+        "chi": "***关卡3: 对抗妖神***"
+    },
+    "***The door is locked. Find a way to unlock it***": {
+        "chi": "***大门紧闭着 想办法打开大门***"
+    },
+    "***Door will open in 45s***": {
+        "chi": "***大门45秒后开启***"
+    },
+    "***Door will open in 10s***": {
+        "chi": "***大门还有10秒***"
+    },
+    "***Elevator leaving in 15s***": {
+        "chi": "***电梯15秒后离开***"
+    },
+    "***Elevator leaving in 5s***": {
+        "chi": "***电梯还剩5秒***"
+    },
+    "***Teleporter will be activated in 20s***": {
+        "chi": "***传送门20秒后开启***"
+    },
+    "***Teleporter will be activated in 10s***": {
+        "chi": "***传送门10秒后开启***"
+    },
+    "***Lasers!!!***": {
+        "chi": "***小心刀光!!!***"
+    },
+    "***The bridge will be activated in 15s***": {
+        "chi": "***旋转桥15秒后就位***"
+    },
+    "***The bridge will be activated in 5s***": {
+        "chi": "***还剩5秒***"
+    },
+    "***The bridge is activated***": {
+        "chi": "***旋转桥已就位***"
+    },
+    "***The portal will activate in 70s***": {
+        "chi": "***传送门70秒后开启***"
+    },
+    "***The portal will activate in 20s***": {
+        "chi": "***传送门还有20秒***"
+    },
+    "***The portal will activate in 5s***": {
+        "chi": "***传送门还剩5秒***"
+    },
+    "***The portal is activated***": {
+        "chi": "***传送已开启***"
+    },
+    "***The door will open in 25s***": {
+        "chi": "***大门25秒后开启***"
+    },
+    "***JUMP DOWN***": {
+        "chi": "***跳下去***"
+    },
+    "***The ceiling will break in 15s***": {
+        "chi": "***天花板15秒后破碎***"
+    },
+    "***The ceiling is broken***": {
+        "chi": "***天花板已破碎***"
+    },
+    "***Shoot the floor!!!***": {
+        "chi": "***射击地板!!!***"
+    },
+    "***The first button is triggered***": {
+        "chi": "***第一个按钮被触发***"
+    },
+    "***All buttons are triggered***": {
+        "chi": "***所有按钮都已触发***"
+    },
+    "***The elevators are leaving in 40s***": {
+        "chi": "***电梯40秒后离开***"
+    },
+    "***The gates will break in 20s***": {
+        "chi": "***大门20秒后开启***"
+    },
+    "***The elevators are leaving in 15s***": {
+        "chi": "***电梯15秒后离开***"
+    },
+    "***The elevators are leaving in 5s***": {
+        "chi": "***电梯还剩5秒***"
+    },
+    "***The gates will break in 5s***": {
+        "chi": "***大门5秒后破碎***"
+    },
+    "***The door will break in 15s***": {
+        "chi": "***大门15秒后破碎***"
+    },
+    "***What is happening?***": {
+        "chi": "***发生了什么?***"
+    },
+    "***Looks like something gonna happen...***": {
+        "chi": "***看那里..***"
+    },
+    "***Wait...what...***": {
+        "chi": "***等等...这是...***"
+    },
+    "***Ahhhhhhhhhhhhhh***": {
+        "chi": "***啊＼(^▽^)／！***"
+    },
+    "***WELCOME MORTALS***": {
+        "chi": "***欢迎你们***"
+    },
+    "***FACE THE JUDGEMENT***": {
+        "chi": "***我们将直面妖神***"
+    },
+    "***DEATH LIGHT***": {
+        "chi": "***死亡刀光***"
+    },
+    "***SERVANTS***": {
+        "chi": "***妖神释放了它的仆人***"
+    },
+    "***SUPERNOVA***": {
+        "chi": "***超新星***"
+    },
+    "***Not bad...***": {
+        "chi": "***不错...***"
+    },
+    "***But...***": {
+        "chi": "***但是...***"
+    },
+    "***How about now?***": {
+        "chi": "***你以为就这样?***"
+    },
+    "***BLACK HOLE***": {
+        "chi": "***黑洞***"
+    },
+    "***You defeated me....***": {
+        "chi": "***你打败了我....***"
+    },
+    "***But I'm not dead yet.....***": {
+        "chi": "***但是还没结束.....***"
+    },
+    "***I know I will see you in the future......***": {
+        "chi": "***未来我们还会见面的......***"
+    },
+    "***LEAVE NOW***": {
+        "chi": "***现在可以离开了***"
+    },
+    "***Hold them for 2 minutes***": {
+        "chi": "***生存120秒***"
+    },
+    "***1 minute 30s***": {
+        "chi": "***还剩90秒***"
+    },
+    "***1 minute***": {
+        "chi": "***还剩60秒***"
+    },
+    "***45s***": {
+        "chi": "***45s***"
+    },
+    "***30s***": {
+        "chi": "***30s***"
+    },
+    "***15s***": {
+        "chi": "***15s***"
+    },
+    "***5s***": {
+        "chi": "***5s***"
+    },
+    "***Congratulation!!!***": {
+        "chi": "***恭喜你们!!!***"
+    },
+    "***You won this map!!!***": {
+        "chi": "***你们征服了这张地图!!!***"
+    },
+    "***Thanks for playing***": {
+        "chi": "***感谢你们游玩***"
+    },
+    "***I hope you enjoy this map***": {
+        "chi": "***希望你们喜欢这张地图***"
+    }
+}

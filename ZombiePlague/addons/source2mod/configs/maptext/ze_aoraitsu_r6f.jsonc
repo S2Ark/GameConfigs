@@ -1,0 +1,119 @@
+{
+    ">>> Admin Change to WORLDEND <<<": {
+        "chi": ">>> 管理员切换到了 WORLDEND <<<"
+    },
+    "| 25 |": {
+        "chi": "| 还有25秒 加油啊 |"
+    },
+    "| 35 Seconds unitl door open |": {
+        "chi": "| 35秒后夏墨会打开大门 |"
+    },
+    "| 30 Seconds until door open |": {
+        "chi": "| 30秒后夏墨会打开大门 |"
+    },
+    "| 5 Seconds until door close |": {
+        "chi": "| 5秒后大门即将关闭 |"
+    },
+    ">>> Admin Change to PRACTICE <<<": {
+        "chi": ">>> 管理员切换到了 PRACTICE <<<"
+    },
+    ">>> Admin Change to EP. I <<<": {
+        "chi": ">>> 管理员切换到了 EP. I <<<"
+    },
+    "| EP.0 Complete |": {
+        "chi": "| 夏墨恭喜你们 EP.0 完成！ |"
+    },
+    "| 30 |": {
+        "chi": "| 还有30秒 朝僵尸开枪! |"
+    },
+    "| 35 |": {
+        "chi": "| 还有35秒，继续守! |"
+    },
+    "| Teleport will enable in 40 Seconds |": {
+        "chi": "| 夏墨正在为你们打开传送，请等待40秒 |"
+    },
+    "| Door Opened |": {
+        "chi": "| 大门被打开了! |"
+    },
+    ">>> Admin Change to EP. 0 <<<": {
+        "chi": ">>> 管理员切换到了 EP. 0 <<<"
+    },
+    "| 30 Seconds until door close |": {
+        "chi": "| 门将会在30秒后被夏墨打开 |"
+    },
+    ">>> Admin Change to EP. II  <<<": {
+        "chi": ">>> 管理员切换到了 EP. II  <<<"
+    },
+    "| Door will open in 20 Second |": {
+        "chi": "| 门将会在20秒后被夏墨打开 |"
+    },
+    "| Door Opend |": {
+        "chi": "| 夏墨打开了大门 |"
+    },
+    ">>> Admin end the round <<<": {
+        "chi": ">>> 夏墨即将重启这一回合 <<<"
+    },
+    "| Door will open in 30 |": {
+        "chi": "| 门将会在30秒内被夏墨打开 |"
+    },
+    "| Door opend |": {
+        "chi": "| 大门被夏墨打开了! |"
+    },
+    "Max Health -> 150": {
+        "chi": "人类最大血量 -> 150"
+    },
+    "| 40 Seconds until door open |": {
+        "chi": "| 门将会在40秒后被夏墨打开 |"
+    },
+    "| EP.1 Complete |": {
+        "chi": "| 夏墨恭喜你们 EP.1 完成! |"
+    },
+    "| 40 |": {
+        "chi": "| 还有40秒 |"
+    },
+    "| 20 |": {
+        "chi": "| 还有20秒，守住 |"
+    },
+    "| Elevator coming |": {
+        "chi": "| 夏墨牌电梯来咯 |"
+    },
+    "[Danmuku/Laser] -70 HP": {
+        "chi": "[弹幕/激光] -70 HP"
+    },
+    "[^]AirCube + 70HP": {
+        "chi": "[^]空气立方 + 70HP"
+    },
+    "[+] HPCube + 50HP": {
+        "chi": "[+] 血量立方 + 50HP"
+    },
+    "| Kill the boss in 130 Seconds |": {
+        "chi": "| 夏墨限制大家在130秒内将boss打败 |"
+    },
+    "| 30 Second until door open |": {
+        "chi": "| 门将会在30秒后被夏墨打开 |"
+    },
+    "| You lose, Zombie touch the ball |": {
+        "chi": "| 很可惜 你们输了！僵尸碰到了球 |"
+    },
+    "| You kill the boss, Now Press 3 and continue |": {
+        "chi": "| 恭喜你们干掉了boss, 现在切刀并继续躲弹幕和光刀 |"
+    },
+    "| Elevator rise in 15 |": {
+        "chi": "| 电梯将会在15后上升 |"
+    },
+    "| Door open in 25 | ZmTP in 10 |": {
+        "chi": "| 门将会在25秒内被夏墨打开 | 僵尸将会在10秒后传送 |"
+    },
+    "| 60 Seconds until nuke |": {
+        "chi": "| 60 后即将发射夏墨的大核弹 |"
+    },
+    "| 10 Seconds until nuke |": {
+        "chi": "| 10 后即将发射夏墨的大核弹！ |"
+    },
+    "| YOU ARE DEAD |": {
+        "chi": "| 这里是 天堂吗？ |"
+    },
+    "| 120 Seconds until nuke |": {
+        "chi": "| 120 后即将发射夏墨的大核弹 |"
+    }
+}

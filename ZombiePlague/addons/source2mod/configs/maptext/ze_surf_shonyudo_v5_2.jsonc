@@ -1,0 +1,80 @@
+{
+    "<!> The wire mesh will break 10 s <!>": {
+        "chi": "铁丝网10秒后破碎"
+    },
+    "<!> The wire mesh will break 30 s <!>": {
+        "chi": "铁丝网30秒后破碎"
+    },
+    "<!> Destroy the rocks 10 s <!>": {
+        "chi": "岩石10秒后摧毁"
+    },
+    "<!> Destroy the rocks 30 s <!>": {
+        "chi": "岩石30秒后摧毁"
+    },
+    "<!> Destroy the rocks 20 s <!>": {
+        "chi": "岩石20秒后摧毁"
+    },
+    "<!> ? ? ? 60 s <!>": {
+        "chi": "防守60秒"
+    },
+    "<!> ? ? ? 10 s <!>": {
+        "chi": "翻译"
+    },
+    "<!> The space begins to distort...! 10 s <!>": {
+        "chi": "空间10秒后开始扭曲"
+    },
+    "<!> The space begins to distort...! 30 s <!>": {
+        "chi": "空间30秒后开始扭曲"
+    },
+    "<!> GOD PUNISHMENT <!>": {
+        "chi": "上帝的惩罚"
+    },
+    "<!> We have violated the laws of the gods. <!>": {
+        "chi": "我们违反了神的律法"
+    },
+    "<!> Until the door opens 10 s <!>": {
+        "chi": "大门10秒后打开"
+    },
+    "<!> Until the door opens 30 s <!>": {
+        "chi": "大门30秒后打开"
+    },
+    "<!> The path will be generated 10 s <!>": {
+        "chi": "道路10秒后生成"
+    },
+    "<!> The path will be generated 30 s <!>": {
+        "chi": "道路30秒后生成"
+    },
+    "<!> The scaffolding starts to move 10 s <!>": {
+        "chi": "脚手架10秒后开始移动"
+    },
+    "<!> The scaffolding starts to move 40 s <!>": {
+        "chi": "脚手架40秒后开始移动"
+    },
+    "<!> We need another switch... <!>": {
+        "chi": "我们需要找到另一个开关"
+    },
+    "<!> Succeeded! The wire mesh will break 50 s <!>": {
+        "chi": "你们成功了，防守50秒"
+    },
+    "<!> Succeeded! The wire mesh will break 10 s <!>": {
+        "chi": "你们成功了，防守10秒"
+    },
+    "<!> Cutting down a fallen tree 10 s <!>": {
+        "chi": "大树10秒后消失"
+    },
+    "<!> Cutting down a fallen tree 30 s <!>": {
+        "chi": "大树30秒后消失"
+    },
+    "<!> Cutting down a fallen tree 40 s <!>": {
+        "chi": "大树40秒后消失"
+    },
+    "<!> Until the door opens 50 s <!>": {
+        "chi": "大门50秒后打开"
+    },
+    "<!> Last defend and escape the world !! 60 s <!>": {
+        "chi": "防守60秒后逃离这个世界！！"
+    },
+    "<!> Last defend and escape the world !! 10 s <!>": {
+        "chi": "防守10秒后逃离世界"
+    }
+}

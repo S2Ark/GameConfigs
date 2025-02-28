@@ -1,0 +1,35 @@
+{
+    ">>> Player has picked up Health <<<": {
+        "chi": ">>> 芭芭拉闪亮登场 治疗就交给我吧 <<<"
+    },
+    "** you win **": {
+        "chi": "** 玩家胜利 **"
+    },
+    ">>> Player has picked up typhoon <<<": {
+        "chi": ">>> 风神，请指引我们\t\t（玩家拾取神器：风） <<<"
+    },
+    ">>> Player has picked up barrier <<<": {
+        "chi": ">>> 与买桂花同载酒，只可惜\t（玩家拾取神器：屏障）<<<"
+    },
+    ">>> Player has picked up ice <<<": {
+        "chi": ">>> 氵夭火卓，冫水！\t\t（玩家拾取神器：冰）<<<"
+    },
+    ">>> Player has picked up Flame <<<": {
+        "chi": ">>> 吃饱喝饱，一路走好\t\t（玩家拾取神器：火）<<<"
+    },
+    ">> PLAYER HAS PICKED UP WATER <<": {
+        "chi": ">>> 冫氵水沝淼㵘\t\t\t（玩家拾取神器：水）<<<"
+    },
+    ">>> Player has picked up hurricane <<<": {
+        "chi": ">>> 啊！这风！\t\t\t\t（玩家拾取神器：飓风） <<<"
+    },
+    ">>> Player has picked up Rashomon <<<": {
+        "chi": ">>> 有软弱，就有谎言\t\t（玩家拾取神器：罗生门）<<<"
+    },
+    ">>> Player has picked up lightening <<<": {
+        "chi": ">>> 该 电一电了 \t\t\t（玩家拾取神器：闪电） <<<"
+    },
+    "** ex open **": {
+        "chi": "** 开始EX关 **"
+    }
+}

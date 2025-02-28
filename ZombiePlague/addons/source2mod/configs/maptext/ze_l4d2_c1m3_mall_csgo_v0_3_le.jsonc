@@ -1,0 +1,68 @@
+{
+    "***The tree is broken.***": {
+        "chi": "***这个树倒下了。***"
+    },
+    "***Zombie teleport soon at 3rd floor.***": {
+        "chi": "***僵尸将要传送至三楼***"
+    },
+    "***Shutter open in 20 seconds.***": {
+        "chi": "***卷帘门将在20秒后打开。***"
+    },
+    "***Escalator is blocked.***": {
+        "chi": "***自动扶梯被阻挡了。***"
+    },
+    "***Shoot the tree!***": {
+        "chi": "***攻击这颗树！***"
+    },
+    "***Door open in 20 seconds.***": {
+        "chi": "***门将在20秒后开启***"
+    },
+    "***Door open in 10 seconds.***": {
+        "chi": "***门将在10秒后开启***"
+    },
+    "***Zombie teleport soon at 1st floor.***": {
+        "chi": "***僵尸将要传送至一楼***"
+    },
+    "***Door open in 15 seconds.***": {
+        "chi": "***门将在15秒后开启***"
+    },
+    "***Open the emergency door...***": {
+        "chi": "***打开应急门..***"
+    },
+    "***Be ready to fight the horde!***": {
+        "chi": "***准备好战斗！***"
+    },
+    "***Here they come...***": {
+        "chi": "***他们来了..***"
+    },
+    "***Deactivate the alarm on the 3rd floor.***": {
+        "chi": "***停用三楼的报警器***"
+    },
+    "***Zombie teleport soon at 2nd floor.***": {
+        "chi": "***僵尸将要传送至二楼***"
+    },
+    "***Go up fast!***": {
+        "chi": "***赶快走！***"
+    },
+    "***Deactivated the alarm.***": {
+        "chi": "***报警器停用了***"
+    },
+    "***Defend here in 30 seconds.***": {
+        "chi": "***在这里防守30秒***"
+    },
+    "***Zombie coming from other side!***": {
+        "chi": "***僵尸从另一边来了！***"
+    },
+    "***Watch out!***": {
+        "chi": "***小心！***"
+    },
+    "***The path is clear!***": {
+        "chi": "***道路干净了！***"
+    },
+    "***Door close in 30 seconds.***": {
+        "chi": "***安全屋还有30秒关门***"
+    },
+    "***We're safe... for now.***": {
+        "chi": "***我们现在安全了..***"
+    }
+}

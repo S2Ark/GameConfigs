@@ -1,0 +1,62 @@
+{
+    "<!> The wire mesh will break 30 s <!>": {
+        "chi": "铁丝网将会在 30 秒后boom"
+    },
+    "<!> The wire mesh will break 10 s <!>": {
+        "chi": "铁丝网将在 10 秒后booooom"
+    },
+    "<!> Until the door opens 30 s <!>": {
+        "chi": "30 秒后再贴门吧"
+    },
+    "<!> Until the door opens 10 s <!>": {
+        "chi": "10 秒后再贴门吧"
+    },
+    "<!> The path will be generated 30 s <!>": {
+        "chi": "<!> 路在 30 秒后开放 <!>"
+    },
+    "<!> The path will be generated 10 s <!>": {
+        "chi": "路 在 10 秒 后 开 <!>"
+    },
+    "<!> The scaffolding starts to move 40 s <!>": {
+        "chi": "缆车在 40 秒后启动"
+    },
+    "<!> The scaffolding starts to move 10 s <!>": {
+        "chi": "缆车在 10 秒后启动"
+    },
+    "<!> Destroy the rocks 10 s <!>": {
+        "chi": "岩石在 10 秒后 Bo0o0o0om"
+    },
+    "<!> Destroy the rocks 20 s <!>": {
+        "chi": "岩石在 20 秒后 Bo0o0o0om"
+    },
+    "<!> Destroy the rocks 30 s <!>": {
+        "chi": "岩石在 30 秒后 Bo0o0o0om"
+    },
+    "<!> We need another switch... <!>": {
+        "chi": "等待 另一个 开关中"
+    },
+    "<!> Succeeded! The wire mesh will break 50 s <!>": {
+        "chi": "开关已触发完成，路在 50 秒后开放"
+    },
+    "<!> Succeeded! The wire mesh will break 10 s <!>": {
+        "chi": "开关已触发完成，路在 10 秒后开放"
+    },
+    "<!> Cutting down a fallen tree 30 s <!>": {
+        "chi": "正在花费 30 秒砍树"
+    },
+    "<!> Cutting down a fallen tree 10 s <!>": {
+        "chi": "正在花费 10 秒砍树"
+    },
+    "<!> Cutting down a fallen tree 40 s <!>": {
+        "chi": "正在花费 40 秒砍树"
+    },
+    "<!> Until the door opens 50 s <!>": {
+        "chi": "前面的路，等50秒后再来探索吧 <!>"
+    },
+    "<!> Last defend and escape the world !! 60 s <!>": {
+        "chi": "这是最后的守点，60s后再离开这里<!>"
+    },
+    "<!> Last defend and escape the world !! 10 s <!>": {
+        "chi": "这是最后的守点，10s后再离开这里 <!>"
+    }
+}

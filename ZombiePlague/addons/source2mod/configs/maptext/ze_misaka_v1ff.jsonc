@@ -1,0 +1,416 @@
+{
+    "<< Map by Misaka >>": {
+        "chi": "<< 地图制作：Misaka >>"
+    },
+    "<< special thanks to koyomaple, Excarliber and gneL >>": {
+        "chi": "<< 特别鸣谢：koyomaple, Excarliber,gneL | 翻译：御坂03724号 >>"
+    },
+    "<< teleport will be enabled in 20 seconds >>": {
+        "chi": "<< 传送将在20秒后激活 >>"
+    },
+    "<< Stage 1 >>": {
+        "chi": "<< 第一关 >>"
+    },
+    "<< teleport will be enabled in 10 seconds >>": {
+        "chi": "<< 传送将在10秒后激活 >>"
+    },
+    "<< human teleported >>": {
+        "chi": "<< 人类传送 >>"
+    },
+    "<< zombie will be teleported soon >>": {
+        "chi": "<< 僵尸很快就会传送 >>"
+    },
+    "<< zombie teleported >>": {
+        "chi": "<< 僵尸传送 >>"
+    },
+    "<< the way will be able to pass in 25 seconds >>": {
+        "chi": "<< 道路将会在25秒后开放 >>"
+    },
+    "<< 5 more seconds >>": {
+        "chi": "<< 还有5秒 >>"
+    },
+    "<< A zombie has picked up speed >>": {
+        "chi": "<< 僵尸拿起了加速 >>"
+    },
+    "<< we need to wait the platform for 25 seconds >>": {
+        "chi": "<< 我们需要等待平台25秒 >>"
+    },
+    "<< the platform will rise in 15 seconds >>": {
+        "chi": "<< 平台将会在15秒后上升 >>"
+    },
+    "<< zombie used speed >>": {
+        "chi": "<< 僵尸使用了加速 >>"
+    },
+    "<< the wall will disappear in 30 seconds >>": {
+        "chi": "<< 墙壁将会在30秒后破碎 >>"
+    },
+    "<< we need to find a way to go on >>": {
+        "chi": "<< 我们需要找得到一种办法继续前行 >>"
+    },
+    "<< the front wall will disappear in 15 seconds >>": {
+        "chi": "<< 前方的墙会在15秒后破碎 >>"
+    },
+    "<< we can go inside the room in 20 seconds >>": {
+        "chi": "<< 我们可以在20秒后进入房间 >>"
+    },
+    "<< defend for 10 seconds >>": {
+        "chi": "<< 守住10秒 >>"
+    },
+    "<< defend for 15 seconds >>": {
+        "chi": "<< 守住15秒 >>"
+    },
+    "<< the platform will move in 15 seconds >>": {
+        "chi": "<< 平台将会在15秒后移动 >>"
+    },
+    "<< 5 seconds to move >>": {
+        "chi": "<< 还有5秒 >>"
+    },
+    "<< the platform will move again in 10 seconds >>": {
+        "chi": "<< 平台将会在10秒后再次移动 >>"
+    },
+    "<< boss fight will begin in 10 seconds >>": {
+        "chi": "<< 准备与Misaka作战 >>"
+    },
+    "<< defeat the boss >>": {
+        "chi": "<< 击败Misaka >>"
+    },
+    "<< Be Careful! You only have 120 seconds to defeat the boss >>": {
+        "chi": "<< 小心，你只有120秒的时间去击败Misaka >>"
+    },
+    "<< Reaping Slash >>": {
+        "chi": "<< 四合光刃 >>"
+    },
+    "<< Trials of Sword >>": {
+        "chi": "<< 审判光刃 >>"
+    },
+    "<< boss is defeated >>": {
+        "chi": "<< Misaka被击败了 >>"
+    },
+    "<< a bridge appears >>": {
+        "chi": "<< 桥梁升起 >>"
+    },
+    "<< zombie will release soon >>": {
+        "chi": "<< 即将释放僵尸 >>"
+    },
+    "<< the glass wall will break in 15 seconds >>": {
+        "chi": "<< 玻璃将会在15秒后破碎 >>"
+    },
+    "<< we can reach the top in 50 seconds >>": {
+        "chi": "<< 我们需要在50秒后到达顶点 >>"
+    },
+    "<< the final platform will move in 3 seconds >>": {
+        "chi": "<< 最终的平台将在3秒后移动 >>"
+    },
+    "<< wait ...... something may happen ...... >>": {
+        "chi": "<< 等一下 ...... 有什么不对劲 ...... >>"
+    },
+    "<< It's Misaka !!! >>": {
+        "chi": "<< 是Misaka!!! >>"
+    },
+    "<< dodge the laser !!! >>": {
+        "chi": "<< 躲避光刃 !!! >>"
+    },
+    "<< more laser is coming !!! >>": {
+        "chi": "<< 更多的光刃要来了 !!! >>"
+    },
+    "<< up and down !!! >>": {
+        "chi": "<< 光刃从天空和地面交替攻击 !!! >>"
+    },
+    "<< Stage 1 Complete >>": {
+        "chi": "<< 第一关通过 >>"
+    },
+    "<< Stage 2 >>": {
+        "chi": "<< 第二关 >>"
+    },
+    "<< A player has picked up heal >>": {
+        "chi": "<< 一位玩家拿起了治疗 >>"
+    },
+    "<< a player has picked up wind >>": {
+        "chi": "<< 一位玩家拿起了风 >>"
+    },
+    "<< teleport will enable in 20 seconds >>": {
+        "chi": "<< 传送将在20秒后激活 >>"
+    },
+    "<< zombie will teleport in 10 seconds >>": {
+        "chi": "<< 僵尸将在10秒后传送 >>"
+    },
+    "<< the way will be able to pass in 15 seconds >>": {
+        "chi": "<< 道路将在15秒后开放 >>"
+    },
+    "<< Hold for 25 seconds >>": {
+        "chi": "<< 守住25秒 >>"
+    },
+    "<< the teleport will enable in 30 seconds >>": {
+        "chi": "<< 传送将在30秒后激活 >>"
+    },
+    "<< heal used >>": {
+        "chi": "<< 使用治疗 >>"
+    },
+    "<< zombie will come in 5 seconds >>": {
+        "chi": "<< 僵尸将在5秒后传送 >>"
+    },
+    "<< we can go into the tower in 35 seconds >>": {
+        "chi": "<< 坚守35秒 >>"
+    },
+    "<< Hold for 30 seconds >>": {
+        "chi": "<< 守住30秒 >>"
+    },
+    "<< zombie will teleport in 20 seconds >>": {
+        "chi": "<< 僵尸将在20秒后传送 >>"
+    },
+    "<< the guard will disappear in 30 seconds >>": {
+        "chi": "<< 守卫将在30秒后消失 >>"
+    },
+    "<< climb to the top and shooting the guard, so that the teleport can be activated >>": {
+        "chi": "<< 爬到塔顶然后射击守卫才可以触发传送 >>"
+    },
+    "<< Be Careful, only shooting the head of the guard may cause damage >>": {
+        "chi": "<< 注意，只有射击守卫的头才可以有效造成伤害 >>"
+    },
+    "<< teleport will enable in 40 seconds >>": {
+        "chi": "<< 传送将在40秒后激活 >>"
+    },
+    "<< the ladder is able to climb >>": {
+        "chi": "<< 梯子已经开放了 >>"
+    },
+    "<< So we meet the second time >>": {
+        "chi": "<< 这是我们第二次见面了 >>"
+    },
+    "<< Try your best to survive from the attack >>": {
+        "chi": "<< 努力在攻击中活下来吧 >>"
+    },
+    "<< To escape this tower!!! >>": {
+        "chi": "<< 为了逃离这座塔!!! >>"
+    },
+    "<< Misaka will use holy in 6 seconds >>": {
+        "chi": "<< Misaka将在6秒后使用秒杀 >>"
+    },
+    "<< Wind >>": {
+        "chi": "<< 狂风 >>"
+    },
+    "<< Misaka is using cannon >>": {
+        "chi": "<< Misaka正在使用超电磁炮 >>"
+    },
+    "<< You only have 60 seconds >>": {
+        "chi": "<< 剩余60秒 >>"
+    },
+    "<< You only have 30 seconds >>": {
+        "chi": "<< 剩余30秒 >>"
+    },
+    "<< You only have 10 seconds >>": {
+        "chi": "<< 剩余10秒 >>"
+    },
+    "<< Misaka is defeated >>": {
+        "chi": "<< Misaka被打败了 >>"
+    },
+    "<< zombie will release in 10 seconds >>": {
+        "chi": "<< 僵尸将在10秒后传送 >>"
+    },
+    "<< the guard will disappear in 25 seconds >>": {
+        "chi": "<< 守卫将在25秒后离开 >>"
+    },
+    "<< It's Misaka Again!!! >>": {
+        "chi": "<< 又是Misaka!!! >>"
+    },
+    "<< Shooting Misaka >>": {
+        "chi": "<< 射击Misaka >>"
+    },
+    "<<You only have 25 seconds to get to the end >>": {
+        "chi": "<<你只有25秒的时间到达终点 >>"
+    },
+    "<< Stage 2 Complete >>": {
+        "chi": "<< 第二关通过 >>"
+    },
+    "<< Stage 3 >>": {
+        "chi": "<< 第三关 >>"
+    },
+    "<< the fence will disappear in 20 seconds >>": {
+        "chi": "<< 栅栏将会在20秒后消失 >>"
+    },
+    "<< A player has got the letter M >>": {
+        "chi": "<< 一位玩家拿到了字母M >>"
+    },
+    "<< hold for 15 seconds until the guards permit us to go >>": {
+        "chi": "<< 守住15秒直到守卫允许我们通过 >>"
+    },
+    "<< wait for a moment >>": {
+        "chi": "<< 稍安勿躁 >>"
+    },
+    "<< A player has got the letter I >>": {
+        "chi": "<< 一位玩家拿到了字母I >>"
+    },
+    "<< the wall will break in 25 seconds >>": {
+        "chi": "<< 墙壁将会在25秒后破碎 >>"
+    },
+    "<< A player has got the letter S >>": {
+        "chi": "<< 一位玩家拿到了字母S >>"
+    },
+    "<< the wall will break in 30 seconds >>": {
+        "chi": "<< 墙壁将会在30秒后破碎 >>"
+    },
+    "<< Shooting the guard >>": {
+        "chi": "<< 射击守卫 >>"
+    },
+    "<< A player has got the letter A >>": {
+        "chi": "<< 一位玩家拿起了字母A >>"
+    },
+    "<< The wall will break in 35 seconds >>": {
+        "chi": "<< 墙壁将会在35秒后破碎 >>"
+    },
+    "<< hold for 55 seconds >>": {
+        "chi": "<< 守住55秒 >>"
+    },
+    "<< A player has got the letter K >>": {
+        "chi": "<< 一位玩家拿到了字母K >>"
+    },
+    "<< Sign of Death >>": {
+        "chi": "<< 死亡之坠 >>"
+    },
+    "<< Flame of Revenge >>": {
+        "chi": "<< 亡者的复仇 >>"
+    },
+    "<< Hunting Instinct >>": {
+        "chi": "<< 猎杀本能 >>"
+    },
+    "<< Absolute Purification >>": {
+        "chi": "<< 旋转圣光 >>"
+    },
+    "<< Dark Wave >>": {
+        "chi": "<< 暗黑狂风 >>"
+    },
+    "<< the final door will open in 30 seconds >>": {
+        "chi": "<< 最后的大门将会在30秒后打开 >>"
+    },
+    "<< A player has got a letter A >>": {
+        "chi": "<< 一位玩家拿到了字母A >>"
+    },
+    "<< You've already got all 6 secret letters >>": {
+        "chi": "<< 你已经拿齐了6个字母 >>"
+    },
+    "<< Hold for 15 seconds >>": {
+        "chi": "<< 守住15秒 >>"
+    },
+    "<< Do you think this is over? >>": {
+        "chi": "<< 你认为这就完了？ >>"
+    },
+    "<< ... >>": {
+        "chi": "<< ... >>"
+    },
+    "<< Fallen Sky >>": {
+        "chi": "<< 天空陨落 >>"
+    },
+    "<< Giga Drain >>": {
+        "chi": "<< 暴风吸入 >>"
+    },
+    "<< Mega Push >>": {
+        "chi": "<< 旋风推力 >>"
+    },
+    "<< Try to Get to The End !!! >>": {
+        "chi": "<< 尝试到达终点 !!! >>"
+    },
+    "<< Be careful about the abnormal gravity >>": {
+        "chi": "<< 重力变得异常 >>"
+    },
+    "<< and also be careful about the wall on your back >>": {
+        "chi": "<< 并且随时小心你身后的电墙 >>"
+    },
+    "<< You only have 10 seconds to get to the end >>": {
+        "chi": "<< 你只有10秒的时间了 >>"
+    },
+    "<< 5 >>": {
+        "chi": "<< 5 >>"
+    },
+    "<< 4 >>": {
+        "chi": "<< 4 >>"
+    },
+    "<< 3 >>": {
+        "chi": "<< 3 >>"
+    },
+    "<< 2 >>": {
+        "chi": "<< 2 >>"
+    },
+    "<< 1 >>": {
+        "chi": "<< 1 >>"
+    },
+    "<< The boss appears again !!! >>": {
+        "chi": "<< Misaka又来了 !!! >>"
+    },
+    "<< Shooting it and dodge the laser!!>>": {
+        "chi": "<< 射击并躲避光刃!!>>"
+    },
+    "<< The boss will be unkillable after 25 seconds >>": {
+        "chi": "<< 你只有25秒时间击败Misaka >>"
+    },
+    "<< Stage 3 true end complete>>": {
+        "chi": "<< 第三关-真结局通过>>"
+    },
+    "<< Why you come here again? >>": {
+        "chi": "<< 为什么你还要来？ >>"
+    },
+    "<< You have already win this map >>": {
+        "chi": "<< 你已经战胜了这张地图 >>"
+    },
+    "<< RTV plz >>": {
+        "chi": "<< 该RTV了 >>"
+    },
+    "<< do not hear what I say? >>": {
+        "chi": "<< 你没有听到我说什么吗？ >>"
+    },
+    "<< RTV!!! >>": {
+        "chi": "<< RTV!!! >>"
+    },
+    "<< Survive for 165 seconds!!! >>": {
+        "chi": "<< 存活165秒!!! >>"
+    },
+    "<< 120 seconds >>": {
+        "chi": "<< 还有120秒 >>"
+    },
+    "<< 60 seconds >>": {
+        "chi": "<< 还有60秒 >>"
+    },
+    "<< 30 seconds >>": {
+        "chi": "<< 还有30秒 >>"
+    },
+    "<< INSANE I >>": {
+        "chi": "<< 里世界-第一关 >>"
+    },
+    "<< Haste >>": {
+        "chi": "<< Misaka获得了效果---急迫 >>"
+    },
+    "<< Drain >>": {
+        "chi": "<< 吸力 >>"
+    },
+    "<< Push >>": {
+        "chi": "<< 推力 >>"
+    },
+    "<< 55 seconds left >>": {
+        "chi": "<< 剩余55秒 >>"
+    },
+    "<< INSANE II >>": {
+        "chi": "<< 里世界-第二关 >>"
+    },
+    "<< Defeat The Final Misaka To Win This Map >>": {
+        "chi": "<< 最后击败Misaka，征服这张地图！ >>"
+    },
+    "<< I Know that you work hard to get here >>": {
+        "chi": "<< 我知道为了来到这里你已经很努力了 >>"
+    },
+    "<< Its the time to meet the final >>": {
+        "chi": "<< 是时候面对结局了 >>"
+    },
+    "<< Congratulation !!! >>": {
+        "chi": "<< 庆贺吧 !!! >>"
+    },
+    "<< You've win all stage !!! >>": {
+        "chi": "<< 你通过了所有关卡 !!! >>"
+    },
+    "<< A SECRET BUTTON has been UNLOCKED !!! >>": {
+        "chi": "<< 一个秘密按钮已经解锁 !!! >>"
+    },
+    "<< Admin wants to RTV >>": {
+        "chi": "<< 管理员选择RTV关 >>"
+    },
+    "<< Nuke in 5 seconds >>": {
+        "chi": "<< 还有5秒核爆 >>"
+    }
+}

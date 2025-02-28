@@ -1,0 +1,413 @@
+{
+    "The surfs have broken!": {
+        "chi": "滑坡破碎了！"
+    },
+    "Defend!": {
+        "chi": "防守！"
+    },
+    "Defend this door until it opens!": {
+        "chi": "守住这扇门，直到它打开!"
+    },
+    "Defend for another 15 seconds!": {
+        "chi": "再坚守 15 秒！"
+    },
+    "The elevator will leave in 20 seconds!": {
+        "chi": "电梯将在 20 秒后离开！"
+    },
+    "The door will open in 20 seconds!": {
+        "chi": "大门将在 20 秒后打开！"
+    },
+    "The next door will open in 30 seconds!": {
+        "chi": "下一扇门将在 30 秒后打开!"
+    },
+    "The door has opened! Make sure to press both buttons to continue!": {
+        "chi": "门开了!确保按下两个按钮继续!"
+    },
+    "You beat the boss, quick!": {
+        "chi": "你需要快点打败托儿索"
+    },
+    "Zombie door will open in 10 seconds!": {
+        "chi": "僵尸大门将在 10 秒内打开!"
+    },
+    "The Boss is randomly attacking the ground!": {
+        "chi": "托儿索正在随机攻击地面注意走位躲避!"
+    },
+    "The Boss uses hurt! Crouch!": {
+        "chi": "快蹲下，托儿索正在对站起来的人造成伤害！"
+    },
+    "The Boss is sucking you in!": {
+        "chi": "托儿索正在使用吸力。快躲避"
+    },
+    "The Boss is randomly attacking the big ground!": {
+        "chi": "托儿索正在随机攻击地面!"
+    },
+    "The boss is hurting the inside! Get to the outer edge of the platform!": {
+        "chi": "托儿索正在攻击内圈，快躲到外围！"
+    },
+    "You have pressed all buttons! Defend for 30 more seconds!": {
+        "chi": "你已经按下了所有的按钮!再防守 30 秒！"
+    },
+    "Zombies teleport in 10 more seconds!": {
+        "chi": "僵尸还需要 10 秒传送!"
+    },
+    "The first button has been pressed!": {
+        "chi": "第一个按钮已经按下了!"
+    },
+    "The second button has been pressed!": {
+        "chi": "第二个按钮已经按下了!"
+    },
+    "***Zombie Blindness item has been used!***": {
+        "chi": "僵尸致盲物品已被使用!"
+    },
+    "***Zombie Blindness item has been picked up!***": {
+        "chi": "僵尸致盲物品已被拾取!"
+    },
+    "***Zombie Beam item has been picked up!***": {
+        "chi": "僵尸光束神器已被捡起!"
+    },
+    "***Zombie Beam item has been used!***": {
+        "chi": "僵尸光束神器已被使起"
+    },
+    "Hold for 20 seconds!": {
+        "chi": "坚守20秒!"
+    },
+    "You have 10 seconds to get in the boss arena!": {
+        "chi": "你有 10 秒的时间进入托儿索竞技场!"
+    },
+    "It's the magical metal box again! Kill it!": {
+        "chi": "又是那个神奇的金属盒子托儿索!杀了他!"
+    },
+    "Grenades do extra damage!": {
+        "chi": "手榴弹有额外的伤害!"
+    },
+    "You did it! You beat the map!": {
+        "chi": "你们通关了，你们是这个地图王者！"
+    },
+    "***Special thanks to Berke for helping with stage system***": {
+        "chi": "特别感谢Berke对关卡系统的帮助"
+    },
+    "***Map by wo0, ported by Berke***": {
+        "chi": "地图作者：wo0 技术支持：Berke 地图翻译：托儿索 技术支持：苏妲 @top游廊"
+    },
+    "***Special thanks to Eltra for helping and adding music***": {
+        "chi": "特别感谢Eltra的帮助和添加音乐"
+    },
+    "You have pressed all secret buttons!": {
+        "chi": "你已经按下了所有的秘密按钮!"
+    },
+    "?": {
+        "chi": "？"
+    },
+    "1": {
+        "chi": "1"
+    },
+    "???": {
+        "chi": "？？？"
+    },
+    "3": {
+        "chi": "3"
+    },
+    "Spinner has been chosen! The team that survives longest wins!": {
+        "chi": "旋转球已经选中！生存时间最长的队伍获胜！"
+    },
+    "The game will automatically become a stalemate if no teams win in 15 seconds!": {
+        "chi": "如果在 15 秒内没有队伍获胜，比赛将自动进入僵局!"
+    },
+    "All zombies have died! Humans win!": {
+        "chi": "所有僵尸都死了!人类获胜!"
+    },
+    "Minigames": {
+        "chi": "小游戏"
+    },
+    "First to reach the end gets to choose the minigame!": {
+        "chi": "第一个到达终点的人可以选择小游戏!"
+    },
+    "Press the button on the left to become a zombie!": {
+        "chi": "按下左边的按钮变成僵尸!"
+    },
+    "Feel free to RTV if you don't want to do any minigames.": {
+        "chi": "如果你不想做任何迷你游戏，你可以选择RTV。"
+    },
+    "If a minigame is not chosen in 30 seconds, glass will break!": {
+        "chi": "如果在 30 秒内没有选择一个小游戏，玻璃将会破碎!"
+    },
+    "GET IN QUICKLY! The door will shut in 10 seconds!": {
+        "chi": "快进来!门将在 10 秒后关闭!"
+    },
+    "Free at last! You did it! You beat the map!": {
+        "chi": "你做到了!你打败了地图!"
+    },
+    "***Heal item has been picked up!***": {
+        "chi": "治疗神器被捡起!"
+    },
+    "***Heal item has been used!***": {
+        "chi": "治疗神器被使用了!"
+    },
+    "Humans have survived!": {
+        "chi": "人类幸存了下来!"
+    },
+    "15 seconds left!": {
+        "chi": "还有 15 秒剩余！"
+    },
+    "30 seconds left!": {
+        "chi": "还有 30 秒剩余！"
+    },
+    "1 minute left!": {
+        "chi": ""
+    },
+    "2 minutes left!": {
+        "chi": ""
+    },
+    "Survive for 3 minutes!": {
+        "chi": "存活 180 秒"
+    },
+    "Zombies will teleport in 15 seconds!": {
+        "chi": "僵尸将在 15 秒后传送!"
+    },
+    "ZM Mode has been chosen! Find a place and survive for 3 minutes!": {
+        "chi": "ZM模式已被选择!找个地方生存3分钟!"
+    },
+    "Split up": {
+        "chi": "分开"
+    },
+    "The lasers will become harder in 15 seconds!": {
+        "chi": "激光将在 15 秒内变得更强!"
+    },
+    "Laser game has been chosen! The team that survives longest wins!": {
+        "chi": "激光游戏已选定!存活时间最长的队伍获胜!"
+    },
+    "The game will start in 5 seconds": {
+        "chi": "比赛将在 5 秒后开始"
+    },
+    "***Marathon Secret Laser Boss winners have been awarded with extra speed!***": {
+        "chi": "马拉松秘密激光最后获胜者获得了额外的速度!"
+    },
+    "Marathon Mode": {
+        "chi": "现在是--连关--模式"
+    },
+    "In order to complete Marathon Mode you have to complete every stage in one try.": {
+        "chi": "为了完成连关模式，你必须一次性完成每个关卡。"
+    },
+    "If you fail then you must retry the entire map.": {
+        "chi": "如果你失败了，你必须重新尝试整个地图。"
+    },
+    "Zombies will teleport in 10 seconds!": {
+        "chi": "僵尸将在 10 秒后传送!"
+    },
+    "Marathon Mode has been chosen! Get ready!": {
+        "chi": "--连关--模式已被选择!做好准备！"
+    },
+    "****You took too long to select a minigame!***": {
+        "chi": "你选择小游戏用的时间太长了!"
+    },
+    "***MAP NOW SET TO - STAGE 2***": {
+        "chi": "地图现在设置为-关卡2"
+    },
+    "***MAP NOW SET TO - STAGE 3***": {
+        "chi": "地图现在设置为-关卡3"
+    },
+    "***MAP NOW SET TO - MINIGAMES***": {
+        "chi": "地图现在设置为-小游戏"
+    },
+    "***MAP NOW SET TO - MARATHON MODE***": {
+        "chi": "地图现在设置为--连关--模式"
+    },
+    "***TIME TO MAKE FATHER PROUD***": {
+        "chi": "是时候让爸爸感到骄傲了"
+    },
+    "***You took too long to kill the boss!***": {
+        "chi": "你花了太长时间才杀死托儿索!"
+    },
+    "***MAP NOW SET TO - STAGE 1***": {
+        "chi": "地图现在设置为-关卡1"
+    },
+    "You have activated the secret laser boss!": {
+        "chi": "你已经激活了秘密激光boss!"
+    },
+    "Except?": {
+        "chi": "Except?"
+    },
+    "***Special thanks to Eltra for helping***": {
+        "chi": "特别感谢Eltra的帮助"
+    },
+    "You might have forgotten something...": {
+        "chi": "你可能忘了什么东西……"
+    },
+    "***You took too long, zombies are let in!***": {
+        "chi": "你浪费太多时间了，僵尸进来了!"
+    },
+    "The bunker has opened! Do not let any zombies in for 25 seconds!": {
+        "chi": "地堡打开了! 25 秒内不要让僵尸进来!"
+    },
+    "The bunker has opened! Defend for 25 seconds!": {
+        "chi": "地堡打开了! 25 秒内不要让僵尸进来!"
+    },
+    "Zombies will enter in 10 seconds!": {
+        "chi": "僵尸将在 10 秒后进入!"
+    },
+    "***MOVING ON TO STAGE 2***": {
+        "chi": "正在进入关卡二"
+    },
+    "***STAGE 1 HAS BEEN COMPLETED***": {
+        "chi": "第一关已经完成"
+    },
+    "Defend until the elevator door opens!": {
+        "chi": "坚守直到电梯门打开!"
+    },
+    "Defend here for 30 seconds": {
+        "chi": "在这里防守 30 秒"
+    },
+    "ELEVATOR WILL LEAVE IN 10 SECONDS": {
+        "chi": "电梯将在 10 秒后离开"
+    },
+    "*** DOOR WILL OPEN IN 25 SECONDS ***": {
+        "chi": "大门将会在 25 秒后打开！"
+    },
+    "*** PARKOUR DOOR HAS BEEN OPENED ***": {
+        "chi": "触发房的大门已经打开（快看右上角的丢人名单）"
+    },
+    "Defend until the main gate opens!": {
+        "chi": "防守 30 秒后大门打开!"
+    },
+    "***Zombie shortcut opens in 10 seconds.***": {
+        "chi": "僵尸侧路将会在 10 秒后打开"
+    },
+    "***Zombie shortcut is open.***": {
+        "chi": "僵尸侧路已打开。"
+    },
+    "Defend the door for 25 seconds!": {
+        "chi": "守住这扇门 25 秒！"
+    },
+    "*** GATE OPENING IN 15 SECONDS ***": {
+        "chi": "大门将会在 15 秒打开"
+    },
+    "Defend for another 25 seconds!": {
+        "chi": "再防守 25 秒!"
+    },
+    "**DEFEND UNTIL THE GATE OPENS**": {
+        "chi": "守住直到大门打开"
+    },
+    "DOOR OPENING IN 15 SECONDS": {
+        "chi": "在 15 秒后开门"
+    },
+    "The boss is dead now! Get inside the next room!": {
+        "chi": "托儿索已经死了!快进入下一个房间去!"
+    },
+    "Zombie door will open in 20 seconds.": {
+        "chi": "僵尸门将在 20 秒后打开。"
+    },
+    "The zombie doors have opened! The teleporter will activate in 45 seconds.": {
+        "chi": "僵尸之门打开了!传送器将在 45 秒后启动。"
+    },
+    "The teleporter will activate soon! Get out quick!": {
+        "chi": "传送器马上就要启动了!快出去!"
+    },
+    "Defend for an extra 15 seconds": {
+        "chi": "额外防守15秒！"
+    },
+    "It's a metal box! It's blocking our path!": {
+        "chi": "这是一个金属盒子!它挡住了我们的路!"
+    },
+    "...and for some reason it has magic powers!": {
+        "chi": "…出于某种原因，它有魔力!"
+    },
+    "Kill it!": {
+        "chi": "杀了它!"
+    },
+    "The Boss is using Hurt! Crouch!!!": {
+        "chi": "托儿索正在攻击站着的人！快蹲下！"
+    },
+    "The Boss is attacking the middle!": {
+        "chi": "托儿索正在攻击中间，向两边躲避！"
+    },
+    "The Boss is attacking the sides!": {
+        "chi": "托儿索正在攻击两边!，快到中间来！"
+    },
+    "The Boss is sending out an electric bar!": {
+        "chi": "托儿索正在放电！"
+    },
+    "This rock is pretty weak": {
+        "chi": "这块岩石很脆弱"
+    },
+    "The door to the next room shall open in 30 seconds.": {
+        "chi": "下一个房间的门将在 30 秒后打开。"
+    },
+    "The door to this building will open in 15 seconds.": {
+        "chi": "这栋楼的门将在 15 秒后打开。"
+    },
+    "Stage 1": {
+        "chi": "关卡一"
+    },
+    "Stage 2": {
+        "chi": "关卡二"
+    },
+    "Stage 3": {
+        "chi": "关卡三"
+    },
+    "***Map made by wo0***": {
+        "chi": "地图制作者：wo0 地图翻译：托儿索 技术支持：苏妲 @top游廊"
+    },
+    "***Special thanks to: Berke and Eltra***": {
+        "chi": "特别感谢：Berke and Eltra"
+    },
+    "***Ported by Berke***": {
+        "chi": "地图技术支持：Berke"
+    },
+    "The door will break in 20 seconds.": {
+        "chi": "门会在 20 秒后打开。"
+    },
+    "The next door will open in 30 seconds. Defend!": {
+        "chi": "下一扇门将在 30 秒后打开。守住!"
+    },
+    "The door will open in 40 seconds! Defend!": {
+        "chi": "门将在 40 秒后打开!守住!"
+    },
+    "FALL BACK!": {
+        "chi": "润！"
+    },
+    "The elevator will leave in 10 seconds!": {
+        "chi": "电梯将会在 10 秒后离开。"
+    },
+    "We did it! We killed the box!": {
+        "chi": "我们成功了!我们把托儿索按在地上摩擦！"
+    },
+    "Oh no! The boss is teleporting us!": {
+        "chi": "噢,不!托儿索在传送我们!"
+    },
+    "The zombies will teleport in 10 seconds! Prepare to defend!": {
+        "chi": "僵尸将在 10 秒内传送!准备防御!"
+    },
+    "The Boss is slowing you down!": {
+        "chi": "托儿索正在给你减速"
+    },
+    "The Boss is using Hurt! Crouch!": {
+        "chi": "托儿索正在攻击站着的人！快蹲下！"
+    },
+    "It's the magical electric box again! Kill it!": {
+        "chi": "又是那个神奇的托儿索!杀了它!"
+    },
+    "THE ZOMBIES HAVE INFECTED THE BUNKER! YOU LOSE!": {
+        "chi": "僵尸已经感染了地堡!你输了!"
+    },
+    "If you press the button to the left, the door on the right will open!": {
+        "chi": "如果你按左边的按钮，右边的门就会打开!"
+    },
+    "The next door will open in15 seconds!": {
+        "chi": "下一扇门将在 15 秒后打开!"
+    },
+    "Defend for 15 seconds while the door opens!": {
+        "chi": "守卫 15 秒，直到门打开!"
+    },
+    "The door shall open in 15 seconds!": {
+        "chi": "门将在 15 秒后打开!"
+    },
+    "***Marathon Mode has been activated!***": {
+        "chi": "连关模式已启动"
+    },
+    "***Want to skip to Marathon Mode? You can step on this plate!***": {
+        "chi": "如果你想玩连关模式，就直接踩在这个板子上"
+    },
+    "***Want to skip out of Marathon Mode? You can step on this plate!***": {
+        "chi": "如果你想退出--连关--模式，就直接踩在这个板子上"
+    }
+}

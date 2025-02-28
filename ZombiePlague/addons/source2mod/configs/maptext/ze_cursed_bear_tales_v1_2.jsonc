@@ -1,0 +1,296 @@
+{
+    "***TEMPLE CLOSING IN 40 SEC***": {
+        "chi": "神庙40秒后关闭"
+    },
+    "***YOU'RE THE WORST TEAM IVE EVER SEEN***": {
+        "chi": "这是我见过的最糟糕的事"
+    },
+    "***ILL JUST SKIP THE ENIGMA FOR YOU***": {
+        "chi": "快跳过这里"
+    },
+    "***CHRISTMAS ARTIFACT PICKED UP***": {
+        "chi": "减速已被拾取"
+    },
+    "***CAN BE USED EVERY 60 SEC***": {
+        "chi": "CD 60秒"
+    },
+    "***SLOW DOWN THE ZOMBIES***": {
+        "chi": "减速僵尸"
+    },
+    "***HALLOWEEN ARTIFACT PICKED UP***": {
+        "chi": "推力已被拾取"
+    },
+    "***PUSH THE ZOMBIES AWAY***": {
+        "chi": "可以推开僵尸"
+    },
+    "***HEAL PICKED UP***": {
+        "chi": "治疗已被拾取"
+    },
+    "***ONLY 1 USE***": {
+        "chi": "只能使用一次"
+    },
+    "***MINE PICKED UP***": {
+        "chi": "地雷已被拾取"
+    },
+    "***CAN BE USED EVERY 20 SEC***": {
+        "chi": "CD 20秒"
+    },
+    "***DOOR CLOSING IN 30 SECONDS***": {
+        "chi": "大门30秒后关闭"
+    },
+    "***DOOR CLOSING IN 10 SECONDS***": {
+        "chi": "大门10秒后关闭"
+    },
+    "***ARTIFACT TAKEN***": {
+        "chi": "把它记录下来"
+    },
+    "***YOU WON HALLOWEEN LEVEL***": {
+        "chi": "你们通过了整蛊关卡"
+    },
+    "***ELEVATOR LEAVING IN 30 SEC***": {
+        "chi": "电梯30秒后出发"
+    },
+    "***ELEVATOR LEAVING IN 10 SEC***": {
+        "chi": "电梯10秒后出发"
+    },
+    "***YOU DEFEATED HIM***": {
+        "chi": "你们打败了它"
+    },
+    "***PICK UP THE ARTIFACT***": {
+        "chi": "把小玩具拿起来"
+    },
+    "***BUTTON PRESSED***": {
+        "chi": "按钮解锁"
+    },
+    "***TELEPORT ENABLE IN 40 SEC***": {
+        "chi": "传送40秒后开启"
+    },
+    "***CIRCLES HAVE BEEN TRIGGERED***": {
+        "chi": "循环开始"
+    },
+    "***ENABLING TELEPORT IN 10 SEC***": {
+        "chi": "传送10秒后开启"
+    },
+    "***WAIT 20 SECONDS***": {
+        "chi": "防守20秒"
+    },
+    "***DOOR OPENING IN 30 SEC***": {
+        "chi": "大门30秒后打开"
+    },
+    "***DOOR OPENING IN 10 SEC***": {
+        "chi": "大门10秒后打开"
+    },
+    "***DOORS OPENING IN 20 SEC***": {
+        "chi": "大门20秒后打开"
+    },
+    "***OPENNING IN 5 SEC***": {
+        "chi": "剩余5秒"
+    },
+    "***PRESS THE BUTTON TO OPEN THE DOORS***": {
+        "chi": "按下按钮打开大门"
+    },
+    "***Both button pressed***": {
+        "chi": "两边按钮已按下"
+    },
+    "***Upper Button Pressed***": {
+        "chi": "上层按钮已按下"
+    },
+    "***Downer Button Pressed***": {
+        "chi": "下层按钮已按下"
+    },
+    "***WALL WILL BREAK IN 20 SEC***": {
+        "chi": "墙壁20秒后破碎"
+    },
+    "***WALL WILL BREAK IN 5 SEC***": {
+        "chi": "墙壁5秒后破碎"
+    },
+    "***UPPER DOOR OPENING IN 20 SEC***": {
+        "chi": "上层大门20秒后打开"
+    },
+    "***UPPER DOOR OPENING IN 5 SEC***": {
+        "chi": "上层大门5秒后打开"
+    },
+    "***SOMEONE HAS TO CALL THE ELEVATOR***": {
+        "chi": "呼叫电梯"
+    },
+    "***ELEVATOR GOING DOWN***": {
+        "chi": "电梯开始下降"
+    },
+    "***A PORTAIL HAS BEEN OPENED AT THE ENTRANCE***": {
+        "chi": "入口已出现"
+    },
+    "***YOU WON CHRISTMAS LEVEL***": {
+        "chi": "你通过了圣诞关卡"
+    },
+    "***PICK UP THE ARTEFACT AND RUN AWAY***": {
+        "chi": "拾取小玩具然后赶紧润"
+    },
+    "***RELEASING ZOMBIES IN 5 SEC***": {
+        "chi": "僵尸5秒后出笼"
+    },
+    "***TELEPORTING ZM IN 5 SEC***": {
+        "chi": "僵尸5秒后传送"
+    },
+    "***SOLVE THE ENIGMA***": {
+        "chi": "解开秘密"
+    },
+    "***DOOR OPENS IN 20 SEC***": {
+        "chi": "大门20秒后打开"
+    },
+    "***DOOR OPENS IN 5 SEC***": {
+        "chi": "大门5秒后打开"
+    },
+    "***DEFEND 45 SEC***": {
+        "chi": "防守45秒"
+    },
+    "***CLOSING DOOR IN 10 SEC***": {
+        "chi": "大门10秒后关闭"
+    },
+    "SANTA: WHY DID YOU COME ON MY ISLAND": {
+        "chi": "圣诞老人：有何贵干"
+    },
+    "SANTA: Oh I see... You came for my artefact": {
+        "chi": "圣诞老人：我明白了，来拿我的小玩具是吧"
+    },
+    "SANTA: You will pay for the damage you have already done!": {
+        "chi": "圣诞老人：准备付出代价"
+    },
+    "SANTA: I AM A HALF GOD. BE READY FOR INCREDIBLE POWER": {
+        "chi": "圣诞老人：吾乃半神之躯，尔等皆为蝼蚁"
+    },
+    "***ENIGMA SOLVED***": {
+        "chi": "谜题已解开"
+    },
+    "***DOOR OPEN IN 20 SEC***": {
+        "chi": "大门20秒后打开"
+    },
+    "***DOOR OPEN IN 5 SEC***": {
+        "chi": "大门5秒后打开"
+    },
+    "***DOOR CLOSE IN 5 SEC***": {
+        "chi": "大门5秒后关闭"
+    },
+    "***GET IN THE TRAINS***": {
+        "chi": "快上车"
+    },
+    "***DOOR CLOSING IN 10 SEC***": {
+        "chi": "大门10秒后关闭"
+    },
+    "***DOOR WILL OPEN IN 30 SEC***": {
+        "chi": "大门30秒后打开"
+    },
+    "***DOOR WILL OPEN IN 10 SEC***": {
+        "chi": "大门10秒后打开"
+    },
+    "***Right Button Pressed***": {
+        "chi": "左边按钮已按下"
+    },
+    "***DOOR OPENING IN 20 SEC***": {
+        "chi": "大门10秒后打开"
+    },
+    "***DOOR OPENING IN 5 SEC***": {
+        "chi": "大门5秒后打开"
+    },
+    "***Left Button Pressed***": {
+        "chi": "右边开关已按下"
+    },
+    "***Christmas LEVEL***": {
+        "chi": "圣诞关卡"
+    },
+    "***Halloween LEVEL***": {
+        "chi": "整蛊关卡"
+    },
+    "***WARMUP ROUND***": {
+        "chi": "热身时间"
+    },
+    "***MAP STARTING IN 30 SEC***": {
+        "chi": "地图30秒后重置"
+    },
+    "***MAP STARTING IN 20 SEC***": {
+        "chi": "地图20秒后重置"
+    },
+    "***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***": {
+        "chi": "你的目标是两件小玩具"
+    },
+    "***YOU WILL START BY THE CHRISTMAS ONE***": {
+        "chi": "从圣诞开始"
+    },
+    "***MAP STARTING IN 5 SEC***": {
+        "chi": "地图5秒后重置"
+    },
+    "***MAP BY RAPHI***": {
+        "chi": "***作者 RAPHI 汉化 萌爱***"
+    },
+    "***YOU FINALLY DEFEATED HIM!!!***": {
+        "chi": "你们胜利了"
+    },
+    "***GET OUT OF THE TEMPLE***": {
+        "chi": "离开神庙"
+    },
+    "***KEEP DEFENDING***": {
+        "chi": "继续防守"
+    },
+    "***TELEPORT SPAWNING IN 10 SEC***": {
+        "chi": "传送10秒后开启"
+    },
+    "***30 SECONDS LEFT***": {
+        "chi": "剩余30秒"
+    },
+    "***10 SECONDS LEFT***": {
+        "chi": "剩余10秒"
+    },
+    "***HE IS STEALING THE ARTIFACT***": {
+        "chi": "它要偷走小玩具"
+    },
+    "***THIS TRAITOR RAN AWAY***": {
+        "chi": "它要逃跑了"
+    },
+    "***WE HAVE TO KILL HIM NOW***": {
+        "chi": "我们必须消灭它"
+    },
+    "***YOU CAN NOW TAKE HIS ARTIFACT***": {
+        "chi": "可以拿走它的小玩具了"
+    },
+    "***WAIT SOMEONE IS COMING***": {
+        "chi": "等等，有人来了"
+    },
+    "***DOOR OPENING IN 40 SEC***": {
+        "chi": "大门40秒后打开"
+    },
+    "***FALLBACK***": {
+        "chi": "快溜"
+    },
+    "***TELEPORTING ZOMBIES ON THE SIDES IN 5 SEC***": {
+        "chi": "僵尸传送5秒后开启"
+    },
+    "***WAIT 30 SEC***": {
+        "chi": "防守30秒"
+    },
+    "***LEFT LEVER PRESSED***": {
+        "chi": "左边按钮已按下"
+    },
+    "***RIGHT LEVER PRESSED***": {
+        "chi": "右边开关已按下"
+    },
+    "***YOU JUST BEAT THE MAP***": {
+        "chi": "你们通过了所有关卡"
+    },
+    "***CONGRATZ***": {
+        "chi": "恭喜你们"
+    },
+    "***Final LEVEL***": {
+        "chi": "最终关卡"
+    },
+    "***WALL BREAKING IN 30 SEC***": {
+        "chi": "墙壁30秒后破碎"
+    },
+    "***TEMPLE WILL OPEN IN 20 SEC***": {
+        "chi": "神庙将在20秒后打开"
+    },
+    "***ELEVATOR ENABLED***": {
+        "chi": "电梯已启动"
+    },
+    "***WALL BREAKING IN 20 SEC***": {
+        "chi": "墙壁20秒后破碎"
+    }
+}

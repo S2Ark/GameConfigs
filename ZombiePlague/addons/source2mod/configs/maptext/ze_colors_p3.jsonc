@@ -1,0 +1,95 @@
+{
+    "** Hey there! Welcome to ze_colors **": {
+        "chi": "** 欢迎各位的游玩!这里是颜料世界!汉化:萌爱 **"
+    },
+    "** Believe it or not this map was once a tutorial and twice a duck! **": {
+        "chi": "** 你们不得不承认，这里就是嘉然的颜料世界! **"
+    },
+    "** Level: Lemon **": {
+        "chi": "** 难度1:简单 **"
+    },
+    "** This level looks like good old Louisiana: lines and squares all along the little lonely land **": {
+        "chi": "** 这里到处是方块和色彩，是嘉然打翻了颜料桶吗 **"
+    },
+    "** GET GOING! Tension has been built in the spawn area! **": {
+        "chi": "** 快走!这里看起来很危险! **"
+    },
+    "** RESIST! We're pathetically close to the spawn still! **": {
+        "chi": "** 这里刷分还是有点危险! **"
+    },
+    "** One tiny bit more! We're almost there! **": {
+        "chi": "** ？？？？？ **"
+    },
+    "** Hold right here! There are 4 entrances - take care of them! **": {
+        "chi": "** 嘉然在这里打开了四个入口! **"
+    },
+    "** Keep it up! 10 seconds left! **": {
+        "chi": "** 继续防守10秒! **"
+    },
+    "** RESIST! We need to wait for a bit until we fly-fly-fly! **": {
+        "chi": "** 防守一会儿! 嘉然会带我们起飞!**"
+    },
+    "** Hold it a bit more! The magical energy is energy-ny-zing! **": {
+        "chi": "** 继续防守!找到嘉然的神秘开关! **"
+    },
+    "** Last few seconds! HOLD IT! **": {
+        "chi": "** 还需要一些时间，守住! **"
+    },
+    "** Split hold! Both sides must survive! RESIST! **": {
+        "chi": "** 嘉然在努力??? **"
+    },
+    "** Hold it! Last 10 seconds! **": {
+        "chi": "** 坚持10秒! **"
+    },
+    "** Do you see it? Time to practice ropeless bungee jumping! **": {
+        "chi": "** 前面是?蹦极!!! **"
+    },
+    "** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **": {
+        "chi": "** 防守住这个小通道! **"
+    },
+    "** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **": {
+        "chi": "** 快动起来!我们呆的时间太长了! **"
+    },
+    "** One more hold and then the woody poody finale! **": {
+        "chi": "** 再坚持一会儿，嘉然会带我们出去! **"
+    },
+    "** I'm quite sure you're wishing you had done something with your life now... **": {
+        "chi": "**希望嘉然知道她在做什么... **"
+    },
+    "** GO! The absurdly stupid ending awaits with more absurd holding than ever! **": {
+        "chi": "** 快走吧，嘉然似乎把我们骗了! **"
+    },
+    "** THIS IS OUR LAST STAND! RESIST! **": {
+        "chi": "** 艹 我们没有退路了! **"
+    },
+    "** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **": {
+        "chi": "** 来的路塌了!!! **"
+    },
+    "** GET READY! THE LAST WAVE IS INCOMING! **": {
+        "chi": "** 僵尸的攻势越发猛烈! **"
+    },
+    "** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **": {
+        "chi": "** 继续坚持，不到最后一刻不放弃! **"
+    },
+    "*** Amazing! You did it!! Let's see how you do on Grape mode! ***": {
+        "chi": "*** 你们做到了!在没有嘉然的情况下....! ***"
+    },
+    "** Level: Grape **": {
+        "chi": "** 难度:正常 **"
+    },
+    "** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **": {
+        "chi": "** 嘉然正在吃葡萄....（不干正事）**"
+    },
+    "*** Incredible! You managed to clear Grape mode! How about another go? ***": {
+        "chi": "*** 难以置信，在嘉然摸鱼的时候，你们又成功了 ***"
+    },
+    "** Level: Grape 2 **": {
+        "chi": "**难度:困难 **"
+    },
+    "** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **": {
+        "chi": "** 嘉然正在矫正颜色 **"
+    },
+    "*** Bet you didn't expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***": {
+        "chi": "*** 嘉然隐藏了这条信息，你们居然发现了??? ***"
+    }
+}

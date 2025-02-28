@@ -1,0 +1,68 @@
+{
+    "<<< Bar door opens in 30 seconds! >>>": {
+        "chi": "<<< 大门30秒后打开! >>>"
+    },
+    "<<< Zombies teleport in 20 seconds! >>>": {
+        "chi": "<<< 僵尸20秒后传送! >>>"
+    },
+    "<<< Gate opens in 60 seconds! >>>": {
+        "chi": "<<<大门 60 秒后打开! >>>"
+    },
+    "<<< Last hold! Hold for 60 seconds! >>>": {
+        "chi": "<<< 最后防守60秒! >>>"
+    },
+    "<<< 25 more seconds! >>>": {
+        "chi": "<<< 剩余25秒! >>>"
+    },
+    "<<< Ladder on side of platform has been broken watch out!!!": {
+        "chi": "平台一侧的梯子被打破了，当心！！！"
+    },
+    "<<< Gates open in 10 seconds! >>>": {
+        "chi": "<<< 大门10秒后打开! >>>"
+    },
+    "<<< Gastly Wind >>>": {
+        "chi": "<<< 狂风 >>>"
+    },
+    "<<< Killzone >>>": {
+        "chi": "<<< 杀戮之地 >>>"
+    },
+    "<<< Replenish >>>": {
+        "chi": "<<< 充能 >>>"
+    },
+    "<<< Gate opens in 30 seconds! >>>": {
+        "chi": "<<< 大门30秒后打开! >>>"
+    },
+    "<<< Crystals break in 30 seconds! >>>": {
+        "chi": "<<< 水晶30秒后破碎! >>>"
+    },
+    "<<< Zombies teleport in 45 seconds! >>>": {
+        "chi": "<<< 僵尸45秒后传送! >>>"
+    },
+    "<<< Blade stopping! >>>": {
+        "chi": "<<< 桨叶停止! >>>"
+    },
+    "<<< Icicles break in 10 seconds! >>>": {
+        "chi": "冰层在10秒后破裂！"
+    },
+    "<<< Bridge appearing in 5 seconds! >>>": {
+        "chi": "桥梁5秒后出现"
+    },
+    "<<< Zombies teleport in 60 seconds! >>>": {
+        "chi": "僵尸60秒后传送"
+    },
+    "<<< Cavern door opens in 45 seconds! >>>": {
+        "chi": "洞口45秒后打开"
+    },
+    "<<< Outside door closes in 15 seconds! >>>": {
+        "chi": "外门15秒后打开"
+    },
+    "<<< Zombies teleport in 30 seconds! >>>": {
+        "chi": "僵尸30秒后传送"
+    },
+    "<<< Ice breaks in 45 seconds! >>>": {
+        "chi": "冰层45秒后破碎"
+    },
+    "<<< Ice breaking in 60 seconds! >>>": {
+        "chi": "冰层60秒后破碎"
+    }
+}

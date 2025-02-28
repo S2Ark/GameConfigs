@@ -1,0 +1,176 @@
+{
+    "** We have reached the temple **": {
+        "chi": "我们到达了这里"
+    },
+    "** Now we need go to get the core and recharge it **": {
+        "chi": "我们需要给核心充能"
+    },
+    "** Hold 30 second to open the door **": {
+        "chi": "大门30秒后打开"
+    },
+    "** it is corruption sprite **": {
+        "chi": "这是黑暗精灵"
+    },
+    "** It occupies the root of the sky tree **": {
+        "chi": "它占据了天穹树的根部"
+    },
+    "** We need to beat it **": {
+        "chi": "我们必须打败它"
+    },
+    "** We have reached the sky tree tower **": {
+        "chi": "我们到达了天穹树塔"
+    },
+    "** Bring the core to the root of the sky tree **": {
+        "chi": "把核心带到天穹树的根部"
+    },
+    "** The airship leaves in 25 seconds **": {
+        "chi": "飞船25秒后出发"
+    },
+    "** The core is full of energy and we can leave **": {
+        "chi": "核心已充满能量，快离开这里"
+    },
+    "** The core is healing the people around **": {
+        "chi": "核心将持续释放治愈能量"
+    },
+    "** Looks like we need to hold 30s **": {
+        "chi": "防守30秒"
+    },
+    "** We have got the core. Now we need to fill the core with energy in the holy pool **": {
+        "chi": "我们找了核心，把核心沉入圣池充满能量"
+    },
+    "** The core will emit energy, protect it from being polluted by the undead **": {
+        "chi": "核心即将释放能量，保护它!!!"
+    },
+    "** The divine tree has received energy, we need another 20 seconds to open the door **": {
+        "chi": "神树已吸取能量，防守20秒"
+    },
+    "** Hold on, The core is releasing energy **": {
+        "chi": "稍等，核心正在释放能量"
+    },
+    "** Now go to the sky tree for shelter **": {
+        "chi": "可以前往天穹树避难了"
+    },
+    "** Hold 20 second **": {
+        "chi": "防守20秒"
+    },
+    "** Hold 25 second to clear the tree **": {
+        "chi": "天穹树25秒后开始净化"
+    },
+    "** A player has picked up wind magic **": {
+        "chi": "玩家拾取风"
+    },
+    "** Hold 30 second to clear the rock**": {
+        "chi": "岩石30秒后破碎"
+    },
+    "** Infected undead can only be purified by sky tree **": {
+        "chi": "黑暗只能被天穹树净化"
+    },
+    "** The plague from ancient times broke out **": {
+        "chi": "瘟疫正在蔓延"
+    },
+    "** However, the sacred tree needs energy to release purification magic **": {
+        "chi": "然而，圣树需要能量来净化黑暗"
+    },
+    "** We need to go to the temple to get the core of energy **": {
+        "chi": "我们需要获取核心"
+    },
+    "** Hold 30 second to destroy the fence**": {
+        "chi": "围栏30秒后破碎"
+    },
+    "** Hold 30 second to activate the tower **": {
+        "chi": "塔楼还有30秒"
+    },
+    "** The door is open **": {
+        "chi": "大门已打开"
+    },
+    "** Jump to transfer array **": {
+        "chi": "进入传送阵"
+    },
+    "** A player has picked up fire magic **": {
+        "chi": "玩家拾取火"
+    },
+    "** A player has picked up earth magic **": {
+        "chi": "玩家拾取大地元素"
+    },
+    "** Hold 35 second to open the door **": {
+        "chi": "大门35秒后打开"
+    },
+    "** The door is open. We need to leave the temple **": {
+        "chi": "门开了，快离开这里"
+    },
+    "** Finally escaped **": {
+        "chi": "我们逃出生天了"
+    },
+    "** We need to take the airship to reach the sky tree tower **": {
+        "chi": "我们需要乘坐飞艇到达天穹树塔"
+    },
+    "** Hold 15 second to remove the magic array **": {
+        "chi": "魔法阵15秒后激活"
+    },
+    "** Keep defending, we need to get the energy core **": {
+        "chi": "继续防守，我们正在获取核心"
+    },
+    "** Hold 25 second to destroy the rock **": {
+        "chi": "岩石25秒后破碎"
+    },
+    "** Hurt poison, stay away from the entrance **": {
+        "chi": "毒药-远离入口"
+    },
+    "** Spirit diffusion, avoid injury **": {
+        "chi": "精神扩散-躲避弹幕"
+    },
+    "** Overcharge, hold the zombie **": {
+        "chi": "超载-防守僵尸"
+    },
+    "** Poison fog, take shelter in the pool **": {
+        "chi": "毒雾-躲进圣池"
+    },
+    "** Spirits out, pay attention to the spirit ball **": {
+        "chi": "精神球-正在扩散"
+    },
+    "** Poison swamp, go to the second floor **": {
+        "chi": "毒沼泽-上二楼"
+    },
+    "** Now drop the core into the tree pool **": {
+        "chi": "将核心放入圣池"
+    },
+    "** It finally died **": {
+        "chi": "它被我们击败了"
+    },
+    "** The wind is rising **": {
+        "chi": "风起"
+    },
+    "** An undead learned wind shield magic **": {
+        "chi": "僵尸盾已被拾取"
+    },
+    "** An undead learned wind magic **": {
+        "chi": "僵尸风已被拾取"
+    },
+    "** An undead learned speed magic **": {
+        "chi": "僵尸加速已被拾取"
+    },
+    "** We failed to protect the core **": {
+        "chi": "我们未能保护核心"
+    },
+    "** They will die, we made it,  jump!!! **": {
+        "chi": "我们做到了，快跳起来"
+    },
+    "** The undead will fight us to death after 10 seconds **": {
+        "chi": "黑暗将在10秒后与人类同归于尽"
+    },
+    "** The sacred tree is already purifying the undead. Hold on **": {
+        "chi": "圣树正在净化黑暗，坚持住"
+    },
+    "** Stay in the protected area of the sky tree **": {
+        "chi": "待在圣树的庇护下"
+    },
+    "** Hold 20 second, we're almost at the sky tree **": {
+        "chi": "防守20秒，我们快到达天穹树了"
+    },
+    "** Hold 30 second **": {
+        "chi": "防守30秒"
+    },
+    "** Hold 30 second to break the wall **": {
+        "chi": "墙壁30秒后破碎"
+    }
+}

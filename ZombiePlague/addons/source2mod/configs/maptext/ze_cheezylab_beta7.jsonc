@@ -1,0 +1,116 @@
+{
+    "--Photonic Blade Obtained: 30 seconds cooldown--": {
+        "chi": "--获得光子刀片：30秒冷却时间--"
+    },
+    "*Nuclear detonation imminent! 30 seconds remaining.*": {
+        "chi": "*核子打击即将到来！还剩30秒.*"
+    },
+    "*Self-destruct sequence activated: 1 minute to detonation.*": {
+        "chi": "*自毁程序启动：1分钟后自爆.*"
+    },
+    "*5*": {
+        "chi": "*5*"
+    },
+    "*4*": {
+        "chi": "*4*"
+    },
+    "*3*": {
+        "chi": "*3*"
+    },
+    "*2*": {
+        "chi": "*2*"
+    },
+    "*1*": {
+        "chi": "*1*"
+    },
+    "*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*": {
+        "chi": "*通风系统设置为：加注设施，预计持续时间为25秒*"
+    },
+    "*-'Great.Now plant C4 here and run!'-*": {
+        "chi": "*-'太好了，现在把C4放在这里，然后快跑!'-*"
+    },
+    "*-'Oh look,chemical weapons.More specificly VX '-*": {
+        "chi": "*-'哦，看，化学武器，更具体地说是VX神经毒气 '-*"
+    },
+    "*Emergency bunker closing in 35 seconds*": {
+        "chi": "*35秒后紧急大门关闭*"
+    },
+    "--Map made by:Tgting--": {
+        "chi": "--地图作者 Tgting 汉化 Tastysaw@GO社区服--"
+    },
+    "--Music by RageVI and CT--": {
+        "chi": "--音乐提供 RageVI 和 CT--"
+    },
+    "*-'Well,that's convenient.'-*": {
+        "chi": "*-'嗯，那就方便多了.'-*"
+    },
+    "*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*": {
+        "chi": "*-'该死.那个通道通向一个装满了大量反物质的空间.'-*"
+    },
+    "*-'Mmmkay the Excalibre is a key to...'-*": {
+        "chi": "*-'嗯，可以说钥匙是解决问题的关键...'-*"
+    },
+    "*-'Upload the data.'-*": {
+        "chi": "*-'上传数据.'-*"
+    },
+    "*-'Halfway there!Keep firing!'-*": {
+        "chi": "*-'走一半了！继续开火!'-*"
+    },
+    "*-'Hurry!To the left'-*": {
+        "chi": "*-'快快快!去左边'-*"
+    },
+    "*-'It's activating its weapon systems!'-*": {
+        "chi": "*-'它正在激活它的武器系统!'-*"
+    },
+    "*-'Shoot the computer!The blue part!'-*": {
+        "chi": "*-'射击电脑!蓝色的部分!'-*"
+    },
+    "*Uploading.Estimated time of completion: 30 seconds*": {
+        "chi": "*数据上传中.预计30秒后完成*"
+    },
+    "*Upload 50 complete*": {
+        "chi": "*数据上传50%*"
+    },
+    "*Upload 75 complete*": {
+        "chi": "*数据上传75%*"
+    },
+    "*Upload complete!*": {
+        "chi": "*数据上传完毕!*"
+    },
+    "*-'A low gravity room.Kinda expected that'-*": {
+        "chi": "*-'一个低重力房间.预料到了'-*"
+    },
+    "*-'What was that!?'-*": {
+        "chi": "*-'这是什么!?'-*"
+    },
+    "--Door opens in 40 seconds--": {
+        "chi": "--大门40秒后开启--"
+    },
+    "--Door opens in 5 seconds--": {
+        "chi": "--大门5秒后开启--"
+    },
+    "--Zombies held for 10 seconds--": {
+        "chi": "--僵尸在10秒内无法进入低重力房间--"
+    },
+    "*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*": {
+        "chi": "*气闸门故障，正在尝试修复，预计持续时间：30秒*"
+    },
+    "--5 seconds--": {
+        "chi": "--5秒--"
+    },
+    "*-'Maybe there's something here we can use'-*": {
+        "chi": "*-'也许这里有些东西我们能用上'-*"
+    },
+    "*-'An airlock? That's strange. I don't remember them having these.'-*": {
+        "chi": "*-'气闸门？真奇怪，我不记得他们有这些.'-*"
+    },
+    "*-'This is your slightly eccentric commander speaking, get a move on!'-*": {
+        "chi": "*-'你的指挥官告诉你赶紧跑!'-*"
+    },
+    "*Upload 50% complete*": {
+        "chi": "*数据上传50%*"
+    },
+    "*Upload 75% complete*": {
+        "chi": "*数据上传75%*"
+    }
+}

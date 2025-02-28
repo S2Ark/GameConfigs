@@ -1,0 +1,143 @@
+{
+    "(>>>Map Ported by Henry<<<)": {
+        "chi": ">>>地图作者 m4dara 地图移植者 Henry 汉化 Tastysaw <<<"
+    },
+    ">> Doors opens in 20 seconds <<": {
+        "chi": ">> 大门20秒后开启 <<"
+    },
+    ">> PLAYER HAS PICKED UP ROCK <<": {
+        "chi": ">> 有玩家学会了土遁-土流壁 <<"
+    },
+    ">> Press the three levers to open the door <<": {
+        "chi": ">> 拉下3个开关开启大门 <<"
+    },
+    ">> PLAYER HAS PICKED UP WIND <<": {
+        "chi": ">> 有玩家学会了风遁-龙卷飓风 <<"
+    },
+    "(>>>Triggered<<<)": {
+        "chi": ">>>机关正在启动<<<"
+    },
+    ">> Door opens in 30 seconds <<": {
+        "chi": ">> 大门30秒后开启 <<"
+    },
+    ">> Door opens in 10 seconds <<": {
+        "chi": ">> 大门10秒后开启 <<"
+    },
+    ">> PLAYER HAS PICKED UP HEAL <<": {
+        "chi": ">> 有玩家学会了百豪之术 <<"
+    },
+    "*** Door opens in 20 seconds ***": {
+        "chi": "*** 大门20秒后开启 ***"
+    },
+    ">> Door opens soon <<": {
+        "chi": ">> 大门即将开启 <<"
+    },
+    ">> Door opens in 15 seconds <<": {
+        "chi": ">> 大门15秒后开启 <<"
+    },
+    ">> Rock will explode in 10 seconds <<": {
+        "chi": ">> 岩石10秒后爆炸 <<"
+    },
+    ">> Touch the blue particle to disable the portal <<": {
+        "chi": ">> 寻找蓝色的查克拉来启动传送阵 <<"
+    },
+    ">> PLAYER HAS PICKED UP ELECTRO <<": {
+        "chi": ">> 有玩家学会了雷遁-千鸟锐枪 <<"
+    },
+    ">> Fall back now <<": {
+        "chi": ">> 现在撤退 <<"
+    },
+    ">> Zombies will teleport soon <<": {
+        "chi": ">> 僵尸即将传送 <<"
+    },
+    ">> Try to find the elevator button <<": {
+        "chi": ">> 找到启动电梯的按钮 <<"
+    },
+    "(>>Elevators will move in 40 seconds<<)": {
+        "chi": ">>电梯40秒后启动<<"
+    },
+    ">> Madara has casted ultima <<": {
+        "chi": ">> 宇智波斑释放禁术-天碍震星(贴墙躲避) <<"
+    },
+    "** Madara disappear - Escape ! **": {
+        "chi": "** 宇智波斑消失了 - 快跑 ! **"
+    },
+    ">> Door opens in 45 seconds <<": {
+        "chi": ">> 大门45秒后开启 <<"
+    },
+    ">> Destroy the Gedo Mazo statue <<": {
+        "chi": ">> 摧毁外道魔像 <<"
+    },
+    ">> Teleport will be enabled in 30 seconds <<": {
+        "chi": ">> 传送器30秒后启动 <<"
+    },
+    ">> Teleport will be enabled in 10 seconds <<": {
+        "chi": ">> 传送器10秒后启动 <<"
+    },
+    ">> Second door will open soon <<": {
+        "chi": ">> 第二道门即将开启 <<"
+    },
+    ">> Find the blue particle to disable the shield <<": {
+        "chi": ">> 寻找蓝色的查克拉来破坏结界 <<"
+    },
+    ">> Defend until the particle reaches the shield <<": {
+        "chi": ">> 守住直到查克拉破坏结界 <<"
+    },
+    ">> Run to the portal under the waterfall <<": {
+        "chi": ">> 快去瀑布后面的传送器 <<"
+    },
+    ">> door opens in 20 seconds <<": {
+        "chi": ">> 大门20秒后开启 <<"
+    },
+    ">> door opens in 5 seconds <<": {
+        "chi": ">> 大门5秒后开启 <<"
+    },
+    ">> Final door opens in 20 seconds <<": {
+        "chi": ">> 最后的大门20秒后开启 你见过宇智波斑的全盛时期吗 <<"
+    },
+    ">> Cross the bridge and run to the last door ! <<": {
+        "chi": ">> 穿过大桥准备最后的战斗 ! <<"
+    },
+    ">> Door will close soon ! <<": {
+        "chi": ">> 大门即将关闭 ! <<"
+    },
+    ">> Congratulation you won the map <<": {
+        "chi": ">> 你 是忍者之神 我愿称你为最强 <<"
+    },
+    ">> PLAYER HAS PICKED UP ZOMBIE LURE <<": {
+        "chi": ">> 有僵尸学会了万象天引 <<"
+    },
+    ">> PLAYER HAS PICKED UP GRAVITY <<": {
+        "chi": ">> 有玩家学会了禁术-地爆天星 <<"
+    },
+    ">> PLAYER HAS PICKED UP ZOMBIE WARP <<": {
+        "chi": ">> 有僵尸学会了轮墓边狱 <<"
+    },
+    ">> PLAYER HAS PICKED UP ZOMBIE HEAL <<": {
+        "chi": ">> 有僵尸学会了以生转生 <<"
+    },
+    ">> PLAYER HAS PICKED UP FIRE <<": {
+        "chi": ">> 有玩家学会了火遁-凤仙火 <<"
+    },
+    ">> PLAYER HAS PICKED UP ZOMBIE FIRE <<": {
+        "chi": ">> 有僵尸学会了加具土命 <<"
+    },
+    ">> PLAYER HAS PICKED UP ULTIMA <<": {
+        "chi": ">> 有玩家学会了禁术-神罗天征 <<"
+    },
+    ">> LOADING ULTIMA 20 SECONDS <<": {
+        "chi": ">> 神罗天征需要20秒结印进行释放 <<"
+    },
+    ">> Madara is unleashing a FINAL ATTACK ! <<": {
+        "chi": ">> 宇智波斑正在准备最后的攻击!你也想起舞吗? <<"
+    },
+    ">> GET INSIDE QUICK ! <<": {
+        "chi": ">> 快进来! <<"
+    },
+    ">> Someone has reached the end ! <<": {
+        "chi": ">> 有人到达终点! <<"
+    },
+    ">> Final doors close in 40 seconds ! <<": {
+        "chi": ">> 最后的大门40秒后关闭! <<"
+    }
+}
