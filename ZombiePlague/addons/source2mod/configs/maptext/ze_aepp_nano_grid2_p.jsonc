@@ -1,18 +1,6 @@
 {
-    "** Ape Escape : Pumped & Primed **": {
-        "chi": "** Ape Escape : Pumped & Primed **"
-    },
-    "** Map by ryo **": {
-        "chi": "** 地图作者ryo翻译：白云我真的白 **"
-    },
     "** 10 seconds **": {
         "chi": "** 防守10秒**"
-    },
-    "** 25 seconds **": {
-        "chi": "** 防守25秒 **"
-    },
-    "** 5 seconds **": {
-        "chi": "** 防守5秒 **"
     },
     "** 15 seconds **": {
         "chi": "** 防守15秒**"
@@ -20,13 +8,26 @@
     "** 20 seconds **": {
         "chi": "** 防守20秒 **"
     },
+    "** 25 seconds **": {
+        "chi": "** 防守25秒 **"
+    },
     "** 30 seconds **": {
         "chi": "** 防守30秒 **"
     },
     "** 45 seconds **": {
         "chi": "** 防守45秒**"
     },
+    "** 5 seconds **": {
+        "chi": "** 防守5秒 **"
+    },
+    "** Ape Escape : Pumped & Primed **": {
+        "chi": "** Ape Escape : Pumped & Primed **"
+    },
     "** HUMANS WIN **": {
         "chi": "** 人类获胜！ **"
-    }
+    },
+    "** Map by ryo **": {
+        "chi": "** 地图作者ryo翻译：白云我真的白 **"
+    },
+    "** Nano Grid2 1/2 **": {}
 }

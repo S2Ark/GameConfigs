@@ -597,7 +597,7 @@
         },
         {
             "mapname": "ze_sisyphus",
-            "displayname": "西西弗斯推石头",
+            "displayname": "西西弗斯",
             "workshopid": 3208444375
         },
         {
@@ -1784,6 +1784,26 @@
             "mapname": "ze_miside",
             "displayname": "米塔",
             "workshopid": 3432667287
+        },
+        {
+            "mapname": "ze_urbanstone",
+            "displayname": "石头城市",
+            "workshopid": 3264302314
+        },
+        {
+            "mapname": "ze_flower",
+            "displayname": "花之声",
+            "workshopid": 3325696092
+        },
+        {
+            "mapname": "ze_flowering",
+            "displayname": "月神殿前传",
+            "workshopid": 3425902946
+        },
+        {
+            "mapname": "ze_surf_outside",
+            "displayname": "奥德赛滑翔",
+            "workshopid": 3439001340
         }
     ]
 }

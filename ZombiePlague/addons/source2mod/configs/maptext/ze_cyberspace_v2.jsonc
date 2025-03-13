@@ -1,140 +1,146 @@
 {
-    ">> Defend for 30 seconds <<": {
-        "chi": ">> 防守30秒 <<"
-    },
-    ">> 5 seconds left <<": {
-        "chi": ">> 剩余5秒 <<"
-    },
-    ">> Defend for 15 seconds <<": {
-        "chi": ">> 防守15秒 <<"
-    },
-    ">> Zombie TP in 15 seconds <<": {
-        "chi": ">> 僵尸15秒后传送 <<"
-    },
-    ">> Defend for 5 seconds <<": {
-        "chi": ">> 防守5秒 <<"
-    },
-    ">> Defend for 20 seconds <<": {
-        "chi": ">> 防守20秒 <<"
-    },
-    ">> Zombie TP in 10 seconds <<": {
-        "chi": ">> 僵尸10秒后传送 <<"
-    },
-    ">> Timer stopped <<": {
-        "chi": ">> 寂灭时钟已暂停 <<"
+    "<System> ** Welcome to Cyberspace! **": {},
+    ">> 1 <<": {
+        "chi": ">> 1 <<"
     },
     ">> 10 more seconds <<": {
         "chi": ">> 剩余10秒 <<"
     },
-    ">> Watch out for Zombies <<": {
-        "chi": ">> 小心尸笼 <<"
-    },
-    ">> Last defend for 20 seconds <<": {
-        "chi": ">>最后防守20秒 <<"
-    },
-    ">> Zombie TP in 5 seconds <<": {
-        "chi": ">> 僵尸5秒后传送 <<"
-    },
-    ">> 5 <<": {
-        "chi": ">> 5 <<"
-    },
-    ">> 4 <<": {
-        "chi": ">> 4 <<"
-    },
-    ">> 3 <<": {
-        "chi": ">> 3 <<"
+    ">> 100 seconds <<": {
+        "chi": ">> 剩余100秒 <<"
     },
     ">> 2 <<": {
         "chi": ">> 2 <<"
     },
-    ">> 1 <<": {
-        "chi": ">> 1 <<"
+    ">> 20 seconds <<": {
+        "chi": ">> 剩余20秒 <<"
     },
-    ">> Chapter 1 Completed <<": {
-        "chi": ">> 第一关已通过 汉化 萌爱<<"
+    ">> 3 <<": {
+        "chi": ">> 3 <<"
     },
-    ">> Defend for 35 seconds <<": {
-        "chi": ">> 防守35秒 <<"
-    },
-    ">> Defend for 25 seconds <<": {
-        "chi": ">> 防守25秒 <<"
-    },
-    ">> Watch your step <<": {
-        "chi": ">> 小心脚底 <<"
-    },
-    ">> Defend for 40 seconds <<": {
-        "chi": ">> 防守40秒 <<"
-    },
-    ">> 100 seconds <<": {
-        "chi": ">> 剩余100秒 <<"
-    },
-    ">> 80 seconds <<": {
-        "chi": ">> 剩余80秒  <<"
-    },
-    ">> 60 seconds <<": {
-        "chi": ">>剩余 60 秒 <<"
-    },
-    ">> platform appeared <<": {
-        "chi": ">> 平台已出现 <<"
+    ">> 4 <<": {
+        "chi": ">> 4 <<"
     },
     ">> 40 seconds <<": {
         "chi": ">> 剩余40秒 <<"
     },
-    ">> Beam stopped <<": {
-        "chi": ">> 激光已消失 <<"
-    },
-    ">> 20 seconds <<": {
-        "chi": ">> 剩余20秒 <<"
+    ">> 5 <<": {
+        "chi": ">> 5 <<"
     },
     ">> 5 seconds <<": {
         "chi": ">> 剩余 5 秒 <<"
     },
-    ">> look down <<": {
-        "chi": ">> 往下看 <<"
+    ">> 5 seconds left <<": {
+        "chi": ">> 剩余5秒 <<"
+    },
+    ">> 60 seconds <<": {
+        "chi": ">>剩余 60 秒 <<"
+    },
+    ">> 80 seconds <<": {
+        "chi": ">> 剩余80秒  <<"
+    },
+    ">> Beam stopped <<": {
+        "chi": ">> 激光已消失 <<"
+    },
+    ">> Chapter 1 Completed <<": {
+        "chi": ">> 第一关已通过 汉化 萌爱<<"
     },
     ">> Chapter 2 Completed <<": {
         "chi": ">> 第二关已通过 汉化 萌爱 <<"
     },
-    ">> platform start in 20 seconds <<": {
-        "chi": ">> 平台20秒后启动 <<"
-    },
-    ">> fall tp update in 15 seconds <<": {
-        "chi": ">>最终传送15秒后开启 <<"
-    },
-    ">> Escape from Cyberspace! <<": {
-        "chi": ">> 逃离电脑空间! <<"
-    },
-    ">> Defend for 12 seconds <<": {
-        "chi": ">> 防守12秒 <<"
-    },
-    ">> End of System in 140 seconds <<": {
-        "chi": ">> 系统将在140秒后崩坏 <<"
-    },
-    ">> End of System in 120 seconds <<": {
-        "chi": ">> 系统将在120秒后崩坏 <<"
-    },
-    ">> End of System in 100 seconds <<": {
-        "chi": ">>系统将在100秒后崩坏s <<"
-    },
-    ">> End of System in 80 seconds <<": {
-        "chi": ">> 系统将在80秒后崩坏 <<"
-    },
-    ">> End of System in 60 seconds <<": {
-        "chi": ">> 系统将在60秒后崩坏 <<"
-    },
-    ">> End of System in 40 seconds <<": {
-        "chi": ">> 系统将在40秒后崩坏 <<"
-    },
-    ">> End of System in 20 seconds <<": {
-        "chi": ">> 系统将在20秒后崩坏 <<"
+    ">> Chapter Ex Completed <<": {
+        "chi": ">>EX模式已完成<<"
     },
     ">> Cyberspace has broken down <<": {
         "chi": ">> 电脑空间正在崩坏 <<"
     },
+    ">> Defend for 12 seconds <<": {
+        "chi": ">> 防守12秒 <<"
+    },
+    ">> Defend for 15 seconds <<": {
+        "chi": ">> 防守15秒 <<"
+    },
+    ">> Defend for 20 seconds <<": {
+        "chi": ">> 防守20秒 <<"
+    },
+    ">> Defend for 25 seconds <<": {
+        "chi": ">> 防守25秒 <<"
+    },
+    ">> Defend for 30 seconds <<": {
+        "chi": ">> 防守30秒 <<"
+    },
+    ">> Defend for 35 seconds <<": {
+        "chi": ">> 防守35秒 <<"
+    },
+    ">> Defend for 40 seconds <<": {
+        "chi": ">> 防守40秒 <<"
+    },
+    ">> Defend for 5 seconds <<": {
+        "chi": ">> 防守5秒 <<"
+    },
+    ">> End of System in 100 seconds <<": {
+        "chi": ">>系统将在100秒后崩坏s <<"
+    },
+    ">> End of System in 120 seconds <<": {
+        "chi": ">> 系统将在120秒后崩坏 <<"
+    },
+    ">> End of System in 140 seconds <<": {
+        "chi": ">> 系统将在140秒后崩坏 <<"
+    },
+    ">> End of System in 20 seconds <<": {
+        "chi": ">> 系统将在20秒后崩坏 <<"
+    },
+    ">> End of System in 40 seconds <<": {
+        "chi": ">> 系统将在40秒后崩坏 <<"
+    },
+    ">> End of System in 60 seconds <<": {
+        "chi": ">> 系统将在60秒后崩坏 <<"
+    },
+    ">> End of System in 80 seconds <<": {
+        "chi": ">> 系统将在80秒后崩坏 <<"
+    },
+    ">> Escape from Cyberspace! <<": {
+        "chi": ">> 逃离电脑空间! <<"
+    },
+    ">> Failed <<": {},
+    ">> Last defend for 20 seconds <<": {
+        "chi": ">>最后防守20秒 <<"
+    },
+    ">> Timeleft : 10 <<": {},
+    ">> Timeleft : 30 <<": {},
+    ">> Timeleft : 5 <<": {},
+    ">> Timeleft : 60 <<": {},
+    ">> Timer stopped <<": {
+        "chi": ">> 寂灭时钟已暂停 <<"
+    },
     ">> Type RTV <<": {
         "chi": ">>  RTV 关 <<"
     },
-    ">> Chapter Ex Completed <<": {
-        "chi": ">>EX模式已完成<<"
+    ">> Watch out for Zombies <<": {
+        "chi": ">> 小心尸笼 <<"
+    },
+    ">> Watch your step <<": {
+        "chi": ">> 小心脚底 <<"
+    },
+    ">> Zombie TP in 10 seconds <<": {
+        "chi": ">> 僵尸10秒后传送 <<"
+    },
+    ">> Zombie TP in 15 seconds <<": {
+        "chi": ">> 僵尸15秒后传送 <<"
+    },
+    ">> Zombie TP in 5 seconds <<": {
+        "chi": ">> 僵尸5秒后传送 <<"
+    },
+    ">> fall tp update in 15 seconds <<": {
+        "chi": ">>最终传送15秒后开启 <<"
+    },
+    ">> look down <<": {
+        "chi": ">> 往下看 <<"
+    },
+    ">> platform appeared <<": {
+        "chi": ">> 平台已出现 <<"
+    },
+    ">> platform start in 20 seconds <<": {
+        "chi": ">> 平台20秒后启动 <<"
     }
 }

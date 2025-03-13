@@ -1,59 +1,61 @@
 {
-    ">>> BOSS DIED !!! <<<": {
-        "chi": ">>> BOSS已被击败 !!! <<<"
-    },
-    ">>> LASER BOSS FIGHT !!! <<<": {
-        "chi": "准备跳刀打BOSS"
-    },
-    ">>> BOSS FIGHT IN 8 SECONDS <<<": {
-        "chi": "BOSS战8秒后开始"
-    },
-    ">>> BOSS FIGHT !!! <<<": {
-        "chi": "BOSS战开始"
-    },
-    ">>> TIME IS OVER !!! <<<": {
-        "chi": "时间结束"
-    },
-    ">>> ZOMBIES COME OUT AT 20 SECONDS <<<": {
-        "chi": "僵尸20秒后出笼"
-    },
-    ">>> ZOMBIES ARE OUT !!! <<<": {
-        "chi": "僵尸出笼"
-    },
-    ">>> ZOMBIES COME OUT AT 30 SECONDS <<<": {
-        "chi": "僵尸30秒后出笼"
+    ">>> 15 SECONDS LEFT !!! <<<": {
+        "chi": "剩余15秒"
     },
     ">>> AFK TELEPORT IN 30 SECONDS <<<": {
         "chi": "挂机玩家30秒后传送"
     },
-    ">>> PLATFORM WILL OPEN IN 55 SECONDS <<<": {
-        "chi": "站台将在55秒后开放"
+    ">>> BEHIND !!! <<<": {
+        "chi": "小心后面"
     },
-    ">>> MAP BY PIROTEXNIK <<<": {
-        "chi": ">>>作者 PIROTEXNIK 汉化 萌爱 <<<"
+    ">>> BOSS DIED !!! <<<": {
+        "chi": ">>> BOSS已被击败 !!! <<<"
+    },
+    ">>> BOSS FIGHT !!! <<<": {
+        "chi": "BOSS战开始"
+    },
+    ">>> BOSS FIGHT IN 8 SECONDS <<<": {
+        "chi": "BOSS战8秒后开始"
+    },
+    ">>> HOLD 50 SECONDS <<<": {},
+    ">>> HOLD 53 SECONDS <<<": {},
+    ">>> HOLD 55 SECONDS <<<": {
+        "chi": "防守55秒"
     },
     ">>> HOLD 60 SECONDS <<<": {
         "chi": "防守60秒"
     },
-    ">>> ZOMBIES COME OUT AT 25 SECONDS <<<": {
-        "chi": "僵尸25秒后出笼"
-    },
-    ">>> HOLD 55 SECONDS <<<": {
-        "chi": "防守55秒"
-    },
     ">>> HOLD 65 SECONDS <<<": {
         "chi": "防守65秒"
     },
-    ">>> 15 SECONDS LEFT !!! <<<": {
-        "chi": "剩余15秒"
+    ">>> KILL ALL THE ZOMBIES! !!! <<<": {
+        "chi": "消灭所有僵尸"
+    },
+    ">>> LASER BOSS FIGHT !!! <<<": {
+        "chi": "准备跳刀打BOSS"
+    },
+    ">>> MAP BY PIROTEXNIK <<<": {
+        "chi": ">>>作者 PIROTEXNIK 汉化 萌爱 <<<"
+    },
+    ">>> PLATFORM WILL OPEN IN 55 SECONDS <<<": {
+        "chi": "站台将在55秒后开放"
     },
     ">>> SURVIVOR LOSED !!! <<<": {
         "chi": "幸存者已经输了"
     },
-    ">>> BEHIND !!! <<<": {
-        "chi": "小心后面"
+    ">>> TIME IS OVER !!! <<<": {
+        "chi": "时间结束"
     },
-    ">>> KILL ALL THE ZOMBIES! !!! <<<": {
-        "chi": "消灭所有僵尸"
+    ">>> ZOMBIES ARE OUT !!! <<<": {
+        "chi": "僵尸出笼"
+    },
+    ">>> ZOMBIES COME OUT AT 20 SECONDS <<<": {
+        "chi": "僵尸20秒后出笼"
+    },
+    ">>> ZOMBIES COME OUT AT 25 SECONDS <<<": {
+        "chi": "僵尸25秒后出笼"
+    },
+    ">>> ZOMBIES COME OUT AT 30 SECONDS <<<": {
+        "chi": "僵尸30秒后出笼"
     }
 }

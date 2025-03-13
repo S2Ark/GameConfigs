@@ -1,71 +1,74 @@
 {
-    "***Low Health picked up***": {
-        "chi": "***削血已被拾取***"
+    "*** Resist 60 seconds ***": {},
+    "***10 seconds left***": {
+        "chi": "***还剩10秒***"
     },
-    "***Low Health Used***": {
-        "chi": "***削血已使用***"
+    "***5 second left***": {},
+    "***5 seconds left***": {
+        "chi": "***还剩5秒***"
     },
-    "***Gravity picked up***": {
-        "chi": "***黑洞已被拾取***"
-    },
-    "***Gravity Used***": {
-        "chi": "***黑洞已被使用***"
+    "***Detonation in 3 seconds***": {
+        "chi": "***3秒后爆炸***"
     },
     "***Find Another Button***": {
         "chi": "***找到按钮***"
     },
-    "***READY TO RUN***": {
-        "chi": "***准备逃离这里***"
+    "***Gravity Used***": {
+        "chi": "***黑洞已被使用***"
     },
-    "***No Secret Chance***": {
-        "chi": "***这里有个秘密***"
+    "***Gravity picked up***": {
+        "chi": "***黑洞已被拾取***"
     },
-    "***Watch out!***": {
-        "chi": "***小心刀光!***"
+    "***Low Health Used***": {
+        "chi": "***削血已使用***"
     },
-    "***Resist for 30 seconds***": {
-        "chi": "***防守30秒***"
-    },
-    "***Ready for final surf***": {
-        "chi": "***准备好最终滑翔***"
+    "***Low Health picked up***": {
+        "chi": "***削血已被拾取***"
     },
     "***Map by Reflelia***": {
         "chi": "***作者 Reflelia 汉化 萌爱***"
     },
-    "***5 seconds left***": {
-        "chi": "***还剩5秒***"
+    "***No Secret Chance***": {
+        "chi": "***这里有个秘密***"
     },
-    "***Teleport activates in 20 seconds***": {
-        "chi": "***传送20秒后开启***"
+    "***READY TO RUN***": {
+        "chi": "***准备逃离这里***"
     },
-    "***shorcut open***": {
-        "chi": "***已打开***"
-    },
-    "***Second teleport fixed in 30 seconds***": {
-        "chi": "***第二区域将在30秒后传送***"
-    },
-    "***Try to find second button***": {
-        "chi": "***触发第二个按钮***"
-    },
-    "***zombies are coming***": {
-        "chi": "它们来了"
-    },
-    "***Resist for 60 seconds***": {
-        "chi": "***防守 60 秒***"
-    },
-    "***Teleport error fixed in 30 seconds***": {
-        "chi": "***传送30秒后开启***"
-    },
-    "***Watermelon***": {
-        "chi": "***西瓜?***"
+    "***Ready for final surf***": {
+        "chi": "***准备好最终滑翔***"
     },
     "***Resist 45 seconds***": {
         "chi": "***防守45秒***"
     },
-    "***10 seconds left***": {
-        "chi": "***还剩10秒***"
+    "***Resist for 30 seconds***": {
+        "chi": "***防守30秒***"
     },
-    "***Detonation in 3 seconds***": {
-        "chi": "***3秒后爆炸***"
+    "***Resist for 60 seconds***": {
+        "chi": "***防守 60 秒***"
+    },
+    "***Second teleport fixed in 30 seconds***": {
+        "chi": "***第二区域将在30秒后传送***"
+    },
+    "***Teleport activates in 20 seconds***": {
+        "chi": "***传送20秒后开启***"
+    },
+    "***Teleport error fixed in 30 seconds***": {
+        "chi": "***传送30秒后开启***"
+    },
+    "***Try to find second button***": {
+        "chi": "***触发第二个按钮***"
+    },
+    "***Watch out!***": {
+        "chi": "***小心刀光!***"
+    },
+    "***Watermelon***": {
+        "chi": "***西瓜?***"
+    },
+    "***Zombies are coming!***": {},
+    "***shorcut open***": {
+        "chi": "***已打开***"
+    },
+    "***zombies are coming***": {
+        "chi": "它们来了"
     }
 }

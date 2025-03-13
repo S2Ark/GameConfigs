@@ -1,87 +1,96 @@
 {
-    "*** Map by Airvulpes ***": {
-        "chi": "*** 地图作者:Airvulpes 汉化 江化 & 夢終乄壹***"
-    },
-    "*** Hold 20 seconds ***": {
-        "chi": "*** 20秒后门开 ***"
+    "*** 10 seconds left ***": {
+        "chi": "*** 还剩10秒 ***"
     },
     "*** 5 seconds left ***": {
         "chi": "*** 还剩5秒 ***"
     },
-    "*** Hold 30 seconds ***": {
-        "chi": "*** 30秒后门开 ***"
-    },
-    "*** 10 seconds left ***": {
-        "chi": "*** 还剩10秒 ***"
-    },
-    "*** GUST ***": {
-        "chi": "*** 狂风 ***"
-    },
-    "*** Hold 50 seconds ***": {
-        "chi": "*** 50秒后门开 ***"
-    },
-    "*** UPDRAFT ***": {
-        "chi": "*** 上升气流 ***"
-    },
-    "*** DOWNBURST ***": {
-        "chi": "*** 下爆气流 ***"
-    },
     "*** AERIAL BLAST ***": {
         "chi": "*** 大气爆发 ***"
-    },
-    "*** EYE OF THE STORM ***": {
-        "chi": "*** 暴风之眼 ***"
-    },
-    "*** TORNADO ***": {
-        "chi": "*** 龙卷风 ***"
-    },
-    "*** ZOMBIE GOT INSIDE THE LIFT ***": {
-        "chi": "*** 僵尸登上了电梯！ ***"
-    },
-    "*** STAGE FAILED ***": {
-        "chi": "*** 关卡失败 ***"
-    },
-    "*** TERA FLARE ***": {
-        "chi": "*** 兆亿耀斑(boss死亡) ***"
-    },
-    "*** Hold 10 seconds ***": {
-        "chi": "*** 坚守10秒 ***"
-    },
-    "*** LIFT IS LEAVING IN 5 SECONDS ***": {
-        "chi": "*** 电梯在5秒之后上升 ***"
-    },
-    "*** FLASH OVER ***": {
-        "chi": "*** 闪燃｛贴直墙｝ ***"
-    },
-    "*** SUN STRIKE ***": {
-        "chi": "*** 阳炎冲击｛动起来｝ ***"
-    },
-    "*** MEGA FLARE ***": {
-        "chi": "*** 百万耀斑 ***"
-    },
-    "*** FLAME RADIATION ***": {
-        "chi": "*** 火焰辐射｛不要动｝ ***"
-    },
-    "*** FIREBALL ***": {
-        "chi": "*** 大火球｛二段冲击｝ ***"
-    },
-    "*** FORGE SPIRITS ***": {
-        "chi": "*** 熔炉精灵 ***"
-    },
-    "*** GIGA FLARE ***": {
-        "chi": "*** 千万耀斑 ***"
-    },
-    "*** FRAMBERGE ***": {
-        "chi": "*** 焰形剑｛头顶天坠｝ ***"
-    },
-    "*** EXA FLARE ***": {
-        "chi": "*** 亿万耀斑｛终极｝ ***"
     },
     "*** CURAGA ***": {
         "chi": "*** 回复｛人类无敌｝ ***"
     },
+    "*** DOWNBURST ***": {
+        "chi": "*** 下爆气流 ***"
+    },
+    "*** Door opens in 25 seconds ***": {},
+    "*** Doors open in 10 seconds ***": {},
+    "*** EARTH SHOCK ***": {},
+    "*** EARTH STOMP ***": {},
+    "*** EARTHEN SHIELD ***": {},
+    "*** EARTHQUAKE ***": {},
+    "*** EXA FLARE ***": {
+        "chi": "*** 亿万耀斑｛终极｝ ***"
+    },
+    "*** EYE OF THE STORM ***": {
+        "chi": "*** 暴风之眼 ***"
+    },
+    "*** FIREBALL ***": {
+        "chi": "*** 大火球｛二段冲击｝ ***"
+    },
+    "*** FLAME RADIATION ***": {
+        "chi": "*** 火焰辐射｛不要动｝ ***"
+    },
+    "*** FLASH OVER ***": {
+        "chi": "*** 闪燃｛贴直墙｝ ***"
+    },
+    "*** FORGE SPIRITS ***": {
+        "chi": "*** 熔炉精灵 ***"
+    },
+    "*** FRAMBERGE ***": {
+        "chi": "*** 焰形剑｛头顶天坠｝ ***"
+    },
+    "*** GIGA FLARE ***": {
+        "chi": "*** 千万耀斑 ***"
+    },
+    "*** GUST ***": {
+        "chi": "*** 狂风 ***"
+    },
     "*** HOLY ***": {
         "chi": "*** 神圣｛防守20秒｝ ***"
+    },
+    "*** Hold 10 seconds ***": {
+        "chi": "*** 坚守10秒 ***"
+    },
+    "*** Hold 20 seconds ***": {
+        "chi": "*** 20秒后门开 ***"
+    },
+    "*** Hold 25 seconds ***": {},
+    "*** Hold 30 seconds ***": {
+        "chi": "*** 30秒后门开 ***"
+    },
+    "*** Hold 50 seconds ***": {
+        "chi": "*** 50秒后门开 ***"
+    },
+    "*** LAND SUBSIDENCE ***": {},
+    "*** LIFT IS LEAVING IN 5 SECONDS ***": {
+        "chi": "*** 电梯在5秒之后上升 ***"
+    },
+    "*** MEGA FLARE ***": {
+        "chi": "*** 百万耀斑 ***"
+    },
+    "*** Map by Airvulpes ***": {
+        "chi": "*** 地图作者:Airvulpes 汉化 江化 & 夢終乄壹***"
+    },
+    "*** QUAKE ***": {},
+    "*** STAGE FAILED ***": {
+        "chi": "*** 关卡失败 ***"
+    },
+    "*** SUN STRIKE ***": {
+        "chi": "*** 阳炎冲击｛动起来｝ ***"
+    },
+    "*** TERA FLARE ***": {
+        "chi": "*** 兆亿耀斑(boss死亡) ***"
+    },
+    "*** TORNADO ***": {
+        "chi": "*** 龙卷风 ***"
+    },
+    "*** UPDRAFT ***": {
+        "chi": "*** 上升气流 ***"
+    },
+    "*** ZOMBIE GOT INSIDE THE LIFT ***": {
+        "chi": "*** 僵尸登上了电梯！ ***"
     },
     "*** ZOMBIE KILLED PHILIA ***": {
         "chi": "*** 僵尸击碎了精灵圣球 ***"

@@ -1,63 +1,200 @@
 {
-    "*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***": {
-        "chi": "*** 地图作者 MICROSOFT EDGE AND DARKROAD 汉化 已死之人 ***"
+    "** DOORS WILL OPEN IN 15 SEC **": {
+        "chi": "** 大门15秒后开启 **"
     },
-    "***Thanks Batnik_Ref.smd for animation TRI-FACE ***": {
-        "chi": "***感谢 Batnik_Ref.smd for animation TRI-FACE ***"
+    "** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **": {
+        "chi": "** 它把我们吸进了黑洞! 去左右两边躲避!!! **"
     },
-    "*** STAGE 1 [NORMAL] ***": {
-        "chi": "*** 第一关 [NORMAL] ***"
+    "** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **": {
+        "chi": "** 它把我们吸进了黑洞! 快打碎那个流星!!! **"
     },
-    "[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS": {
-        "chi": "[爱丽丝] 这里是古代种神殿"
+    "** MAP COMPLETED **": {
+        "chi": "** 地图已通关 **"
     },
-    "[AERIS] I WANT TO GO INSIDE!": {
-        "chi": "[爱丽丝] 我想进去看一下!"
-    },
-    "*** follow the white sphere ***": {
-        "chi": "*** 跟随白光前进 ***"
-    },
-    "*** DEFEND FOR 15 SEC ***": {
-        "chi": "*** 防守15秒 ***"
-    },
-    "*** GO GO ***": {
-        "chi": "*** GO GO ***"
-    },
-    "A player has picked up the FIRE Materia": {
-        "chi": "一位玩家捡到了火"
-    },
-    "A player has picked up the WIND Materia": {
-        "chi": "一位玩家捡到了风"
-    },
-    "*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***": {
-        "chi": "*** 传送器15秒后启动 ***"
-    },
-    "*** GET INSIDE ***": {
-        "chi": "*** 快进去 ***"
-    },
-    "*** GO GO GO  ***": {
-        "chi": "*** GO GO GO  ***"
+    "** STAGE 2 WIN **": {
+        "chi": "** 你通过了第二关 **"
     },
     "***  Down and then to the right ***": {
         "chi": "***  下去然后右转 ***"
     },
-    "*** DEFEND FOR 10 SEC ***": {
-        "chi": "*** 守住10秒 ***"
+    "*** BLACK MATERIA HAS BEEN PICKED UP ***": {
+        "chi": "*** 黑色魔石已被捡起 ***"
     },
-    "*** Get up to the white sphere ***": {
-        "chi": "*** 跟随白光前进 ***"
-    },
-    "*** the teleport to the temple will work in 15 seconds ***": {
-        "chi": "*** 通往神殿的传送器15秒后启动 ***"
+    "*** Black materiar almost at us! ***": {
+        "chi": "*** 黑色魔石就在前方了! ***"
     },
     "*** DEFEND ***": {
         "chi": "*** 守一下 ***"
     },
+    "*** DEFEND CLOUD FOR 10 SEC ***": {
+        "chi": "*** 保护克劳德10秒 ***"
+    },
+    "*** DEFEND FOR 10 SEC ***": {
+        "chi": "*** 守住10秒 ***"
+    },
+    "*** DEFEND FOR 15 SEC ***": {
+        "chi": "*** 防守15秒 ***"
+    },
+    "*** DEFEND FOR 15sec ***": {
+        "chi": "*** 守住15秒 ***"
+    },
+    "*** DEFEND FOR 20 SEC ***": {
+        "chi": "*** 守住20秒 ***"
+    },
+    "*** DONT SHOOT HIM ***": {
+        "chi": "*** 停枪 ***"
+    },
+    "*** FALL BACK ***": {
+        "chi": "*** 撤退 ***"
+    },
+    "*** GAULLE HAS BEEN KILLED ***": {
+        "chi": "*** Boss被干碎了 ***"
+    },
+    "*** GET INSIDE ***": {
+        "chi": "*** 快进去 ***"
+    },
+    "*** GO GO ***": {
+        "chi": "*** GO GO ***"
+    },
+    "*** GO GO GO  ***": {
+        "chi": "*** GO GO GO  ***"
+    },
+    "*** GO TO THE CAVES TO PICK IT UP ***": {
+        "chi": "*** 从洞穴里穿过去 ***"
+    },
+    "*** Get on the ship ***": {
+        "chi": "*** 去飞船上 ***"
+    },
+    "*** Get up to the white sphere ***": {
+        "chi": "*** 跟随白光前进 ***"
+    },
+    "*** HI CRYSTAL WAS PICKED UP ***": {
+        "chi": "*** 水晶被捡起 ***"
+    },
+    "*** Kill SUMMONS ***": {
+        "chi": "*** 干碎两侧的炸弹精灵 ***"
+    },
+    "*** MAP COMPLETED ***": {
+        "chi": "*** 地图已通关 ***"
+    },
+    "*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***": {
+        "chi": "*** 地图作者 MICROSOFT EDGE AND DARKROAD 汉化 已死之人 ***"
+    },
     "*** One of the paths is chosen randomly ***": {
         "chi": "*** 随机开放一条路 ***"
     },
+    "*** Pick the crystal below ***": {
+        "chi": "*** 去下面拿起水晶 ***"
+    },
+    "*** SEPHIROT ***": {
+        "chi": "*** 是他妈萨菲罗斯 ***"
+    },
+    "*** SEPHIROT USED DOUBLE DAMAGE": {
+        "chi": "*** 萨菲罗斯获得双倍伤害 ***"
+    },
+    "*** SEPHIROT USED HEAL ***": {
+        "chi": "*** 萨菲罗斯使用治疗 ***"
+    },
+    "*** SEPHIROT USED LIMIT BREAK": {
+        "chi": "*** 萨菲罗斯使用极限突破 ***"
+    },
+    "*** STAGE 1 WIN ***": {
+        "chi": "*** 你通过了第一关 ***"
+    },
+    "*** STAGE 1 WIN [EXTREME]***": {
+        "chi": "*** 你通过了第一关 [EXTREME]***"
+    },
+    "*** STAGE 1 [EXTREME] ***": {
+        "chi": "*** 第一关 [EXTREME] ***"
+    },
+    "*** STAGE 1 [NORMAL] ***": {
+        "chi": "*** 第一关 [NORMAL] ***"
+    },
+    "*** STAGE 2 [EXTREME] ***": {
+        "chi": "*** 第二关 [EXTREME] ***"
+    },
+    "*** STAGE 2 [NORMAL] ***": {
+        "chi": "*** 第二关 [NORMAL] ***"
+    },
+    "*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***": {
+        "chi": "*** 传送器15秒后启动 ***"
+    },
+    "*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***": {
+        "chi": "*** 需要水晶来开门 ***"
+    },
+    "*** THE DOOR WILL OPEN IN 25 SEC.": {
+        "chi": "*** 大门25秒后开启."
+    },
+    "*** THE DRAGON HAS BEEN KILLED ***": {
+        "chi": "*** 巨龙被干碎了 ***"
+    },
+    "*** TRI FACE HAS BEEN KILLED   ***": {
+        "chi": "*** 他被干碎了   ***"
+    },
+    "*** TRI-FACE USED SHIELD DONT SHOOT ***": {
+        "chi": "*** 他使用了护盾 停枪! ***"
+    },
+    "*** WAIT ***": {
+        "chi": "*** 守住 ***"
+    },
+    "*** WAIT 10 SEC ***": {
+        "chi": "*** 守住10秒 ***"
+    },
+    "*** WAIT 12SEC ***": {
+        "chi": "*** 守住12秒 ***"
+    },
+    "*** WAIT 5 SEC ***": {
+        "chi": "*** 守住5秒 ***"
+    },
+    "*** YOU KEEP 30 SEC ***": {
+        "chi": "*** 守住30秒 ***"
+    },
+    "*** follow the white sphere ***": {
+        "chi": "*** 跟随白光前进 ***"
+    },
+    "*** the door will open in 15 sec ***": {
+        "chi": "*** 大门15秒后开启 ***"
+    },
+    "*** the teleport to the temple will work in 15 seconds ***": {
+        "chi": "*** 通往神殿的传送器15秒后启动 ***"
+    },
+    "***Thanks Batnik_Ref.smd for animation TRI-FACE ***": {
+        "chi": "***感谢 Batnik_Ref.smd for animation TRI-FACE ***"
+    },
+    "**Defend here for 15 seconds**": {},
+    "**Get Inside this hole**": {},
+    "**Go Go Go**": {},
+    "**Go go go!**": {},
+    "**HE USES GRAVITY ATTACK!BE CAREFUL!**": {
+        "chi": "**他使用黑洞攻击!小心!**"
+    },
+    "**HE USES WIND ATTACK! RESIST IT!**": {
+        "chi": "**他使用了风! 抵抗推力!**"
+    },
+    "**Hold here for 12 seconds!**": {},
+    "**Map Created by Microsoft Edge and DarkRoad**": {},
+    "**Next path is open": {},
+    "**Run to the upper floor**": {},
+    "**STAGE 1 [NORMAL]**": {},
+    "**Thanks Batnik_Ref.smd for animation TRI-FACE**": {},
+    "**Tri Face is going to jump! Move to the edges**": {
+        "chi": "**他要跳起来攻击了! 快去两侧躲避**"
+    },
+    "**Tri Face is healing himself": {
+        "chi": "**他使用了奶 回复生命值"
+    },
+    "**WARMUP ROUND**": {},
+    "**[AERIS] Anyway": {},
+    "**[AERIS] Cloud has been moved to another part of temple**": {},
+    "**[AERIS] Find way to next part of temple": {},
+    "**[AERIS] I know it's going to be tough": {},
+    "**[CLOUD] Hold this area for 10 seconds!**": {},
+    "**[CLOUD] If we want enter the ancient temple first activate teleport crystal!**": {},
     "A player has picked up the EARTH Materia": {
         "chi": "一位玩家捡到了土"
+    },
+    "A player has picked up the FIRE Materia": {
+        "chi": "一位玩家捡到了火"
     },
     "A player has picked up the HEAL Materia": {
         "chi": "一位玩家捡到了奶"
@@ -65,157 +202,40 @@
     "A player has picked up the ICE Materia": {
         "chi": "一位玩家捡到了冰"
     },
-    "*** DEFEND CLOUD FOR 10 SEC ***": {
-        "chi": "*** 保护克劳德10秒 ***"
-    },
-    "** DOORS WILL OPEN IN 15 SEC **": {
-        "chi": "** 大门15秒后开启 **"
-    },
     "A player has picked up the POISON Materia": {
         "chi": "一位玩家捡到了毒"
     },
-    "*** DEFEND FOR 20 SEC ***": {
-        "chi": "*** 守住20秒 ***"
-    },
-    "[AERIS] CLOUD look...": {
-        "chi": "[爱丽丝] 克劳德你看..."
-    },
-    "[AERIS] IT IS SEPHIROTH ": {
-        "chi": "[爱丽丝] 是萨菲罗斯 "
-    },
-    "*** FALL BACK ***": {
-        "chi": "*** 撤退 ***"
-    },
-    "** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **": {
-        "chi": "** 它把我们吸进了黑洞! 快打碎那个流星!!! **"
-    },
-    "** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **": {
-        "chi": "** 它把我们吸进了黑洞! 去左右两边躲避!!! **"
-    },
-    "*** THE DRAGON HAS BEEN KILLED ***": {
-        "chi": "*** 巨龙被干碎了 ***"
-    },
-    "[AERIS] CLOUD GO TO A CRYSTAL": {
-        "chi": "[爱丽丝] 克劳德你来拿一下水晶"
-    },
-    "*** STAGE 1 WIN ***": {
-        "chi": "*** 你通过了第一关 ***"
-    },
-    "*** STAGE 2 [NORMAL] ***": {
-        "chi": "*** 第二关 [NORMAL] ***"
-    },
-    "*** GAULLE HAS BEEN KILLED ***": {
-        "chi": "*** Boss被干碎了 ***"
-    },
-    "*** DEFEND FOR 15sec ***": {
-        "chi": "*** 守住15秒 ***"
-    },
-    "*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***": {
-        "chi": "*** 需要水晶来开门 ***"
-    },
-    "*** Pick the crystal below ***": {
-        "chi": "*** 去下面拿起水晶 ***"
-    },
-    "*** GO TO THE CAVES TO PICK IT UP ***": {
-        "chi": "*** 从洞穴里穿过去 ***"
-    },
-    "*** HI CRYSTAL WAS PICKED UP ***": {
-        "chi": "*** 水晶被捡起 ***"
-    },
-    "*** the door will open in 15 sec ***": {
-        "chi": "*** 大门15秒后开启 ***"
-    },
-    "**HE USES GRAVITY ATTACK!BE CAREFUL!**": {
-        "chi": "**他使用黑洞攻击!小心!**"
-    },
-    "**HE USES WIND ATTACK! RESIST IT!**": {
-        "chi": "**他使用了风! 抵抗推力!**"
-    },
-    "**Tri Face is healing himself": {
-        "chi": "**他使用了奶 回复生命值"
-    },
-    "**Tri Face is going to jump! Move to the edges**": {
-        "chi": "**他要跳起来攻击了! 快去两侧躲避**"
-    },
-    "*** TRI-FACE USED SHIELD DONT SHOOT ***": {
-        "chi": "*** 他使用了护盾 停枪! ***"
-    },
-    "*** TRI FACE HAS BEEN KILLED   ***": {
-        "chi": "*** 他被干碎了   ***"
-    },
-    "*** THE DOOR WILL OPEN IN 25 SEC.": {
-        "chi": "*** 大门25秒后开启."
-    },
-    "*** BLACK MATERIA HAS BEEN PICKED UP ***": {
-        "chi": "*** 黑色魔石已被捡起 ***"
-    },
-    "*** WAIT ***": {
-        "chi": "*** 守住 ***"
-    },
-    "*** Get on the ship ***": {
-        "chi": "*** 去飞船上 ***"
-    },
-    "*** WAIT 12SEC ***": {
-        "chi": "*** 守住12秒 ***"
-    },
-    "** STAGE 2 WIN **": {
-        "chi": "** 你通过了第二关 **"
-    },
-    "*** STAGE 1 [EXTREME] ***": {
-        "chi": "*** 第一关 [EXTREME] ***"
-    },
-    "*** STAGE 1 WIN [EXTREME]***": {
-        "chi": "*** 你通过了第一关 [EXTREME]***"
-    },
-    "*** STAGE 2 [EXTREME] ***": {
-        "chi": "*** 第二关 [EXTREME] ***"
-    },
-    "*** WAIT 10 SEC ***": {
-        "chi": "*** 守住10秒 ***"
-    },
-    "*** WAIT 5 SEC ***": {
-        "chi": "*** 守住5秒 ***"
-    },
-    "*** SEPHIROT USED HEAL ***": {
-        "chi": "*** 萨菲罗斯使用治疗 ***"
-    },
-    "*** DONT SHOOT HIM ***": {
-        "chi": "*** 停枪 ***"
-    },
-    "*** SEPHIROT USED DOUBLE DAMAGE": {
-        "chi": "*** 萨菲罗斯获得双倍伤害 ***"
-    },
-    "*** Kill SUMMONS ***": {
-        "chi": "*** 干碎两侧的炸弹精灵 ***"
-    },
-    "*** SEPHIROT USED LIMIT BREAK": {
-        "chi": "*** 萨菲罗斯使用极限突破 ***"
-    },
-    "*** YOU KEEP 30 SEC ***": {
-        "chi": "*** 守住30秒 ***"
-    },
-    "*** Black materiar almost at us! ***": {
-        "chi": "*** 黑色魔石就在前方了! ***"
-    },
-    "*** SEPHIROT ***": {
-        "chi": "*** 是他妈萨菲罗斯 ***"
-    },
-    "** MAP COMPLETED **": {
-        "chi": "** 地图已通关 **"
-    },
-    "*** MAP COMPLETED ***": {
-        "chi": "*** 地图已通关 ***"
-    },
-    "[ADMIN] LVL 1 NORMAL SET": {
-        "chi": "[权♂房间] 关卡设置 第一关 NORMAL"
+    "A player has picked up the WIND Materia": {
+        "chi": "一位玩家捡到了风"
     },
     "[ADMIN] LVL 1 EXTREME SET": {
         "chi": "[权♂房间] 关卡设置 第一关 EXTREMEL"
+    },
+    "[ADMIN] LVL 1 NORMAL SET": {
+        "chi": "[权♂房间] 关卡设置 第一关 NORMAL"
     },
     "[ADMIN] LVL 2 EXTREME SET": {
         "chi": "[权♂房间] 关卡设置 第二关 EXTREME"
     },
     "[ADMIN] LVL 2 NORMAL SET": {
         "chi": "[权♂房间] 关卡设置 第二关 NORMAL"
-    }
+    },
+    "[AERIS] CLOUD GO TO A CRYSTAL": {
+        "chi": "[爱丽丝] 克劳德你来拿一下水晶"
+    },
+    "[AERIS] CLOUD look...": {
+        "chi": "[爱丽丝] 克劳德你看..."
+    },
+    "[AERIS] I WANT TO GO INSIDE!": {
+        "chi": "[爱丽丝] 我想进去看一下!"
+    },
+    "[AERIS] I feel it! the knowledge of the Ancients floating**": {},
+    "[AERIS] I want to go inside!**": {},
+    "[AERIS] IT IS SEPHIROTH ": {
+        "chi": "[爱丽丝] 是萨菲罗斯 "
+    },
+    "[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS": {
+        "chi": "[爱丽丝] 这里是古代种神殿"
+    },
+    "[AERIS] This is the Temple of the Ancients***": {}
 }

@@ -1,69 +1,28 @@
 {
-    "**Defend 25s**": {
-        "chi": "**守住25秒**"
-    },
-    "> The Esper Adrammelech  fight in 10 seconds <": {
-        "chi": "> 灵帝阿德拉梅里克讨伐战10秒后开始 <"
-    },
-    "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **": {
-        "chi": "** 看! 索亨地下宫殿就在这里!. 我们就要到帝都阿尔卡迪亚了. **"
-    },
-    "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **": {
-        "chi": "** 如果像希德鲁法斯说的, 下一站我们必须去古代都市基鲁菲冈. **"
-    },
-    "**Thundara**": {
-        "chi": "**电**"
-    },
-    "**Flash Arc**": {
-        "chi": "**闪光电弧**"
-    },
-    "**Judgment Bolt**": {
-        "chi": "**裁决之雷**"
-    },
-    "**Heal**": {
-        "chi": "**治疗**"
-    },
-    "**Quicksandl**": {
-        "chi": "**流沙**"
-    },
-    "**Defend 10s**": {
-        "chi": "**守住10秒**"
-    },
-    "**Defend 15s**": {
-        "chi": "**守住15秒**"
-    },
-    "**Defend 20s**": {
-        "chi": "**守住20秒**"
-    },
-    "> The Esper Shemhazai  fight in 10 seconds <": {
-        "chi": "> 密告者修米哈撒讨伐战10秒后开始 <"
-    },
-    "** Clouds **": {
-        "chi": "** 迷雾 **"
-    },
-    "** Gravity **": {
-        "chi": "** 重力 **"
-    },
-    "** Soul Purge**": {
-        "chi": "** 灵魂净化 **"
-    },
-    "** Devour Soul**": {
-        "chi": "** 灵魂吞噬 **"
-    },
-    "** Please... take care of Larsa... **": {
-        "chi": "** 请... 照顾好拉萨... **"
-    },
-    "** Judge drace? Why she is here.. **": {
-        "chi": "** 裁判长多蕾丝? 她怎么在这.. **"
+    "** 200s **": {
+        "chi": "** 核子打击200秒后降临 **"
     },
     "** Adramelech is summoning the Sandmoster**": {
         "chi": "** 阿德拉梅里克正在召唤沙之恶灵**"
     },
-    "**Defend 30s**": {
-        "chi": "**守住30秒**"
+    "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **": {
+        "chi": "** 在裁判长贝甘入侵神都布尔欧密谢司之后, 我们决定前往德拉克勒研究所摧毁破魔石. **"
     },
-    "** Ice **": {
-        "chi": "**冰**"
+    "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **": {
+        "chi": "** 如果像希德鲁法斯说的, 下一站我们必须去古代都市基鲁菲冈. **"
+    },
+    "** Both switches have been pulled down **": {
+        "chi": "** 两个开关都被拉下了 **"
+    },
+    "** CS2 Port By @Seth **": {},
+    "** Cidolfus is gone, we have to find a way to get out from here first. **": {
+        "chi": "** 希德鲁法斯跑了, 先找路离开这里. **"
+    },
+    "** Clouds **": {
+        "chi": "** 迷雾 **"
+    },
+    "** Devour Soul**": {
+        "chi": "** 灵魂吞噬 **"
     },
     "** Double Damage **": {
         "chi": "** 双倍伤害 **"
@@ -71,53 +30,53 @@
     "** Flash Freeze **": {
         "chi": "** 急速冻结 **"
     },
-    "** The power is on, and the door will open soon **": {
-        "chi": "** 电源已启动, 大门即将开启 **"
+    "** Gravity **": {
+        "chi": "** 重力 **"
+    },
+    "** Ice **": {
+        "chi": "**冰**"
+    },
+    "** Judge drace? Why she is here.. **": {
+        "chi": "** 裁判长多蕾丝? 她怎么在这.. **"
     },
     "** KILL REMAINING ZOMBIES **": {
         "chi": "** 干碎活着的僵尸 **"
     },
+    "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **": {
+        "chi": "** 看! 索亨地下宫殿就在这里!. 我们就要到帝都阿尔卡迪亚了. **"
+    },
+    "** Map By Runa **": {
+        "chi": "** 地图作者 Runa 汉化 Xxxxxxxx **"
+    },
     "** Nethicite must be on Cidolfus... **": {
         "chi": "** 破魔石一定在希德鲁法斯那里... **"
     },
-    "** We need to go the top ascent of the Draklor Laboratory and find him. **": {
-        "chi": "** 我们必须去德拉克勒研究所顶部找到他. **"
+    "** Please... take care of Larsa... **": {
+        "chi": "** 请... 照顾好拉萨... **"
     },
-    "** Cidolfus is gone, we have to find a way to get out from here first. **": {
-        "chi": "** 希德鲁法斯跑了, 先找路离开这里. **"
+    "** Reflexive **": {
+        "chi": "** 反射 **"
     },
-    "** too late **": {
-        "chi": "** 你太他妈慢了 **"
-    },
-    "** The elevator still has 5s to rise **": {
-        "chi": "** 电梯5秒后启动 **"
+    "** Soul Purge**": {
+        "chi": "** 灵魂净化 **"
     },
     "** The elevator is warming up **": {
         "chi": "** 电梯正在充能 **"
     },
-    "** Both switches have been pulled down **": {
-        "chi": "** 两个开关都被拉下了 **"
+    "** The elevator still has 5s to rise **": {
+        "chi": "** 电梯5秒后启动 **"
     },
-    "**Hard**": {
-        "chi": "**Hard 模式**"
+    "** The power is on, and the door will open soon **": {
+        "chi": "** 电源已启动, 大门即将开启 **"
     },
-    "**Normal**": {
-        "chi": "**Normal 模式**"
-    },
-    "**Easy**": {
-        "chi": "**Easy 模式**"
+    "** We need to go the top ascent of the Draklor Laboratory and find him. **": {
+        "chi": "** 我们必须去德拉克勒研究所顶部找到他. **"
     },
     "** We need to pull down two switches to start the elevator**": {
         "chi": "** 我们需要拉下两个开关才能启动电梯 **"
     },
-    "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **": {
-        "chi": "** 在裁判长贝甘入侵神都布尔欧密谢司之后, 我们决定前往德拉克勒研究所摧毁破魔石. **"
-    },
-    "** 200s **": {
-        "chi": "** 核子打击200秒后降临 **"
-    },
-    "** Map By Runa **": {
-        "chi": "** 地图作者 Runa 汉化 Xxxxxxxx **"
+    "** too late **": {
+        "chi": "** 你太他妈慢了 **"
     },
     "**10 seconds remaining**": {
         "chi": "**还剩10秒**"
@@ -128,13 +87,56 @@
     "**30 seconds remaining**": {
         "chi": "**还剩30秒**"
     },
-    "**Warm Round**": {
-        "chi": "**热身局**"
-    },
     "**60 seconds remaining**": {
         "chi": "**还剩60秒**"
     },
-    "** Reflexive **": {
-        "chi": "** 反射 **"
+    "**Defend 10s**": {
+        "chi": "**守住10秒**"
+    },
+    "**Defend 15s**": {
+        "chi": "**守住15秒**"
+    },
+    "**Defend 20s**": {
+        "chi": "**守住20秒**"
+    },
+    "**Defend 25s**": {
+        "chi": "**守住25秒**"
+    },
+    "**Defend 30s**": {
+        "chi": "**守住30秒**"
+    },
+    "**Easy**": {
+        "chi": "**Easy 模式**"
+    },
+    "**Flash Arc**": {
+        "chi": "**闪光电弧**"
+    },
+    "**Hard**": {
+        "chi": "**Hard 模式**"
+    },
+    "**Heal**": {
+        "chi": "**治疗**"
+    },
+    "**Judgment Bolt**": {
+        "chi": "**裁决之雷**"
+    },
+    "**Normal**": {
+        "chi": "**Normal 模式**"
+    },
+    "**Quicksandl**": {
+        "chi": "**流沙**"
+    },
+    "**Thundara**": {
+        "chi": "**电**"
+    },
+    "**Warm End...**": {},
+    "**Warm Round**": {
+        "chi": "**热身局**"
+    },
+    "> The Esper Adrammelech  fight in 10 seconds <": {
+        "chi": "> 灵帝阿德拉梅里克讨伐战10秒后开始 <"
+    },
+    "> The Esper Shemhazai  fight in 10 seconds <": {
+        "chi": "> 密告者修米哈撒讨伐战10秒后开始 <"
     }
 }

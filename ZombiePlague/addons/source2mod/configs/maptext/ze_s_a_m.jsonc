@@ -1,39 +1,51 @@
 {
-    "**Map by Tenshi**": {
-        "chi": "**地图制作：Tenshi **"
-    },
-    "**Player has picked up <Ultima Magic>**": {
-        "chi": "**一位玩家学会了终极魔法**"
-    },
-    "**Player has picked up <Trace>**": {
-        "chi": "**一位玩家学会了复制魔法**"
-    },
-    "**Player has picked up <Water Magic>**": {
-        "chi": "**一位玩家学会了水之魔法 **"
-    },
-    "**Player has picked up <Teleport Crystal>**": {
-        "chi": "**一位玩家拿到了传送水晶 **"
-    },
-    "**NUKE IN 10 SEC**": {
-        "chi": "**十秒后核爆 **"
-    },
-    "**NOW USE THE TELEPORT CRYSTAL**": {
-        "chi": "**现在可以使用传送水晶了 **"
-    },
-    "**3**": {
-        "chi": "** **"
-    },
-    "**2**": {
+    "#fffff": {
         "chi": "** **"
     },
     "**1**": {
         "chi": "** **"
     },
-    "**Mystery man : Ive studied the crystals you brought back last time**": {
-        "chi": "**申必人物：我对你带回来的水晶进行了一个究的研。 **"
+    "**2**": {
+        "chi": "** **"
+    },
+    "**3**": {
+        "chi": "** **"
+    },
+    "**Are you sure?**": {
+        "chi": "**你确定？ **"
+    },
+    "**Balrog : Impotent things , go die**": {
+        "chi": "**巴洛格：没用的废物，死啊  **"
+    },
+    "**Barlog : Impotent things , go die**": {
+        "chi": "**巴洛格：没用的废物，死啊 **"
+    },
+    "**It looks like an ominous thing**": {
+        "chi": "**看起来不是什么好兆头 **"
+    },
+    "**Just a joke,have fun!!!**": {
+        "chi": "**开玩笑，我超勇的!!! **"
+    },
+    "**Map by Tenshi**": {
+        "chi": "**地图制作：Tenshi **"
     },
     "**Mystery man : Get into the palace , theres a great mystery under it**": {
         "chi": "**申必人物：进到宫殿里，在那底下有一个巨大的咪咪. **"
+    },
+    "**Mystery man : Ive studied the crystals you brought back last time**": {
+        "chi": "**申必人物：我对你带回来的水晶进行了一个究的研。 **"
+    },
+    "**NADE DO MORE DAMAGE**": {
+        "chi": "**手雷可以造成更多伤害 **"
+    },
+    "**NOW USE THE TELEPORT CRYSTAL**": {
+        "chi": "**现在可以使用传送水晶了 **"
+    },
+    "**NUKE IN 10 SEC**": {
+        "chi": "**十秒后核爆 **"
+    },
+    "**Player has picked up <Earth Magic>**": {
+        "chi": "**一位玩家学会了如何巨魔 **"
     },
     "**Player has picked up <Gravity Magic>**": {
         "chi": "**一位玩家学会了黑洞魔法 **"
@@ -41,397 +53,118 @@
     "**Player has picked up <Heal Magic>**": {
         "chi": "**一位玩家学会了治疗魔法 **"
     },
-    "**Player has picked up <Earth Magic>**": {
-        "chi": "**一位玩家学会了如何巨魔 **"
+    "**Player has picked up <Lightning Magic>**": {
+        "chi": "**一位玩家变身成雷电将军 **"
+    },
+    "**Player has picked up <Teleport Crystal>**": {
+        "chi": "**一位玩家拿到了传送水晶 **"
     },
     "**Player has picked up <Tornado Magic>**": {
         "chi": "**一位玩家学会了狂风魔法 **"
     },
-    "**Player has picked up <Lightning Magic>**": {
-        "chi": "**一位玩家变身成雷电将军 **"
+    "**Player has picked up <Trace>**": {
+        "chi": "**一位玩家学会了复制魔法**"
     },
-    "<WIND>": {
-        "chi": "**风 **"
+    "**Player has picked up <Ultima Magic>**": {
+        "chi": "**一位玩家学会了终极魔法**"
     },
-    "**Barlog : Impotent things , go die**": {
-        "chi": "**巴洛格：没用的废物，死啊 **"
+    "**Player has picked up <Water Magic>**": {
+        "chi": "**一位玩家学会了水之魔法 **"
     },
-    "**YOUR FAILED**": {
-        "chi": "** 菜 **"
+    "**Player has picked up <Zero Magic>**": {
+        "chi": "**一位玩家成为了片翼妖精 **"
     },
-    "**[Admin]STAGE 2**": {
-        "chi": "**管理员选择了第二关 **"
+    "**Player has picked up <Zero Magic>,[Cant be traced]**": {
+        "chi": "** **"
     },
-    "**[Admin]STAGE 1**": {
+    "**Stage 1 has been chosen**": {
         "chi": "**管理员选择了第一关 **"
     },
-    "**Zombie has picked up <Gravity>**": {
-        "chi": "**一位僵尸学会了黑洞魔法 **"
-    },
-    "**THANKS FOR PLAYING**": {
-        "chi": "**感谢你的参与 **"
-    },
-    ">>STAGE 1 COMPLETE<<": {
-        "chi": "**第一关通过 **"
-    },
-    "**Zombie has picked up <Ice>**": {
-        "chi": "**一位僵尸学会了冰冻魔法**"
-    },
-    "**NADE DO MORE DAMAGE**": {
-        "chi": "**手雷可以造成更多伤害 **"
-    },
-    "**Balrog : Impotent things , go die**": {
-        "chi": "**巴洛格：没用的废物，死啊  **"
-    },
-    ">>STAGE 2 COMPLETE<<": {
-        "chi": "**第二关通过 **"
-    },
-    ">>STAGE 3 WILL COME SOON<<": {
-        "chi": "**第三关即将到来 **"
-    },
-    ">>THANKS FOR PLAYING<<": {
-        "chi": ">>感谢你的参与<<"
-    },
-    ">>MAZEDOOR OPENING IN 30 SEC<<": {
-        "chi": "**迷宫之门将在30秒后打开 **"
-    },
-    ">>ACTIVATE THE CRYSTAL TOWER AND...<<": {
-        "chi": "**触发水晶塔以及... **"
-    },
-    ">>BREAK THE INVERTED CRYSTAL TOWER<<": {
-        "chi": "**破坏倒放的水晶塔 **"
-    },
-    ">>DOOR OPENING IN 15 SEC<<": {
-        "chi": "**大门在15秒后打开 **"
-    },
-    ">>GATE OPENING IN 15 SEC<<": {
-        "chi": "**15秒后开门 **"
-    },
-    ">>HOLD 45 SEC<<": {
-        "chi": "**防守45秒 **"
-    },
-    ">>DOOR OPENING IN 25 SEC<<": {
-        "chi": "**大门将在25秒后打开 **"
-    },
-    ">>OUTDOOR OPENING IN 25 SEC<<": {
-        "chi": "**出口将在25秒后打开 **"
-    },
-    ">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<": {
-        "chi": "**原来的路已经走不通了 **"
-    },
-    ">>TAKE THE OPPOSITE DIRECTION<<": {
-        "chi": "**往反方向走 **"
-    },
-    ">>TRIGGER THE MECHANISMS ON THE WALL<<": {
-        "chi": "**触发墙上的开关 **"
-    },
-    ">>WAIT FOR 10 SEC<<": {
-        "chi": "**等待10秒 **"
-    },
-    ">>ACTIVATE FOUR TOWERS<<": {
-        "chi": "**触发四座水晶塔 **"
-    },
-    ">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<": {
-        "chi": "**水晶塔全部触发.等待25秒 **"
-    },
-    ">>WAITING THE PLATFORM APPEAR<<": {
-        "chi": "**等待平台开始上升 **"
-    },
-    ">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<": {
-        "chi": "**看上去是一扇门.守住25秒 **"
-    },
-    ">>THIS DOOR BREAKING IN 25 SEC<<": {
-        "chi": "**门会在25秒后破碎 **"
-    },
-    ">>THE DOOR BREAKING IN 45 SEC<<": {
-        "chi": "**门会在45秒后破碎 **"
-    },
-    ">>MIDDLE PLATFORM RISING IN 25 SEC<<": {
-        "chi": "**平台将在25秒后上升 **"
-    },
-    ">>ELEVATOR LEAVES IN 20 SEC<<": {
-        "chi": "**电梯将在20秒后离开 **"
-    },
-    ">>GET OUT OF HERE QUICKLY<<": {
-        "chi": "**赶紧从这里润走 **"
-    },
-    ">>IT SEEMS CONTAIN A BIG ENERGY<<": {
-        "chi": "**这里似乎有着巨大的帕瓦 **"
-    },
-    ">>KEEP DEFENCE , DONT LET THEM OUT<<": {
-        "chi": "**防守，别让他们出去 **"
-    },
-    ">>MAP BY TENSHI<<": {
-        "chi": ">>Map by Tenshi<<"
-    },
-    "**Zombie has picked up <Stealth>**": {
-        "chi": "**一位僵尸学会了秒杀魔法 **"
-    },
-    "**Zombie has picked up <Shield>**": {
-        "chi": "**一位僵尸学会了护盾魔法 **"
-    },
-    ">>NUKE IN 10 SEC<<": {
-        "chi": "**十秒后核爆 **"
-    },
-    ">>NOW USE THE TELEPORT CRYSTAL<<": {
-        "chi": "**现在可以使用传送水晶了 **"
-    },
-    ">>3<<": {
+    "**Stage 2 has been chosen**": {
         "chi": "** **"
     },
-    ">>2<<": {
-        "chi": "** **"
-    },
-    ">>1<<": {
-        "chi": "** **"
-    },
-    ">>A VOICE : Ive studied the crystals you brought back last time<<": {
-        "chi": "**申必的声音：我对你带回来的水晶进行了一个究的研 **"
-    },
-    ">>A VOICE : Get into the palace , theres a great mystery under it<<": {
-        "chi": "**申必的声音：进到宫殿里，在那底下有一个巨大的咪咪. **"
-    },
-    ">>NADE DO MORE DAMAGE<<": {
-        "chi": "**手雷可以造成更多伤害 **"
-    },
-    "**[Admin]Stage 3**": {
+    "**Stage 3 has been chosen**": {
         "chi": "**管理员选择了第三关 **"
-    },
-    ">>TELEPORT ACTIVATED IN 30 SEC<<": {
-        "chi": "**传送30秒后激活 **"
-    },
-    ">>ROCK BREAKING IN 25 SEC<<": {
-        "chi": "**石头将在25秒后破碎 **"
-    },
-    ">>ROCK BREAKING IN 15 SEC<<": {
-        "chi": "**石头将在15秒后破碎 **"
-    },
-    ">>KEEP DEFENCE<<": {
-        "chi": "**继续防守 **"
-    },
-    ">>SURVIVE 40 SEC<<": {
-        "chi": "**存活40秒 **"
-    },
-    ">>JUMP!!!<<": {
-        "chi": "**跳！！！ **"
-    },
-    ">>RUN BACK TO THE STELA<<": {
-        "chi": "**回到石碑那里 **"
-    },
-    ">>GO TO ACTIVATE STELA<<": {
-        "chi": "**去触发那个石碑 **"
-    },
-    ">>STELA ACTIVATED IN 20 SEC<<": {
-        "chi": "**石碑将在20秒后激活 **"
-    },
-    ">>WAIT,IT LOOKS LIKE SOMETHING WRONG WITH STELA<<": {
-        "chi": "**嗯，石碑看上去出了什么毛病 **"
-    },
-    ">>IT SEEMS TO BE CONTROLLED BY A POWER<<": {
-        "chi": "**它似乎被一种力量所控制 **"
-    },
-    ">>ITS ICE DRAGON<<": {
-        "chi": "**是一只冰霜巨龙 **"
-    },
-    ">>KILL IT<<": {
-        "chi": "**淦她 **"
-    },
-    ">>WE DEFEAT IT<<": {
-        "chi": "**我们赢了 **"
-    },
-    ">>STAGE 3 COMPLETE<<": {
-        "chi": "**第三关通过 **"
-    },
-    ">>WAITING FOR STAGE 4<<": {
-        "chi": "**第四关即将到来 **"
-    },
-    ">>STAGE FAILED<<": {
-        "chi": "** 菜 **"
-    },
-    ">>TOWN GATE CLOSING IN 40 SEC<<": {
-        "chi": "**城门将在40秒后关闭 **"
-    },
-    ">>HOLD!!!<<": {
-        "chi": "**守住！！！ **"
-    },
-    ">>DONT LET THEM IN<<": {
-        "chi": "**不能让他们进来 **"
-    },
-    ">>BALROG IS ATTACKING<<": {
-        "chi": "**巴洛克正在攻击 **"
-    },
-    ">>DONT GET IN WATER<<": {
-        "chi": "**不要下水 **"
-    },
-    ">>HERE IS SEALED BY A MYSTERIOUS FORCE<<": {
-        "chi": "**这里被一股未知力量所封印了 **"
-    },
-    "The server is about to close the update ,Please update your game": {
-        "chi": "**服务器即将关闭，请更新你的游戏 **"
-    },
-    "**test1**": {
-        "chi": "** **"
-    },
-    "**tes2t1**": {
-        "chi": "** **"
-    },
-    ">>If you hava some suggestions,leaving a message at my personal profile.<<": {
-        "chi": "**如果你有什么好的建议，可以在我的主页上留言**"
-    },
-    ">>http:": {
-        "chi": "** **"
-    },
-    ">>GET OUT OF HERE!!!<<": {
-        "chi": "**润！！！  **"
-    },
-    ">>GO TO BIG CRYSTAL TOWER<<": {
-        "chi": "**前去那座大型水晶塔 **"
-    },
-    ">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<": {
-        "chi": "**触发两座水晶并防守僵尸 **"
-    },
-    ">>THEN ACTIVATE THE RED ONE<<": {
-        "chi": "** **"
-    },
-    ">>THE HELLGATE OPENING IN 30 SEC<<": {
-        "chi": "**通往地狱的大门在30秒后打开 **"
-    },
-    ">>DOOR OPENING IN 20 SEC<<": {
-        "chi": "**大门将在20秒后打开 **"
-    },
-    ">>HOLD 30 SEC<<": {
-        "chi": "**防守30秒 **"
-    },
-    ">>HOLD 20 SEC<<": {
-        "chi": "**防守20秒 **"
-    },
-    ">>GET ON THE MIDDLE STONE<<": {
-        "chi": "**前往中间的石头上 **"
-    },
-    ">>STAGE 4 COMPLETE<<": {
-        "chi": "**第四关通过 **"
-    },
-    ">>Special Thanks: uuz , nano ,thas<<": {
-        "chi": "**特别感谢:UUZ.nano.thas **"
-    },
-    ">>HOLD 15 SEC<<": {
-        "chi": "**防守15秒 **"
-    },
-    ">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<": {
-        "chi": "**你找到了传送水晶，它能带我们回去 **"
-    },
-    ">>TELEPORT IN 2 SEC<<": {
-        "chi": ">>>将在2秒后传送<<<"
-    },
-    ">>TELEPORT IN 1 SEC<<": {
-        "chi": "**将在一秒后传送 **"
-    },
-    "**[Admin]STAGE 4**": {
-        "chi": "** **"
-    },
-    ">>BALROG USED SOLAR FUSION,ONLY USE <LIGHTNING> CAN RESIST IT<<": {
-        "chi": "**巴洛克释放了红终，快使用雷电之力进行抵抗 **"
-    },
-    "**Are you sure?**": {
-        "chi": "**你确定？ **"
-    },
-    ">>steamcommunity.comidlnskrkj<<": {
-        "chi": "** **"
-    },
-    ">>IS THAT YOUR CHOICE???<<": {
-        "chi": "**这就是你的抉择吗???**"
-    },
-    ">>SHOOT THE CRYSTAL!!!<<": {
-        "chi": "**向那个水晶射击**"
-    },
-    ">>ZOMBIES GET ON , YOUR FAILED<<": {
-        "chi": "**僵尸来了，菜 **"
-    },
-    ">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<": {
-        "chi": "**已触发所有水晶,等待10秒 **"
-    },
-    ">>AND FIND THE CRYSTAL<<": {
-        "chi": "**找到那个水晶 **"
-    },
-    ">>WE NEED IT<<": {
-        "chi": "**我们会用到它 **"
-    },
-    "**You found the crystal!!!**": {
-        "chi": "**你找到了那个水晶 **"
-    },
-    ">>YOU PLACED THE CRYSTAL<<": {
-        "chi": "**你安放了那个水晶 **"
-    },
-    ">>SOMETHING FORTHCOMING<<": {
-        "chi": "**大的药来了 **"
-    },
-    ">>VOID DOOR APPEAR IN 30 SEC<<": {
-        "chi": "**虚空之门将在30秒后触发 **"
-    },
-    ">>VOID DOOR APPEARED<<": {
-        "chi": "**那是虚空之门 **"
-    },
-    ">>DEFENCE 20 SEC<<": {
-        "chi": "**守住20秒 **"
-    },
-    ">>WAIT 5 SEC<<": {
-        "chi": "**等待5秒 **"
-    },
-    ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<": {
-        "chi": "**有龙鸣挡了我们的路 **"
-    },
-    ">>OH!ITS SHADOW GUARD<<": {
-        "chi": "**嗷，那是暗影守卫 **"
-    },
-    ">>KILL HIM!!!<<": {
-        "chi": "**淦死他！！！ **"
-    },
-    ">>KILL THE REMAINING ZOMBIES<<": {
-        "chi": ">>>消灭剩下的僵尸<<<"
-    },
-    "**Stage 5 has been chosen**": {
-        "chi": "**管理员选择了第五关 **"
     },
     "**Stage 4 has been chosen**": {
         "chi": "**管理员选择了第四关 **"
     },
-    ">>USE <Tornado> TO DISPEL SHADOW TWINE<<": {
-        "chi": "**使用狂风魔法来抵抗暗影环绕 **"
+    "**Stage 5 has been chosen**": {
+        "chi": "**管理员选择了第五关 **"
     },
-    ">>THE LIFT DOOR HAS OPENED<<": {
-        "chi": "**电梯门已经打开 **"
+    "**THANKS FOR PLAYING**": {
+        "chi": "**感谢你的参与 **"
     },
-    ">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<": {
-        "chi": "**他润走了!!!虚空之门出现了!!!冲鸭!!! **"
-    },
-    ">>SHOOT IT!!!<<": {
-        "chi": "**向他射击!!! **"
-    },
-    ">>WE DEFEAT HIM<<": {
-        "chi": "**我们赢了 **"
-    },
-    ">>CRYSTAL IS INJECTING ENERGY<<": {
-        "chi": "**正在给水晶充能 **"
-    },
-    ">>WE WILL BE ABLE TO LEAVE SOON<<": {
-        "chi": "**我们马上就能逃离这里了 **"
-    },
-    ">>ZOMBIES GET ON<<": {
-        "chi": "**僵尸上来了 **"
-    },
-    ">>YOUR FAILED<<": {
-        "chi": "**菜 **"
-    },
-    ">>YOU CAN NOT BREAK IT<<": {
-        "chi": "**你可以打破这个 **"
-    },
-    ">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<": {
-        "chi": "**巴洛克释放了红终，快使用雷电之力抵抗 **"
-    },
-    "<<SHADOW TWINE>>": {
+    "**Thanks Vauff for his suggestion**": {
         "chi": "** **"
     },
-    "<<TORRENT>>": {
+    "**This version is compiled with HDR. Thanks Vauff for his suggestion.**": {
+        "chi": "** **"
+    },
+    "**Throw it on the crystal tower!**": {
+        "chi": "**把它丢到水晶塔那里 **"
+    },
+    "**YOUR FAILED**": {
+        "chi": "** 菜 **"
+    },
+    "**You are wrong**": {
+        "chi": "**ybb **"
+    },
+    "**You found the crystal!!!**": {
+        "chi": "**你找到了那个水晶 **"
+    },
+    "**You think you are invincible???**": {
+        "chi": "**你就是歌姬吧?? **"
+    },
+    "**ZM has been chosen**": {
+        "chi": "**管理员选择了ZM关 **"
+    },
+    "**Zombie has picked up <Gravity>**": {
+        "chi": "**一位僵尸学会了黑洞魔法 **"
+    },
+    "**Zombie has picked up <Ice>**": {
+        "chi": "**一位僵尸学会了冰冻魔法**"
+    },
+    "**Zombie has picked up <Shield>**": {
+        "chi": "**一位僵尸学会了护盾魔法 **"
+    },
+    "**Zombie has picked up <Stealth>**": {
+        "chi": "**一位僵尸学会了秒杀魔法 **"
+    },
+    "**[Admin]STAGE 1**": {
+        "chi": "**管理员选择了第一关 **"
+    },
+    "**[Admin]STAGE 2**": {
+        "chi": "**管理员选择了第二关 **"
+    },
+    "**[Admin]STAGE 4**": {
+        "chi": "** **"
+    },
+    "**[Admin]Stage 3**": {
+        "chi": "**管理员选择了第三关 **"
+    },
+    "**tes2t1**": {
+        "chi": "** **"
+    },
+    "**test1**": {
+        "chi": "** **"
+    },
+    "999999": {
+        "chi": "** **"
+    },
+    "<<ANGER SHIELD>>": {
+        "chi": "** **"
+    },
+    "<<CHAOSTORM>>": {
+        "chi": "** **"
+    },
+    "<<COLLAPSAR>>": {
+        "chi": "** **"
+    },
+    "<<COLLAPSE>>": {
+        "chi": "** **"
+    },
+    "<<FLARE>>": {
         "chi": "** **"
     },
     "<<HEALTH GRABBING>>": {
@@ -440,169 +173,440 @@
     "<<SHADOW BLADE>>": {
         "chi": "** **"
     },
-    "<<ANGER SHIELD>>": {
+    "<<SHADOW TWINE>>": {
         "chi": "** **"
     },
-    ">>WAIT 6 SEC<<": {
-        "chi": "**等待6s **"
-    },
-    ">>WHAT IS THIS?<<": {
-        "chi": "**这是什么牛马? **"
-    },
-    ">>IT INITIATES ATTACKS<<": {
-        "chi": "**正在攻击 **"
-    },
-    ">>BREAK IT!!!<<": {
-        "chi": "**消灭它!!! **"
-    },
-    "<<FLARE>>": {
+    "<<TORRENT>>": {
         "chi": "** **"
     },
-    "<<COLLAPSAR>>": {
-        "chi": "** **"
+    "<WIND>": {
+        "chi": "**风 **"
     },
-    ">>WE HAVE DESTROYED IT<<": {
-        "chi": "**我们消灭了它 **"
-    },
-    ">>FLEE HERE!!!RUN BACK!!!<<": {
-        "chi": "**从这里离开!!!快润!!! **"
-    },
-    ">>THE DOOR WILL OPEN RANDOMLY<<": {
-        "chi": "**随机开启一扇门 **"
-    },
-    "**Player has picked up <Zero Magic>**": {
-        "chi": "**一位玩家成为了片翼妖精 **"
-    },
-    ">>THE RIGHT DOOR HAS OPENED<<": {
-        "chi": ">>>右边门开了<<<"
-    },
-    "**It looks like an ominous thing**": {
-        "chi": "**看起来不是什么好兆头 **"
-    },
-    "**Stage 3 has been chosen**": {
-        "chi": "**管理员选择了第三关 **"
-    },
-    ">>THE DOOR BREAKING IN 20 SEC<<": {
-        "chi": "**大门将在20秒后破碎 **"
-    },
-    "**Player has picked up <Zero Magic>,[Cant be traced]**": {
-        "chi": "** **"
-    },
-    ">>THE DOOR BREAKING IN 30 SEC<<": {
-        "chi": "**大门将在30秒后破碎 **"
-    },
-    ">>BECAUSE OF THE DISAPPEARANCE OF THE BALROGS POWER, <Ultima>HAS LOST EFFICACY!!!<<": {
-        "chi": "**伴随着巴洛克之力的消失，终极变成了FIVE **"
-    },
-    ">>STAGE 5 COMPLETE<<": {
-        "chi": "** 第五关完成 **"
-    },
-    ">>YOU HAVE CONQUERED THIS MAP<<": {
-        "chi": "**你征服了本图 **"
-    },
-    ">>CONGRATULATION!!!<<": {
-        "chi": "**恭喜!!! **"
-    },
-    ">>YOU FOUND A CRYSTAL<<": {
-        "chi": "**你找到了一个水晶 **"
-    },
-    ">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<": {
-        "chi": "**本子娜现在可以开大了 **"
-    },
-    ">>YOU HAVE DESTROYED ALL THE CRYSTALS<<": {
-        "chi": "**你摧毁了所有的水晶 **"
-    },
-    ">>SOMETHING WILL HAPPEN<<": {
-        "chi": "**大的药来了 **"
-    },
-    ">>RUN OUT OF HERE!!!<<": {
-        "chi": "**赶紧润 **"
-    },
-    ">>GET ON THE AIRSHIP!!!<<": {
-        "chi": "**快上浮空船 **"
-    },
-    ">>THE AIRSHIP LEAVING IN 5 SEC<<": {
-        "chi": "**浮空船将在5秒后驶离 **"
-    },
-    "**Stage 1 has been chosen**": {
-        "chi": "**管理员选择了第一关 **"
-    },
-    "**You think you are invincible???**": {
-        "chi": "**你就是歌姬吧?? **"
-    },
-    "**You are wrong**": {
-        "chi": "**ybb **"
-    },
-    "**Just a joke,have fun!!!**": {
-        "chi": "**开玩笑，我超勇的!!! **"
-    },
-    ">>180 SEC REMAINING<<": {
+    ">>10 SEC REMAINING<<": {
         "chi": "** **"
     },
     ">>120 SEC REMAINING<<": {
         "chi": "** **"
     },
+    ">>180 SEC REMAINING<<": {
+        "chi": "** **"
+    },
+    ">>1<<": {
+        "chi": "** **"
+    },
+    ">>2<<": {
+        "chi": "** **"
+    },
+    ">>3<<": {
+        "chi": "** **"
+    },
     ">>60 SEC REMAINING<<": {
         "chi": "** **"
     },
-    ">>10 SEC REMAINING<<": {
-        "chi": "** **"
+    ">>A VOICE : Get into the palace , theres a great mystery under it<<": {
+        "chi": "**申必的声音：进到宫殿里，在那底下有一个巨大的咪咪. **"
     },
-    "**ZM has been chosen**": {
-        "chi": "**管理员选择了ZM关 **"
+    ">>A VOICE : Ive studied the crystals you brought back last time<<": {
+        "chi": "**申必的声音：我对你带回来的水晶进行了一个究的研 **"
     },
-    "**Throw it on the crystal tower!**": {
-        "chi": "**把它丢到水晶塔那里 **"
+    ">>ACTIVATE FOUR TOWERS<<": {
+        "chi": "**触发四座水晶塔 **"
     },
-    ">>ACTIVATE TWO SLAB BUTTONS<<": {
-        "chi": "**去触发两个开关 **"
-    },
-    ">>ONE IS BELOW , ANOTHER IS ABOVE<<": {
-        "chi": "**一个在上，一个在下 **"
+    ">>ACTIVATE THE CRYSTAL TOWER AND...<<": {
+        "chi": "**触发水晶塔以及... **"
     },
     ">>ACTIVATE THE CRYSTAL TOWER<<": {
         "chi": "**激活那个水晶塔 **"
     },
-    "<<CHAOSTORM>>": {
-        "chi": "** **"
+    ">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<": {
+        "chi": "**触发两座水晶并防守僵尸 **"
     },
-    "<<COLLAPSE>>": {
-        "chi": "** **"
+    ">>ACTIVATE TWO SLAB BUTTONS<<": {
+        "chi": "**去触发两个开关 **"
+    },
+    ">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<": {
+        "chi": "**已触发所有水晶,等待10秒 **"
+    },
+    ">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<": {
+        "chi": "**水晶塔全部触发.等待25秒 **"
+    },
+    ">>AND FIND THE CRYSTAL<<": {
+        "chi": "**找到那个水晶 **"
+    },
+    ">>BALROG IS ATTACKING<<": {
+        "chi": "**巴洛克正在攻击 **"
+    },
+    ">>BALROG USED SOLAR FUSION,ONLY USE <LIGHTNING> CAN RESIST IT<<": {
+        "chi": "**巴洛克释放了红终，快使用雷电之力进行抵抗 **"
+    },
+    ">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<": {
+        "chi": "**巴洛克释放了红终，快使用雷电之力抵抗 **"
+    },
+    ">>BECAUSE OF THE DISAPPEARANCE OF THE BALROGS POWER, <Ultima>HAS LOST EFFICACY!!!<<": {
+        "chi": "**伴随着巴洛克之力的消失，终极变成了FIVE **"
+    },
+    ">>BREAK IT!!!<<": {
+        "chi": "**消灭它!!! **"
+    },
+    ">>BREAK THE INVERTED CRYSTAL TOWER<<": {
+        "chi": "**破坏倒放的水晶塔 **"
+    },
+    ">>CONGRATULATION!!!<<": {
+        "chi": "**恭喜!!! **"
+    },
+    ">>CRYSTAL IS INJECTING ENERGY<<": {
+        "chi": "**正在给水晶充能 **"
+    },
+    ">>DEFENCE 20 SEC<<": {
+        "chi": "**守住20秒 **"
+    },
+    ">>DONT GET IN WATER<<": {
+        "chi": "**不要下水 **"
+    },
+    ">>DONT LET THEM IN<<": {
+        "chi": "**不能让他们进来 **"
+    },
+    ">>DOOR OPENING IN 15 SEC<<": {
+        "chi": "**大门在15秒后打开 **"
+    },
+    ">>DOOR OPENING IN 20 SEC<<": {
+        "chi": "**大门将在20秒后打开 **"
+    },
+    ">>DOOR OPENING IN 25 SEC<<": {
+        "chi": "**大门将在25秒后打开 **"
+    },
+    ">>ELEVATOR LEAVES IN 20 SEC<<": {
+        "chi": "**电梯将在20秒后离开 **"
     },
     ">>ESCAPE HERE!!!RUN BACK!!!<<": {
         "chi": "**快润啊!!! **"
     },
+    ">>FLEE HERE!!!RUN BACK!!!<<": {
+        "chi": "**从这里离开!!!快润!!! **"
+    },
+    ">>GATE OPENING IN 15 SEC<<": {
+        "chi": "**15秒后开门 **"
+    },
+    ">>GET ON THE AIRSHIP!!!<<": {
+        "chi": "**快上浮空船 **"
+    },
+    ">>GET ON THE MIDDLE STONE<<": {
+        "chi": "**前往中间的石头上 **"
+    },
+    ">>GET OUT OF HERE QUICKLY<<": {
+        "chi": "**赶紧从这里润走 **"
+    },
+    ">>GET OUT OF HERE!!!<<": {
+        "chi": "**润！！！  **"
+    },
+    ">>GO TO ACTIVATE STELA<<": {
+        "chi": "**去触发那个石碑 **"
+    },
+    ">>GO TO BIG CRYSTAL TOWER<<": {
+        "chi": "**前去那座大型水晶塔 **"
+    },
+    ">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<": {
+        "chi": "**他润走了!!!虚空之门出现了!!!冲鸭!!! **"
+    },
     ">>HE WILL LAUNCH DARK SLASH<<": {
         "chi": "**他将释放巴啦啦黑暗能量 **"
     },
-    "**This version is compiled with HDR. Thanks Vauff for his suggestion.**": {
+    ">>HERE IS SEALED BY A MYSTERIOUS FORCE<<": {
+        "chi": "**这里被一股未知力量所封印了 **"
+    },
+    ">>HOLD 15 SEC<<": {
+        "chi": "**防守15秒 **"
+    },
+    ">>HOLD 20 SEC<<": {
+        "chi": "**防守20秒 **"
+    },
+    ">>HOLD 30 SEC<<": {
+        "chi": "**防守30秒 **"
+    },
+    ">>HOLD 45 SEC<<": {
+        "chi": "**防守45秒 **"
+    },
+    ">>HOLD!!!<<": {
+        "chi": "**守住！！！ **"
+    },
+    ">>IS THAT YOUR CHOICE???<<": {
+        "chi": "**这就是你的抉择吗???**"
+    },
+    ">>IT INITIATES ATTACKS<<": {
+        "chi": "**正在攻击 **"
+    },
+    ">>IT SEEMS CONTAIN A BIG ENERGY<<": {
+        "chi": "**这里似乎有着巨大的帕瓦 **"
+    },
+    ">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<": {
+        "chi": "**原来的路已经走不通了 **"
+    },
+    ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<": {
+        "chi": "**有龙鸣挡了我们的路 **"
+    },
+    ">>IT SEEMS TO BE CONTROLLED BY A POWER<<": {
+        "chi": "**它似乎被一种力量所控制 **"
+    },
+    ">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<": {
+        "chi": "**本子娜现在可以开大了 **"
+    },
+    ">>ITS ICE DRAGON<<": {
+        "chi": "**是一只冰霜巨龙 **"
+    },
+    ">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<": {
+        "chi": "**看上去是一扇门.守住25秒 **"
+    },
+    ">>If you hava some suggestions,leaving a message at my personal profile.<<": {
+        "chi": "**如果你有什么好的建议，可以在我的主页上留言**"
+    },
+    ">>JUMP!!!<<": {
+        "chi": "**跳！！！ **"
+    },
+    ">>KEEP DEFENCE , DONT LET THEM OUT<<": {
+        "chi": "**防守，别让他们出去 **"
+    },
+    ">>KEEP DEFENCE<<": {
+        "chi": "**继续防守 **"
+    },
+    ">>KILL HIM!!!<<": {
+        "chi": "**淦死他！！！ **"
+    },
+    ">>KILL IT<<": {
+        "chi": "**淦她 **"
+    },
+    ">>KILL THE REMAINING ZOMBIES<<": {
+        "chi": ">>>消灭剩下的僵尸<<<"
+    },
+    ">>MAP BY TENSHI<<": {
+        "chi": ">>Map by Tenshi<<"
+    },
+    ">>MAZEDOOR OPENING IN 30 SEC<<": {
+        "chi": "**迷宫之门将在30秒后打开 **"
+    },
+    ">>MIDDLE PLATFORM RISING IN 25 SEC<<": {
+        "chi": "**平台将在25秒后上升 **"
+    },
+    ">>Map by Tenshi.<<": {},
+    ">>Model help by UUZ , Nano<<": {
         "chi": "** **"
     },
-    "**Stage 2 has been chosen**": {
+    ">>NADE DO MORE DAMAGE<<": {
+        "chi": "**手雷可以造成更多伤害 **"
+    },
+    ">>NOW USE THE TELEPORT CRYSTAL<<": {
+        "chi": "**现在可以使用传送水晶了 **"
+    },
+    ">>NUKE IN 10 SEC<<": {
+        "chi": "**十秒后核爆 **"
+    },
+    ">>OH!ITS SHADOW GUARD<<": {
+        "chi": "**嗷，那是暗影守卫 **"
+    },
+    ">>ONE IS BELOW , ANOTHER IS ABOVE<<": {
+        "chi": "**一个在上，一个在下 **"
+    },
+    ">>OUTDOOR OPENING IN 25 SEC<<": {
+        "chi": "**出口将在25秒后打开 **"
+    },
+    ">>ROCK BREAKING IN 15 SEC<<": {
+        "chi": "**石头将在15秒后破碎 **"
+    },
+    ">>ROCK BREAKING IN 25 SEC<<": {
+        "chi": "**石头将在25秒后破碎 **"
+    },
+    ">>RUN BACK TO THE STELA<<": {
+        "chi": "**回到石碑那里 **"
+    },
+    ">>RUN OUT OF HERE!!!<<": {
+        "chi": "**赶紧润 **"
+    },
+    ">>SHOOT IT!!!<<": {
+        "chi": "**向他射击!!! **"
+    },
+    ">>SHOOT THE CRYSTAL!!!<<": {
+        "chi": "**向那个水晶射击**"
+    },
+    ">>SOMETHING FORTHCOMING<<": {
+        "chi": "**大的药来了 **"
+    },
+    ">>SOMETHING WILL HAPPEN<<": {
+        "chi": "**大的药来了 **"
+    },
+    ">>STAGE 1 COMPLETE<<": {
+        "chi": "**第一关通过 **"
+    },
+    ">>STAGE 2 COMPLETE<<": {
+        "chi": "**第二关通过 **"
+    },
+    ">>STAGE 3 COMPLETE<<": {
+        "chi": "**第三关通过 **"
+    },
+    ">>STAGE 3 WILL COME SOON<<": {
+        "chi": "**第三关即将到来 **"
+    },
+    ">>STAGE 4 COMPLETE<<": {
+        "chi": "**第四关通过 **"
+    },
+    ">>STAGE 5 COMPLETE<<": {
+        "chi": "** 第五关完成 **"
+    },
+    ">>STAGE FAILED<<": {
+        "chi": "** 菜 **"
+    },
+    ">>STELA ACTIVATED IN 20 SEC<<": {
+        "chi": "**石碑将在20秒后激活 **"
+    },
+    ">>SURVIVE 40 SEC<<": {
+        "chi": "**存活40秒 **"
+    },
+    ">>Special Thanks: Lopb, @Seth, Kxnrl<<": {},
+    ">>Special Thanks: uuz , nano ,thas<<": {
+        "chi": "**特别感谢:UUZ.nano.thas **"
+    },
+    ">>Stage 1<<": {},
+    ">>TAKE THE OPPOSITE DIRECTION<<": {
+        "chi": "**往反方向走 **"
+    },
+    ">>TELEPORT ACTIVATED IN 30 SEC<<": {
+        "chi": "**传送30秒后激活 **"
+    },
+    ">>TELEPORT IN 1 SEC<<": {
+        "chi": "**将在一秒后传送 **"
+    },
+    ">>TELEPORT IN 2 SEC<<": {
+        "chi": ">>>将在2秒后传送<<<"
+    },
+    ">>THANKS FOR PLAYING<<": {
+        "chi": ">>感谢你的参与<<"
+    },
+    ">>THE AIRSHIP LEAVING IN 15 SEC<<": {
+        "chi": "** **"
+    },
+    ">>THE AIRSHIP LEAVING IN 5 SEC<<": {
+        "chi": "**浮空船将在5秒后驶离 **"
+    },
+    ">>THE DOOR BREAKING IN 20 SEC<<": {
+        "chi": "**大门将在20秒后破碎 **"
+    },
+    ">>THE DOOR BREAKING IN 30 SEC<<": {
+        "chi": "**大门将在30秒后破碎 **"
+    },
+    ">>THE DOOR BREAKING IN 45 SEC<<": {
+        "chi": "**门会在45秒后破碎 **"
+    },
+    ">>THE DOOR WILL OPEN RANDOMLY<<": {
+        "chi": "**随机开启一扇门 **"
+    },
+    ">>THE HELLGATE OPENING IN 30 SEC<<": {
+        "chi": "**通往地狱的大门在30秒后打开 **"
+    },
+    ">>THE LIFT DOOR HAS OPENED<<": {
+        "chi": "**电梯门已经打开 **"
+    },
+    ">>THE RIGHT DOOR HAS OPENED<<": {
+        "chi": ">>>右边门开了<<<"
+    },
+    ">>THEN ACTIVATE THE RED ONE<<": {
+        "chi": "** **"
+    },
+    ">>THIS DOOR BREAKING IN 25 SEC<<": {
+        "chi": "**门会在25秒后破碎 **"
+    },
+    ">>TOWN GATE CLOSING IN 40 SEC<<": {
+        "chi": "**城门将在40秒后关闭 **"
+    },
+    ">>TRIGGER THE MECHANISMS ON THE WALL<<": {
+        "chi": "**触发墙上的开关 **"
+    },
+    ">>USE <Tornado> TO DISPEL SHADOW TWINE<<": {
+        "chi": "**使用狂风魔法来抵抗暗影环绕 **"
+    },
+    ">>VOID DOOR APPEAR IN 30 SEC<<": {
+        "chi": "**虚空之门将在30秒后触发 **"
+    },
+    ">>VOID DOOR APPEARED<<": {
+        "chi": "**那是虚空之门 **"
+    },
+    ">>WAIT 5 SEC<<": {
+        "chi": "**等待5秒 **"
+    },
+    ">>WAIT 6 SEC<<": {
+        "chi": "**等待6s **"
+    },
+    ">>WAIT FOR 10 SEC<<": {
+        "chi": "**等待10秒 **"
+    },
+    ">>WAIT,IT LOOKS LIKE SOMETHING WRONG WITH STELA<<": {
+        "chi": "**嗯，石碑看上去出了什么毛病 **"
+    },
+    ">>WAITING FOR STAGE 4<<": {
+        "chi": "**第四关即将到来 **"
+    },
+    ">>WAITING THE PLATFORM APPEAR<<": {
+        "chi": "**等待平台开始上升 **"
+    },
+    ">>WE DEFEAT HIM<<": {
+        "chi": "**我们赢了 **"
+    },
+    ">>WE DEFEAT IT<<": {
+        "chi": "**我们赢了 **"
+    },
+    ">>WE HAVE DESTROYED IT<<": {
+        "chi": "**我们消灭了它 **"
+    },
+    ">>WE NEED IT<<": {
+        "chi": "**我们会用到它 **"
+    },
+    ">>WE WILL BE ABLE TO LEAVE SOON<<": {
+        "chi": "**我们马上就能逃离这里了 **"
+    },
+    ">>WHAT IS THIS?<<": {
+        "chi": "**这是什么牛马? **"
+    },
+    ">>YOU CAN NOT BREAK IT<<": {
+        "chi": "**你可以打破这个 **"
+    },
+    ">>YOU FOUND A CRYSTAL<<": {
+        "chi": "**你找到了一个水晶 **"
+    },
+    ">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<": {
+        "chi": "**你找到了传送水晶，它能带我们回去 **"
+    },
+    ">>YOU HAVE CONQUERED THIS MAP<<": {
+        "chi": "**你征服了本图 **"
+    },
+    ">>YOU HAVE DESTROYED ALL THE CRYSTALS<<": {
+        "chi": "**你摧毁了所有的水晶 **"
+    },
+    ">>YOU PLACED THE CRYSTAL<<": {
+        "chi": "**你安放了那个水晶 **"
+    },
+    ">>YOUR FAILED<<": {
+        "chi": "**菜 **"
+    },
+    ">>ZOMBIES GET ON , YOUR FAILED<<": {
+        "chi": "**僵尸来了，菜 **"
+    },
+    ">>ZOMBIES GET ON<<": {
+        "chi": "**僵尸上来了 **"
+    },
+    ">>http:": {
+        "chi": "** **"
+    },
+    ">>steamcommunity.comidlnskrkj<<": {
+        "chi": "** **"
+    },
+    ">>ze_S_A_M ver:2.2.8<<": {},
+    "FlyingRatPhys": {
         "chi": "** **"
     },
     "The se": {
         "chi": "** **"
     },
-    "**Thanks Vauff for his suggestion**": {
-        "chi": "** **"
-    },
-    ">>Model help by UUZ , Nano<<": {
-        "chi": "** **"
-    },
-    ">>THE AIRSHIP LEAVING IN 15 SEC<<": {
-        "chi": "** **"
+    "The server is about to close the update ,Please update your game": {
+        "chi": "**服务器即将关闭，请更新你的游戏 **"
     },
     "this is a fuck msg 999999": {
-        "chi": "** **"
-    },
-    "999999": {
-        "chi": "** **"
-    },
-    "#fffff": {
-        "chi": "** **"
-    },
-    "FlyingRatPhys": {
         "chi": "** **"
     }
 }
