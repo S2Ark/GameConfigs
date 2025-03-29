@@ -1,0 +1,92 @@
+{
+    "*** ALL PLAYERS ARE TELEPORTED ***": {
+        "chi": "传送玩家"
+    },
+    "*** THANK YOU FOR PLAYING ***": {
+        "chi": "*** 感谢你们的游玩 ***"
+    },
+    "*** Map By Rio ***": {
+        "chi": "*** 作者  Rio 汉化 萌爱*** "
+    },
+    "*** LEAVING IN 35 SECONDS ***": {
+        "chi": "防守35秒"
+    },
+    "*** 5 SECONDS LEFT ***": {
+        "chi": "*** 剩余 5 秒 ***"
+    },
+    "*** HOLD 120 SECONDS ***": {
+        "chi": "防守120秒"
+    },
+    "*** 80 SECONDS LEFT ***": {
+        "chi": "*** 剩余80 秒 ***"
+    },
+    "*** 60 SECONDS LEFT ***": {
+        "chi": "*** 剩余60 秒 ***"
+    },
+    "*** 40 SECONDS LEFT ***": {
+        "chi": "*** 剩余40 秒 ***"
+    },
+    "*** 20 SECONDS LEFT ***": {
+        "chi": "*** 剩余 20 秒 ***"
+    },
+    "*** 10 SECONDS LEFT ***": {
+        "chi": "*** 剩余10秒 ***"
+    },
+    "*** END ***": {
+        "chi": "*** 关卡结束 ***"
+    },
+    "*** HOLD 30 SECONDS ***": {
+        "chi": "*** 防守30秒 ***"
+    },
+    "*** LEAVING IN 30 SECONDS ***": {
+        "chi": "防守30秒"
+    },
+    "*** LEAVING IN 25 SECONDS ***": {
+        "chi": "防守25秒"
+    },
+    "*** HOLD 20 SECONDS ***": {
+        "chi": "翻译"
+    },
+    "*** FALL BACK ***": {
+        "chi": "*** 快溜 ***"
+    },
+    "*** HOLD 40 SECONDS ***": {
+        "chi": "防守40秒"
+    },
+    "> [ITEM MESSAGE] P.PLAZMA PICK UP (Cool : 120s)<": {
+        "chi": "> [神器] P.PLAZMA 已被拾取 (CD : 120s)<"
+    },
+    "> [ITEM MESSAGE] Y.CANNON PICK UP (Cool : 30s) <": {
+        "chi": "> [神器] Y.CANNON 已被拾取 (CD : 30s) <"
+    },
+    "> [ITEM MESSAGE] XOLY PICK UP (Cool :Once Only) <": {
+        "chi": "> [神器 ] XOLY 已被拾取 (只能使用一次) <"
+    },
+    "*** DOOR OPENING IN 20 SECONDS ***": {
+        "chi": "*** 大门 20秒后打开 ***"
+    },
+    "> [ITEM MESSAGE] B.CANNON PICK UP (Cool : 60s) <": {
+        "chi": "> [神器 ] B.CANNON 已被拾取 (CD : 60s) <"
+    },
+    "> [ITEM MESSAGE] G.CANNON PICK UP (Cool : 20s)<": {
+        "chi": "> [神器 ] G.CANNON 已被拾取 (CD : 20s)<"
+    },
+    "*** DOOR IS OPEN ***": {
+        "chi": "大门已开启"
+    },
+    "== Original Material By Antosha ==": {
+        "chi": "== 模型 By Antosha =="
+    },
+    "== Map By Rio ==": {
+        "chi": "== 作者 Rio 汉化 萌爱=="
+    },
+    "== SPECIAL THANKS : Mitsuru , Tsukasa , Koen ==": {
+        "chi": "== 特别感谢 : Mitsuru , Tsukasa , Koen =="
+    },
+    "== THANKS SERVERS : Zeddy Servers ==": {
+        "chi": "== 感谢测试 : Zeddy Servers =="
+    },
+    "*** HOLD 25 SECONDS ***": {
+        "chi": "防守25秒"
+    }
+}

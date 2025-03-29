@@ -1,0 +1,101 @@
+{
+    "The path is blocked. Fall back!": {
+        "chi": "僵尸被锁住啦！撤退打boss"
+    },
+    "The path has been cleared.": {
+        "chi": "路径已被清理！"
+    },
+    "We can use the hairdryer to reach the shelf!": {
+        "chi": "我们可以使用吹风机到达货架！"
+    },
+    "We are trapped! Resist!": {
+        "chi": "我们被困住了！ 守住这里！"
+    },
+    "Fall back we can walk across the door.": {
+        "chi": "我们可以穿过门来撤退！"
+    },
+    "Hold on for a few seconds.": {
+        "chi": "多坚持几秒钟！"
+    },
+    "Fall back!": {
+        "chi": "撤退！"
+    },
+    "That's it! Break the shelf support.": {
+        "chi": "就是这样！ 打破架子的支撑！"
+    },
+    "There is no way around.": {
+        "chi": "无路可走了。"
+    },
+    "We'll have to enter the boiler. Resist!": {
+        "chi": "我们将不得不进入锅炉，先守一下！"
+    },
+    "We can enter through that hole! Fall back!": {
+        "chi": "我们可以通过那个洞进入！ 撤退！"
+    },
+    "Resist until the wall breaks.": {
+        "chi": "守住僵尸直到墙壁破裂！"
+    },
+    "We have to clear the soap out of the way to be able to climb up.": {
+        "chi": "我们必须把肥皂清理干净才能爬上去！"
+    },
+    "We'll have to jump outside and walk across the mirror.": {
+        "chi": "我们得跳到外面，穿过镜子！"
+    },
+    "We'll have to roll down the toilet paper to safely climb down.": {
+        "chi": "我们得把卫生纸卷下来才能安全爬下来！"
+    },
+    "Hold for 15 seconds.": {
+        "chi": "阵地防守15秒"
+    },
+    "Final doors are going to close in 30 seconds! Resist!": {
+        "chi": "最后一扇门将在 30 秒后关闭！ 守住僵尸！"
+    },
+    "Toilet paper has been rolled down. Fall back!": {
+        "chi": "卫生纸已经卷了下来，撤退！"
+    },
+    "Kill all zombies inside!": {
+        "chi": "把里面的僵尸全部杀了!"
+    },
+    "Seems like there is no way to escape.": {
+        "chi": "似乎已经无路可走!"
+    },
+    "Resist for 25 seconds.": {
+        "chi": "阵地防守30秒"
+    },
+    "|Admin Room|***Admin has changed difficulty to LEVEL 1 ***": {
+        "chi": "【管理员】：将地图调整到了第一关"
+    },
+    "|Admin Room| *** ADMIN SLAYING EVERYONE ***": {
+        "chi": "【管理员】:  将所有人都处死了"
+    },
+    "|Admin Room|***Admin has changed difficulty to LEVEL 2 ***": {
+        "chi": "【管理员】：将地图调整到了第二关"
+    },
+    "Resist for 20 seconds.": {
+        "chi": "防守25秒"
+    },
+    "Hold here until something happens!": {
+        "chi": "在这防御，直到直到蓝色海绵掉下来!"
+    },
+    "Sponge builder has been picked up.": {
+        "chi": "地图神器（海绵墙）已经被玩家捡取了!"
+    },
+    "Mouse trap has been picked up.": {
+        "chi": "地图神器（老鼠夹）已经被玩家捡取了!"
+    },
+    "You have won first level!": {
+        "chi": "第一关已完成"
+    },
+    "The Rubber Duck has been defeated.": {
+        "chi": "橡皮鸭被打败了！"
+    },
+    ">>> |LEVEL 2| <<<": {
+        "chi": ">>> 第2关 <<<"
+    },
+    "Map made by Puklica & Cuniczek": {
+        "chi": "地图作者： Puklica & Cuniczek 汉化：苏妲"
+    },
+    ">>> |LEVEL 1| <<<": {
+        "chi": ">>> 第一关 <<<"
+    }
+}

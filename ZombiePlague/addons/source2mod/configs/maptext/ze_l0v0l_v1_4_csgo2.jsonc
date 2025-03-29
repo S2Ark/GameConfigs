@@ -1,0 +1,266 @@
+{
+    ">>> PLAYER HAS PICKED UP AMMO <<<": {
+        "chi": "有玩家获得弹药神器！"
+    },
+    ">>> ADMIN CHANGED TO STAGE 4 <<<": {
+        "chi": "管理员更改为关卡四"
+    },
+    ">>> ADMIN CHANGED TO STAGE 1 <<<": {
+        "chi": "管理员更改为关卡一"
+    },
+    ">>> ADMIN CHANGED TO STAGE 2 <<<": {
+        "chi": "管理员更改为关卡二"
+    },
+    ">>> ADMIN CHANGED TO STAGE 3 <<<": {
+        "chi": "管理员更改为关卡三"
+    },
+    ">>> ADMIN PRESSED KILLALL BUTTON  <<<": {
+        "chi": "管理员按下重置回合"
+    },
+    ">>> HOLD 20 SECONDS <<<": {
+        "chi": "坚守 20 秒！"
+    },
+    ">>> HOLD 15 SECONDS <<<": {
+        "chi": "坚守 15 秒！"
+    },
+    ">>> TIME TO AVOID CANCER LAZERS <<<": {
+        "chi": "是时候躲避癌症激光了"
+    },
+    ">>> FAIL ROUND <<<": {
+        "chi": "回合失败"
+    },
+    ">>> ROUTE1 : HOLD 20 SECONDS <<<": {
+        "chi": "路线1：坚守 20 秒！"
+    },
+    ">>> ROUTE2 : HOLD 20 SECONDS <<<": {
+        "chi": "路线2：坚守 20 秒！"
+    },
+    ">>> ROUTE3 : HOLD 15 SECONDS <<<": {
+        "chi": "路线3：坚守 15 秒！"
+    },
+    ">>> HOLD 35 SECONDS <<<": {
+        "chi": "坚守 35 秒！"
+    },
+    ">>> HOLD 25 SECONDS <<<": {
+        "chi": "坚守 25 秒！"
+    },
+    ">>> 5 SECONDS LEFT <<<": {
+        "chi": "倒计时 5 秒！"
+    },
+    ">>> STAGE 2 COMPLETED <<<": {
+        "chi": "关卡二完成"
+    },
+    ">>> PLAYER HAS PICKED UP HEAL <<<": {
+        "chi": "有玩家已获取奶神器！"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
+        "chi": "有玩家拾取了僵尸黑洞！"
+    },
+    ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
+        "chi": "有玩家获得了僵尸奶神器！"
+    },
+    ">>> HOLD 10 SECONDS <<<": {
+        "chi": "坚守 10 秒"
+    },
+    ">>> STAGE 1 COMPLETED <<<": {
+        "chi": "关卡一完成"
+    },
+    ">>> HOLD 30 SECONDS <<<": {
+        "chi": "坚守 30 秒！"
+    },
+    ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<": {
+        "chi": "玩家拾取了彩虹光束"
+    },
+    ">>> PLAYER HAS PICKED UP PUSH <<<": {
+        "chi": "玩家已拾取推力！"
+    },
+    ">>> AFK TELEPORT IN 5 SECONDS <<<": {
+        "chi": "挂机玩家还有 5 秒传送"
+    },
+    ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<": {
+        "chi": "有玩家拿到了减速神器！"
+    },
+    ">>> WATCH OUT FOR TAEPODONG <<<": {
+        "chi": ""
+    },
+    ">>> PLAYER HAS PICKED UP FIRE TOILET <<<": {
+        "chi": "玩家捡起了火马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP ICE TOILET <<<": {
+        "chi": "玩家捡起了冰马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<": {
+        "chi": "玩家捡起来电马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP POISON TOILET <<<": {
+        "chi": "玩家捡起了毒马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<": {
+        "chi": "玩家捡起了黑洞马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP EARTH TOILET <<<": {
+        "chi": "玩家捡起了土马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP WATER TOILET <<<": {
+        "chi": "玩家捡起了水马桶！"
+    },
+    ">>> PLAYER HAS PICKED UP WIND TOILET <<<": {
+        "chi": "玩家捡起了风马桶！"
+    },
+    ">>> IT'S PRIEST <<<": {
+        "chi": ">>> 我超是牧师 <<<"
+    },
+    ">>> PRIEST DISAPPEARED <<<": {
+        "chi": ">>>> 我超牧师消失了 <<<"
+    },
+    ">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<": {
+        "chi": "灾难即将再次发生！"
+    },
+    ">>> THE TORCH WAS LIT <<<": {
+        "chi": "火炬点燃了。"
+    },
+    ">>> PRIEST CASTED MAGIC <<<": {
+        "chi": "牧师施展魔法"
+    },
+    ">>> BLUE BUTTON WAS PRESSED <<<": {
+        "chi": "蓝色按钮已被按下！"
+    },
+    ">>> RED BUTTON WAS PRESSED <<<": {
+        "chi": "红色按钮已被按下！"
+    },
+    ">>> YELLOW BUTTON WAS PRESSED <<<": {
+        "chi": "黄色按钮已被按下！"
+    },
+    ">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<": {
+        "chi": "还剩 5 秒，快下车！"
+    },
+    ">>> 5 SECONDS LEFT  WATCH OUT FOR TRAIN <<<": {
+        "chi": "还剩 5 秒，小心火车"
+    },
+    ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "挂机传送将在 10 秒后启动！"
+    },
+    ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "路线二: 10 秒后挂机玩家传送"
+    },
+    ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": "路线一: 10 秒后挂机玩家传送"
+    },
+    ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<": {
+        "chi": "僵尸在 5 秒后传送"
+    },
+    ">>> ROUTE 1 : HOLD 20 SECONDS <<<": {
+        "chi": "路线一：坚守 20 秒！"
+    },
+    ">>> ROUTE 2 : HOLD 20 SECONDS <<<": {
+        "chi": "路线二：坚守 20 秒！"
+    },
+    ">>> QUEEN IS AWAKED <<<": {
+        "chi": "女王被你们惊醒了！"
+    },
+    ">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<": {
+        "chi": "击败女王并打破她所有的武器"
+    },
+    ">>> WATCH OUT FOR BEAM CANNON <<<": {
+        "chi": "小心光束炮"
+    },
+    ">>> WATCH OUT FOR HUGE TAEPODONG <<<": {
+        "chi": "留意巨大的TAEPODONG"
+    },
+    ">>> ENERGY TANK USED HEAL TO QUEEN <<<": {
+        "chi": "能量罐用于治疗女王"
+    },
+    ">>> QUEEN CASTED LASER <<<": {
+        "chi": "女玩铸造激光了"
+    },
+    ">>> QUEEN CASTED VACUUM <<<": {
+        "chi": "女王使用了吸力！"
+    },
+    ">>> QUEEN CASTED WIND <<<": {
+        "chi": "女王使用了推力！"
+    },
+    ">>> QUEEN CASTED TRAIN <<<": {
+        "chi": "女王铸造了火车"
+    },
+    ">>> QUEEN CASTED SANIC RUSH <<<": {
+        "chi": ">>>女王发起了冲击<<<"
+    },
+    ">>> GET ON THE PLATFORM <<<": {
+        "chi": "到站台上去"
+    },
+    ">>> QUEEN USED FIRE BEAM <<<": {
+        "chi": "女王施放了火束"
+    },
+    ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<": {
+        "chi": "按下3个按钮后可以通行"
+    },
+    ">>> GREEN PILLAR BROKEN <<<": {
+        "chi": "绿柱破碎"
+    },
+    ">>> BLUE PILLAR BROKEN <<<": {
+        "chi": "蓝柱破碎"
+    },
+    ">>> RED PILLAR BROKEN <<<": {
+        "chi": "红柱破碎"
+    },
+    ">>> YELLOW PILLAR BROKEN <<<": {
+        "chi": "黄柱断裂"
+    },
+    ">>> TELEPORTER WILL ACTIVATE SOON <<<": {
+        "chi": "传送器马上启动！"
+    },
+    ">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<": {
+        "chi": "打破4根柱子激活传送器"
+    },
+    ">>> HARPY USED WIND <<<": {
+        "chi": "boss使用了风"
+    },
+    ">>> HARPY USED HUGE FEATHER <<<": {
+        "chi": "boss使用了大号羽毛"
+    },
+    ">>> HARPY USED FEATHER <<<": {
+        "chi": "boss使用了羽毛"
+    },
+    ">>> HARPY USED LOL <<<": {
+        "chi": "boss使用了LOL攻击"
+    },
+    ">>> STAGE 3 COMPLETED <<<": {
+        "chi": "关卡三完成"
+    },
+    ">>> THE WORLD IS GOING TO DARK <<<": {
+        "chi": "世界要变暗了！"
+    },
+    ">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<": {
+        "chi": "王后的笑声很微弱"
+    },
+    ">>> PRIEST DISAPPERED <<<": {
+        "chi": ">>> 牧师消失了 <<<"
+    },
+    ">>> WE CAUGHT UP TO PRIEST <<<": {
+        "chi": ">>> 我们找到了牧师 <<<"
+    },
+    ">>> SECRET STAGE COMPLETED <<<": {
+        "chi": "隐藏关卡完成！"
+    },
+    ">>> FINALLY YOU ESCAPED FROM QUEEN <<<": {
+        "chi": "你终于从皇后那里逃出来了！"
+    },
+    ">>> PRIEST IS CALLING QUEEN <<<": {
+        "chi": ">>> 牧师召唤了女皇 <<<"
+    },
+    ">>> 防守 30 秒 <<<": {
+        "chi": ">>> 防守 30 秒 <<<"
+    },
+    ">>> 防守 25 秒 <<<": {
+        "chi": ">>> 防守 25 秒 <<<"
+    },
+    ">>> 防守 20 秒 <<<": {
+        "chi": ">>> 防守 20 秒 <<<"
+    },
+    ">>> 防守 15 秒 <<<": {
+        "chi": ">>> 防守 15 秒 <<<"
+    },
+    ">>> 防守 10 秒 <<<": {
+        "chi": ">>> 防守 10 秒 <<<"
+    }
+}

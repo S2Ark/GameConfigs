@@ -1,0 +1,110 @@
+{
+    "Warping all players to Siberia in 15 seconds.": {
+        "chi": "15秒后全体进入西伯利亚"
+    },
+    "Objective. Find and destroy the source of the outbreak.": {
+        "chi": "任务:找到并摧毁大爆发的根源! | 翻译:C1M 有问题联系TOP游廊管理团队"
+    },
+    "Overriding security breach 30 seconds": {
+        "chi": "大门30秒后打开"
+    },
+    "10 seconds left": {
+        "chi": "10秒"
+    },
+    "Dam door closing in 10 seconds": {
+        "chi": "水库大门将在10秒后关闭"
+    },
+    "Door is now open. Get inside the dam!": {
+        "chi": "门开了. 进入坝体!"
+    },
+    "Zombie spawns are advancing in 20 seconds": {
+        "chi": "僵尸会在20秒后追上你的鼙鼓"
+    },
+    "Reducing steam pressure 10 seconds": {
+        "chi": "正在释放蒸汽压力 防守10秒"
+    },
+    "Steam pressure at 66%": {
+        "chi": "剩余蒸汽压力 66%"
+    },
+    "Steam pressure at 33%": {
+        "chi": "剩余蒸汽压力 33%"
+    },
+    "Steam pressure at 0%": {
+        "chi": "剩余蒸汽压力 0%"
+    },
+    "Zombie spawns advancing in 15 seconds": {
+        "chi": "僵尸会在15秒后追上你的鼙鼓"
+    },
+    "Dam door opening in 20 seconds": {
+        "chi": "大坝门20秒后打开"
+    },
+    "Dam door closing in 5 seconds": {
+        "chi": "剩余5秒"
+    },
+    "Door opening in 20 seconds": {
+        "chi": "20秒后开门"
+    },
+    "Zombie spawns advancing in 25 seconds": {
+        "chi": "25秒僵尸传送"
+    },
+    "Door opening in 10 seconds": {
+        "chi": "10秒后开门"
+    },
+    "Door closing in 10 seconds": {
+        "chi": "10秒后关门"
+    },
+    "Door opening in 30 seconds": {
+        "chi": "30秒后开门"
+    },
+    "Arming C4 in 30 seconds": {
+        "chi": "正在下包 防守30秒"
+    },
+    "C4 armed in 10 seconds": {
+        "chi": "C4安装剩余10秒"
+    },
+    "C4 in now armed": {
+        "chi": "炸弹已安放"
+    },
+    "New objective. Reach the top of the dam for extraction": {
+        "chi": "新任务. 前往大坝顶部"
+    },
+    "Push gun obtained!": {
+        "chi": "获得推力枪!"
+    },
+    "The push gun can be used every 45 seconds.": {
+        "chi": "推力枪CD:45s."
+    },
+    "Zombie spawn advancing in 15 seconds": {
+        "chi": "僵尸15秒后传送"
+    },
+    "Elevator doors opening in 20 seconds": {
+        "chi": "电梯20秒后开门"
+    },
+    "Time portal will open in 50 seconds": {
+        "chi": "50秒后开启传送 坚持住！"
+    },
+    "Elevator doors closing in 10 seconds": {
+        "chi": "电梯10秒后关闭"
+    },
+    "Zombie spawn advancing in 10 seconds": {
+        "chi": "僵尸10秒后传送"
+    },
+    "TIP: Zombies can pass through our portal.": {
+        "chi": "tips: 僵尸可以传送回复活点."
+    },
+    "TIP: It would be wise to stay and defend a bit until the explosion occurs.": {
+        "chi": "tips: 明智的做法是在爆炸之前留下来防御."
+    },
+    "30 seconds": {
+        "chi": "30秒"
+    },
+    "10 seconds": {
+        "chi": "10 秒"
+    },
+    "C4 exploding in 10 seconds": {
+        "chi": "C4 10秒后爆炸"
+    },
+    "-Hardcore Mode-": {
+        "chi": "-硬核模式-"
+    }
+}

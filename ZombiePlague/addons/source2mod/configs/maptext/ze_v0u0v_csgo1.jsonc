@@ -1,0 +1,167 @@
+{
+    ">>> SUNNY LEVEL <<<": {
+        "chi": ">>> 阳光明媚 <<<"
+    },
+    ">>> STAGE 1 : VILLAGE MODE <<<": {
+        "chi": ">>> 第一关 : 故事的开始 <<<"
+    },
+    ">>> STAGE 2 : HILL MODE <<<": {
+        "chi": ">>> 第二关 : 邂逅小树林 <<<"
+    },
+    ">>> STAGE 3 : TOWN MODE <<<": {
+        "chi": ">>> 第三关 : 祥和的城镇 <<<"
+    },
+    ">>> GLOOMY LEVEL <<<": {
+        "chi": ">>> 阴晴不定 <<<"
+    },
+    ">>> STAGE 4 : VILLAGE MODE <<<": {
+        "chi": ">>> 第四关 : 噩梦的开始 <<<"
+    },
+    ">>> STAGE 5 : HILL MODE <<<": {
+        "chi": ">>> 第五关 : 地狱丘陵 <<<"
+    },
+    ">>> STAGE 6 : TOWN MODE <<<": {
+        "chi": ">>> 第六关 : 最后的战役 <<<"
+    },
+    ">>> HOLD 45 SECONDS <<<": {
+        "chi": "防守40秒"
+    },
+    ">>> HOLD 30 SECONDS <<<": {
+        "chi": "防守30秒"
+    },
+    ">>> HOLD 10 SECONDS <<<": {
+        "chi": "防守10秒"
+    },
+    ">>> HOLD 20 SECONDS <<<": {
+        "chi": "防守20秒"
+    },
+    ">>> HOLD 15 SECONDS <<<": {
+        "chi": "防守15秒"
+    },
+    ">>> Map made by Moray <<<": {
+        "chi": ">>> 作者Moray 汉化萌爱 苏妲的X奴懒猫<<<"
+    },
+    ">>> Stage1 Activated <<<": {
+        "chi": ">>> 准备上岸 <<<"
+    },
+    ">>> Stage4 Activated <<<": {
+        "chi": ">>> 牢房的开始 <<<"
+    },
+    ">>> Stage2 Activated <<<": {
+        "chi": ">>> 这个跳刀不算难，对吧 <<<"
+    },
+    ">>> Stage5 Activated <<<": {
+        "chi": ">>> 看起来还行吧？ <<<"
+    },
+    ">>> Stage3 Activated <<<": {
+        "chi": ">>> 什么叫印度运镜啊（叉腰） <<<"
+    },
+    ">>> Stage6 Activated <<<": {
+        "chi": ">>> 总算出狱了 <<<"
+    },
+    ">>> SANIC IS COMING <<<": {
+        "chi": ">>> 蓝色大耗子 已降临 <<<"
+    },
+    ">>> PRIEST CASTED GRAVITY <<<": {
+        "chi": ">>> PRIEST 使用黑洞 <<<"
+    },
+    ">>> PRIEST CASTED GHOST <<<": {
+        "chi": ">>> PRIEST 使用幽灵 <<<"
+    },
+    ">>> PRIEST CASTED CANNON <<<": {
+        "chi": ">>> PRIEST使用加农炮 <<<"
+    },
+    ">>> PRIEST IS COMING <<<": {
+        "chi": ">>> PRIEST 已降临 <<<"
+    },
+    ">>> TIME TO AVOID CANCER LAZERS <<<": {
+        "chi": "准备好面对刀光"
+    },
+    ">>> DOOR CLOSING <<<": {
+        "chi": "大门正在关闭"
+    },
+    ">>> AFK TELEPORT IN 10 SECONDS <<<": {
+        "chi": ">>> AFK 玩家10秒后传送 <<<"
+    },
+    ">>> HOLD 35 SECONDS <<<": {
+        "chi": "防守35秒"
+    },
+    ">>> HOLD 25 SECONDS <<<": {
+        "chi": "防守25秒"
+    },
+    ">>> OPENING THE GATE TO THE MINE <<<": {
+        "chi": "矿井正在打开"
+    },
+    ">>> OPENING THE PARABITE'S NEST <<<": {
+        "chi": "打开虫之巢穴"
+    },
+    ">>> HOLD 5 SECONDS <<<": {
+        "chi": "防守5秒"
+    },
+    ">>> BLOOPER IS COMING <<<": {
+        "chi": ">>> 看 是个章鱼哥 <<<"
+    },
+    ">>> BLOOPER USED PUSH <<<": {
+        "chi": ">>> 章鱼哥 使用推力 <<<"
+    },
+    ">>> BLOOPER USED INK <<<": {
+        "chi": ">>> 章鱼哥 向你tui了一口 <<<"
+    },
+    ">>> BLOOPER USED CANNON <<<": {
+        "chi": ">>> 章鱼哥 有点生气 <<<"
+    },
+    ">>> BLOOPER USED SPLASH <<<": {
+        "chi": ">>> 章鱼哥 想要冲你 <<<"
+    },
+    ">>> BLOOPER USED BREATH <<<": {
+        "chi": ">>> 章鱼哥 很TM生气<<<"
+    },
+    ">>> BLOOPER USED BEAM <<<": {
+        "chi": ">>> 章鱼哥 使用火眼金睛 <<<"
+    },
+    ">>> THE SHIP DEPARTING IN 15 SECONDS <<<": {
+        "chi": "小船15秒后出发"
+    },
+    ">>> BLOOPER HAS BEEN DEFEATED <<<": {
+        "chi": ">>> 章鱼哥 寄了 <<<"
+    },
+    ">>> THE SHIP DEPARTING IN 20 SECONDS <<<": {
+        "chi": "小船20秒后出发"
+    },
+    ">>> SAITAMA IS COMING <<<": {
+        "chi": ">>> 阳光开朗的大太阳 已降临 <<<"
+    },
+    ">>> ROUTE 2 : HOLD 25 SECONDS <<<": {
+        "chi": ">>> 二号门 : 防守25秒 <<<"
+    },
+    ">>> ROUTE 1 : HOLD 25 SECONDS <<<": {
+        "chi": ">>> 一号门：防守25秒 <<<"
+    },
+    ">>> BOMB 2 HAS BEEN ACTIVATED <<<": {
+        "chi": "二号炸弹已经激活"
+    },
+    ">>> BOMB 1 HAS BEEN ACTIVATED <<<": {
+        "chi": "一号炸弹已经激活"
+    },
+    ">>> ROUTE 1 :HOLD 25 SECONDS <<<": {
+        "chi": ">>> 一号路线 :防守25秒 <<<"
+    },
+    ">>> ROUTE 2 : HOLD 15 SECONDS <<<": {
+        "chi": ">>> 二号路 : 防守15秒 <<<"
+    },
+    ">>> SAITAMA HAS BEEN DEFEATED <<<": {
+        "chi": ">>> 阳光开朗的大太阳 已被后羿射下 <<<"
+    },
+    ">>> PRIEST HAS BEEN DEFEATED <<<": {
+        "chi": ">>> PRIEST已被击败 <<<"
+    },
+    ">>> BRIDGE ENTRANCE OPENING IN 90 SECONDS <<<": {
+        "chi": "桥梁将在90秒后通行"
+    },
+    ">>> SANIC HAS BEEN DEFEATED <<<": {
+        "chi": ">>> 蓝色大耗子 已被击败 <<<"
+    },
+    ">>> BRIDGE ENTRANCE OPENING IN 120 SECONDS <<<": {
+        "chi": "桥梁120秒后通行"
+    }
+}

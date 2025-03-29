@@ -1,0 +1,641 @@
+{
+    "**Map Status: No Stripper!**": {
+        "chi": "**Map Status: No Stripper!**"
+    },
+    "ze_ffxii_Mt_Bur_Omisace": {
+        "chi": "最终幻想12神都布尔欧密谢司"
+    },
+    "Map By Ma/l/go": {
+        "chi": "地图作者 Ma/l/go 汉化 已死之人 "
+    },
+    "**Welcome to Mt Bur Omisace**": {
+        "chi": "**欢迎来到神都布尔欧密谢司**"
+    },
+    "**Map by Ma/l/go**": {
+        "chi": "**地图作者 Ma/l/go 汉化 Tastysaw & Hanz71711**"
+    },
+    "**When we were in the Stilshrine of Miriam we could see smoke coming from that area** ": {
+        "chi": "**当我们在弥利亚姆遗迹的时候看见烟雾是从这里升起的** "
+    },
+    "**We have to check it out, we'll meet with Gran Kiltias Anastasis** ": {
+        "chi": "**我们需要检查一下发生了什么, 然后去会见大僧正安纳塔西斯** "
+    },
+    "**A player has picked up Fire Magick | Fire - level 1 |**": {
+        "chi": "**有玩家捡到了火 | 1级火 |**"
+    },
+    "**A player has picked up Fire Magick | Fire - level 2 |**": {
+        "chi": "**有玩家捡到了火 | 2级火 |**"
+    },
+    "**A player has picked up Fire Magick | Fire - level 3 |**": {
+        "chi": "**有玩家捡到了火 | 3级火 |**"
+    },
+    "**A player has picked up Frozen Starlight | Ice - level 1 |**": {
+        "chi": "**有玩家捡到了冰 | 1级冰 |**"
+    },
+    "**A player has picked up Frozen Starlight | Ice - level 2 |**": {
+        "chi": "**有玩家捡到了冰 | 2级冰 |**"
+    },
+    "**Hold this area for 15 seconds!**": {
+        "chi": "**守住15秒!**"
+    },
+    "**A player has picked up Dark Magick | Gravity- level 1 |**": {
+        "chi": "**有玩家捡到了黑洞 | 1级黑洞 |**"
+    },
+    "**A player has picked up Darkra Magick | Gravity - level 2 |**": {
+        "chi": "**有玩家捡到了黑洞 | 2级黑洞 |**"
+    },
+    "**A player has picked up Darkga Magick | Gravity - level 3 |**": {
+        "chi": "**有玩家捡到了黑洞 | 3级黑洞 |**"
+    },
+    "**A player has picked up Fira Magick | Fire - level 2 |**": {
+        "chi": "**有玩家捡到了火 | 2级火 |**"
+    },
+    "**Cover here for 15 seconds before we clear this obstacle**": {
+        "chi": "**我们需要15秒清除障碍物**"
+    },
+    "**Hold here for 13 seconds!**": {
+        "chi": "**守住13秒!**"
+    },
+    "**A player has picked up Cura Magick | Heal - level 1 |**": {
+        "chi": "**有玩家捡到了奶 | 1级奶 |**"
+    },
+    "**A player has picked up Curaja Magick | Heal - level 2 |**": {
+        "chi": "**有玩家捡到了奶 | 2级奶 |**"
+    },
+    "**A player has picked up Thunder Magick | Electro - level 1 |**": {
+        "chi": "**有玩家捡到了电 | 1级电 |**"
+    },
+    "**A zombie has picked up Confuse Magick | level 1 |**": {
+        "chi": "**有僵尸捡到了致盲 | 1级致盲 |**"
+    },
+    "**A zombie has picked up Confuse Magick | level 2 |**": {
+        "chi": "**有僵尸捡到了致盲 | 2级致盲 |**"
+    },
+    "**A zombie has picked up Confuse Magick | level 3 |**": {
+        "chi": "**有僵尸捡到了致盲 | 3级致盲 |**"
+    },
+    "**A zombie has picked up Invisible Magick | level 1 |**": {
+        "chi": "**有僵尸捡到了隐身 | 1级隐身 |**"
+    },
+    "**A zombie has picked up Invisible Magick | level 2 |**": {
+        "chi": "**有僵尸捡到了隐身 | 2级隐身 |**"
+    },
+    "**A zombie has picked up Invisible Magick | level 3 |**": {
+        "chi": "**有僵尸捡到了隐身 | 3级隐身 |**"
+    },
+    "**A zombie has picked up Protect Magick | level 1 |**": {
+        "chi": "**有僵尸捡到了护盾 | 1级护盾 |**"
+    },
+    "**A zombie has picked up Protectra Magick | level 2 |**": {
+        "chi": "**有僵尸捡到了护盾 | 2级护盾 |**"
+    },
+    "**A zombie has picked up Protectga Magick | level 3 |**": {
+        "chi": "**有僵尸捡到了护盾 | 3级护盾 |**"
+    },
+    "**A zombie has picked up Warp Magick | level 1 |**": {
+        "chi": "**有僵尸捡到了秒杀 | 1级秒杀 |**"
+    },
+    "**A zombie has picked up Warp Magick | level 2 |**": {
+        "chi": "**有僵尸捡到了秒杀 | 2级秒杀 |**"
+    },
+    "**A zombie has picked up Warp Magick | level 3 |**": {
+        "chi": "**有僵尸捡到了秒杀 | 3级秒杀 |**"
+    },
+    "**Zombie has picked up Dark Magick | Dark - level 1 |**": {
+        "chi": "**有僵尸捡到了黑洞 | 1级黑洞 |**"
+    },
+    "**Zombie has picked up Darkra Magick | Dark - level 2 |**": {
+        "chi": "**有僵尸捡到了黑洞 | 2级黑洞 |**"
+    },
+    "**Zombie has picked up Darkga Magick | Dark - level 3 |**": {
+        "chi": "**有僵尸捡到了黑洞 | 3级黑洞 |**"
+    },
+    "**Gates will open in 25 seconds!**": {
+        "chi": "**大门25秒后开启!**"
+    },
+    "**A player has picked up Oil Magick | Oil - level 1 |**": {
+        "chi": "**有玩家捡到了油 | 1级油 |**"
+    },
+    "**A player has picked up Oil Magick | Oil - level 2 |**": {
+        "chi": "**有玩家捡到了油 | 2级油 |**"
+    },
+    "**A player has picked up Oil Magick | Oil - level 3 |**": {
+        "chi": "**有玩家捡到了油 | 3级油 |**"
+    },
+    "**Hold this area for 10 seconds!**": {
+        "chi": "**守住10秒!**"
+    },
+    "**First let's try to go left, better go down!**": {
+        "chi": "**首先我们试着往下走!**"
+    },
+    "**Wait 5 seconds more!**": {
+        "chi": "**守住5秒!**"
+    },
+    "**Gates will open in 15 seconds!**": {
+        "chi": "**大门15秒后开启!**"
+    },
+    "**Nobody has been in these ruins for a long time**": {
+        "chi": "**看来这处废墟很久没人来了**"
+    },
+    "**Find an unlocked door, maybe you can open it!**": {
+        "chi": "**找到没有被锁住的大门, 也许你可以打开它!**"
+    },
+    "**Gates will open in 20 seconds!**": {
+        "chi": "**大门20秒后开启!**"
+    },
+    "**Hold here for 10 seconds!**": {
+        "chi": "**守住10秒!**"
+    },
+    "**Look at his Gates, we should be able to open them**": {
+        "chi": "**看这扇门, 我们应该可以打开它**"
+    },
+    "**Hold this area for 35 seconds!**": {
+        "chi": "**守住35秒!**"
+    },
+    "**It's not shortcut but ancient gem room!**": {
+        "chi": "**这里是存放宝石的房间!**"
+    },
+    "**Snow Dragon has casted Fire Beam**": {
+        "chi": "**巨龙使用火焰**"
+    },
+    "**Snow Dragon has casted Ice Missile!**": {
+        "chi": "**巨龙使用寒冰!**"
+    },
+    "**Snow Dragon begins to channel DEATH AND DOOM into the area! DON'T STAY ON THE MIDDLE!**": {
+        "chi": "**巨龙引导死亡与毁灭到这里! 不要站在平台中间!**"
+    },
+    "**Snow Dragon has casted Poison Explosion!**": {
+        "chi": "**巨龙使用剧毒!**"
+    },
+    "**Snow Dragon has casted Ice Tornado!**": {
+        "chi": "**巨龙召唤狂风!**"
+    },
+    "**Snow Dragon has casted Ice Shield, Stop shooting, you only healing him!**": {
+        "chi": "**巨龙召唤寒冰结界,停枪,开枪给它回血!**"
+    },
+    "**Too slow!**": {
+        "chi": "**太慢了!**"
+    },
+    "**Snow Dragon has been defeated!**": {
+        "chi": "**巨龙被干碎了!**"
+    },
+    "**Take Blue Crystal, his power can help us in future!**": {
+        "chi": "**拿上蓝水晶, 它的力量也许可以为我们所用!**"
+    },
+    "**Defend here until doors will close!**": {
+        "chi": "**守住直到大门关闭!**"
+    },
+    "**Hard mode was beaten. Unlocking Extreme mode **": {
+        "chi": "**Hard 模式通过. 解锁 Extreme 模式 **"
+    },
+    "**Find way to main temple and talk with Gran Kiltias Anastasis** ": {
+        "chi": "**找到路进入神庙与大僧正安纳塔西斯交谈** "
+    },
+    "**A player has picked up Sandaga Magick | Sandstorm - level 3 |**": {
+        "chi": "**有玩家捡到了流沙 | 3级流沙 |**"
+    },
+    "**A player has picked up Sandra Magick | Sandstorm - level 2 |**": {
+        "chi": "**有玩家捡到了流沙 | 2级流沙 |**"
+    },
+    "**We need to get to him asap, we won't move on without his help**": {
+        "chi": "**我们需要尽快找到他，没有他的帮助我们无法继续前进**"
+    },
+    "**Anyway, we need to meet him!**": {
+        "chi": "**无论什么方式, 一定要见到他!**"
+    },
+    "**A player has picked up Toxify Magick | Poison - level 3 |**": {
+        "chi": "**有玩家捡到了毒 | 3级毒 |**"
+    },
+    "**A player has picked up Frozen Starlight | Ice - level 3 |**": {
+        "chi": "**有玩家捡到了冰 | 3级冰 |**"
+    },
+    "**A player has picked up Haste Magick | Speed - level 1 |**": {
+        "chi": "**有玩家捡到了加速 | 1级加速 |**"
+    },
+    "**A player has picked up Sand Magick | Sandstorm - level 1 |**": {
+        "chi": "**有玩家捡到了流沙 | 1级流沙 |**"
+    },
+    "**Wait what's that?**": {
+        "chi": "**等一下 那是什么?**"
+    },
+    "**Impasible Judge Bergan and Gabranth we must stop them!**": {
+        "chi": "**看起来是裁判长贝甘和伽布拉斯我们必须阻止他们!**"
+    },
+    "**Don't let them escape!**": {
+        "chi": "**别让他们跑了!**"
+    },
+    "**A player has picked up Hastega Magick | Speed - level 3 |**": {
+        "chi": "**有玩家捡到了加速 | 3级加速 |**"
+    },
+    "**A player has picked up Hastera Magick | Speed - level 2 |**": {
+        "chi": "**有玩家捡到了加速 | 2级加速 |**"
+    },
+    "**A player has picked up Limit Breaks Magick | Ultima - level 2 |**": {
+        "chi": "**有玩家捡到了终极 | 2级终极 |**"
+    },
+    "**A player has picked up Thundaga Magick | Electro - level 3 |**": {
+        "chi": "**有玩家捡到了电 | 3级电 |**"
+    },
+    "**A player has picked up Thundara Magick | Electro - level 2 |**": {
+        "chi": "**有玩家捡到了电 | 2级电 |**"
+    },
+    "**Hold here for 20 seconds!**": {
+        "chi": "**守住20秒!**"
+    },
+    "**Apparently Judge Gabranth is hiding in this part of the tower!**": {
+        "chi": "**很明显裁判长伽布拉斯藏在这座塔里!**"
+    },
+    "**Supposedly he have a limit breaker!**": {
+        "chi": "**据说他已经突破极限了!**"
+    },
+    "**That's why he's so powerful some say he has several that's why he is so dangerous**": {
+        "chi": "**这就是他如此强大的原因，有人说他突破了好几次，这就是为什么他如此危险**"
+    },
+    "**This may be our only opportunity to fight him**": {
+        "chi": "**这也许是我们唯一打败他的机会**"
+    },
+    "**No matter how strong he is we have to beat him or else mt bur-omisace will be destroyed!**": {
+        "chi": "**无论他现在多么强大我们都要打败他否则神都将毁于一旦!**"
+    },
+    "**A player has picked up Curaga Magick | Heal - level 3 |**": {
+        "chi": "**有玩家捡到了奶 | 3级奶 |**"
+    },
+    "**Judge Gabranth vanquished, keep running!**": {
+        "chi": "**裁判长伽布拉斯被打败了, 跑!**"
+    },
+    "**We took control of the stone, it may be useful later**": {
+        "chi": "**我们控制了石头，以后可能有用**"
+    },
+    "**We have to get to the exit, we can't go back, so keep running**": {
+        "chi": "**我们必须找到出口，没有回去的路了，所以继续向前跑**"
+    },
+    "**The Fence will open in 10 seconds**": {
+        "chi": "**栅栏10秒后升起**"
+    },
+    "**Cross the bridge, we must get out of here!**": {
+        "chi": "**穿过大桥, 我们必须离开这里!**"
+    },
+    "**Wait, bridge has been destroyed, we must find another way to get out!": {
+        "chi": "**草你妈, 桥断了, 我们需要在找一条路!"
+    },
+    "**Defend until something happen!**": {
+        "chi": "**守住直到道路开放!**"
+    },
+    "**Hold this area until fence is open!**": {
+        "chi": "**守住直到栅栏升起!**"
+    },
+    "**Wait until something happens**": {
+        "chi": "**等待什么事情发生**"
+    },
+    "**That Shadow!**": {
+        "chi": "**那是什么东西!**"
+    },
+    "**Shadow blocking the way, we must defeat him! shoot**": {
+        "chi": "**未知的阴影挡住了路, 干碎它! 快开枪**"
+    },
+    "**Extreme mode was beaten. Unlocking Insane mode**": {
+        "chi": "**Extreme 模式已通过. 解锁 Insane 模式**"
+    },
+    "**Judge Bergan probably went to the room where Gran Kiltias Anastasis is staying!**": {
+        "chi": "**裁判长贝甘应该是去了大僧正安纳塔西斯的房间了!**"
+    },
+    "**Don't let him hurt Anastasis, you need to hurry up!**": {
+        "chi": "**别让他伤害安纳塔西斯, 你最好快点!**"
+    },
+    "**I hope the soldiers of the empire will not disturb us**": {
+        "chi": "**我希望帝国士兵不会阻止我们**"
+    },
+    "**A player has picked up Dark Magick | Gravity - level 3 |**": {
+        "chi": "**有玩家捡到了黑洞 | 3级黑洞 |**"
+    },
+    "**A player has picked up Limit Breaks Magick | Ultima - level 3 |**": {
+        "chi": "**有玩家捡到了终极 | 3级终极 |**"
+    },
+    "**A player has picked up Oile Magick | Oil - level 3 |**": {
+        "chi": "**有玩家捡到了油 | 3级油 |**"
+    },
+    "**Defend until the gates is open!**": {
+        "chi": "**守住直到大门开启!**"
+    },
+    "**Defend until the path is clear!**": {
+        "chi": "**守住直到道路开放!**"
+    },
+    "Gates will open in 30 seconds!": {
+        "chi": "**大门30秒后开启**!"
+    },
+    "**Some of the items can affect him. Use them!**": {
+        "chi": "**一些神器可以影响他. 快开神器!**"
+    },
+    "**Judge Berganteleported us to his dimension! ": {
+        "chi": "**裁判长贝甘使用传送把我们带进了他的空间!**"
+    },
+    "**remember this place is not real, but his attacks are!**": {
+        "chi": "**记住这里不是真的, 但是他的攻击是真的!**"
+    },
+    "**Judge Bergan vanquished**": {
+        "chi": "**裁判长贝甘被打败了**"
+    },
+    "**We can run away from this empty tower**": {
+        "chi": "**我们可以离开这座塔了**"
+    },
+    "**Hopefully Gran Kiltias Anastasis is safe**": {
+        "chi": "**希望大僧正安纳塔西斯是安全的**"
+    },
+    "**Judge Bergan should be dead but with them you never know, let's hope we never meet him again**": {
+        "chi": "**裁判长贝甘应该死了但是你永远也不知道他是不是真死了, 我希望我们不会再看见他了**"
+    },
+    "**GIM52A has been summoned to judge us!*": {
+        "chi": "**我草!终结者被从CF里召唤出来审判我们!*"
+    },
+    "**Defeat him before he kills us!**": {
+        "chi": "**此刻你就是终极猎手!快干碎终结者!**"
+    },
+    "**GIM52A vanquished! keep running!**": {
+        "chi": "**你果然是终极猎手! 跑!**"
+    },
+    "**Defend until the gates will open!**": {
+        "chi": "**守住直到大门开启!**"
+    },
+    "**We are trapped! Defend until somethings happen!**": {
+        "chi": "**我们被骗了! 守住直到某些事情发生!**"
+    },
+    "**Defend this place for 20 seconds**": {
+        "chi": "**守住20秒**"
+    },
+    "**GO GO GO!!**": {
+        "chi": "**GO GO GO!!**"
+    },
+    "**Defend here until way is open!**": {
+        "chi": "**守住直到道路开放!**"
+    },
+    "**Bergan blocking teleporter, we need to defeat him!**": {
+        "chi": "**贝甘挡住了传送器, 我们要干碎他!**"
+    },
+    "**We can't let him get away!**": {
+        "chi": "**我们不能让他跑了!**"
+    },
+    "**GO GO GO!**": {
+        "chi": "**GO GO GO!**"
+    },
+    "**Nades do more damage!**": {
+        "chi": "**手雷能造成更多伤害!**"
+    },
+    "**Judge Bergan vanquished, keep running!**": {
+        "chi": "**裁判长贝甘被打败了, 跑!**"
+    },
+    "**The teleporter will active in 10 seconds**": {
+        "chi": "**传送器10秒后启动**"
+    },
+    "**We escaped with look...**": {
+        "chi": "**看起来我们成功跑出来了...**"
+    },
+    "**Imperial Army sends the most dangerous Airship**": {
+        "chi": "**帝国军队派出了他们最强大的战舰**"
+    },
+    "**Dreadnought Leviathan!?**": {
+        "chi": "**第八舰队旗舰利维坦!?**"
+    },
+    "**We have to destroy the airship before they manage to land**": {
+        "chi": "**我们要在战舰降落之前摧毁他**"
+    },
+    "**Insane mode was beaten. Unlocking Legend mode**": {
+        "chi": "**Insane 模式已通过. 解锁 Legend 模式**"
+    },
+    "**Dreadnought Leviathan is nearby Kiltian Temple**": {
+        "chi": "**帝国第八舰队的旗舰利维坦正在基尔提亚神庙的附近**"
+    },
+    "**A player has picked up Firaga Magick | Fire - level 3 |**": {
+        "chi": "**有玩家捡到了火 | 3级火 |**"
+    },
+    "**There is a chance that the teleport in the temple may connect to the airship**": {
+        "chi": "**神庙里应该有传送器连接到战舰**"
+    },
+    "**Run, don't get killed, the further fate of this place depends on you, you can't lose!**": {
+        "chi": "**跑, 千万别死了, 神都未来的命运在你手上, 你不能失败!**"
+    },
+    "**A player has picked up Oilga Magick | Oil - level 3 |**": {
+        "chi": "**有玩家捡到了油 | 3级油 |**"
+    },
+    "**Bridge exploded, hurry find another way!**": {
+        "chi": "**大桥他妈的爆炸了, 从旁边绕过去!**"
+    },
+    "**Defend here until teleport will enable!**": {
+        "chi": "**守住直到传送器启动!**"
+    },
+    "**Wait. A word of caution before we set out**": {
+        "chi": "**等一下. 出发前先提醒你一下**"
+    },
+    "**See that red web of light spanning the passage way?**": {
+        "chi": "**看见那个红色的激光网格了吗?**"
+    },
+    "**It is a mechanism to detect intruder within the ship**": {
+        "chi": "**那是战舰防止入侵者的保护措施**"
+    },
+    "**Break one of those beams and an alarm will sound, summoning the guard**": {
+        "chi": "**打破其中一个光束，警报就会响起，召唤警卫**"
+    },
+    "**The alarm should cease after a time, but it's better to avoid drawing unnecessary attention**": {
+        "chi": "**警报应该在一段时间后停止，但最好避免引起不必要的注意**"
+    },
+    "**Defend here until random gatest will open!**": {
+        "chi": "**守住直到随机大门开启!**"
+    },
+    "**Elevator is disabled, we must turn on power manually**": {
+        "chi": "**电梯现在断电无法启动, 我们需要重启电源**"
+    },
+    "**Find switch and defend until elevator starts moving**": {
+        "chi": "**找到开关启动电源并守住僵尸**"
+    },
+    "**We got the power. The elevator is enable!**": {
+        "chi": "**电源已重启. 电梯可以启动了!**"
+    },
+    "**The Elevator will start in 12 seconds": {
+        "chi": "**电梯12秒后启动**"
+    },
+    "**Random way will unlock in 10 seconds!**": {
+        "chi": "**一条随机道路10秒后开放!**"
+    },
+    "**Way has been unlock, keep running!**": {
+        "chi": "**路被堵住了, 跑!**"
+    },
+    "**Defend here until gates will open!**": {
+        "chi": "**守住直到大门开启!**"
+    },
+    "**Gates are open!**": {
+        "chi": "**大门开启!**"
+    },
+    "**Engine room will open in 15 seconds!**": {
+        "chi": "**引擎室15秒后开放!**"
+    },
+    "**Defent until way will open!**": {
+        "chi": "**守住直到道路开放!**"
+    },
+    "**Elevator will enable in 14 seconds!**": {
+        "chi": "**电梯14秒后离开!**"
+    },
+    "**Some of the items can affect Zargabaath. Use them!**": {
+        "chi": "**一些神器可以影响扎尔伽巴斯. 快开神器!**"
+    },
+    "**Zargabaath has casted Thunder Ability**": {
+        "chi": "**扎尔伽巴斯使用电**"
+    },
+    "**Zargabaath has casted Vampire Ability**": {
+        "chi": "**扎尔伽巴斯使用黑洞**"
+    },
+    "**Gabranth has casted Blizzaga Magick!**": {
+        "chi": "**伽布拉斯使用寒冰魔法!**"
+    },
+    "**Don't stay on the middle!**": {
+        "chi": "**别站在场地中间!**"
+    },
+    "**Bergan has casted Firaga Magick!**": {
+        "chi": "**贝甘使用烈火魔法!**"
+    },
+    "**Zargabaath has casted Fire Attack**": {
+        "chi": "**扎尔伽巴斯使用火焰**"
+    },
+    "**Judge Bergan vanquished!**": {
+        "chi": "**裁判长贝甘被打败了!**"
+    },
+    "**Zargabaath has casted Ultimate Attack**": {
+        "chi": "**扎尔伽巴斯使用终极**"
+    },
+    "**Judge Gabranth vanquished!**": {
+        "chi": "**裁判长伽布拉斯被打败了!**"
+    },
+    "**Zargabaath has casted Protect Magick**": {
+        "chi": "**扎尔伽巴斯使用护盾**"
+    },
+    "**Jude Zargabaath escape, we have to catch him!**": {
+        "chi": "**裁判长扎尔伽巴斯跑了, 我们要抓住他!**"
+    },
+    "**Defend until teleport is enable!**": {
+        "chi": "**守住直到传送器激活!**"
+    },
+    "**One of the engines gonna explode!?**": {
+        "chi": "**战舰引擎要爆炸了!?**"
+    },
+    "**Zargabaath wants to destroy leviathan with us**": {
+        "chi": "**扎尔伽巴斯想要让我们给利维坦战舰陪葬**"
+    },
+    "**We have to get out of here as soon as possible!**": {
+        "chi": "**我们最好快离开这里!**"
+    },
+    "**Judge Ghis couldn't have gone far, most likely running to the hangar**": {
+        "chi": "**裁判长扎尔伽巴斯应该没跑远, 快追上他**"
+    },
+    "**Gates will open in 20 seconds**": {
+        "chi": "**大门20秒后开启**"
+    },
+    "**Gates are closed, we need to find another way!**": {
+        "chi": "**大门是关闭的, 我们需要再找一条路!**"
+    },
+    "**Gates will open in 35 seconds!**": {
+        "chi": "**大门35秒后开启!**"
+    },
+    "**Airship going to explode, we must get out of here, run!**": {
+        "chi": "**飞船要爆炸了, 我们必须要离开, 跑!**"
+    },
+    "**Zargabaath is using Dark Magick**": {
+        "chi": "**扎尔伽巴斯使用黑洞**"
+    },
+    "**Level has been changed on Legend Mode** ": {
+        "chi": "**Level has been changed on Legend Mode** "
+    },
+    "**Zargabaath has casted Damage Attack**": {
+        "chi": "**扎尔伽巴斯提高伤害**"
+    },
+    "**A player has picked up Poisona Magick | Poison - level 1 |**": {
+        "chi": "**有玩家捡到了毒 | 1级毒 |**"
+    },
+    "**A player has picked up Limit Breaks Magick | Ultima - level 1 |**": {
+        "chi": "**有玩家捡到了终极 | 1级终极 |**"
+    },
+    "**Zargabaath has casted Tornado Magick**": {
+        "chi": "**扎尔伽巴斯召唤狂风**"
+    },
+    "**Zargabaath has casted Cure Magick**": {
+        "chi": "**扎尔伽巴斯使用治疗**"
+    },
+    "**Nades do more damage**": {
+        "chi": "**手雷能造成更多伤害**"
+    },
+    "**Level has been changed on Insane Mode** ": {
+        "chi": "**Level has been changed on Insane Mode** "
+    },
+    "**Level has been changed on God Mode** ": {
+        "chi": "**Level has been changed on God Mode** "
+    },
+    "**Metal doors will open in 10 seconds!**": {
+        "chi": "**大门10秒后开启!**"
+    },
+    "**Gates will close in 5 seconds!**": {
+        "chi": "**大门5秒后开启!**"
+    },
+    "**Something incoming, prepare to fight!**": {
+        "chi": "**有什么东西来了, 准备战斗!(不会是轮回王吧,他不应该在西沙吗)**"
+    },
+    "**Chaos has casted Ultimate Attack**": {
+        "chi": "**卡奥斯使用终极**"
+    },
+    "**Chaos has casted Ultimate Electric Explosion**": {
+        "chi": "**卡奥斯召唤终极电流爆炸**"
+    },
+    "**Chaos has summoned Fire Meteor**": {
+        "chi": "**卡奥斯召唤陨石，看头顶**"
+    },
+    "**Chaos has casted Aging of Metal, Watch your feet!**": {
+        "chi": "**卡奥斯随机破坏一块板子, 看脚下!**"
+    },
+    "**Chaos has casted Strong Energy Strike**": {
+        "chi": "**卡奥斯使用强力攻击**"
+    },
+    "**Chaos has casted Ultimate Ice Strike**": {
+        "chi": "**卡奥斯使用终极冰冻攻击**"
+    },
+    "**Chaos has casted Dark Magick**": {
+        "chi": "**卡奥斯使用黑洞**"
+    },
+    "**Chaos has casted Holy Flash**": {
+        "chi": "**卡奥斯使用神圣**"
+    },
+    "**Chaos has summoned Thunder Field**": {
+        "chi": "**卡奥斯召唤闪电**"
+    },
+    "**Chaos has casted Scathe Attack**": {
+        "chi": "**卡奥斯使用枯萎攻击**"
+    },
+    "**Chaos has casted Annihilation**": {
+        "chi": "**卡奥斯使用湮灭攻击**"
+    },
+    "**Chaos vanquished! we can leave!**": {
+        "chi": "**轮回王卡奥斯被干碎了! 我们可以继续前进了!**"
+    },
+    "**The Armory room will open in 8 seconds!**": {
+        "chi": "**神器房8秒后开启!**"
+    },
+    "**Gates will open in 23 seconds!**": {
+        "chi": "**大门23秒后开启!**"
+    },
+    "**It's old Airship, we can use him to escape!**": {
+        "chi": "**那是一艘旧飞船, 我们可以用它离开!**"
+    },
+    "**Zargabaath is dead, run!**": {
+        "chi": "**扎尔伽巴斯被干碎了, 跑!**"
+    },
+    "**You have beaten Mt Bur Omisace!! Congratulations !! **": {
+        "chi": "**你是神都的守护者!! 祝贺 !! **"
+    },
+    "**Zargabaath vanquished, keep running!**": {
+        "chi": "**裁判长扎尔伽巴斯被干碎了, 跑!**"
+    },
+    "**Defend until something gonna happen!!**": {
+        "chi": "**守住直到某些事情发生!!**"
+    },
+    "**You destroyed Leviathan and you won the map, amazing! **": {
+        "chi": "**你成功摧毁利维坦战舰通关了地图, 牛逼! **"
+    },
+    "**Try your destiny on the final secret level!**": {
+        "chi": "**隐藏关God模式已解锁!直面你的命运!**"
+    }
+}

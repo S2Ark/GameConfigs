@@ -1,93 +1,31 @@
 {
-    ">> PLAYER HAS CHOSEN: RAVINE <<": {
-        "chi": ">> 有玩家选择了关卡 峡谷之旅 <<"
+    " >> EXTREME MODE ADDED <<": {
+        "chi": " >> 极限难度模组已添加 <<"
     },
-    ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
-        "chi": ">> 有玩家选择了关卡 电视机 <<"
-    },
-    ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
-        "chi": ">> 有玩家选择了关卡 天堂之旅 <<"
-    },
-    ">> RESTARTING ROUND IN 5 SECONDS <<": {
-        "chi": ">> 游戏将在5秒后重新开始 <<"
-    },
-    ">> PLAYER HAS CHOSEN: TV EXTREME <<": {
-        "chi": ">> 有玩家选择了关卡 电视机（极限难度） <<"
-    },
-    ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
-        "chi": ">> 有玩家选择了关卡 天堂之旅（极限难度） <<"
-    },
-    ">> PLAYER HAS CHOSEN: THE END <<": {
-        "chi": ">> 有玩家选择了关卡 最终之旅 <<"
-    },
-    ">> PLAYER HAS CHOSEN: ZM<<": {
-        "chi": ">> 有玩家选择了关卡 ZM感染<<"
-    },
-    ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
-        "chi": ">> 有玩家选择了关卡 峡谷之旅（极限难度） <<"
-    },
-    ">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<": {
-        "chi": ">> 为ZM关解锁隐藏音乐 <<"
-    },
-    "OnUser3 Server:Command:>> SECRET MUSIC UNLOCKED <<:1:1": {
-        "chi": "服务器指令:>> 隐藏音乐解锁 <<:1:1"
-    },
-    ">> 3 WINS IN A ROW !!! <<": {
-        "chi": ">> 三连胜 !!! <<"
-    },
-    ">> Map by Taskuvaras <<": {
-        "chi": ">> 地图作者 Taskuvaras 汉化 已死之人 <<"
-    },
-    "*** DOOR IS OPEN! RUUUN! ***": {
-        "chi": "*** 门开了! 快跑! ***"
-    },
-    "*** HOLD FOR 30 SECONDS ***": {
-        "chi": "*** 守住30秒 ***"
-    },
-    ">> PLAYER HAS PICKED UP EARTH <<": {
-        "chi": ">> 有玩家捡到了草墙 <<"
-    },
-    ">> PLAYER HAS PICKED UP GRAVITY <<": {
-        "chi": ">> 有玩家捡到了重力 <<"
-    },
-    "*** LEAF LEAVING IN 20 SECONDS ***": {
-        "chi": "*** 叶子20秒后离开 ***"
-    },
-    ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
-        "chi": ">> 僵尸逃跑了 !! 你输了 !!<<"
+    "*** .... WHAT IS HAPPENING ?? ***": {
+        "chi": "*** .... 发生了什么 ?? ***"
     },
     "*** 5 MORE SECONDS ***": {
         "chi": "*** 还有5秒 ***"
     },
-    "*** RUUUN! ***": {
-        "chi": "*** 快跑! ***"
+    "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***": {
+        "chi": "*** 蝴蝶嗝屁了 !!!! 再守一回 !!!! ***"
     },
-    "*** FLY LEAVING IN 30 SECONDS ***": {
-        "chi": "*** 苍蝇30秒后离开 ***"
+    "*** BUTTERFLY LEAVING IN 15 SECONDS ***": {
+        "chi": "*** 蝴蝶15秒后离开 ***"
     },
-    ">> LEVEL COMPLETED !!! <<": {
-        "chi": ">> 关卡完成 !!! <<"
+    "*** BUTTERFLY LEAVING IN 30 SECONDS ***": {
+        "chi": "*** 蝴蝶30秒后离开 ***"
     },
-    ">> ITS THE GROKE SHOOT IT !!!!  <<": {
-        "chi": ">> 那是格罗克 快开枪打它(有终极的) !!!!  <<"
+    "*** CLOUD LEAVING IN 20 SECONDS ***": {
+        "chi": "*** 云朵20秒后离开 ***"
     },
-    ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
-        "chi": ">> 有玩家捡到了无限子弹 <<"
+    "*** DOOR IS OPEN! RUUUN! ***": {
+        "chi": "*** 门开了! 快跑! ***"
     },
-    ">> Finished by Moltard <<": {
-        "chi": ">> 细节完善 Moltard 感谢 饼饼@GO社区服<<"
-    },
-    ">> LEVEL: RAVINE <<": {
-        "chi": ">> 关卡: 峡谷之旅 <<"
-    },
-    ">> THE GROKE IS DEAD <<": {
-        "chi": ">> 格罗克被打败了 <<"
-    },
-    ">> ESCAPE BY THE LADDER <<": {
-        "chi": ">> 从梯子那逃离 <<"
-    },
-    "*** FLY LEAVING IN 15 SECONDS ***": {
-        "chi": "*** 苍蝇15秒后离开 ***"
+    "*** DOORS OPENING IN 30 SECONDS ***": {},
+    "*** Doors opening in 30 seconds ***": {
+        "chi": "*** 门30秒后打开 ***"
     },
     "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
         "chi": "*** 电梯10秒后离开 ***"
@@ -95,182 +33,48 @@
     "*** ELEVATOR OPENING IN 20 SECONDS ***": {
         "chi": "*** 电梯20秒后打开 ***"
     },
-    "*** FAN STOPPING IN 30 SECONDS ***": {
-        "chi": "*** 风扇30秒后关闭 ***"
+    "*** FALL BACK !!! ***": {
+        "chi": "*** 撤退 !!! ***"
     },
     "*** FALL BACK ***": {
         "chi": "*** 撤退 ***"
     },
-    ">> PLAYER HAS PICKED UP FIRE <<": {
-        "chi": ">> 有玩家捡到了烈火 <<"
+    "*** FAN STOPPING IN 30 SECONDS ***": {
+        "chi": "*** 风扇30秒后关闭 ***"
     },
-    ">> PLAYER HAS PICKED UP HEAL <<": {
-        "chi": ">> 有玩家捡到了治疗 <<"
-    },
-    ">> PLAYER HAS PICKED UP ICE <<": {
-        "chi": ">> 有玩家捡到了寒冰 <<"
-    },
-    ">> LEVEL COMPLETED!! <<": {
-        "chi": ">> 关卡通过!! <<"
-    },
-    "*** WEB LEAVING IN 20 SECONDS ***": {
-        "chi": "*** 蜘蛛网20秒后离开 ***"
-    },
-    ">> BREAK THE HEART OF THE TV <<": {
-        "chi": ">> 打破电视机的核心 <<"
-    },
-    "*** FALL BACK !!! ***": {
-        "chi": "*** 撤退 !!! ***"
-    },
-    ">> LEVEL: TV <<": {
-        "chi": ">> 关卡: 电视机 <<"
-    },
-    ">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<": {
-        "chi": ">> 电视机核心要崩溃了 继续开枪 !!!!!! <<"
-    },
-    ">> THE TV HEART IS DESTROYED <<": {
-        "chi": ">> 电视机核心已被破坏 <<"
-    },
-    ">> THE BUILDING WILL BLOW UP <<": {
-        "chi": ">> 电视机即将爆炸 <<"
-    },
-    ">> ESCAPE BY THE WEB <<": {
-        "chi": ">> 用蜘蛛网逃离这里 <<"
-    },
-    "*** CLOUD LEAVING IN 20 SECONDS ***": {
-        "chi": "*** 云朵20秒后离开 ***"
-    },
-    "*** HEAVEN GATES OPENING IN 25 SECONDS ***": {
-        "chi": "*** 天堂大门25秒后打开 ***"
-    },
-    "*** Gate opening in 25 seconds ***": {
-        "chi": "*** 大门25秒后开启 ***"
-    },
-    ">> OH NO!! ITS GOD <<": {
-        "chi": ">> 哦不!! 是创世神 <<"
-    },
-    "*** Doors opening in 30 seconds ***": {
-        "chi": "*** 门30秒后打开 ***"
-    },
-    "*** BUTTERFLY LEAVING IN 15 SECONDS ***": {
-        "chi": "*** 蝴蝶15秒后离开 ***"
-    },
-    ">> There is an error in the level system <<": {
-        "chi": ">> 当前系统有一个错误 <<"
-    },
-    ">> LEVEL: HEAVEN <<": {
-        "chi": ">> 关卡: 天堂 <<"
-    },
-    " >> EXTREME MODE ADDED <<": {
-        "chi": " >> 极限难度模组已添加 <<"
-    },
-    ">> PLAYER HAS PICKED UP WATER <<": {
-        "chi": ">> 有玩家捡到了瀑布 <<"
-    },
-    ">> GOD HAS BEEN DEFEATED !!! <<": {
-        "chi": ">> 创世神被打败了 !!! <<"
-    },
-    ">> RUN TO SAFETY <<": {
-        "chi": ">> 快去安全的地方 <<"
-    },
-    ">> PLAYER HAS PICKED UP 6 MINES <<": {
-        "chi": ">> 有玩家捡到了六个地雷 <<"
-    },
-    ">> EXTREME MODE ADDED <<": {
-        "chi": ">> 极限难度模组已添加 <<"
-    },
-    ">> ALL 6 MINES USED <<": {
-        "chi": ">> 六个地雷已用完 <<"
+    "*** FLY LEAVING IN 15 SECONDS ***": {
+        "chi": "*** 苍蝇15秒后离开 ***"
     },
     "*** FLY LEAVING IN 20 SECONDS ***": {
         "chi": "*** 苍蝇20秒后离开 ***"
     },
-    ">> OH NO!! ITS FAT SPIDER <<": {
-        "chi": ">> 哦不!! 是胖蜘蛛 <<"
+    "*** FLY LEAVING IN 30 SECONDS ***": {
+        "chi": "*** 苍蝇30秒后离开 ***"
     },
-    ">> FAT SPIDER IS DEAD <<": {
-        "chi": ">> 胖蜘蛛被打败了 <<"
-    },
+    "*** GATE OPENING IN 25 SECONDS ***": {},
     "*** GATE OPENING IN 30 SECONDS ***": {
         "chi": "*** 大门30秒后开启 ***"
     },
-    ">> FALL BACK <<": {
-        "chi": ">> 撤退 <<"
+    "*** GOOD JOB TEAM !!! ***": {
+        "chi": "*** 干得漂亮 !!! ***"
     },
-    ">> OH NO!! ITS FALLEN ANGEL <<": {
-        "chi": ">> 哦不!! 是暗黑天使 <<"
+    "*** Gate opening in 25 seconds ***": {
+        "chi": "*** 大门25秒后开启 ***"
     },
-    ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
-        "chi": ">> 暗黑天使已被打败 !!! <<"
+    "*** HEAVEN GATES OPENING IN 25 SECONDS ***": {
+        "chi": "*** 天堂大门25秒后打开 ***"
     },
-    ">> LET THE ANGELS ESCAPE FIRST <<": {
-        "chi": ">> 让天使们先走 <<"
+    "*** HOLD FOR 30 SECONDS ***": {
+        "chi": "*** 守住30秒 ***"
     },
-    ">> CONTINUE TO DEFEND <<": {
-        "chi": ">> 继续防守 <<"
+    "*** LEAF LEAVING IN 20 SECONDS ***": {
+        "chi": "*** 叶子20秒后离开 ***"
     },
-    ">> THE LAST ANGEL IS OUT <<": {
-        "chi": ">> 天使已全部撤离 <<"
+    "*** NADES DO MORE DAMAGE !!! ***": {
+        "chi": "*** 手雷能造成更多伤害 !!! ***"
     },
-    "*** BUTTERFLY LEAVING IN 30 SECONDS ***": {
-        "chi": "*** 蝴蝶30秒后离开 ***"
-    },
-    "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***": {
-        "chi": "*** 蝴蝶嗝屁了 !!!! 再守一回 !!!! ***"
-    },
-    ">> THE ANGELS GOT THE RESCUE PLANK BACK <<": {
-        "chi": ">> 天使们回来救我们了 <<"
-    },
-    ">> FALL BACK !!! << ": {
-        "chi": ">> 撤退 !!! << "
-    },
-    ">> THEY WILL TELEPORT US OUT <<": {
-        "chi": ">> 它们会把我们传送出去 <<"
-    },
-    ">> IS THIS SATAN WORK.... <<": {
-        "chi": ">> 是撒旦的杰作.... <<"
-    },
-    ">> TELEPORTING ZOMBIES <<": {
-        "chi": ">> 传送僵尸 <<"
-    },
-    ">> WE HAVE TO ESCAPE THIS PLACE <<": {
-        "chi": ">> 我们必须逃离这里 <<"
-    },
-    ">> CLOUD LEAVING IN 40 SECONDS <<": {
-        "chi": ">> 云朵40秒后离开 <<"
-    },
-    ">> THE GRID IS CLOSED <<": {
-        "chi": ">> 电网关闭了 <<"
-    },
-    ">> A CLOUD IS COMING <<": {
-        "chi": ">> 一朵云飘过来了 <<"
-    },
-    ">> DEFEND LONGER <<": {
-        "chi": ">> 再守一会 <<"
-    },
-    ">> IT'S SATAN WITH THE ANGELS !!! <<": {
-        "chi": ">> 那是撒旦和天使们 !!! <<"
-    },
-    ">> LEVEL: THE END <<": {
-        "chi": ">> 关卡: 最终之旅 <<"
-    },
-    ">> CLOUD LEAVING IN 10 SECONDS <<": {
-        "chi": ">> 云朵10秒后离开 <<"
-    },
-    ">> ... HE IS GONE <<": {
-        "chi": ">> ... 它跑了 <<"
-    },
-    ">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<": {
-        "chi": ">> 守住僵尸直到蝴蝶到来 <<"
-    },
-    ">> BUTTERFLY IS HERE !!! <<": {
-        "chi": ">> 蝴蝶来了 !!! <<"
-    },
-    ">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<": {
-        "chi": ">> 蝴蝶20秒后离开 <<"
-    },
-    "*** WHERE DID SATAN GO... ***": {
-        "chi": "*** 撒旦要去哪... ***"
+    "*** RUUUN! ***": {
+        "chi": "*** 快跑! ***"
     },
     "*** THE DRAGON IS BACK FROM HELL !!! ***": {
         "chi": "*** 龙从地狱回来了 !!! ***"
@@ -278,35 +82,212 @@
     "*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***": {
         "chi": "*** 我们必须尽快杀了他 ***"
     },
-    "*** NADES DO MORE DAMAGE !!! ***": {
-        "chi": "*** 手雷能造成更多伤害 !!! ***"
+    "*** WEB LEAVING IN 20 SECONDS ***": {
+        "chi": "*** 蜘蛛网20秒后离开 ***"
     },
-    ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
-        "chi": ">> 龙被打败了 !!! <<"
+    "*** WHERE DID SATAN GO... ***": {
+        "chi": "*** 撒旦要去哪... ***"
     },
-    "*** GOOD JOB TEAM !!! ***": {
-        "chi": "*** 干得漂亮 !!! ***"
+    ">> ... HE IS GONE <<": {
+        "chi": ">> ... 它跑了 <<"
     },
-    "*** .... WHAT IS HAPPENING ?? ***": {
-        "chi": "*** .... 发生了什么 ?? ***"
+    ">> 10 SECONDS LEFT <<": {
+        "chi": ">> 还有10秒 <<"
     },
-    ">> IT'S SATAN AGAIN !!! <<": {
-        "chi": ">> 又是撒旦 !!! <<"
+    ">> 120 SECONDS LEFT <<": {
+        "chi": ">> 还有90秒 <<"
     },
-    ">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<": {
-        "chi": ">> 开枪打它我们需要救出天使 !!! <<"
+    ">> 150 SECONDS LEFT <<": {
+        "chi": ">> 还有150秒 <<"
     },
-    ">> NADE DOES MORE DAMAGE <<": {
-        "chi": ">> 手雷能造成更多伤害 <<"
+    ">> 20 SECONDS LEFT <<": {
+        "chi": ">> 还有20秒 <<"
     },
-    ">> SATAN IS HURT !!! <<": {
-        "chi": ">> 撒旦受伤了 !!! <<"
+    ">> 3 WINS IN A ROW !!! <<": {
+        "chi": ">> 三连胜 !!! <<"
+    },
+    ">> 30 SECONDS LEFT <<": {
+        "chi": ">> 还有30秒 <<"
+    },
+    ">> 5 SECONDS LEFT <<": {
+        "chi": ">> 还有5秒 <<"
+    },
+    ">> 50 SECONDS LEFT <<": {
+        "chi": ">> 还有50秒 <<"
+    },
+    ">> 70 SECONDS LEFT <<": {
+        "chi": ">> 还有70秒 <<"
+    },
+    ">> 90 SECONDS LEFT <<": {
+        "chi": ">> 还有90秒 <<"
+    },
+    ">> A CLOUD IS COMING <<": {
+        "chi": ">> 一朵云飘过来了 <<"
+    },
+    ">> ALL 6 MINES USED <<": {
+        "chi": ">> 六个地雷已用完 <<"
+    },
+    ">> BREAK THE HEART OF THE TV <<": {
+        "chi": ">> 打破电视机的核心 <<"
+    },
+    ">> BUTTERFLY IS HERE !!! <<": {
+        "chi": ">> 蝴蝶来了 !!! <<"
+    },
+    ">> CLOUD LEAVING IN 10 SECONDS <<": {
+        "chi": ">> 云朵10秒后离开 <<"
+    },
+    ">> CLOUD LEAVING IN 40 SECONDS <<": {
+        "chi": ">> 云朵40秒后离开 <<"
+    },
+    ">> CONTINUE TO DEFEND <<": {
+        "chi": ">> 继续防守 <<"
+    },
+    ">> DEFEND LONGER <<": {
+        "chi": ">> 再守一会 <<"
+    },
+    ">> DONT LET ZOMBIES GET IN !!! <<": {
+        "chi": ">> 别让僵尸进来 !!! <<"
+    },
+    ">> ESCAPE BY THE LADDER <<": {
+        "chi": ">> 从梯子那逃离 <<"
+    },
+    ">> ESCAPE BY THE WEB <<": {
+        "chi": ">> 用蜘蛛网逃离这里 <<"
     },
     ">> ESCAPE VIA THE PORTAL !!! <<": {
         "chi": ">> 通过传送入口逃离!!! <<"
     },
-    ">> DONT LET ZOMBIES GET IN !!! <<": {
-        "chi": ">> 别让僵尸进来 !!! <<"
+    ">> EXTREME MODE ADDED <<": {
+        "chi": ">> 极限难度模组已添加 <<"
+    },
+    ">> FALL BACK !!! << ": {
+        "chi": ">> 撤退 !!! << "
+    },
+    ">> FALL BACK <<": {
+        "chi": ">> 撤退 <<"
+    },
+    ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<": {
+        "chi": ">> 暗黑天使已被打败 !!! <<"
+    },
+    ">> FAT SPIDER IS DEAD <<": {
+        "chi": ">> 胖蜘蛛被打败了 <<"
+    },
+    ">> FIND THE TELEPORTER TO LEVEL ROOM <<": {
+        "chi": ">> 找到传送入口进入调关房 <<"
+    },
+    ">> Finished by Moltard <<": {
+        "chi": ">> 细节完善 Moltard 感谢 饼饼@GO社区服<<"
+    },
+    ">> GOD HAS BEEN DEFEATED !!! <<": {
+        "chi": ">> 创世神被打败了 !!! <<"
+    },
+    ">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<": {
+        "chi": ">> 守住僵尸直到蝴蝶到来 <<"
+    },
+    ">> IS THIS SATAN WORK.... <<": {
+        "chi": ">> 是撒旦的杰作.... <<"
+    },
+    ">> IT'S SATAN AGAIN !!! <<": {
+        "chi": ">> 又是撒旦 !!! <<"
+    },
+    ">> IT'S SATAN WITH THE ANGELS !!! <<": {
+        "chi": ">> 那是撒旦和天使们 !!! <<"
+    },
+    ">> ITS THE GROKE SHOOT IT !!!!  <<": {
+        "chi": ">> 那是格罗克 快开枪打它(有终极的) !!!!  <<"
+    },
+    ">> LET THE ANGELS ESCAPE FIRST <<": {
+        "chi": ">> 让天使们先走 <<"
+    },
+    ">> LEVEL COMPLETED !!! <<": {
+        "chi": ">> 关卡完成 !!! <<"
+    },
+    ">> LEVEL COMPLETED!! <<": {
+        "chi": ">> 关卡通过!! <<"
+    },
+    ">> LEVEL: HEAVEN <<": {
+        "chi": ">> 关卡: 天堂 <<"
+    },
+    ">> LEVEL: RAVINE <<": {
+        "chi": ">> 关卡: 峡谷之旅 <<"
+    },
+    ">> LEVEL: THE END <<": {
+        "chi": ">> 关卡: 最终之旅 <<"
+    },
+    ">> LEVEL: TV <<": {
+        "chi": ">> 关卡: 电视机 <<"
+    },
+    ">> LEVEL: ZM <<": {
+        "chi": ">> 关卡: ZM感染 <<"
+    },
+    ">> Map by Taskuvaras <<": {
+        "chi": ">> 地图作者 Taskuvaras 汉化 已死之人 <<"
+    },
+    ">> NADE DOES MORE DAMAGE <<": {
+        "chi": ">> 手雷能造成更多伤害 <<"
+    },
+    ">> NEXT LEVEL ZM <<": {
+        "chi": ">> 下一关 ZM感染 <<"
+    },
+    ">> OH NO!! ITS FALLEN ANGEL <<": {
+        "chi": ">> 哦不!! 是暗黑天使 <<"
+    },
+    ">> OH NO!! ITS FAT SPIDER <<": {
+        "chi": ">> 哦不!! 是胖蜘蛛 <<"
+    },
+    ">> OH NO!! ITS GOD <<": {
+        "chi": ">> 哦不!! 是创世神 <<"
+    },
+    ">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<": {
+        "chi": ">> 有玩家选择了关卡 天堂之旅（极限难度） <<"
+    },
+    ">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<": {
+        "chi": ">> 有玩家选择了关卡 天堂之旅 <<"
+    },
+    ">> PLAYER HAS CHOSEN: RAVINE <<": {
+        "chi": ">> 有玩家选择了关卡 峡谷之旅 <<"
+    },
+    ">> PLAYER HAS CHOSEN: RAVINE EXTREME <<": {
+        "chi": ">> 有玩家选择了关卡 峡谷之旅（极限难度） <<"
+    },
+    ">> PLAYER HAS CHOSEN: THE END <<": {
+        "chi": ">> 有玩家选择了关卡 最终之旅 <<"
+    },
+    ">> PLAYER HAS CHOSEN: TV EXTREME <<": {
+        "chi": ">> 有玩家选择了关卡 电视机（极限难度） <<"
+    },
+    ">> PLAYER HAS CHOSEN: TV NORMAL <<": {
+        "chi": ">> 有玩家选择了关卡 电视机 <<"
+    },
+    ">> PLAYER HAS CHOSEN: ZM<<": {
+        "chi": ">> 有玩家选择了关卡 ZM感染<<"
+    },
+    ">> PLAYER HAS PICKED UP 6 MINES <<": {
+        "chi": ">> 有玩家捡到了六个地雷 <<"
+    },
+    ">> PLAYER HAS PICKED UP EARTH <<": {
+        "chi": ">> 有玩家捡到了草墙 <<"
+    },
+    ">> PLAYER HAS PICKED UP FIRE <<": {
+        "chi": ">> 有玩家捡到了烈火 <<"
+    },
+    ">> PLAYER HAS PICKED UP GRAVITY <<": {
+        "chi": ">> 有玩家捡到了重力 <<"
+    },
+    ">> PLAYER HAS PICKED UP HEAL <<": {
+        "chi": ">> 有玩家捡到了治疗 <<"
+    },
+    ">> PLAYER HAS PICKED UP ICE <<": {
+        "chi": ">> 有玩家捡到了寒冰 <<"
+    },
+    ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<": {
+        "chi": ">> 有玩家捡到了无限子弹 <<"
+    },
+    ">> PLAYER HAS PICKED UP WATER <<": {
+        "chi": ">> 有玩家捡到了瀑布 <<"
+    },
+    ">> PLAYER HAS PICKED UP WIND <<": {
+        "chi": ">> 有玩家捡到了风 <<"
     },
     ">> PORTAL CLOSING IN 10 SECONDS !!! <<": {
         "chi": ">> 传送入口10秒后关闭 !!! <<"
@@ -317,61 +298,82 @@
     ">> PORTAL IS CLOSING !!! <<": {
         "chi": ">> 传送入口关闭了 !!! <<"
     },
+    ">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<": {
+        "chi": ">> 蝴蝶20秒后离开 <<"
+    },
+    ">> RESTARTING ROUND IN 5 SECONDS <<": {
+        "chi": ">> 游戏将在5秒后重新开始 <<"
+    },
+    ">> RUN TO SAFETY <<": {
+        "chi": ">> 快去安全的地方 <<"
+    },
     ">> SATAN IS FINALLY DEFEATED !!! <<": {
         "chi": ">> 撒旦最终被打败了 !!! <<"
     },
-    ">> You have succesfully saved Shroomforest world !! <<": {
-        "chi": ">> 你成功的拯救了蘑菇森林 !! <<"
-    },
-    ">> NEXT LEVEL ZM <<": {
-        "chi": ">> 下一关 ZM感染 <<"
-    },
-    ">> PLAYER HAS PICKED UP WIND <<": {
-        "chi": ">> 有玩家捡到了风 <<"
-    },
-    ">> LEVEL: ZM <<": {
-        "chi": ">> 关卡: ZM感染 <<"
+    ">> SATAN IS HURT !!! <<": {
+        "chi": ">> 撒旦受伤了 !!! <<"
     },
     ">> SECRET MUSIC UNLOCKED <<": {
         "chi": ">> 隐藏音乐解锁 <<"
     },
+    ">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<": {
+        "chi": ">> 为ZM关解锁隐藏音乐 <<"
+    },
+    ">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<": {
+        "chi": ">> 开枪打它我们需要救出天使 !!! <<"
+    },
     ">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<": {
         "chi": ">> 在出生点和电视区域生存180秒 <<"
     },
-    ">> FIND THE TELEPORTER TO LEVEL ROOM <<": {
-        "chi": ">> 找到传送入口进入调关房 <<"
+    ">> TELEPORTING ZOMBIES <<": {
+        "chi": ">> 传送僵尸 <<"
     },
-    ">> 150 SECONDS LEFT <<": {
-        "chi": ">> 还有150秒 <<"
+    ">> THE ANGELS GOT THE RESCUE PLANK BACK <<": {
+        "chi": ">> 天使们回来救我们了 <<"
     },
-    ">> 120 SECONDS LEFT <<": {
-        "chi": ">> 还有90秒 <<"
+    ">> THE BUILDING WILL BLOW UP <<": {
+        "chi": ">> 电视机即将爆炸 <<"
     },
-    ">> 90 SECONDS LEFT <<": {
-        "chi": ">> 还有90秒 <<"
+    ">> THE DRAGON HAS BEEN DEFEATED !!! <<": {
+        "chi": ">> 龙被打败了 !!! <<"
     },
-    ">> 70 SECONDS LEFT <<": {
-        "chi": ">> 还有70秒 <<"
+    ">> THE GRID IS CLOSED <<": {
+        "chi": ">> 电网关闭了 <<"
     },
-    ">> 50 SECONDS LEFT <<": {
-        "chi": ">> 还有50秒 <<"
+    ">> THE GROKE IS DEAD <<": {
+        "chi": ">> 格罗克被打败了 <<"
     },
-    ">> 30 SECONDS LEFT <<": {
-        "chi": ">> 还有30秒 <<"
+    ">> THE LAST ANGEL IS OUT <<": {
+        "chi": ">> 天使已全部撤离 <<"
     },
-    ">> 20 SECONDS LEFT <<": {
-        "chi": ">> 还有20秒 <<"
+    ">> THE TV HEART IS DESTROYED <<": {
+        "chi": ">> 电视机核心已被破坏 <<"
     },
-    ">> 10 SECONDS LEFT <<": {
-        "chi": ">> 还有10秒 <<"
+    ">> THEY WILL TELEPORT US OUT <<": {
+        "chi": ">> 它们会把我们传送出去 <<"
     },
-    ">> 5 SECONDS LEFT <<": {
-        "chi": ">> 还有5秒 <<"
+    ">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<": {
+        "chi": ">> 电视机核心要崩溃了 继续开枪 !!!!!! <<"
+    },
+    ">> There is an error in the level system <<": {
+        "chi": ">> 当前系统有一个错误 <<"
+    },
+    ">> WE HAVE TO ESCAPE THIS PLACE <<": {
+        "chi": ">> 我们必须逃离这里 <<"
+    },
+    ">> You have succesfully saved Shroomforest world !! <<": {
+        "chi": ">> 你成功的拯救了蘑菇森林 !! <<"
+    },
+    ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
+        "chi": ">> 僵尸逃跑了 !! 你输了 !!<<"
     },
     ">> ZOMBIE CLOUD HAS BEEN PICKED UP <<": {
         "chi": ">> 僵尸闪电蘑菇已被拾取 <<"
     },
     ">> ZOMBIE SHROOM HAS BEEN PICKED UP <<": {
         "chi": ">> 僵尸致盲蘑菇已被拾取 <<"
+    },
+    "OnUser3 Server:Command:>> SECRET MUSIC UNLOCKED <<:1:1": {
+        "chi": "服务器指令:>> 隐藏音乐解锁 <<:1:1"
     }
 }

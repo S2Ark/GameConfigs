@@ -1,0 +1,311 @@
+{
+    "This is it. ": {
+        "chi": "翻译；韭菜墨，感谢；李式夫，萌爱，兔子怎么不见啦，獾之使者 "
+    },
+    "The Source of the zombie infection...": {
+        "chi": "感谢；李式夫，萌爱，兔子怎么不见啦，獾之使者"
+    },
+    "Humans must reach the Core of the facility and destroy the lab": {
+        "chi": "人类必须到达设施的核心并摧毁实验室"
+    },
+    "You'll have to go to the Maintenance Area to turn off the power first however.": {
+        "chi": "不过，你得先去维修区关掉电源。"
+    },
+    "And Optionally take a quick break at the armory to catch supplies before going into the labs.": {
+        "chi": "在进入实验室之前，还可以选择在军火库稍作休息，以获取补给。"
+    },
+    "Make sure to not stay behind. The Void will consume those who remain alone.": {
+        "chi": "一定不要掉队。饼饼会吃掉那些仍然孤身一人的人"
+    },
+    "Best of luck.": {
+        "chi": "祝你好运！！"
+    },
+    "Find the main Power Control Room.": {
+        "chi": "找到主电源控制室。"
+    },
+    "Special thanks to Cloudnine on map guiding": {
+        "chi": "特别感谢地图向导上的Cloudine"
+    },
+    "Map still in beta, feel free to report any issues to me.": {
+        "chi": "地图仍处于测试阶段，请随时向我报告任何问题。"
+    },
+    "Map optimization will be done in next version": {
+        "chi": "地图优化将在下一版本中完成"
+    },
+    "The Door will open in 30s": {
+        "chi": "再过30秒，门就会打开"
+    },
+    "The Door seems to be stuck...": {
+        "chi": "门好像卡住了！"
+    },
+    "It will take a bit to get the button working again": {
+        "chi": "要使按钮重新工作，还需要一点时间"
+    },
+    "They are here!": {
+        "chi": "他们来了！"
+    },
+    "Defend for 1 minutes": {
+        "chi": "防守60秒"
+    },
+    "Door opened": {
+        "chi": "门开了"
+    },
+    "We need some time to take down the ladder.": {
+        "chi": "我们需要一些时间把梯子拆下来。"
+    },
+    "Keep holding until we can get it down": {
+        "chi": "坚持住，直到我们能把它放下来"
+    },
+    "The Main Power Control Room is ahead!": {
+        "chi": "主动力控制室在前面！"
+    },
+    "And make sure to not touch that deadly liquid below...": {
+        "chi": "别碰下面那致命的液体！"
+    },
+    "Go through the door to your left.": {
+        "chi": "穿过你左边的门！"
+    },
+    "The keypad is stuck.": {
+        "chi": "键盘卡住了。"
+    },
+    "Defend until we repair it.": {
+        "chi": "守卫到我们修好为止"
+    },
+    "Another side door is opened!": {
+        "chi": "另一扇侧门打开了！"
+    },
+    "Go! Get in the control room!": {
+        "chi": "去!。到控制室去！"
+    },
+    "Keep holding until the door closed!!": {
+        "chi": "一直坚持到门关上！！"
+    },
+    "Shit": {
+        "chi": "我星星你个星星！！"
+    },
+    "Hold the gate until the power comes back": {
+        "chi": "按住大门，直到恢复供电"
+    },
+    "33%": {
+        "chi": "33%"
+    },
+    "66%": {
+        "chi": "66%"
+    },
+    "Its back! Run through the Door!": {
+        "chi": "它回来了！快跑过这扇门！"
+    },
+    "This facility is on the edge of collapsing.": {
+        "chi": "这个设施正处于倒塌的边缘。"
+    },
+    "We must find and destroy the main labs as soon as possible.": {
+        "chi": "我们必须尽快找到并摧毁主要实验室。"
+    },
+    "Cade this area and defend until we can bring down the wood panel.": {
+        "chi": "封锁这一地区，守卫到我们能推倒木板为止。"
+    },
+    "Its down! Keep moving.": {
+        "chi": "它掉下来了！继续走。"
+    },
+    "We're almost out of the Storage & Maintenance Wing of the Facility": {
+        "chi": "我们快要离开设施的存储和维修部了"
+    },
+    "We just need to cross the cliffside and reach the elevator to go to the labs below.": {
+        "chi": "我们只需要穿过悬崖到达电梯就可以去下面的实验室。"
+    },
+    "It seems that the door to the cliffside is locked however.  We're gonna have to take a detour around": {
+        "chi": "然而，通往悬崖边的门似乎是锁着的。我们得绕道而行"
+    },
+    "Get Ready to defend.": {
+        "chi": "准备好防守吧！！！"
+    },
+    "Hold for 40s!": {
+        "chi": "坚守40秒！！"
+    },
+    "The Door gave away! Its open!": {
+        "chi": "门塌了！开门了！"
+    },
+    "Split up and defend both sides.": {
+        "chi": "两边分头防守！！"
+    },
+    "We need to configuration both side panel": {
+        "chi": "我们需要配置两个侧面板"
+    },
+    "Decontamination Process Started.": {
+        "chi": "净化过程已开始！"
+    },
+    "20 Seconds Remaining. Stay here and defend.": {
+        "chi": "还剩20秒。呆在这里守卫。"
+    },
+    "The doors are unlocked! Activate the eyescanner and keep moving forward!": {
+        "chi": "门没锁！启动目测仪，继续前进！"
+    },
+    "We are almost on the other side.": {
+        "chi": "我们几乎是在对岸了！"
+    },
+    "Just like a little bit more and we should reach the Research Labs": {
+        "chi": "再多一点，我们就应该到研究实验室了"
+    },
+    "Defend for 40s": {
+        "chi": "防守40秒"
+    },
+    "Door gave in. Keep moving!": {
+        "chi": "门塌了。继续走！"
+    },
+    "The Emergency Generator!": {
+        "chi": "应急发电机！"
+    },
+    "Press both buttons to turn it on!": {
+        "chi": "按下两个按钮就可以打开它了！"
+    },
+    "This thing is gonna be loud once it starts warming up.": {
+        "chi": "一旦开始预热，这玩意儿就会变得很响。"
+    },
+    "Lots of zombies are inbound": {
+        "chi": "很多僵尸都来了！"
+    },
+    "Resist for about 1 minute.": {
+        "chi": "抵抗大约60秒。"
+    },
+    "GENERATOR STARTUP ACTIVATED.": {
+        "chi": "发电机启动已启动。"
+    },
+    "...": {
+        "chi": "..."
+    },
+    "The Generator is working! Get the hell out of here!": {
+        "chi": "发电机正在工作！别让饼饼靠近！"
+    },
+    "Shit. ": {
+        "chi": "我星星你个星星！ "
+    },
+    "There's zombies below": {
+        "chi": "下面有僵尸！"
+    },
+    "Hold the Cliffside until we can get the door fixed.": {
+        "chi": "守住悬崖直到我们把门修好。"
+    },
+    "The door is open.": {
+        "chi": "门已经打开了！"
+    },
+    "Gate '2' will open in 1 minute.": {
+        "chi": "2号出口将在1分钟后打开。"
+    },
+    "Fall back!": {
+        "chi": "撤退！"
+    },
+    "Gate '2' is opening...": {
+        "chi": "2号出口正在打开..."
+    },
+    "Gate '2' is gonna close in 10 seconds. Get in!": {
+        "chi": "2号出口10秒后就要关闭了。快进来！"
+    },
+    "We're safe here.": {
+        "chi": "我们在这里很安全。"
+    },
+    "The door on right will be open soon.": {
+        "chi": "右边的门很快就会打开。"
+    },
+    "Keep on moving.": {
+        "chi": "继续走！"
+    },
+    "Find the Main Reactor.": {
+        "chi": "找到主反应堆！！"
+    },
+    "Go into that office before the zombies catch up with us.": {
+        "chi": "在僵尸追上我们之前快进那间办公室！"
+    },
+    "Door locked.": {
+        "chi": "门锁上了。"
+    },
+    "Defend for 30s.": {
+        "chi": "防守30秒！！"
+    },
+    "Its open! Keep going further into the labs.": {
+        "chi": "开门了！继续深入实验室！"
+    },
+    "Defend here! Door opening in 30 seconds.": {
+        "chi": "在这里防守！30秒后开门。"
+    },
+    "Defend yourself!": {
+        "chi": "保护好你自己！"
+    },
+    "Its opening! Get running and dont get left behind!": {
+        "chi": "打开了！快跑，别落在后面！"
+    },
+    "Prepare for the next fight..": {
+        "chi": "为下一场战斗做好准备.."
+    },
+    "This door is open really slow, defend the line!": {
+        "chi": "这扇门开得很慢，守住防线！"
+    },
+    "Oh fuck.": {
+        "chi": "我星星你个星星！"
+    },
+    "The door mechanism is burnt": {
+        "chi": "门的机械装置烧毁了"
+    },
+    "We need to find a way to repair it": {
+        "chi": "我们需要想办法修复它"
+    },
+    "A Battery should be enough to get the thing running again.": {
+        "chi": "一节电池应该足以让它重新运转！"
+    },
+    "Try to look around for one.": {
+        "chi": "试着四处找找看有没有"
+    },
+    "It seems to have worked.": {
+        "chi": "它似乎起作用了！"
+    },
+    "The Whole system restarted.": {
+        "chi": "整个系统重新启动了！"
+    },
+    "50 Seconds till the panel gets working. Keep defending the hallways!": {
+        "chi": "再过50秒面板就开始工作了。继续守卫走廊！"
+    },
+    "The System restarted! Open the door and head to the control room!": {
+        "chi": "系统重新启动了！打开门，去控制室！"
+    },
+    "This is it. The Control Room before the reactor.": {
+        "chi": "就是这个。反应堆前面的控制室！"
+    },
+    "We must disable the security systems before we can open the door however.": {
+        "chi": "不过，我们必须先关闭安全系统，然后才能开门。"
+    },
+    "Here they come!": {
+        "chi": "他们来了！"
+    },
+    "Resist until the Security System is shut off!": {
+        "chi": "抵抗，直到安全系统被关闭！"
+    },
+    "The Security system is down! Open the door and run to the reactor!": {
+        "chi": "安全系统坏了！打开门，跑向反应堆！"
+    },
+    "Watch out the falling debris from the top of the reactor!": {
+        "chi": "当心反应堆顶部掉下来的碎片！"
+    },
+    "Hold the Bridge!": {
+        "chi": "守住大桥！"
+    },
+    "This is the entrance to the Core!": {
+        "chi": "这是核心的入口！"
+    },
+    "Hold here until we can get the Door to open!": {
+        "chi": "在这里等着，直到我们把门打开！"
+    },
+    "Its opening! Get inside first!": {
+        "chi": "它的开幕！先进去！"
+    },
+    "That wont hold them for long.": {
+        "chi": "那撑不住他们很久的。"
+    },
+    "Turn the valves to destabilize the core!": {
+        "chi": "转动阀门使堆芯不稳定！"
+    },
+    "The Core Self Destruct sequence will begin in 15 seconds.": {
+        "chi": "核心自毁序列将在15秒后开始。"
+    },
+    "The Reactor self destruct sequence has started!": {
+        "chi": "反应堆自毁程序开始了！"
+    }
+}

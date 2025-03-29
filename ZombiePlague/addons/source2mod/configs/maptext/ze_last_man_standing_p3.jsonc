@@ -1,0 +1,44 @@
+{
+    "++ MAP FIXED BY STRUPPI ++": {
+        "chi": "++ 地图帮助STRUPPI汉化：白雫，白云我真的白@top游廊++"
+    },
+    "++ Thanks to George and Sgt. zuff ++": {
+        "chi": "++ 特别感谢George and Sgt. zuff ++"
+    },
+    "*** ZOMBIES TRIGGERED !!! ***": {
+        "chi": "*** 来了！他们来了 !!! ***"
+    },
+    "[>Tank< entered the game]": {
+        "chi": "[泰坦加入了游戏]"
+    },
+    "++Stage 5 Set++": {
+        "chi": "++关卡5已经部署！++"
+    },
+    "[>Summoner< entered the game]": {
+        "chi": "[黑洞法师加入了游戏]"
+    },
+    "[>Alma< entered the game]": {
+        "chi": "[漂亮的女鬼小姐姐来找你了！]"
+    },
+    "[>Vortigaunt< entered the game]": {
+        "chi": "[佛地冈加入了游戏]"
+    },
+    "[>Jumper< entered the game]": {
+        "chi": "[飞跃加入了游戏]"
+    },
+    "** a JUGGERNAUT has been picked up! **": {
+        "chi": "** 机械狗！汪汪汪！! **"
+    },
+    "|||RIGHT CONSOLE PRESSED|||": {
+        "chi": "|||右侧按钮已经被按下|||"
+    },
+    "|||LEFT CONSOLE PRESSED|||": {
+        "chi": "|||左侧按钮已经被按下|||"
+    },
+    "|||FAR RIGHT CONSOLE PRESSED|||": {
+        "chi": "|||最右侧的按钮已经按下|||"
+    },
+    "|||FAR LEFT CONSOLE PRESSED|||": {
+        "chi": "|||最左侧的按钮已经按下|||"
+    }
+}

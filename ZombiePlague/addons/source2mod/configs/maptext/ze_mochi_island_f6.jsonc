@@ -1,0 +1,62 @@
+{
+    "Door opens in 15 seconds .": {
+        "chi": "大门15秒后打开 ."
+    },
+    "DOOR OPENS IN 5 SECONDS .": {
+        "chi": "大门5秒后打开 ."
+    },
+    "Gate will be available in 20 seconds keep holding !": {
+        "chi": "路口20秒后开放 !"
+    },
+    "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !": {
+        "chi": "还剩5秒 !"
+    },
+    "Path will be open in 15 seconds .": {
+        "chi": "道路15秒后开放"
+    },
+    "PATH WILL BE OPEN IN 5 SECONDS .": {
+        "chi": "还剩5秒"
+    },
+    "Door opens in 12 seconds .": {
+        "chi": "酒馆12秒后开放 ."
+    },
+    "Path will be open in 20 seconds .": {
+        "chi": "道路20秒后开放"
+    },
+    "There are 10 seconds left until the wagon departs.": {
+        "chi": "嘉然的破车10秒后出发"
+    },
+    "DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !": {
+        "chi": "城门15秒后关闭 !"
+    },
+    "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!": {
+        "chi": "还剩5秒 !!"
+    },
+    "Door opens in 25 seconds .": {
+        "chi": "大门25秒后打开 ."
+    },
+    "DOOR CLOSES IN 5 SECONDS .": {
+        "chi": "还剩5秒."
+    },
+    "DOOR OPENS IN 10 SECONDS .": {
+        "chi": "大门15秒后打开."
+    },
+    "DOOR OPENS IN 7 SECONDS .": {
+        "chi": "大门7秒后打开 ."
+    },
+    "The Bridge breaks in 10 seconds .": {
+        "chi": "石桥不堪重负....."
+    },
+    "Path will be open in 25 seconds .": {
+        "chi": "继续防守25秒 ."
+    },
+    "We'll be leaving in 7 seconds.": {
+        "chi": "我们7秒后才能离开这里"
+    },
+    "PATH WILL BE OPEN IN 7 SECONDS .": {
+        "chi": "道路7秒后开放"
+    },
+    "PATH WILL BE OPEN IN 12 SECONDS .": {
+        "chi": "道路12秒后开放"
+    }
+}

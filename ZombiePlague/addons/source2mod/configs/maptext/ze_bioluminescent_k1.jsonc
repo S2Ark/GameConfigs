@@ -1,0 +1,53 @@
+{
+    "** You took too long to trigger! Slaying humans... **": {
+        "chi": "** 你用了太长时间才触发！处死人类... **"
+    },
+    "** FIRST DOOR WILL OPEN IN 30 SECONDS **": {
+        "chi": "** 第一扇门30秒后打开 **"
+    },
+    "** DOOR WILL OPEN IN 20 SECONDS **": {
+        "chi": "** 门将在20秒后打开 **"
+    },
+    "** DOORS OPEN IN 25 SECONDS **": {
+        "chi": "** 门25后打开 **"
+    },
+    "** LIFT MOVING IN 15 SECONDS **": {
+        "chi": "** 升降机15秒后启动 **"
+    },
+    "** DOOR OPENS IN 20 SECONDS **": {
+        "chi": "** 门20秒后打开 **"
+    },
+    "** LIFTS WILL RISE IN 15 SECONDS **": {
+        "chi": "** 升降机15秒后启动 **"
+    },
+    "** 15 **": {
+        "chi": "** 15 **"
+    },
+    "** 10 **": {
+        "chi": "** 10 **"
+    },
+    "** 5 **": {
+        "chi": "** 5 **"
+    },
+    "** DOORS OPEN IN 15 SECONDS **": {
+        "chi": "** 门15秒后开启 **"
+    },
+    "** DOOR WILL OPEN IN 15 SECONDS **": {
+        "chi": "** 门15秒后开启 **"
+    },
+    "** LIFT MOVING IN 25 SECONDS **": {
+        "chi": "** 升降机在25秒后移动 **"
+    },
+    "** LIFT RISE IN 10 SECONDS **": {
+        "chi": "** 10秒后移动 **"
+    },
+    "** DOOR OPENS IN 15 SECONDS **": {
+        "chi": "** 门15秒后打开 **"
+    },
+    "** ZM TELEPORT IN 15 SECONDS **": {
+        "chi": "** AFK僵尸在15秒后传送 **"
+    },
+    "** LIFT MOVING IN 20 SECONDS **": {
+        "chi": "** 升降机在20秒后移动 **"
+    }
+}

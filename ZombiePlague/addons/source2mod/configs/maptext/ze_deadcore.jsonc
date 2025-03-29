@@ -128,9 +128,12 @@
     "*** 请选择下一关卡 ***": {
         "chi": "*** 请选择下一关卡 ***"
     },
+    "> Just kidding <": {},
     "> Stage - A <": {},
     "> Stage - B <": {},
     "> Stage - C <": {},
+    "> Stage - D <": {},
+    "> Stage - Insane D <": {},
     ">>> 1 <<<": {},
     ">>> 10 <<<": {},
     ">>> 10 seconds left <<<": {},
@@ -154,6 +157,12 @@
     ">>> 80 <<<": {},
     ">>> 9 <<<": {},
     ">>> 90 <<<": {},
+    ">>> ADMIN HAS ENABLED D INSANE MODE <<<": {},
+    ">>> ADMIN HAS RESET THE MAP <<<": {},
+    ">>> ADMIN HAS SKIPPED STAGE A <<<": {},
+    ">>> ADMIN HAS SKIPPED STAGE B <<<": {},
+    ">>> ADMIN HAS SKIPPED STAGE C <<<": {},
+    ">>> D INSANE MODE ENABLED <<<": {},
     ">>> Hold 10 seconds <<<": {},
     ">>> Hold 15 seconds <<<": {},
     ">>> Hold 20 seconds <<<": {},
@@ -161,6 +170,7 @@
     ">>> Hold 40 seconds <<<": {},
     ">>> Hold 5 seconds <<<": {},
     ">>> Map by Airvulpes <<<": {},
+    ">>> RESTARTING ROUND IN 3 <<<": {},
     ">>> cs2 port by Tenshi. <<<": {},
     ">>> csgo backport by koen <<<": {},
     ">>> css port by xen <<<": {}

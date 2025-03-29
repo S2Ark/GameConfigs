@@ -1,0 +1,281 @@
+{
+    "*** Map By Nostar & Moltard ***": {
+        "chi": "*** 地图作者 Nostar & Moltard 汉化 已死之人***"
+    },
+    "*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***": {
+        "chi": "*** 这张地图基于Kaemon和Luffaren的mg_Serpentis_Temple 改编而来 ***"
+    },
+    "*** Many assets from the original map were used ***": {
+        "chi": "*** 使用了很多原始地图的资源 ***"
+    },
+    "*** STAGE 1 ***": {
+        "chi": "*** 第一关 神殿的造访者 ***"
+    },
+    "*** Find a way to reach the temple ***": {
+        "chi": "*** 找到路进入神庙 ***"
+    },
+    "*** Poison Snake has been picked ***": {
+        "chi": "*** 有探险队员找到了剧毒法杖 ***"
+    },
+    "*** DOOR OPEN IN 30 SECONDS ***": {
+        "chi": "*** 大门30秒后开启 ***"
+    },
+    "*** DOOR OPEN IN 20 SECONDS ***": {
+        "chi": "*** 大门20秒后开启 ***"
+    },
+    "*** AFK TELEPORT IN 5 SECONDS ***": {
+        "chi": "*** 僵尸和跑的慢的5秒后传送 ***"
+    },
+    "*** AFK TELEPORT IN 15 SECONDS ***": {
+        "chi": "*** 僵尸和跑的慢的15秒后传送 ***"
+    },
+    "*** TELEPORT IN 25 SECONDS ***": {
+        "chi": "*** 传送器25秒后启动 ***"
+    },
+    "[ADMIN ROOM] STAGE 4 NEXT ROUND": {
+        "chi": "[权♂男房间] 管理员设置下一关为第四关"
+    },
+    "[ADMIN ROOM] NUKE IN 5 SECONDS !": {
+        "chi": "[权♂男房间] 核子打击5秒后降临 !"
+    },
+    "*** STAGE 4 ***": {
+        "chi": "*** 第四关 希尔薇的挑战***"
+    },
+    "*** ZM TELEPORT IN 5 SECONDS ***": {
+        "chi": "*** 僵尸5秒后传送 ***"
+    },
+    "*** Heal/Ammo Snake has been picked ***": {
+        "chi": "*** 有探险队员找到了治疗法杖 ***"
+    },
+    "*** DOOR OPEN IN 5 SECONDS ***": {
+        "chi": "*** 大门5秒后开启 ***"
+    },
+    "*** HOLD HERE 20 SECONDS ***": {
+        "chi": "*** 守住这里20秒 ***"
+    },
+    "*** FALL BACK ***": {
+        "chi": "*** 快跑 ***"
+    },
+    "*** Fire Snake has been picked ***": {
+        "chi": "*** 有探险队员找到了烈火法杖 ***"
+    },
+    "*** TELEPORT IN 30 SECONDS ***": {
+        "chi": "*** 传送器30秒后启动 ***"
+    },
+    "*** ELEVATOR WILL MOVE IN 20 SECONDS ***": {
+        "chi": "*** 电梯20秒后启动 ***"
+    },
+    "*** DOOR OPENS IN 15 SECONDS ***": {
+        "chi": "*** 大门15秒后开启 ***"
+    },
+    "*** NUKE IN 7 SECONDS ***": {
+        "chi": "*** 核子打击7秒后降临 ***"
+    },
+    "*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***": {
+        "chi": "*** 炸弹15秒后引爆炸毁桥梁 ***"
+    },
+    "*** Get in the portal ***": {
+        "chi": "*** 快进传送门 ***"
+    },
+    "*** Impressive ***": {
+        "chi": "*** 牛B! ***"
+    },
+    "*** Very impressive ***": {
+        "chi": "*** 太TM牛B了,虽然你干碎了希尔薇***"
+    },
+    "*** But It's too early for celebrating ***": {
+        "chi": "*** 但是现在庆祝是不是太早了? ***"
+    },
+    "*** You are no match for her ***": {
+        "chi": "*** 你的冒险还未结束,你不是她的对手 ***"
+    },
+    "*** STAGE 5 ***": {
+        "chi": "*** 第五关 直面美杜莎 ***"
+    },
+    "*** GET ON THE MIDDLE ***": {
+        "chi": "*** 跳进去 ***"
+    },
+    "*** RUN !!! ***": {
+        "chi": "*** 跑 !!! ***"
+    },
+    "*** TELEPORT IN 10 SECONDS ***": {
+        "chi": "*** 传送器10秒后启动 ***"
+    },
+    "*** DOORS OPEN IN 20 SECONDS ***": {
+        "chi": "*** 大门20秒后开启 ***"
+    },
+    "*** ZM TELEPORT IN 10 SECONDS ***": {
+        "chi": "*** 僵尸10秒后传送 ***"
+    },
+    "*** DOORS OPEN IN 10 SECONDS ***": {
+        "chi": "*** 大门10秒后开启 ***"
+    },
+    "*** It's the Artefact ! ***": {
+        "chi": "*** 是神秘水晶 ! ***"
+    },
+    "*** This is the reason we came here ***": {
+        "chi": "*** 这是我们来这里的原因 ***"
+    },
+    "*** Take it and don't lose it or your mission will be failed ***": {
+        "chi": "*** 兄弟,抓紧了，要是丢了我们就前功尽弃了 ***"
+    },
+    "*** C4 EXPLODE IN 20 SECONDS ***": {
+        "chi": "*** C4炸弹20秒后爆炸 ***"
+    },
+    "*** FALL BACK !!! ***": {
+        "chi": "*** 快跑 !!! ***"
+    },
+    "*** HELICOPTER MOVE IN 10 SECONDS ! ***": {
+        "chi": "*** 飞机10秒后起飞 ! ***"
+    },
+    "*** ARTIFACT DETECTED ! ***": {
+        "chi": "*** 你拿到了水晶 ! ***"
+    },
+    "*** THE MISSION WAS A SUCCESS ! ***": {
+        "chi": "*** 任务成功 ! ***"
+    },
+    "*** YOU WON THE MAP ! ***": {
+        "chi": "*** 兄弟,你通关了地图,但你的冒险还未结束 ! ***"
+    },
+    "*** A sacrifice is necessary to open this passage ***": {
+        "chi": "*** 我们需要一个甘愿牺牲的人 ***"
+    },
+    "*** The passage will be open in 10 seconds ***": {
+        "chi": "*** 道路10秒后开启 ***"
+    },
+    "*** DOOR OPEN IN 25 SECONDS ***": {
+        "chi": "*** 大门25秒后开启 ***"
+    },
+    "*** HOLD 10 SECONDS ***": {
+        "chi": "*** 守住10秒 ***"
+    },
+    "*** DOOR CLOSE IN 5 SECONDS ! ***": {
+        "chi": "*** 大门5秒后关闭 ! ***"
+    },
+    "*** YOU WON STAGE 1 ***": {
+        "chi": "*** 你通过了第一关 ***"
+    },
+    "*** STAGE 2 LOADED ***": {
+        "chi": "*** 加载第二关 ***"
+    },
+    "*** Map By Nostar ***": {
+        "chi": "*** 地图作者 Nostar ***"
+    },
+    "*** STAGE 2 ***": {
+        "chi": "*** 第二关 初入神殿 ***"
+    },
+    "*** HOLD 25 SECONDS ***": {
+        "chi": "*** 守住25秒 ***"
+    },
+    "*** Snake come in 25 seconds ***": {
+        "chi": "*** 蛇路25秒后开放 ***"
+    },
+    "*** HOLD HERE ***": {
+        "chi": "*** 守住这里 ***"
+    },
+    "*** CRYSTAL HAS BEEN ACTIVATED ***": {
+        "chi": "*** 传送水晶已激活 ***"
+    },
+    "*** The portal is open in 30 seconds ***": {
+        "chi": "*** 传送门30秒后开启 ***"
+    },
+    "*** PORTAL IS READY ! FALL BACK ! ***": {
+        "chi": "*** 传送已就绪 ! 快跑 ! ***"
+    },
+    "*** AFK TELEPORT IN 10 SECONDS ***": {
+        "chi": "*** 僵尸和跑的慢的10秒后传送 ***"
+    },
+    "*** DOOR CLOSE IN 10 SECONDS ***": {
+        "chi": "*** 大门10秒后关闭 ***"
+    },
+    "*** COVER ! GET TO THE DOOR ! ***": {
+        "chi": "*** 掩护 ! 快进门 ! ***"
+    },
+    "*** COVER 15 SECONDS ***": {
+        "chi": "*** 守住15秒 ***"
+    },
+    "*** AFK TELE IN 5 SECONDS ***": {
+        "chi": "*** 僵尸和跑的慢的5秒后传送 ***"
+    },
+    "*** NEXT DOOR OPEN IN 10 SECONDS ***": {
+        "chi": "*** 下一道门10秒后开启 ***"
+    },
+    "*** STAGE 3 ***": {
+        "chi": "*** 第三关 深入神殿***"
+    },
+    "[ADMIN ROOM] STAGE 1 NEXT ROUND": {
+        "chi": "[权♂男房间] 管理员设置下一关为第一关"
+    },
+    "[ADMIN ROOM] STAGE 2 NEXT ROUND": {
+        "chi": "[权♂男房间] 管理员设置下一关为第二关"
+    },
+    "[ADMIN ROOM] STAGE 3 NEXT ROUND": {
+        "chi": "[权♂男房间] 管理员设置下一关为第三关"
+    },
+    "[ADMIN ROOM] STAGE 5 NEXT ROUND": {
+        "chi": "[权♂男房间] 管理员设置下一关为第五关"
+    },
+    "*** YOU WON STAGE 2 ! ***": {
+        "chi": "*** 你通过了第二关 ***"
+    },
+    "*** YOU WON STAGE 3 ! ***": {
+        "chi": "*** 你通过了第三关,看来水刀对你毫无难度***"
+    },
+    "*** YOU WON STAGE 4 ***": {
+        "chi": "*** 你通过了第四关,你干碎了希尔薇 ***"
+    },
+    "*** STAGE 3 LOADED ***": {
+        "chi": "*** 加载第三关 准备跳水刀吧 ***"
+    },
+    "*** STAGE 4 LOADED ***": {
+        "chi": "*** 加载第四关 准备面对希尔薇的挑战吧 ***"
+    },
+    "*** STAGE 5 LOADED ***": {
+        "chi": "*** 加载第五关 准备迎接最终挑战 ***"
+    },
+    "*** KILL REMAINING ZOMBIES ***": {
+        "chi": "*** 杀死存活的僵尸 ***"
+    },
+    "*** MISSION FAILED ! ***": {
+        "chi": "*** 任务失败 ***"
+    },
+    "*** YOU FORGOT THE ARTIFACT ***": {
+        "chi": "*** 兄弟,你没有抓紧水晶 ***"
+    },
+    "*** DOORS CLOSE IN 15 SECONDS ***": {
+        "chi": "*** 大门15秒后关闭 ***"
+    },
+    "*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***": {
+        "chi": "*** 核子打击20秒后降临 ***"
+    },
+    "*** HOLD HERE 30 SECONDS ***": {
+        "chi": "*** 守住30秒 ***"
+    },
+    "*** HOLD 20 SECONDS ***": {
+        "chi": "*** 守住20秒 ***"
+    },
+    "*** DOOR OPEN ! ***": {
+        "chi": "*** 门开了 ! ***"
+    },
+    "*** DOOR OPENS IN 10 SECONDS ***": {
+        "chi": "*** 大门10秒后开启 ***"
+    },
+    "*** DOOR OPEN IN 10 SECONDS ***": {
+        "chi": "*** 大门10秒后开启 ***"
+    },
+    "*** DOOR OPEN IN 15 SECONDS ***": {
+        "chi": "*** 大门15秒后开启 ***"
+    },
+    "*** C4 EXPLODE IN 30 SECONDS ***": {
+        "chi": "*** 炸弹30秒后爆炸 ***"
+    },
+    "*** C4 EXPLODE IN 25 SECONDS ***": {
+        "chi": "*** 炸弹25秒后爆炸 ***"
+    },
+    "*** DOORS CLOSE IN 10 SECONDS ***": {
+        "chi": "*** 大门10秒后关闭 ***"
+    },
+    "*** First doors will be close in 5 seconds ***": {
+        "chi": "*** 第一道大门5秒后关闭 ***"
+    }
+}

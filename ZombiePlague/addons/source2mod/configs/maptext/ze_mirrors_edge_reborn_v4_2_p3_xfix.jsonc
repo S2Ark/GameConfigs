@@ -1,0 +1,167 @@
+{
+    "<<< DIFFICULTY LEVEL : EASY >>>": {
+        "chi": "<<< 难度：简单>>>"
+    },
+    "<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>": {
+        "chi": "<<< 在直升机上第一个按下按钮的人获胜 >>>"
+    },
+    ">>>Map created by Dark Arrow<<<": {
+        "chi": ">>>作者Dark Arrow 汉化：萌爱<<<"
+    },
+    ">>>Edited first by [pF]Detonator<<<": {
+        "chi": ">>>由 [pF]Detonator修复<<<"
+    },
+    ">>>Finished by Hallucinogenic Troll<<<": {
+        "chi": ">>>由 Hallucinogenic Troll合并<<<"
+    },
+    ">>>Map ported by www.dashijie.es<<<": {
+        "chi": ">>>地图移植请上www.dashijie.es<<<"
+    },
+    ">>>Helicopter will leave in 3 seconds...<<<": {
+        "chi": ">>>直升机3秒后离开..<<<"
+    },
+    ">>>2<<<": {
+        "chi": ">>>2<<<"
+    },
+    ">>>1<<<": {
+        "chi": ">>>1<<<"
+    },
+    ">>>HELICOPTER IS LEAVING<<<": {
+        "chi": ">>>直升机已经离开<<<"
+    },
+    "<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>": {
+        "chi": "<<< 干得好，你赢了 >>>"
+    },
+    "<<< Nuke launched>>>": {
+        "chi": "<<< 核爆降临>>>"
+    },
+    "<<< 4 >>>": {
+        "chi": "<<< 4 >>>"
+    },
+    "<<< 3 >>>": {
+        "chi": "<<< 3 >>>"
+    },
+    "<<< 2 >>>": {
+        "chi": "<<< 2 >>>"
+    },
+    "<<< 1 >>>": {
+        "chi": "<<< 1 >>>"
+    },
+    "<<< DIFFICULTY LEVEL : NORMAL >>>": {
+        "chi": "<<< 普通难度 >>>"
+    },
+    "<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>": {
+        "chi": "<<< 可以自习调整音量 >>>"
+    },
+    "<<< OBJECTIVE : RUN TO THE CHOPPER >>>": {
+        "chi": "<<< 目标：直升机 >>>"
+    },
+    "<<< Door Opens In 15 sec >>>": {
+        "chi": "<<< 大门15秒后打开 >>>"
+    },
+    "<<< Door Opens In 10 sec >>>": {
+        "chi": "<<< 大门10秒后打开 >>>"
+    },
+    "<<< Door Opens In 5 sec >>>": {
+        "chi": "<<< 大门还有5秒 >>>"
+    },
+    "<<< HOLD HERE FOR 20 SEC >>>": {
+        "chi": "<<< 防守20秒 >>>"
+    },
+    "<<< RUN!!! >>>": {
+        "chi": "<<< 快润!!! >>>"
+    },
+    "<<< Hold For 25 secs >>>": {
+        "chi": "<<< 防守25秒 >>>"
+    },
+    "<<< 10 Seconds Remaining >>>": {
+        "chi": "<<< 还剩10秒 >>>"
+    },
+    "<<< Heli leaves in 30 seconds >>>": {
+        "chi": "<<< 直升机30秒后离开 >>>"
+    },
+    "<<< Heli leaves in 20 seconds >>>": {
+        "chi": "<<< 直升机20秒后离开 >>>"
+    },
+    "<<< Heli leaves in 10 seconds >>>": {
+        "chi": "<<< 直升机10秒后离开 >>>"
+    },
+    "<<< Heli is leaving hop on >>>": {
+        "chi": "<<< 直升机正在上升 >>>"
+    },
+    "<<< DIFFICULTY LEVEL : HARD >>>": {
+        "chi": "<<< 难度：困难 >>>"
+    },
+    "<<< OBJECTIVE : COLLECT 1 SUITCASE >>>": {
+        "chi": "<<< 目标：找到一个公文包 >>>"
+    },
+    "<<< Unlimited ammo has been picked >>>": {
+        "chi": "<<< 无限弹药已被拾取 >>>"
+    },
+    "<<< Press E to have unlimited ammo for 15 sec. Recharge after 50 seconds >>>": {
+        "chi": "<<< 按E使用弹药持续15秒 >>>"
+    },
+    "<<< Door Opens In 20 sec >>>": {
+        "chi": "<<< 大门10秒后打开>>>"
+    },
+    "<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>": {
+        "chi": "<<< 公文包大门10秒后打开 >>>"
+    },
+    "<<< SUITCASE DOOR IS OPENING!>>>": {
+        "chi": "<<< 公文包的门已打开!>>>"
+    },
+    "<<< SUITCASE COLLECTED! RUN! >>>": {
+        "chi": "<<< 公文包已拾取，快润! >>>"
+    },
+    "<<< DIFFICULTY LEVEL : EXTREME >>>": {
+        "chi": "<<< 难度：极限 >>>"
+    },
+    "<<< OBJECTIVE: COLLECT 2 SUITCASES >>>": {
+        "chi": "<<< 目标：找到两个公文包 >>>"
+    },
+    "<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>": {
+        "chi": "<<< 僵尸已被加强 >>>"
+    },
+    "<<< Door Opens In 30 sec >>>": {
+        "chi": "<<< 大门30秒后开启>>>"
+    },
+    "<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>": {
+        "chi": "<<< 公文包的门10秒后打开>>>"
+    },
+    "<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>": {
+        "chi": "<<<按下按钮，拾取公文包>>>"
+    },
+    ">>>Hold more 25 seconds<<<": {
+        "chi": ">>>防守25秒<<<"
+    },
+    "<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>": {
+        "chi": "<<< 已移除push >>>"
+    },
+    "<<< DOOR WILL BREAK IN 20 SECONDS >>>": {
+        "chi": "<<< 大门20秒后破碎 >>>"
+    },
+    "<<< DOOR WILL BREAK IN 10 SECONDS >>>": {
+        "chi": "<<< 大门10秒后破碎 >>>"
+    },
+    "<<< DOOR WILL BREAK IN 5 SECONDS >>>": {
+        "chi": "<<< 大门5秒后破碎 >>>"
+    },
+    "<<< DOOR ITS BROKEN!! RUN!!!! >>>": {
+        "chi": "<<< 大门已打开!! 快润!!!! >>>"
+    },
+    "<<< Door Opens In 35 sec >>>": {
+        "chi": "<<< 大门35秒后打开 >>>"
+    },
+    "<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!": {
+        "chi": "<<< 按下按钮，打开道路!!"
+    },
+    "<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>": {
+        "chi": "<<< 门已完全打开，按下按钮 >>>"
+    },
+    "<<< BUTTON IS PRESSED! RUN!! >>>": {
+        "chi": "<<< 按钮已按下! 快润!! >>>"
+    },
+    "<<< YOU BEAT THE MAP!!! AMAZING!!! >>>": {
+        "chi": "<<< 恭喜!!!你们征服了这张地图!! >>>"
+    }
+}

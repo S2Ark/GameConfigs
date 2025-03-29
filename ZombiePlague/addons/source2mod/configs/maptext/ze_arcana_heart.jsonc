@@ -1,23 +1,25 @@
 {
-    "<Tips>Press A or D moving the platform.": {
-        "chi": "<Tips>按A或D移动平台。"
-    },
-    "Stp版本230801.": {
-        "chi": "Stripper已加载。"
-    },
     "<Tips>Only one human can be assigned to trigger.": {
         "chi": "<Tips>只能一个人触发。"
+    },
+    "<Tips>Press A or D moving the platform.": {
+        "chi": "<Tips>按A或D移动平台。"
     },
     "<Tips>Press W or S moving the platform.": {
         "chi": "<Tips>按下W或S移动平台。"
     },
-    "> 2 - T <": {
-        "chi": "> 2 - T <"
-    },
     "> 2 - F <": {
         "chi": "> 2 - F <"
     },
+    "> 2 - T <": {
+        "chi": "> 2 - T <"
+    },
     "> R T V <": {
         "chi": "> R T V <"
+    },
+    ">>Arcana Heart<<": {},
+    ">>Ver:1.6.12<<": {},
+    "Stp版本230801.": {
+        "chi": "Stripper已加载。"
     }
 }

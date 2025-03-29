@@ -1,0 +1,209 @@
+{
+    "# RETURN TO CASTLE WOLFENSTEIN #": {
+        "chi": "# 重返德军总部 #"
+    },
+    "# MAP BY JB_GAMBLE #": {
+        "chi": "# 作者 JB_GAMBLE 汉化:萌爱#"
+    },
+    "# MISSION 1 - OMINOUS RUMORS #": {
+        "chi": "# 任务  -  谣言 #"
+    },
+    "# PART 1 - ESCAPE! #": {
+        "chi": "# PART 1 - 脱险! #"
+    },
+    "<!!!> HOLD THIS POSITION <!!!>": {
+        "chi": "<!!!> 守住这里 <!!!>"
+    },
+    "<!!!> GATE OPEN <!!!>": {
+        "chi": "<!!!> 大门打开了 <!!!>"
+    },
+    "<!!!> FALL BACK <!!!>": {
+        "chi": "<!!!> FALL BACK <!!!>"
+    },
+    "<!!!> DOOR OPEN <!!!>": {
+        "chi": "<!!!> 大门打开了 <!!!>"
+    },
+    "# SANDBAG WALL #": {
+        "chi": "# 沙袋 #"
+    },
+    "<!!!> HOLD HERE <!!!>": {
+        "chi": "<!!!> 守住这里 <!!!>"
+    },
+    "<!!!> FINAL DOOR CLOSING IN <!!!>": {
+        "chi": "<!!!> 最后的大门即将关闭 <!!!>"
+    },
+    "<!!!> 40 SECONDS <!!!>": {
+        "chi": "<!!!> 大门40秒后关闭 <!!!>"
+    },
+    "# BLACK MAGIC #": {
+        "chi": "# 黑魔法 #"
+    },
+    "<!!!> 30 SECONDS <!!!>": {
+        "chi": "<!!!> 大门30秒后关闭 <!!!>"
+    },
+    "# MAGIC - FREEZE #": {
+        "chi": "# 黑魔法—冰 #"
+    },
+    "<!!!> 20 SECONDS <!!!>": {
+        "chi": "<!!!> 大门20秒后关闭 <!!!>"
+    },
+    "<!!!> 10 SECONDS <!!!>": {
+        "chi": "<!!!> 大门10秒后关闭 <!!!>"
+    },
+    "<!!!> 5 SECONDS <!!!>": {
+        "chi": "<!!!> 还剩5秒<!!!>"
+    },
+    "<!!!> PART 1 - ESCAPE! PASSED <!!!>": {
+        "chi": "<!!!> PART 1 - 成功逃脱 <!!!>"
+    },
+    "# BAZOOKA #": {
+        "chi": "# 火炮 #"
+    },
+    "# PART 2 - CASTLE KEEP #": {
+        "chi": "# PART 2 - 守卫城堡 #"
+    },
+    "# HOLD HERE #": {
+        "chi": "# 守住这里 #"
+    },
+    "<!!!> ACTIVATE LEVER <!!!>": {
+        "chi": "<!!!> 按下拉杆 <!!!>"
+    },
+    "# 10 SECONDS #": {
+        "chi": "# 还需10秒 #"
+    },
+    "<!!!> GO GO GO <!!!>": {
+        "chi": "<!!!> GO GO GO <!!!>"
+    },
+    "<!!!> UP THE STAIRS <!!!>": {
+        "chi": "<!!!> 往上跑 <!!!>"
+    },
+    "# HOLD THIS POSITION #": {
+        "chi": "# 守住这里 #"
+    },
+    "# PRESS BUTTON #": {
+        "chi": "# 按下按钮 #"
+    },
+    "# MG42 AMMO #": {
+        "chi": "# 弹药 #"
+    },
+    "# TORCH #": {
+        "chi": "# 烧火棍 #"
+    },
+    "<!!!> GATE OPEN IN 20 SECONDS <!!!>": {
+        "chi": "<!!!> 大门20秒后打开 <!!!>"
+    },
+    "# UNLIMITED AMMO #": {
+        "chi": "# 弹药 #"
+    },
+    "# UNLIMITED AMMO - 14 SECONDS #": {
+        "chi": "# 弹药—14秒 #"
+    },
+    "<!!!> GO LEFT <!!!>": {
+        "chi": "<!!!> 往左走 <!!!>"
+    },
+    "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>": {
+        "chi": "<!!!> 大门15秒后关闭 <!!!>"
+    },
+    "<!!!> DEFEND THIS POSITION <!!!>": {
+        "chi": "<!!!> 守住这里 <!!!>"
+    },
+    "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>": {
+        "chi": "<!!!> PART 2 - 我们守住了城堡 <!!!>"
+    },
+    "# PART 3 - TRAM RIDE #": {
+        "chi": "# PART 3 - 电车 #"
+    },
+    "# TRAM ON ITS WAY #": {
+        "chi": "# 电车正在路上 #"
+    },
+    "# TRAM ARRIVED # ": {
+        "chi": "# 电车已经到达 # "
+    },
+    "# TRAM IS LEAVING # ": {
+        "chi": "# 电车正在离开 # "
+    },
+    "# HOLD TRAM #": {
+        "chi": "# 守住电车 #"
+    },
+    "# TRAM START IN 20 SECONDS #": {
+        "chi": "# 电车20秒后离开 #"
+    },
+    "# FLAMETHROWER #": {
+        "chi": "# 喷火器 #"
+    },
+    "# DOOR OPEN IN 20 SECONDS #": {
+        "chi": "# 大门20秒后打开 #"
+    },
+    "# DOOR OPEN #": {
+        "chi": "# 大门已经打开 #"
+    },
+    "# FINAL DOOR CLOSING IN 20 SECONDS #": {
+        "chi": "# 最后的大门20秒后关闭#"
+    },
+    "# 5 SECONDS #": {
+        "chi": "# 还剩5秒 #"
+    },
+    "<!!!> PART 3 - TRAM RIDE PASSED <!!!>": {
+        "chi": "<!!!> PART 3 - 电车关完成 <!!!>"
+    },
+    "<!!!> EASY COMPLETED <!!!>": {
+        "chi": "<!!!> 你们征服了简单难度 <!!!>"
+    },
+    "# MAGIC - FOG #": {
+        "chi": "# 黑魔法—雾 #"
+    },
+    "# VENT OPEN IN 15 SECONDS #": {
+        "chi": "# 通风口15秒后打开 #"
+    },
+    "# VENT OPEN #": {
+        "chi": "# 通风口打开 #"
+    },
+    "# FINAL DOOR CLOSING IN 40 SECONDS #": {
+        "chi": "# 最后的大门40秒后关闭 #"
+    },
+    "# 30 SECONDS #": {
+        "chi": "# 还剩30秒 #"
+    },
+    "# 20 SECONDS #": {
+        "chi": "# 还剩20秒 #"
+    },
+    "<!!!> MED COMPLETED <!!!>": {
+        "chi": "<!!!> 篇目完成 <!!!>"
+    },
+    "# ITEM RESTRICTION - BAZOOKA #": {
+        "chi": "# 神器限制—火炮#"
+    },
+    "<!!!> 60 SECONDS <!!!>": {
+        "chi": "<!!!> 守住60秒<!!!>"
+    },
+    "<!!!> 50 SECONDS <!!!>": {
+        "chi": "<!!!> 守住50秒 <!!!>"
+    },
+    "# ITEM RESTRICTION - UNLIMITED AMMO #": {
+        "chi": "# 神器限制—弹药 #"
+    },
+    "<!!!> GATE OPEN IN 30 SECONDS <!!!>": {
+        "chi": "<!!!> 大门30秒后打开 <!!!>"
+    },
+    "# FALL BACK - DOOR #": {
+        "chi": "# 前往下一扇门 #"
+    },
+    "# TURN TRAM POWER ON #": {
+        "chi": "# 按下电车按钮 #"
+    },
+    "# GO GO #": {
+        "chi": "# GO GO #"
+    },
+    "# TRAM START IN 30 SECONDS #": {
+        "chi": "# 电车30秒后出发 #"
+    },
+    "# FINAL DOOR CLOSING IN 50 SECONDS #": {
+        "chi": "# 最后的大门50秒后关闭 #"
+    },
+    "# 40 SECONDS #": {
+        "chi": "# 还剩40秒#"
+    },
+    "<!!!> MAP COMPLETED <!!!>": {
+        "chi": "<!!!> 嘉然祝福你们!你们征服了所有难度! <!!!>"
+    }
+}

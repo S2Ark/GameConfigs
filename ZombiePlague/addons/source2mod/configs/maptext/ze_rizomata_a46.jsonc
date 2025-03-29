@@ -1,0 +1,80 @@
+{
+    "*** Map by Airvulpes ***": {
+        "chi": "*** 地图作者：Airvulpes ***"
+    },
+    "*** Hold 30 seconds ***": {
+        "chi": "*** 坚守30秒 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 还剩10秒 ***"
+    },
+    "*** Hold 20 seconds ***": {
+        "chi": "*** 坚守20秒 ***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 还剩5秒 ***"
+    },
+    "*** Hold 25 seconds ***": {
+        "chi": "*** 坚守25秒 ***"
+    },
+    "*** EARTH STOMP ***": {
+        "chi": "*** 大地之击（头顶石柱下落） ***"
+    },
+    "*** EARTH SHOCK ***": {
+        "chi": "*** 大地践踏（左右主动跳刀） ***"
+    },
+    "*** QUAKE ***": {
+        "chi": "*** 地震（开奶抵抗） ***"
+    },
+    "*** EARTHEN SHIELD ***": {
+        "chi": "*** 大地之盾 ***"
+    },
+    "*** LAND SUBSIDENCE ***": {
+        "chi": "*** 地面沉降（跟指挥跑） ***"
+    },
+    "*** CRUSTAL MOVEMENT ***": {
+        "chi": "*** 地壳运动 ***"
+    },
+    "*** EARTHQUAKE ***": {
+        "chi": "*** 大地震 ***"
+    },
+    "*** Doors open in 10 seconds ***": {
+        "chi": "*** 大门10秒后开启 ***"
+    },
+    "*** Door opens in 25 seconds ***": {
+        "chi": "*** 大门25秒后开启 ***"
+    },
+    "*** Door opens in 35 seconds ***": {
+        "chi": "*** 大门35秒后开启 ***"
+    },
+    "*** BLIZZARD ***": {
+        "chi": "*** 暴雪（开奶） ***"
+    },
+    "*** FREEZING COFFIN ***": {
+        "chi": "*** 冰窖（站中间） ***"
+    },
+    "*** ICICLE FALL ***": {
+        "chi": "*** 冰坠（看头顶） ***"
+    },
+    "*** TIDAL WAVE ***": {
+        "chi": "*** 海啸（穿过去） ***"
+    },
+    "*** FROZEN WATER ***": {
+        "chi": "*** 千里冰封（水面上升前不管） ***"
+    },
+    "*** RISING WATER ***": {
+        "chi": "*** 水面上升 ***"
+    },
+    "*** DIAMOND DUST ***": {
+        "chi": "*** 钻石之尘（去水下躲避） ***"
+    },
+    "Level 1 set": {
+        "chi": "序章开始"
+    },
+    "Level 2 set": {
+        "chi": "大地元素"
+    },
+    "Level 3 set": {
+        "chi": "潮汐元素"
+    }
+}

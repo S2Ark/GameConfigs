@@ -207,6 +207,7 @@
     },
     "** It is dead ** Go go! Run upstairs! **": {},
     "** Keep shooting! ** We do not know what it can do **": {},
+    "** MAP COMPLETED ** ZM ROUND **": {},
     "** NO MORE COWBELL BONUS **": {
         "chi": "** NO MORE COWBELL BONUS **"
     },
@@ -226,6 +227,7 @@
         "chi": "** 服务器设置已初始化 **"
     },
     "** Superior door is opening in 30 seconds **": {},
+    "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DO NOT FOLLOW THE ZE PATH **": {},
     "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **": {
         "chi": "** 提示: 手雷可以造成更多伤害 ** 丢雷炸它 **"
     },

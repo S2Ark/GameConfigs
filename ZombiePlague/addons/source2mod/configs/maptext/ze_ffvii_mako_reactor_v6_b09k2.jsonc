@@ -1,0 +1,236 @@
+{
+    "< CITY DOOR OPENS IN 5 SECONDS >": {
+        "chi": "< 中央大门5秒后开启 >"
+    },
+    "< CITY DOOR OPENS IN 40 SECONDS >": {
+        "chi": "< 中央大门40秒后打开 >"
+    },
+    "*** THE BOMB  WAS DESTROYED ***": {
+        "chi": "*** 炸弹已安放 ***"
+    },
+    "** An administrator has set [ZM] for next round! **": {
+        "chi": "** 管理员设置下一关为 [ZM] ! **"
+    },
+    "** An administrator has set [INSANE] for next round! **": {
+        "chi": "** 管理员设置下一关为 [INSANE] ! **"
+    },
+    "** An administrator has set [EXTREME] for next round! **": {
+        "chi": "** 管理员设置下一关为 [EXTREME] ! **"
+    },
+    "** An administrator has set [HARD] for next round! **": {
+        "chi": "** 管理员设置下一关为 [HARD] ! **"
+    },
+    "** An administrator has set [NORMAL] for next round! **": {
+        "chi": "** 管理员设置下一关为 [NORMAL] ! **"
+    },
+    "** Congratulations! You have beaten [EASY] **": {
+        "chi": "** 祝贺! 你通过了 [EASY] 难度 **"
+    },
+    "** Congratulations! You have beaten [NORMAL] **": {
+        "chi": "** 祝贺! 你通过了 [NORMAL] 难度 汉化 Tastysaw**"
+    },
+    "** Congratulations! You have beaten [HARD] **": {
+        "chi": "** 祝贺! 你通过了 [HARD] 难度 汉化 Tastysaw**"
+    },
+    "** Congratulations! You have beaten [EXTREME] **": {
+        "chi": "** 祝贺! 你通过了 [EXTREME] 难度 下一关准备跳刀了**"
+    },
+    "** Congratulations! You have beaten [INSANE] **": {
+        "chi": "** 祝贺! 你通过了 [INSANE] 难度 看来萨菲罗斯也无法阻挡你了**"
+    },
+    "** Congratulations! You have beaten [ZM] **": {
+        "chi": "** 祝贺! 你通过了 [ZM] 感染 来个魔光炉v5放松一下吧**"
+    },
+    "<<< EASY >>>": {
+        "chi": "<<< EASY难度 >>>"
+    },
+    "<<< NORMAL >>>": {
+        "chi": "<<< NORMAL难度 >>>"
+    },
+    "<<< HARD >>>": {
+        "chi": "<<< HARD难度 >>>"
+    },
+    "<<< EXTREME >>>": {
+        "chi": "<<< EXTREME难度 >>>"
+    },
+    "<<< INSANE >>>": {
+        "chi": "<<< INSANE难度 >>>"
+    },
+    "< ZOMBIE MODE >": {
+        "chi": "< ZM感染 >"
+    },
+    "< TRY TO SURVIVE IN THE CITY AREA >": {
+        "chi": "< 找个地方狗着就行 >"
+    },
+    "** BIO Materia has been found. **": {
+        "chi": "** 一位玩家捡到了毒. **"
+    },
+    "** BARRIER Materia has been found. **": {
+        "chi": "** 一位玩家捡到了盾. **"
+    },
+    "** ULTIMA Materia has been found. **": {
+        "chi": "** 一位玩家捡到了终极. **"
+    },
+    "** WIND Materia has been found. **": {
+        "chi": "** 一位玩家捡到了风. **"
+    },
+    "** HEAL Materia has been found. **": {
+        "chi": "** 一位玩家捡到了奶. **"
+    },
+    "** ICE Materia has been found. **": {
+        "chi": "** 一位玩家捡到了冰. **"
+    },
+    "** AQUA Materia has been found. **": {
+        "chi": "** 一位玩家捡到了水. **"
+    },
+    "** FIRE Materia has been found. **": {
+        "chi": "** 一位玩家捡到了火. **"
+    },
+    "** ELECTRO Materia has been found. **": {
+        "chi": "** 一位玩家捡到了电. **"
+    },
+    "** EARTH Materia has been found. **": {
+        "chi": "** 一位玩家捡到了土. **"
+    },
+    "** GRAVITY Materia has been found. **": {
+        "chi": "** 一位玩家捡到了黑洞. **"
+    },
+    "** Round failed! Zombies have reached the objective! **": {
+        "chi": "** 你失败了! 僵尸已经贴门了! **"
+    },
+    "< Any last words? >": {
+        "chi": "< 还有遗言吗? >"
+    },
+    "< Ugh... Defeated... >": {
+        "chi": "< 呃... 被打败了... >"
+    },
+    "< Fly! >": {
+        "chi": "< 起飞! >"
+    },
+    "< I've been... Defeated? >": {
+        "chi": "< 我草... 我被打败了? >"
+    },
+    "< Impressive! >": {
+        "chi": "< 真牛B! >"
+    },
+    "< I understand that you've been looking for me. >": {
+        "chi": "< 我知道你一直在找我. >"
+    },
+    "< Hmm... I was expecting more... >": {
+        "chi": "< 嗯... 我期待更强大的东西... >"
+    },
+    "< Only the chosen may survive! >": {
+        "chi": "< 只有天命之子才配生存! >"
+    },
+    "< Hmm... Pitiful fool. >": {
+        "chi": "< 哈哈... 你配生存吗. >"
+    },
+    "< Say goodbye! >": {
+        "chi": "< 和这个世界做最后的告别吧! >"
+    },
+    "< Seems I do not have to hold back. >": {
+        "chi": "< 看起来我随随便便就能干碎你. >"
+    },
+    "< I'll see you again. >": {
+        "chi": "< 我们还会再见面的. >"
+    },
+    "< Slow! >": {
+        "chi": "< 太TM慢了! >"
+    },
+    "< Solitude isn't heroism. >": {
+        "chi": "< 英雄总不会独善其身. >"
+    },
+    "< Too late for laments! >": {
+        "chi": "< 现在后悔就太迟了! >"
+    },
+    "< CARGO LIFT STARTS IN 5 SECONDS >": {
+        "chi": "< 升降梯5秒后启动 >"
+    },
+    "** Zombies detected! You lose! **": {
+        "chi": "** 僵尸进来了! 你输了! **"
+    },
+    "** Congratulations! You have beaten the Stage! **": {
+        "chi": "** 祝贺! 你已通关! **"
+    },
+    "** Next difficulty was chosen by an Administrator! **": {
+        "chi": "** 管理员可以选择下一关了! **"
+    },
+    "** MIMIC Materia has been found. **": {
+        "chi": "** 一位玩家捡到了复制. **"
+    },
+    "< BAHAMUT CASTED FIRE >": {
+        "chi": "< 巴哈姆特使用火 >"
+    },
+    "< BAHAMUT CASTED ICE >": {
+        "chi": "< 巴哈姆特使用冰 >"
+    },
+    "< BAHAMUT CASTED ELECTRO >": {
+        "chi": "< 巴哈姆特使用电 >"
+    },
+    "< BAHAMUT CASTED WIND >": {
+        "chi": "< 巴哈姆特使用风 >"
+    },
+    "< BAHAMUT CASTED EARTH >": {
+        "chi": "< 巴哈姆特使用土 >"
+    },
+    "< BAHAMUT CASTED GRAVITY >": {
+        "chi": "< 巴哈姆特使用黑洞 >"
+    },
+    "< BAHAMUT CASTED BIO >": {
+        "chi": "< 巴哈姆特使用毒 >"
+    },
+    "< BAHAMUT CASTED BARRIER >": {
+        "chi": "< 巴哈姆特使用盾 >"
+    },
+    "< BAHAMUT CASTED AQUA >": {
+        "chi": "< 巴哈姆特使用水 >"
+    },
+    "< BAHAMUT CASTED HEAL >": {
+        "chi": "< 巴哈姆特使用奶 >"
+    },
+    "< BAHAMUT CASTED ULTIMA >": {
+        "chi": "< 巴哈姆特使用终极 >"
+    },
+    "< BAHAMUT MIMICS FIRE >": {
+        "chi": "< 巴哈姆特复制了火 >"
+    },
+    "< BAHAMUT MIMICS ICE >": {
+        "chi": "< 巴哈姆特复制了冰 >"
+    },
+    "< BAHAMUT MIMICS ELECTRO >": {
+        "chi": "< 巴哈姆特复制了电 >"
+    },
+    "< BAHAMUT MIMICS WIND >": {
+        "chi": "< 巴哈姆特复制了风 >"
+    },
+    "< BAHAMUT MIMICS EARTH >": {
+        "chi": "< 巴哈姆特复制了土 >"
+    },
+    "< BAHAMUT MIMICS GRAVITY >": {
+        "chi": "< 巴哈姆特复制了黑洞 >"
+    },
+    "< BAHAMUT MIMICS BIO >": {
+        "chi": "< 巴哈姆特复制了毒 >"
+    },
+    "< BAHAMUT MIMICS BARRIER >": {
+        "chi": "< 巴哈姆特复制了盾 >"
+    },
+    "< BAHAMUT MIMICS AQUA >": {
+        "chi": "< 巴哈姆特复制了水 >"
+    },
+    "< BAHAMUT MIMICS HEAL >": {
+        "chi": "< 巴哈姆特复制了奶 >"
+    },
+    "< BAHAMUT MIMICS ULTIMA >": {
+        "chi": "< 巴哈姆特复制了终极 >"
+    },
+    "< BAHAMUT MIMICS FAILS >": {
+        "chi": "< 巴哈姆特什么都没复制 >"
+    },
+    "** ADMIN PRESSED KILL ALL BUTTON **": {
+        "chi": "** 管理员按下处死按钮 **"
+    },
+    "** PREPARE TO DIE **": {
+        "chi": "** 准备受死吧 **"
+    }
+}

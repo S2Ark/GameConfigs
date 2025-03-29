@@ -1,0 +1,233 @@
+{
+    "*** Level 1 ***": {
+        "chi": "*** Level 1 ***"
+    },
+    "* Turning music on *": {
+        "chi": "* 嘉然的音乐盒已经开启 *"
+    },
+    "*** Player has picked up Grenade Maker ***": {
+        "chi": "*** 玩家拾起手雷制造者 ***"
+    },
+    "*** Player has picked up Heal ***": {
+        "chi": "*** 玩家拾取奥利奥 ***"
+    },
+    "*** Player has picked up Ammo Box ***": {
+        "chi": "*** 玩家拾取弹药箱 ***"
+    },
+    "*** Player has picked up HandCannon ***": {
+        "chi": "*** 玩家拾取手炮-无视CD使用***"
+    },
+    "*** Gate opening ***": {
+        "chi": "*** 大门开启 ***"
+    },
+    "*** Player has picked up Flamethrower ***": {
+        "chi": "*** 玩家拾取喷火器 ***"
+    },
+    "*** Player has picked up PushGun ***": {
+        "chi": "*** 玩家拾取推力枪 ***"
+    },
+    "*** Player has picked up Explosive Mines ***": {
+        "chi": "*** 玩家拾取地雷 ***"
+    },
+    "*** Player has picked up Lego Maker ***": {
+        "chi": "*** 玩家拾取墙 ***"
+    },
+    "*** Door opens in 35 seconds ***": {
+        "chi": "*** 大门35秒后打开 ***"
+    },
+    "*** Door opens in 25 seconds ***": {
+        "chi": "*** 大门25秒后打开 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 还剩10秒 ***"
+    },
+    "*** Door is Opening ***": {
+        "chi": "*** 大门正在打开 ***"
+    },
+    "*** Door Opening in 25 seconds! ***": {
+        "chi": "*** 大门25秒后打开! ***"
+    },
+    "*** FALL BACK ***": {
+        "chi": "*** 快溜 ***"
+    },
+    ">>> Hold for 15 seconds! <<<": {
+        "chi": ">>> 继续防守15秒! <<<"
+    },
+    ">>> Hold for a bit more! <<<": {
+        "chi": ">>> 再坚持一会儿! <<<"
+    },
+    "*** Teleporter Activates in 20 Seconds ***": {
+        "chi": "*** 传送20秒后启动 ***"
+    },
+    "*** Door Opens in 30 seconds ***": {
+        "chi": "*** 大门30秒后开启 ***"
+    },
+    "*** OH NOOES ***": {
+        "chi": "*** ??? ***"
+    },
+    "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***": {
+        "chi": "*** 消灭小学生! 快开火!***"
+    },
+    "*** RICK ASTLEY IS DEAD ***": {
+        "chi": "*** 小学生去世了 ***"
+    },
+    "*** Hold here for 20 seconds ***": {
+        "chi": "*** 守住20秒 ***"
+    },
+    "*** Hold 20 second for victory! ***": {
+        "chi": "*** 防守20秒后嘉然会消灭邪恶力量! ***"
+    },
+    "*** Level Completed ***": {
+        "chi": "*** 加载下一关 汉化:萌爱***"
+    },
+    "*** Level 2 ***": {
+        "chi": "*** Level 2 ***"
+    },
+    ">>> Hold until the path is cleared! <<<": {
+        "chi": ">>> 等待障碍清除! <<<"
+    },
+    "*** Defend for 25 seconds ***": {
+        "chi": "*** 防守25秒 ***"
+    },
+    ">>> GO GO GO <<<": {
+        "chi": ">>> GO GO GO <<<"
+    },
+    ">>> Hold until the door opens! <<<": {
+        "chi": ">>> 等待大门打开! <<<"
+    },
+    "*** Right Door Opens in 10 seconds ***": {
+        "chi": "*** 右边大门10秒后开启 ***"
+    },
+    "*** Left Door Opens in 10 seconds ***": {
+        "chi": "*** 左边大门10秒后开启 ***"
+    },
+    "*** The Boss is dead! ***": {
+        "chi": "*** 小学生去世了! ***"
+    },
+    ">>> Hold The Zombies Until Door Opens <<<": {
+        "chi": ">>> 防守至大门打开 <<<"
+    },
+    "*** Elevator is Leaving in 20 seconds ***": {
+        "chi": "*** 嘉然20秒后推动电梯 ***"
+    },
+    "*** Level 3 ***": {
+        "chi": "*** Level 3 ***"
+    },
+    ">>> Hold until the path is clear! <<<": {
+        "chi": ">>> 防守至道路清空! <<<"
+    },
+    "*** Ladders open in 30 seconds ***": {
+        "chi": "*** 梯子30秒后通行 ***"
+    },
+    "*** HOLD Until the path is clear ***": {
+        "chi": "*** 防守至道路清空 ***"
+    },
+    "*** Door opens in 10 seconds ***": {
+        "chi": "*** 大门10秒后大开 ***"
+    },
+    "*** GO GO GO ***": {
+        "chi": "*** GO GO GO ***"
+    },
+    "*** Hold here for 30 seconds ***": {
+        "chi": "*** 在这里防守30秒 ***"
+    },
+    "*** Door Opens in 5 seconds ***": {
+        "chi": "*** 大门打开还有5秒 ***"
+    },
+    "*** Door Opens in 4 seconds ***": {
+        "chi": "*** 大门打开还有4秒 ***"
+    },
+    "*** Door Opens in 3 seconds ***": {
+        "chi": "*** 大门打开还有3秒 ***"
+    },
+    "*** Door Opens in 2 seconds ***": {
+        "chi": "*** 2秒 ***"
+    },
+    "*** Door Opens in 1 second ***": {
+        "chi": "*** 1秒 ***"
+    },
+    "*** Defend for 25 seconds! ***": {
+        "chi": "*** 防守25秒! ***"
+    },
+    "*** Success! ***": {
+        "chi": "*** 你们成功了! ***"
+    },
+    "*** Doors open in 30 seconds ***": {
+        "chi": "*** 大门30秒后开启 ***"
+    },
+    "*** The Ship Thingy is Destroyed! ***": {
+        "chi": "*** 飞机被摧毁了! ***"
+    },
+    "*** Tram Leaves in 35 seconds ***": {
+        "chi": "*** 电车35秒后出发 ***"
+    },
+    "*** You got both items to the end ***": {
+        "chi": "*** 两座桥即将断裂 ***"
+    },
+    "*** Defending Will be easier Now! ***": {
+        "chi": "*** 僵尸的攻势被减弱了! ***"
+    },
+    "*** 15 seconds left ***": {
+        "chi": "*** 还剩15秒 ***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 5秒 ***"
+    },
+    "*** Tram is leaving ***": {
+        "chi": "*** 电车离开了 ***"
+    },
+    "** Turning on:... **": {
+        "chi": "** 开启:... **"
+    },
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
+        "chi": "** 天谴模式 **"
+    },
+    "*** Door Opening in 30 seconds! ***": {
+        "chi": "*** 大门30秒后开启! ***"
+    },
+    "*** OH NO ITS AN EVIL ROBO BOSS ***": {
+        "chi": "*** 这是邪恶的小学生 ***"
+    },
+    "*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***": {
+        "chi": "*** 消灭邪恶小学生 ***"
+    },
+    "*** YOU HAVE DEFEATED THE ROBO BOSS ***": {
+        "chi": "*** 你们消灭了邪恶小学生 ***"
+    },
+    "*** TIME TO RUN NOW ***": {
+        "chi": "*** 是时候走了 ***"
+    },
+    "*** Ladders open in 25 seconds ***": {
+        "chi": "*** 梯子25秒后打开 ***"
+    },
+    "*** Door opens in 20 seconds ***": {
+        "chi": "*** 大门20秒后打开 ***"
+    },
+    "*** Hold here for 25 seconds ***": {
+        "chi": "*** 防守25秒 ***"
+    },
+    "*** OH NO.. ***": {
+        "chi": "*** OH NO.. ***"
+    },
+    ">>> THE EVIL EYE IS DEAD <<<": {
+        "chi": ">>> 邪恶之眼去世了 <<<"
+    },
+    ">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<": {
+        "chi": ">>> 是时候离开这里了 <<<"
+    },
+    "*** Tram Leaves in 45 seconds ***": {
+        "chi": "*** 电车45秒后离开 ***"
+    },
+    "*** 25 seconds left ***": {
+        "chi": "*** 还剩25秒 ***"
+    },
+    "*** Nice Job You Have Beaten FapEscape! ***": {
+        "chi": "*** 嘉然祝福你们，你们击败了 FapEscape! ***"
+    },
+    "*** ZM ***": {
+        "chi": "*** ZM ***"
+    },
+    "*** Survive for 3 Minutes ***": {
+        "chi": "*** 存活180秒 ***"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***": {
+        "chi": "*** 玩家拾取披萨 ***"
+    },
+    "*** PLAYER HAS PICKED UP GREEN TRAIL ***": {
+        "chi": "*** 玩家找到绿色通道 ***"
+    },
+    "*** HOLD UNTIL WE GET TELEPORTED ***": {
+        "chi": "*** 等待传送开启 ***"
+    },
+    "*** PLAYER HAS PICKED UP RED TRAIL ***": {
+        "chi": "*** 玩家找到红色道路 ***"
+    },
+    "*** PLAYER HAS PICKED UP BLUE TRAIL ***": {
+        "chi": "*** 玩家找到蓝色道路 ***"
+    },
+    "*** ZOMBIE TELEPORT IN 8 SECONDS ***": {
+        "chi": "*** 僵尸8秒后传送 ***"
+    },
+    "*** GATE ON RAMP WILL OPEN SOON ***": {
+        "chi": "*** 大门即将打开 ***"
+    },
+    "*** DOORS BREAK IN 30 SECONDS ***": {
+        "chi": "*** 大门30秒后打开 ***"
+    },
+    "*** DOORS BREAK IN 5 SECONDS ***": {
+        "chi": "*** 大门5秒后打开 ***"
+    },
+    "*** LAST DOOR WILL CLOSE IN 30 SECONDS ***": {
+        "chi": "*** 最后的大门30秒后关闭 ***"
+    },
+    "*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***": {
+        "chi": "***  C4 已安放 ***"
+    },
+    "*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***": {
+        "chi": "*** 电梯30秒后离开 ***"
+    },
+    "*** ELEVATOR LEAVING IN 20 SECONDS ***": {
+        "chi": "*** 电梯20秒后离开 ***"
+    },
+    "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
+        "chi": "*** 电梯10秒后离开 ***"
+    },
+    "*** ELEVATOR LEAVING IN 3 SECONDS ***": {
+        "chi": "*** 电梯3秒后离开 ***"
+    },
+    "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***": {
+        "chi": "*** 按下按钮，启动电梯 ***"
+    },
+    "*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***": {
+        "chi": "*** 盒子路10秒后开放 ***"
+    },
+    "*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***": {
+        "chi": "*** 防守25秒后 ***"
+    },
+    "*** GO GO GO, ZOMBIES RELEASED SHORTLY ***": {
+        "chi": "*** 僵尸很快就会被释放 ***"
+    },
+    "*** ZOMBIES RELEASED ***": {
+        "chi": "*** 僵尸出笼 ***"
+    },
+    "*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***": {
+        "chi": "*** 墙壁30秒后破碎 ***"
+    },
+    "*** WALL BREAKS IN 5 SECONDS ***": {
+        "chi": "*** 墙壁5秒后破碎 ***"
+    },
+    "*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***": {
+        "chi": "*** 墙壁已破损，进入传送 ***"
+    },
+    "*** ZOMBIE TELEPORT IN 16 SECONDS ***": {
+        "chi": "*** 僵尸16秒后传送 ***"
+    },
+    "*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***": {
+        "chi": "*** 木头很快就会破碎，激活C4! ***"
+    },
+    "*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***": {
+        "chi": "*** 炸药很快就会被引爆! ***"
+    },
+    "*** 5 SECONDS LEFT UNTIL DETONATION! ***": {
+        "chi": "*** 5秒后爆炸! ***"
+    },
+    "*** C4 DETONATED, GO GO GO! ***": {
+        "chi": "*** C4 爆炸了, GO GO GO! ***"
+    },
+    "*** ACTIVATE THE CONSOLE AFTER THE LAVA***": {
+        "chi": "*** 启动控制台***"
+    },
+    "*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***": {
+        "chi": "*** 僵尸很快就会被释放，抓紧时间! ***"
+    },
+    "*** ELEVATOR LEAVING IN 15 SECONDS ***": {
+        "chi": "***电梯15秒后离开 ***"
+    },
+    "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
+        "chi": "*** 电梯5秒后离开 ***"
+    },
+    "*** ZOMBIE TELEPORT INCOMING SHORTLY! ***": {
+        "chi": "*** 僵尸即将传送! ***"
+    },
+    "*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***": {
+        "chi": "*** 前往青青草原! ***"
+    },
+    "*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---": {
+        "chi": "*** 作者--- FuTuRe --- 汉化 ---萌爱---"
+    },
+    "*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***": {
+        "chi": "*** 有三支枪留下痕迹，找到它们***"
+    },
+    "*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***": {
+        "chi": "*** 皮肤来自 [Pompje] ***"
+    }
+}

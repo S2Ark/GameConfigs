@@ -1,0 +1,197 @@
+{
+    "***Map by Reflelia***": {
+        "chi": "***地图作者：Reflelia 汉化；!Wuya***"
+    },
+    "***Particle Effect by Airvulpes***": {
+        "chi": "***粒子效果：Airvulpes***"
+    },
+    "***Thanks to Shizuru[idea] / uuz[model]***": {
+        "chi": "***感谢Shizuru[idea]/uuz[model]***"
+    },
+    "***CURRENT LEVEL - 1 -***": {
+        "chi": "***当前关卡-1-***"
+    },
+    "***DIFFICULTY SET TO -4-***": {
+        "chi": "***难度设置为-4-***"
+    },
+    "***DIFFICULTY SET TO -3-***": {
+        "chi": "***难度设置为-3-***"
+    },
+    "***DIFFICULTY SET TO [DREAM]": {
+        "chi": "***困难[梦想]"
+    },
+    "***DIFFICULTY SET TO [FADE]": {
+        "chi": "***难度设置为[衰减]"
+    },
+    "***Resist 20 seconds***": {
+        "chi": "***抵抗20秒***"
+    },
+    "***Reflection will cast in 2s*": {
+        "chi": "***反伤将在2秒内反射*"
+    },
+    "***Reflection ended***": {
+        "chi": "***反伤结束***"
+    },
+    "***Reflection will cast in 1s*": {
+        "chi": "***反伤将在1s内发射*"
+    },
+    "***Reflection Casted***": {
+        "chi": "***反伤***"
+    },
+    "***Ende***": {
+        "chi": "***终点***"
+    },
+    "***Failed***": {
+        "chi": "***失败***"
+    },
+    "***All items will Disable in 4 seconds***": {
+        "chi": "***所有神器将在4秒内禁用***"
+    },
+    "***All items will Disable in 3 seconds***": {
+        "chi": "***所有神器将在3秒内禁用***"
+    },
+    "***All items will Disable in 1 seconds***": {
+        "chi": "***所有神器将在2秒内禁用***"
+    },
+    "***All items will Disable in 2 seconds***": {
+        "chi": "***所有神器将在2秒内禁用***"
+    },
+    "***All items will Disable in 5 seconds***": {
+        "chi": "***所有神器将在5秒内禁用***"
+    },
+    "***Hold 20 seconds***": {
+        "chi": "***保持20秒***"
+    },
+    "***Resist 15 seconds***": {
+        "chi": "***抵抗15秒***"
+    },
+    "***Portal open in 30 seconds***": {
+        "chi": "***入口在30秒内打开***"
+    },
+    "***Door open in 20 seconds***": {
+        "chi": "***20秒后开门***"
+    },
+    "***Door break in 20 seconds***": {
+        "chi": "***20秒后破门***"
+    },
+    "***CURRENT LEVEL - 3 -***": {
+        "chi": "***当前关卡-3-***"
+    },
+    "***First Door Break in 20 seconds***": {
+        "chi": "***20秒后第一次破门***"
+    },
+    "***Bridge opening...***": {
+        "chi": "***桥孔...***"
+    },
+    "***Hold until Door Break***": {
+        "chi": "***等着开门***"
+    },
+    "***Zombie picked up Heal***": {
+        "chi": "***僵尸捡起了治疗***"
+    },
+    "***Zombie picked up Ice***": {
+        "chi": "***僵尸捡起了冰***"
+    },
+    "***Hold 30 seconds***": {
+        "chi": "***保持30秒***"
+    },
+    "***Resist 30 seconds***": {
+        "chi": "***抵抗30秒***"
+    },
+    "***HOLD UNTIL GATE OPEN***": {
+        "chi": "***等待直到大门打开***"
+    },
+    "***ESCAPE***": {
+        "chi": "***逃跑***"
+    },
+    "***Spread out***": {
+        "chi": "***弹幕***"
+    },
+    "***Danger Field***": {
+        "chi": "***危险场(远离脚底红光)***"
+    },
+    "***For Upper***": {
+        "chi": "***地坠(躲开脚底激光并落到平台上)***"
+    },
+    "***Laser***": {
+        "chi": "***跳刀***"
+    },
+    "***Snow picked up***": {
+        "chi": "***雪被拾起了***"
+    },
+    "***Zombie picked up Gravity***": {
+        "chi": "***僵尸获得了重力***"
+    },
+    "***Zombie picked up Nuke***": {
+        "chi": "***僵尸拿起了核弹***"
+    },
+    "***Last elevator come down in 30 seconds***": {
+        "chi": "***最后一部电梯30秒后降落***"
+    },
+    "***Last elevator goes up in 7 seconds***": {
+        "chi": "***最后一部电梯7秒钟后上升***"
+    },
+    "***CURRENT LEVEL - 2 -***": {
+        "chi": "***当前关卡-2-***"
+    },
+    "***Freezer picked up***": {
+        "chi": "***冰神器已被拾获***"
+    },
+    "***Zombie Escaped***": {
+        "chi": "***僵尸逃跑***"
+    },
+    "***RESIST FOR 35 SECONDS***": {
+        "chi": "***抵抗35秒***"
+    },
+    "***HOLD FOR 20 SECONDS***": {
+        "chi": "***保持20秒***"
+    },
+    "***RESIST 25 SECONDS***": {
+        "chi": "***抵抗25秒***"
+    },
+    "***TELEPORT ENABLE IN 30 SECONDS***": {
+        "chi": "***30秒后启用远程传送***"
+    },
+    "***Elevator rise up in 10 seconds***": {
+        "chi": "***电梯在10秒内上升***"
+    },
+    "***Wind picked up***": {
+        "chi": "***风神器已被拾获***"
+    },
+    "***Recovery picked up***": {
+        "chi": "***治疗神器已被拾获***"
+    },
+    "***Teleport activates in 45 seconds***": {
+        "chi": "***传送在45秒内启动***"
+    },
+    "***Break the box***": {
+        "chi": "***打破中间水晶***"
+    },
+    "***Run!***": {
+        "chi": "***跑!***"
+    },
+    "***Zombie teleport in 10 seconds***": {
+        "chi": "***僵尸在10秒内传送***"
+    },
+    "***Go Back to teleport place***": {
+        "chi": "***返回传送地点***"
+    },
+    "***Final teleport enable in 35 seconds***": {
+        "chi": "***35秒后启用最终远程传送***"
+    },
+    "***5 seconds left***": {
+        "chi": "***还剩5秒***"
+    },
+    "***Gravity Casted***": {
+        "chi": "***黑洞***"
+    },
+    "***Wind Casted***": {
+        "chi": "***风之力***"
+    },
+    "***Thruster Casted***": {
+        "chi": "***击飞***"
+    },
+    "***Ice Casted***": {
+        "chi": "***冰之力***"
+    }
+}

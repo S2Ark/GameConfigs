@@ -1,0 +1,413 @@
+{
+    "** [STORY] STAGE 1 - PRISON **": {
+        "chi": "** [故事] 第一幕 - 监狱 **"
+    },
+    "** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **": {
+        "chi": "** [故事] 我们在监狱里遇到了一个自称面条人的家伙 - 他想帮我们越狱! **"
+    },
+    "** [STORY] The old prison lies under the big forest of slender world **": {
+        "chi": "** [故事] 这座老监狱位于这个奇怪世界的一座大森林下面 **"
+    },
+    "** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **": {
+        "chi": "** [故事] 跟随黄光前进那是那个家伙给我们的指引 **"
+    },
+    "** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **": {
+        "chi": "** [故事] 祝你好运但是要确保僵尸不会逃出监狱! **"
+    },
+    "** Teleporting HUMANS in 5 secs **": {
+        "chi": "** 人类5秒后传送 **"
+    },
+    "** Teleporting ZOMBIES in 5 secs **": {
+        "chi": "** 僵尸5秒后传送 **"
+    },
+    "** Cover 20 seconds **": {
+        "chi": "** 守住20秒 **"
+    },
+    "** Cover 5 seconds **": {
+        "chi": "** 守住5秒 **"
+    },
+    "** Cover 30 seconds **": {
+        "chi": "** 守住30秒 **"
+    },
+    "** Prison door will open in 5 seconds **": {
+        "chi": "** 监狱大门5秒后开启 **"
+    },
+    "** GO LEFT **": {
+        "chi": "** 左转 **"
+    },
+    "** Cover 25 seconds **": {
+        "chi": "** 守住25秒 **"
+    },
+    "** Cover 30 seconds until the gate opens **": {
+        "chi": "** 守住30秒直到大门打开 **"
+    },
+    "** Cover 5 more seconds **": {
+        "chi": "** 守住5秒 **"
+    },
+    "** 50 seconds left until final escape!! **": {
+        "chi": "** 守住50秒!! **"
+    },
+    "** 40 seconds left until final escape!! **": {
+        "chi": "** 守住40秒!! **"
+    },
+    "** 30 seconds left until final escape!! **": {
+        "chi": "** 守住30秒!! **"
+    },
+    "** 20 seconds left until final escape!! **": {
+        "chi": "** 守住20秒!! **"
+    },
+    "** 10 seconds left until final escape!! **": {
+        "chi": "** 守住10秒!! **"
+    },
+    "** 5 seconds left until final escape!! **": {
+        "chi": "** 守住5秒!! **"
+    },
+    "** Go UP the ladder!! **": {
+        "chi": "** 爬梯子!! **"
+    },
+    "** Incoming nuke in 8 seconds!! **": {
+        "chi": "** 核子打击8秒后降临!! **"
+    },
+    "** Congratulations - you won STAGE 1 **": {
+        "chi": "** 祝贺 - 你通过了第一幕 **"
+    },
+    "** MAP BY SLAYERDRAGON **": {
+        "chi": "** 地图作者 SLAYERDRAGON 汉化 Tastysaw **"
+    },
+    "** [STORY] STAGE 2 - SCHOOL **": {
+        "chi": "** [故事] 第二幕 - 学校 **"
+    },
+    "** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **": {
+        "chi": "** [故事] 我们成功逃离了监狱并且过了几天那个叫面条人的家伙约我们在学校见面 **"
+    },
+    "** [STORY] We have to collect some items if we want to survive in slender world**": {
+        "chi": "** [故事] 我们需要收集了一些物品如果我们想在这个奇怪的世界里存活**"
+    },
+    "** DOORS WILL OPEN IN 20 SECS **": {
+        "chi": "** 大门20秒后开启 **"
+    },
+    "** DOORS WILL OPEN IN 5 SECS **": {
+        "chi": "** 大门5秒后开启 **"
+    },
+    "** DOOR WILL OPEN IN 15 SECS **": {
+        "chi": "** 大门15秒后开启 **"
+    },
+    "** DOOR WILL OPEN IN 5 SECS **": {
+        "chi": "** 大门5秒后开启 **"
+    },
+    "** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **": {
+        "chi": "** 守住学校花园30秒直到学校大门打开 **"
+    },
+    "** 5 MORE SECONDS **": {
+        "chi": "** 还有5秒 **"
+    },
+    "** DEFEND 20 SECONDS **": {
+        "chi": "** 守住20秒 **"
+    },
+    "** [STORY] Oh no! It's a trap! Slenderman betrayed us! **": {
+        "chi": "** [故事] 我草! 这他妈是陷阱! 面条人骗了我们! **"
+    },
+    "** [STORY] He killed a few of our good men! **": {
+        "chi": "** [故事] 他已经杀了我们的一些人! **"
+    },
+    "** DEFEND 15 MORE SECONDS **": {
+        "chi": "** 守住15秒 **"
+    },
+    "** GO BACK TO THE EXIT OF THE SCHOOL ! **": {
+        "chi": "** 返回学校出口 ! **"
+    },
+    "** THE EXIT WILL OPEN IN 40 SECS **": {
+        "chi": "** 出口大门40秒开启 **"
+    },
+    "** 10 SECONDS LEFT **": {
+        "chi": "** 还有10秒 **"
+    },
+    "** GET IN THE CHOPPER !! **": {
+        "chi": "** 上飞机 !! **"
+    },
+    "** CHOPPER WILL LEAVE IN 10 SECS !! **": {
+        "chi": "** 飞机10秒后离开 !! **"
+    },
+    "** Congratulations - you won STAGE 2 **": {
+        "chi": "** 祝贺 - 你通过了第二幕 **"
+    },
+    "** [STORY] STAGE 3 - FOREST **": {
+        "chi": "** [故事] 第三幕 - 森林 **"
+    },
+    "** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **": {
+        "chi": "** [故事] 在面条人骗了我们后，我们一直留在大森林里，只有一台旧发电机 **"
+    },
+    "** [STORY] If we want to survive this forest we need to power the main generator **": {
+        "chi": "** [故事] 如果我们想在这片森林中生存下来，我们需要给发电机寻找燃料 **"
+    },
+    "** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **": {
+        "chi": "** [故事] 发电机启动后，我们可以继续寻找并杀死面条人! **"
+    },
+    "** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **": {
+        "chi": "** [故事] 哦，我有没有告诉你，面条人有三个喜欢玩火的兄弟?! **"
+    },
+    "** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **": {
+        "chi": "** 老司机在森林里搜索燃料时，守住这个基地 **"
+    },
+    "** A fuel can has been picked up **": {
+        "chi": "** 有玩家找到了一桶燃料 **"
+    },
+    "** FUEL 20 % **": {
+        "chi": "** 燃料总进度 20 % **"
+    },
+    "** FUEL 40 % **": {
+        "chi": "** 燃料总进度 40 % **"
+    },
+    "** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **": {
+        "chi": "** 有足够的燃料为第一个机器狗提供动力! **"
+    },
+    "** FUEL 60 % **": {
+        "chi": "** 燃料总进度 60 % **"
+    },
+    "** FUEL 80 % **": {
+        "chi": "** 燃料总进度 80 % **"
+    },
+    "** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **": {
+        "chi": "** 有足够的燃料为第二个机器狗提供动力! **"
+    },
+    "** FUEL 100 % **": {
+        "chi": "** 燃料总进度 100 % **"
+    },
+    "** THE GENERATOR HAS ENOUGH FUEL! **": {
+        "chi": "** 发电机燃料补充完毕! **"
+    },
+    "** GET ALL BACK TO THE BASE **": {
+        "chi": "** 返回基地 **"
+    },
+    "** NUKE in 45 SECONDS **": {
+        "chi": "** 核子打击45秒后降临 **"
+    },
+    "** NUKE in 35 SECONDS **": {
+        "chi": "** 核子打击35秒后降临 **"
+    },
+    "** NUKE in 25 SECONDS **": {
+        "chi": "** 核子打击25秒后降临 **"
+    },
+    "** NUKE in 15 SECONDS **": {
+        "chi": "** 核子打击15秒后降临 **"
+    },
+    "** NUKE in 5 SECONDS **": {
+        "chi": "** 核子打击5秒后降临 **"
+    },
+    "** Congratulations - you won STAGE 3 **": {
+        "chi": "** 祝贺 - 你通过了第三幕 **"
+    },
+    "** You have failed - NO TIME LEFT **": {
+        "chi": "** 你输了 - 你没能在面条人干死你之前启动发电机 **"
+    },
+    "** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **": {
+        "chi": "** 你输了 - 僵尸摧毁了发电机 **"
+    },
+    "** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **": {
+        "chi": "** 面条人30秒后干死你! **"
+    },
+    "** [STORY] STAGE 4 - MANSION **": {
+        "chi": "** [故事] 第四幕 - 别墅 **"
+    },
+    "** [STORY] After a few days of wandering we finally arrived at slender mansion **": {
+        "chi": "** [故事] 经过几天的搜索我们抵达了面条人的别墅 **"
+    },
+    "** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **": {
+        "chi": "** [故事] 为了确保我们能干死面条人，我们将在地下室安放一些炸弹 **"
+    },
+    "** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **": {
+        "chi": "** [故事] 炸弹安装好了之后我们将进行最终决战并且干死面条人 **"
+    },
+    "** [STORY] Good luck hunting him down once and for all!! **": {
+        "chi": "** [故事] 祝你好运一定要干死他以绝后患!! **"
+    },
+    "** Cover here till we broke the mansions main door **": {
+        "chi": "** 守住我们将打破别墅主门 **"
+    },
+    "** KEEP DEFENDING **": {
+        "chi": "** 继续防守 **"
+    },
+    "** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **": {
+        "chi": "** 大门打开 - 去马桶下面安放炸弹 **"
+    },
+    "** CLOSE THE VALVES FOR LOWERING THE WATER **": {
+        "chi": "** 关闭水阀来让水位下降 **"
+    },
+    "** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **": {
+        "chi": "** 炸弹已安放 - 守住僵尸30秒 **"
+    },
+    "** 5 SECONDS LEFT **": {
+        "chi": "** 还剩5秒 **"
+    },
+    "** GO BACK TO THE MAIN HALL **": {
+        "chi": "** 返回大厅 **"
+    },
+    "** 15 SECONDS TILL WE OPENED FIRST GATE **": {
+        "chi": "** 第一道门15秒后开启 **"
+    },
+    "** 5 MORE SECONDS TILL WE OPENED SECOND GATE **": {
+        "chi": "** 第二道门5秒后开启 **"
+    },
+    "** GO GO GO **": {
+        "chi": "** GO GO GO **"
+    },
+    "** ELEVATOR WILL START IN 30 SECONDS **": {
+        "chi": "** 电梯30秒后启动 **"
+    },
+    "** ELEVATOR IS LEAVING IN 20 SECONDS **": {
+        "chi": "** 电梯20秒后启动 **"
+    },
+    "** ELEVATOR IS LEAVING IN 10 SECONDS **": {
+        "chi": "** 电梯10秒后启动 **"
+    },
+    "** ELEVATOR IS LEAVING IN 5 SECONDS **": {
+        "chi": "** 电梯5秒后启动 **"
+    },
+    "** WE ARE ALMOST AT SLENDERMAN !! **": {
+        "chi": "** 马上就要见到面条人了 !! **"
+    },
+    "** KEEP COVERING **": {
+        "chi": "** 守住 **"
+    },
+    "** 5 MORE SECONDS! **": {
+        "chi": "** 还有5秒! **"
+    },
+    "** YOU FINALLY FOUND ME **": {
+        "chi": "** 赫赫，你还是找到了我 **"
+    },
+    "** NOW YOU WILL MEET YOUR DESTINY **": {
+        "chi": "** 现在直面你的命运 **"
+    },
+    "** BOSS USES TELEPORTS NOW **": {
+        "chi": "** 面条人使用传送 **"
+    },
+    "** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **": {
+        "chi": "** 你们干碎了面条人 - 现在逃出别墅!! **"
+    },
+    "** FINAL STAND **": {
+        "chi": "** 最后一战 **"
+    },
+    "** GOGOGO **": {
+        "chi": "** GOGOGO **"
+    },
+    "** YOU DID IT **": {
+        "chi": "** 你做到了 **"
+    },
+    "** YOU ESCAPED SLENDER!! **": {
+        "chi": "** 你粉碎了面条人的阴谋!! **"
+    },
+    "** .. OR NOT ? **": {
+        "chi": "** .. 不是吗 ? **"
+    },
+    "** [SURVIVAL] ROUND 1 **": {
+        "chi": "** [生存小游戏] 第一轮 **"
+    },
+    "** [MODE] MADNESS! **": {
+        "chi": "** [模式] 疯狂! **"
+    },
+    "** [MAP] SCHOOL **": {
+        "chi": "** [地图] 学校 **"
+    },
+    "** [ITEMS] Lantern - Glowstick - Monkey BOMB **": {
+        "chi": "** [人类神器] 灯笼 - 荧光棒 - 猴子炸弹 **"
+    },
+    "** [ZMITEM] SLENDERFIREZOMBIES! **": {
+        "chi": "** [僵尸神器] 面条人! **"
+    },
+    "** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **": {
+        "chi": "** [提示] 获得3场生存小游戏的胜利开启最终关卡 **"
+    },
+    "** SURVIVE **": {
+        "chi": "** 活下去 **"
+    },
+    "** NUKE in 30 seconds **": {
+        "chi": "** 核子打击30秒后降临 **"
+    },
+    "** INVADERS MUST DIE !! **": {
+        "chi": "** 入侵者必须死 !! **"
+    },
+    "** Congratulations - you won SURVIVAL 1 **": {
+        "chi": "** 祝贺 - 你赢得了生存小游戏第一轮 **"
+    },
+    "** [SURVIVAL] ROUND 2 **": {
+        "chi": "** [生存小游戏] 第二轮 **"
+    },
+    "** [MODE] SLENDERMAN **": {
+        "chi": "** [模式] 搜寻纸条 **"
+    },
+    "** [MAP] PRISON **": {
+        "chi": "** [地图] 监狱 **"
+    },
+    "** [ITEMS] Lantern - Glowstick - Flashlight **": {
+        "chi": "** [人类神器] 灯笼 - 荧光棒 - 手电筒 **"
+    },
+    "** [ZMITEM] SLENDERZOMBIES **": {
+        "chi": "** [僵尸神器] 面条人 **"
+    },
+    "** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **": {
+        "chi": "** [提示] 获得2场生存小游戏的胜利开启最终关卡 **"
+    },
+    "** Collect all 8 Pages **": {
+        "chi": "** 收集8张纸条 **"
+    },
+    "** [MAP] FOREST **": {
+        "chi": "** [地图] 森林 **"
+    },
+    "** [MODE] BARRELMODE **": {
+        "chi": "** [模式] 油桶生存 **"
+    },
+    "** [ITEMS] BARRELS ! **": {
+        "chi": "** [人类神器] 油桶 ! **"
+    },
+    "** [ZMITEM] BARRELBOSS **": {
+        "chi": "** [僵尸神器] 油桶王 **"
+    },
+    "** BARRELS BARRELS EVERYWHERE! **": {
+        "chi": "** 到处都是油桶! **"
+    },
+    "** NUKE in 180 seconds **": {
+        "chi": "** 核子打击180秒后降临 **"
+    },
+    "** NUKE in 150 seconds **": {
+        "chi": "** 核子打击150秒后降临 **"
+    },
+    "** NUKE in 120 seconds **": {
+        "chi": "** 核子打击120秒后降临 **"
+    },
+    "** NUKE in 90 seconds **": {
+        "chi": "** 核子打击90秒后降临 **"
+    },
+    "** NUKE in 60 seconds **": {
+        "chi": "** 核子打击60秒后降临 **"
+    },
+    "** Congratulations - you won SURVIVAL 2 **": {
+        "chi": "** 祝贺 - 你赢得了生存小游戏第二轮 **"
+    },
+    "** [SURVIVAL] ROUND 3 **": {
+        "chi": "** [生存小游戏] 第三轮 **"
+    },
+    "** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **": {
+        "chi": "** [提示] 获得1场生存小游戏的胜利开启最终关卡 **"
+    },
+    "** Congratulations - you won SURVIVAL 3 **": {
+        "chi": "** 祝贺 - 你赢得了生存小游戏第三轮 **"
+    },
+    "** [DIFFICULTY] FINAL MADNESS MODE **": {
+        "chi": "** [难度] 第四幕疯狂难度 **"
+    },
+    "** NO SPAWN PROTECTION **": {
+        "chi": "** 没有中场保护推力 **"
+    },
+    "** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **": {
+        "chi": "** 如果你这次失败了 > 将返回生存小游戏第三轮 **"
+    },
+    "** All drains have been closed - Water is lowering ** ": {
+        "chi": "** 所有阀门已经关闭 - 水位正在下降 **"
+    },
+    "** ... Slenderman lost his powers ... **": {
+        "chi": "** ... 面条人失去了他的力量 ... **"
+    },
+    "** ... Use his weakness to destroy the zombies!! **": {
+        "chi": "** ... 干碎所有僵尸!! **"
+    }
+}

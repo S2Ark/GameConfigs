@@ -1,0 +1,284 @@
+{
+    "*** TELEPORT IN 10 SECONDS ***": {
+        "chi": "传送10秒后开启"
+    },
+    "*** AFK TELEPORT IN 5 SECONDS ***": {
+        "chi": "僵尸5秒后传送"
+    },
+    "*** AFK TELEPORT IN 10 SECONDS ***": {
+        "chi": "僵尸10秒后传送"
+    },
+    "*** ZM TELEPORT IN 10 SECONDS ***": {
+        "chi": "僵尸10秒后传送"
+    },
+    "*** DOOR OPEN IN 5 SECONDS ***": {
+        "chi": "大门5秒后打开"
+    },
+    "*** GET ON THE MIDDLE ***": {
+        "chi": "站在中间"
+    },
+    "*** DOOR OPEN IN 20 SECONDS ***": {
+        "chi": "大门20秒后打开"
+    },
+    "*** DOOR OPEN IN 30 SECONDS ***": {
+        "chi": "大门30秒后打开"
+    },
+    "*** STAGE 1 ***": {
+        "chi": "*** 第一关 ***"
+    },
+    "*** STAGE 2 ***": {
+        "chi": "*** 第二关 ***"
+    },
+    "*** STAGE 3 ***": {
+        "chi": "*** 第三关 ***"
+    },
+    "*** STAGE 4 ***": {
+        "chi": "*** 第四关 ***"
+    },
+    "*** STAGE 5 ***": {
+        "chi": "*** 第五关 ***"
+    },
+    "*** Find a way to reach the temple ***": {
+        "chi": "找到一条通往美杜莎神庙的路"
+    },
+    "*** WARMUP ROUND (60 sec) ***": {
+        "chi": "热身（60s）"
+    },
+    "*** WARMUP ROUND (50 sec) ***": {
+        "chi": "*** 热身 (50 s) ***"
+    },
+    "*** WARMUP ROUND (40 sec) ***": {
+        "chi": "***热身 (40 s) ***"
+    },
+    "*** WARMUP ROUND (30 sec) ***": {
+        "chi": "*** 热身 (30 s) ***"
+    },
+    "*** WARMUP ROUND (20 sec) ***": {
+        "chi": "*** 热身 (20 s) ***"
+    },
+    "*** WARMUP ROUND (10 sec) ***": {
+        "chi": "*** 热身 (10 s) ***"
+    },
+    "*** Stage 1 loaded ***": {
+        "chi": "加载第一关"
+    },
+    "*** TELEPORT IN 25 SECONDS ***": {
+        "chi": "传送25秒后开启"
+    },
+    "*** AFK TELEPORT IN 15 SECONDS ***": {
+        "chi": "僵尸15秒后传送"
+    },
+    "*** A sacrifice is necessary to open this passage ***": {
+        "chi": "此路需要鲜血进行献祭"
+    },
+    "*** The passage will be open in 10 seconds ***": {
+        "chi": "通道10秒后打开"
+    },
+    "*** DOOR OPEN IN 25 SECONDS ***": {
+        "chi": "大门25秒后打开"
+    },
+    "*** DOOR CLOSE IN 5 SECONDS ! ***": {
+        "chi": "大门5秒后关闭"
+    },
+    "*** HOLD 10 SECONDS ***": {
+        "chi": "防守10秒"
+    },
+    "*** YOU WON STAGE 1 ***": {
+        "chi": "第一关已通过"
+    },
+    "*** STAGE 2 LOADED ***": {
+        "chi": "加载第二关"
+    },
+    "*** Map By Nostar ***": {
+        "chi": "***作者 Nostar 汉化 萌爱***"
+    },
+    "*** Poison Snake has been picked ***": {
+        "chi": "毒蛇之杖已被拾取"
+    },
+    "*** Snake come in 25 seconds ***": {
+        "chi": "蛇将在25秒后出现"
+    },
+    "*** CRYSTAL HAS BEEN ACTIVATED ***": {
+        "chi": "晶体已激活"
+    },
+    "*** HOLD HERE ***": {
+        "chi": "再等一会儿"
+    },
+    "*** HOLD 25 SECONDS ***": {
+        "chi": "防守25秒"
+    },
+    "*** FALL BACK ***": {
+        "chi": "快润"
+    },
+    "*** PORTAL IS READY ! FALL BACK ! ***": {
+        "chi": "入口已就绪，快后退"
+    },
+    "*** The portal is open in 30 seconds ***": {
+        "chi": "入口30秒后开放"
+    },
+    "*** Heal/Ammo Snake has been picked ***": {
+        "chi": "神眷蛇杖已被拾取"
+    },
+    "*** HOLD HERE 30 SECONDS ***": {
+        "chi": "防守30秒"
+    },
+    "*** ZM TELEPORT IN 5 SECONDS ***": {
+        "chi": "僵尸5秒后传送"
+    },
+    "*** DOORS CLOSE IN 15 SECONDS ***": {
+        "chi": "大门15秒后关闭"
+    },
+    "*** YOU WON STAGE 3 ! ***": {
+        "chi": "第三关已通过"
+    },
+    "*** STAGE 4 LOADED ***": {
+        "chi": "加载第四关"
+    },
+    "*** Fire Snake has been picked ***": {
+        "chi": "焚灭蛇杖已被拾取"
+    },
+    "*** KILL REMAINING ZOMBIES ***": {
+        "chi": "杀死剩余的僵尸"
+    },
+    "*** DOOR CLOSE IN 10 SECONDS ***": {
+        "chi": "大门10秒后关闭"
+    },
+    "*** COVER 15 SECONDS ***": {
+        "chi": "防守15秒"
+    },
+    "*** DOORS OPEN IN 20 SECONDS ***": {
+        "chi": "大门20秒后打开"
+    },
+    "*** COVER ! GET TO THE DOOR ! ***": {
+        "chi": "*** 快撤退 ! 进入大门 ! ***"
+    },
+    "*** HOLD HERE 20 SECONDS ***": {
+        "chi": "防守20秒"
+    },
+    "*** TELEPORT IN 30 SECONDS ***": {
+        "chi": "传送30秒后开启"
+    },
+    "*** DOOR OPENS IN 15 SECONDS ***": {
+        "chi": "大门15秒后打开"
+    },
+    "*** ELEVATOR WILL MOVE IN 20 SECONDS ***": {
+        "chi": "电梯20秒后出发"
+    },
+    "*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***": {
+        "chi": "嘉然的制裁20秒后降临"
+    },
+    "*** DOOR OPEN ! ***": {
+        "chi": "大门已开启"
+    },
+    "*** NUKE IN 7 SECONDS ***": {
+        "chi": "嘉然的制裁7秒后降临"
+    },
+    "*** AFK TELE IN 5 SECONDS ***": {
+        "chi": "僵尸5秒后传送"
+    },
+    "*** NEXT DOOR OPEN IN 10 SECONDS ***": {
+        "chi": "下一扇大门10秒后打开"
+    },
+    "*** STAGE 3 LOADED ***": {
+        "chi": "加载第三关"
+    },
+    "*** YOU WON STAGE 2 ! ***": {
+        "chi": "第二关已通过"
+    },
+    "*** Map By Nostar & Moltard ***": {
+        "chi": "*** 作者  Nostar & Moltard 汉化 萌爱***"
+    },
+    "*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***": {
+        "chi": "*** 灵感来自 mg_Serpentis_Temple by Kaemon and Luffaren ***"
+    },
+    "*** Many assets from the original map were used ***": {
+        "chi": "使用了原始地图中的许多资源"
+    },
+    "*** DOOR OPENS IN 10 SECONDS ***": {
+        "chi": "大门10秒后打开"
+    },
+    "*** C4 EXPLODE IN 25 SECONDS ***": {
+        "chi": "C4剩余25秒爆炸"
+    },
+    "*** C4 EXPLODE IN 30 SECONDS ***": {
+        "chi": "C4剩余30秒爆炸"
+    },
+    "*** AFK TELEPORT IN 20 SECONDS ***": {
+        "chi": "僵尸20秒后传送"
+    },
+    "*** DOOR OPEN IN 10 SECONDS ***": {
+        "chi": "大门10秒后打开"
+    },
+    "*** DOOR OPEN IN 15 SECONDS ***": {
+        "chi": "大门15秒后打开"
+    },
+    "*** HOLD 20 SECONDS ***": {
+        "chi": "防守20秒"
+    },
+    "*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***": {
+        "chi": "桥梁15秒后断裂"
+    },
+    "*** Get in the portal ***": {
+        "chi": "前往入口"
+    },
+    "*** PUSH REMAINING ZOMBIES ***": {
+        "chi": "僵尸推力已展开"
+    },
+    "*** RUN !!! ***": {
+        "chi": "快润"
+    },
+    "*** THE MISSION WAS A SUCCESS ! ***": {
+        "chi": "任务已完成"
+    },
+    "*** ARTIFACT DETECTED ! ***": {
+        "chi": "我们找到了蛇"
+    },
+    "*** It's the Artefact ! ***": {
+        "chi": "***这就是蛇***"
+    },
+    "*** This is the reason we came here ***": {
+        "chi": "这就是我们的目标"
+    },
+    "*** Take it and don't lose it or your mission will be failed ***": {
+        "chi": "拿着它，别丢了，否则将前功尽弃"
+    },
+    "*** C4 EXPLODE IN 20 SECONDS ***": {
+        "chi": "C4剩余20秒爆炸"
+    },
+    "*** FALL BACK !!! ***": {
+        "chi": "快润"
+    },
+    "*** HELICOPTER MOVE IN 10 SECONDS ! ***": {
+        "chi": "灰机10秒后起飞"
+    },
+    "*** YOU WON THE MAP ! ***": {
+        "chi": "你们征服了这张地图"
+    },
+    "*** YOU FORGOT THE ARTIFACT ***": {
+        "chi": "你们找到了蛇"
+    },
+    "*** MISSION FAILED ! ***": {
+        "chi": "干得漂亮"
+    },
+    "*** STAGE 5 LOADED ***": {
+        "chi": "加载第五关"
+    },
+    "*** You are no match for her ***": {
+        "chi": "你不是她的对手"
+    },
+    "*** But It's too early for celebrating ***": {
+        "chi": "但现在庆祝还为时过早"
+    },
+    "*** Very impressive ***": {
+        "chi": "令人印象深刻"
+    },
+    "*** Impressive ***": {
+        "chi": "真的很深刻"
+    },
+    "*** DOORS CLOSE IN 10 SECONDS ***": {
+        "chi": "大门10秒后关闭"
+    },
+    "*** First doors will be close in 5 seconds ***": {
+        "chi": "大门5秒后关闭"
+    }
+}

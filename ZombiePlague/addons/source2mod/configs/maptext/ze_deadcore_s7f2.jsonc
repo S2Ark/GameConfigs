@@ -1,0 +1,131 @@
+{
+    "*** ADMIN HAS SKIPPED STAGE A ***": {
+        "chi": "*** 管理员跳过了跳过A关? ***"
+    },
+    "*** ADMIN HAS SKIPPED STAGE B ***": {
+        "chi": "*** 管理员跳过了跳过B关? ***"
+    },
+    "*** ADMIN HAS SKIPPED STAGE C ***": {
+        "chi": "*** 管理员跳过了跳过c关? ***"
+    },
+    "*** ADMIN HAS RESET THE MAP ***": {
+        "chi": "*** 管理员已重置地图 ***"
+    },
+    "*** RESTARTING ROUND IN 3 ***": {
+        "chi": "*** RESTARTING ROUND IN 3 ***"
+    },
+    "*** 2 ***": {
+        "chi": "*** 2 ***"
+    },
+    "*** 1 ***": {
+        "chi": "*** 1 ***"
+    },
+    "*** Map by Airvulpes ***": {
+        "chi": "*** 地图作者: Airvulpes ***"
+    },
+    "*** STAGE FAILED ***": {
+        "chi": "*** 关卡通关失败!!! ***"
+    },
+    "*** ZOMBIE GOT INSIDE THE LIFT ***": {
+        "chi": "*** 僵尸进来了!! ***"
+    },
+    "*** 5 seconds left ***": {
+        "chi": "*** 还剩5秒钟 ***"
+    },
+    "*** 10 seconds left ***": {
+        "chi": "*** 还剩10秒钟 ***"
+    },
+    "*** Hold 20 seconds ***": {
+        "chi": "*** 守住20秒 ***"
+    },
+    "*** 20 seconds left ***": {
+        "chi": "*** 还剩20秒钟 ***"
+    },
+    "*** Hold 30 seconds ***": {
+        "chi": "*** 守住30秒 ***"
+    },
+    "*** ADMIN HAS DISABLED D INSANE MODE ***": {
+        "chi": "*** 管理员已关闭insane模式 ***"
+    },
+    "*** ADMIN HAS DISABLED PRACTICE MODE ***": {
+        "chi": "*** 管理员已关闭练习模式 ***"
+    },
+    "*** ADMIN HAS ENABLED PRACTICE MODE ***": {
+        "chi": "*** 管理员已开启练习模式 ***"
+    },
+    "*** ADMIN HAS ENABLED D INSANE MODE ***": {
+        "chi": "*** 管理员已开启insane模式 ***"
+    },
+    "*** Hold 15 seconds ***": {
+        "chi": "*** 守住15秒 ***"
+    },
+    "*** Hold 40 seconds ***": {
+        "chi": "*** 坚守40秒 ***"
+    },
+    "*** 30 seconds left ***": {
+        "chi": "*** 还剩300秒钟 ***"
+    },
+    "*** 100 ***": {
+        "chi": "*** 100 ***"
+    },
+    "*** 90 ***": {
+        "chi": "*** 90 ***"
+    },
+    "*** 80 ***": {
+        "chi": "*** 80 ***"
+    },
+    "*** 70 ***": {
+        "chi": "*** 70 ***"
+    },
+    "*** 60 ***": {
+        "chi": "*** 60 ***"
+    },
+    "*** 50 ***": {
+        "chi": "*** 50 ***"
+    },
+    "*** 40 ***": {
+        "chi": "*** 40 ***"
+    },
+    "*** 30 ***": {
+        "chi": "*** 30 ***"
+    },
+    "*** 20 ***": {
+        "chi": "*** 20 ***"
+    },
+    "*** 10 ***": {
+        "chi": "*** 10 ***"
+    },
+    "*** 5 ***": {
+        "chi": "*** 5 ***"
+    },
+    "*** 4 ***": {
+        "chi": "*** 4 ***"
+    },
+    "*** 3 ***": {
+        "chi": "*** 3 ***"
+    },
+    "*** Admin开启了冠军D模式 ***": {
+        "chi": "*** Admin开启了冠军D模式 ***"
+    },
+    "** PRACTICE MODE ENABLED **": {
+        "chi": "** 启用练习模式 **"
+    },
+    "*** 冠军D模式已启动 ***": {
+        "chi": "*** 冠军D模式已启动 ***"
+    },
+    "*** 感谢Airvulpes授权制作本关卡 ***": {
+        "chi": "*** 感谢Airvulpes授权制作本关卡 ***"
+    },
+    "*** Stripper作者: nuclear silo         汉化: Misaka ***": {
+        "chi": "*** Stripper作者: nuclear silo 汉化: Misaka ***"
+    },
+    "*** 冠军模式通关！您就是真正的死核之王！ ***": {
+        "chi": "*** 冠军模式通关！您就是真正的死核之王！ ***"
+    },
+    "*** 请选择下一关卡 ***": {
+        "chi": "*** 请选择下一关卡 ***"
+    },
+    "*** D INSANE MODE ENABLED ***": {
+        "chi": "*** insane模式已启动 ***"
+    }
+}

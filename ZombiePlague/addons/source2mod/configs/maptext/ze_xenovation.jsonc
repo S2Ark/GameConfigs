@@ -106,5 +106,7 @@
     },
     "> [ITEM MESSAGE] ZM.SPEEDER PICK UP (Cool : 60s) <": {
         "chi": "> [神器提示] ZM.SPEEDER 已拾取 (Cool : 60s) <"
-    }
+    },
+    "[ADMINROOMS] change for STAGE 1...": {},
+    "[ADMINROOMS] change for STAGE 2...": {}
 }
