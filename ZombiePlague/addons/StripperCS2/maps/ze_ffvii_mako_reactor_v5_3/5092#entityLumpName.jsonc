@@ -1,0 +1,62 @@
+{
+  "modify": [
+    // Move Bahamutend killer to optional input and adjust ULTIMA CC logic for entity lump name change
+    {
+      "match": {
+        "classname": "logic_relay"
+      },
+      "delete": {
+        "io": [
+          {
+            "targetname": "[PR#]magia_ultima_p_maker"
+          },
+          {
+            "targetname": "[PR#]bahamutend",
+            "inputname": "Break"
+          }
+        ]
+      },
+      "insert": {
+        "io": [
+          {
+            "outputname": "OnTrigger",
+            "targetname": "danyoUlt_post",
+            "inputname": "Enable",
+            "delay": 19,
+            "timestofire": 1
+          },
+          {
+            "outputname": "OnUser1",
+            "targetname": "!self",
+            "inputname": "AddOutput",
+            "overrideparam": "OnTrigger>[PR#]bahamutend>Break>>20>1",
+            "timestofire": 1
+          }
+        ]
+      }
+    }
+  ],
+  "filter": [
+    // Remove an unnecessary entity
+    {
+      "classname": "env_entity_maker",
+      "targetname": "[PR#]magia_ultima_p_maker"
+    }
+  ],
+  "add": [
+    // Add back ULTIMA CC previously removed to create an empty lump name
+    {
+      "classname": "post_processing_volume",
+      "targetname": "danyoUlt_post",
+      "fadetime": "1",
+      "maxexposure": "1",
+      "minexposure": "1",
+      "postprocessing": "postprocess/ultimate.vpost",
+      "spawnflags": "1",
+      "startdisabled": "1",
+      "parentname": "[PR#]magia_ultima",
+      "origin": "36.890137 -1.630005 40.000000",
+      "model": "maps/ze_ffvii_mako_reactor_v5_3/entities/danyoUlt_post_5095.vmdl"
+    }
+  ]
+}

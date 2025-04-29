@@ -1,0 +1,8 @@
+{
+  "filter": [
+    // Remove all entities to rework laser mechanics
+    {
+      "classname": "/.*/"
+    }
+  ]
+}

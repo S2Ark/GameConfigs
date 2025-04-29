@@ -1,0 +1,26 @@
+{
+  "add": [
+    {
+      "classname": "prop_dynamic",
+      "targetname": "",
+      "startdisabled": "0",
+      "solid": "6",
+      "disablerecieveshadows": "0",
+      "rendermode": "0",
+      "origin": "-8260 -2370 6295",
+      "angles": "0 90 0",
+      "model": "maps/ze_santassination_p/entities/bb_maingate_1_lower_4650.vmdl"
+    },
+    {
+      "classname": "prop_dynamic",
+      "targetname": "",
+      "startdisabled": "0",
+      "solid": "6",
+      "disablerecieveshadows": "0",
+      "rendermode": "0",
+      "origin": "-8260 -2370 6420",
+      "angles": "0 90 0",
+      "model": "maps/ze_santassination_p/entities/bb_maingate_1_lower_4650.vmdl"
+    }
+  ]
+}
